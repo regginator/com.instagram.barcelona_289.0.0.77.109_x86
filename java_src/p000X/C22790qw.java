@@ -1,0 +1,81 @@
+package p000X;
+/* renamed from: X.0qw  reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes.dex */
+public final class C22790qw {
+    public static String A00(int i) {
+        switch (i) {
+            case 1039:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FEED_SCROLLDOWN_PROGRAMMATICANIM";
+            case 1637:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FEED_SCROLLUP_KFANIM";
+            case 2116:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_USER_FLOW";
+            case 2826:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_SPOTHIGHLIGHT";
+            case 3259:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_TOUR_TRIGGER";
+            case 3350:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FEED_SCROLLUP_PROGRAMMATICANIM";
+            case 3554:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_HINT_OVERALL";
+            case 3746:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_SPOTHIGHLIGHT_KFANIM";
+            case 4119:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_AUDIO_INFO_INIT";
+            case 4769:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_TOOLTIP";
+            case 5100:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_SCROLL_LATCH";
+            case 5594:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FEED_SCROLLDOWN_KFANIM";
+            case 5595:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_SPOTHIGHLIGHT_PROGRAMMATICANIM";
+            case 5982:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_SPOTHIGHLIGHT_VIEWRESOLVER";
+            case 6074:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_HINT_INIT";
+            case 6086:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FINDFRIENDS_ZOOMIN_ANIM";
+            case 7669:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FEEDSCROLL_VIEW_INIT";
+            case 7691:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_PYMK_SCROLLRIGHT_KFANIM";
+            case 7871:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FEEDSCROLLANIMATION_INIT";
+            case 7999:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FEED_SCROLLUP_ANIM";
+            case 10277:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_AUDIO_INFO_UPDATE";
+            case 10464:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_AUDIO_PREFETCH";
+            case 10894:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_INIT";
+            case 11259:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_PYMK_SCROLLRIGHT_PROGRAMMATICANIM";
+            case 12027:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_PYMK_SCROLLANIM_INIT";
+            case 12127:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_AUDIO_PLAY";
+            case 12369:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FABANIMATION_INIT";
+            case 12720:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_FINDFRIENDS_ZOOMOUT_ANIM";
+            case 13082:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_SPOTHIGHLIGHT_ANIM_INIT";
+            case 13549:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_PYMK_SCROLLLEFT_KFANIM";
+            case 13861:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_RETRIEVE_DEVICE_VOLUME_PERCENTAGE";
+            case 14213:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_PULSE_ANIM";
+            case 14289:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_RETRIEVE_DEVICE_VOLUME_LEVEL";
+            case 14911:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_PYMK_SCROLLEFT_PROGRAMMATICANIM";
+            case 15614:
+                return "SPECIAL_COHORTS_COMPREHENSION_GUIDEDTOUR_PYMK_SCROLLLEFT_PROGRAMMATICANIM";
+            default:
+                return "UNDEFINED_QPL_EVENT";
+        }
+    }
+}

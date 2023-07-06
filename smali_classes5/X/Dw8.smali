@@ -1,0 +1,843 @@
+.class public final LX/Dw8;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements LX/EjQ;
+
+
+# instance fields
+.field public A00:I
+
+.field public A01:LX/Em6;
+
+.field public A02:Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;
+
+.field public A03:Ljava/util/HashMap;
+
+.field public A04:I
+
+.field public A05:LX/BvW;
+
+.field public final A06:Lcom/instagram/service/session/UserSession;
+
+
+# direct methods
+.method public constructor <init>(Lcom/instagram/service/session/UserSession;)V
+    .locals 1
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    const/16 v0, 0x64
+
+    .line 4
+    .line 5
+    iput v0, p0, LX/Dw8;->A04:I
+
+    .line 6
+    .line 7
+    invoke-static {}, LX/0wp;->A0z()Ljava/util/HashMap;
+
+    .line 8
+    .line 9
+    .line 10
+    move-result-object v0
+
+    .line 11
+    iput-object v0, p0, LX/Dw8;->A03:Ljava/util/HashMap;
+
+    .line 12
+    .line 13
+    iput-object p1, p0, LX/Dw8;->A06:Lcom/instagram/service/session/UserSession;
+
+    .line 14
+    .line 15
+    return-void
+    .line 16
+.end method
+
+
+# virtual methods
+.method public final A00(Lcom/instagram/filterkit/filter/VideoFilter;)I
+    .locals 3
+
+    .line 0
+    iget-object v0, p0, LX/Dw8;->A02:Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;
+
+    .line 1
+    .line 2
+    instance-of v0, v0, Lcom/instagram/filterkit/filtergroup/model/impl/OneCameraFilterGroupModel;
+
+    .line 3
+    .line 4
+    if-eqz v0, :cond_0
+
+    .line 5
+    .line 6
+    iget v0, p0, LX/Dw8;->A00:I
+
+    .line 7
+    .line 8
+    return v0
+
+    .line 9
+    :cond_0
+    if-eqz p1, :cond_1
+
+    .line 10
+    .line 11
+    iget-object v2, p0, LX/Dw8;->A03:Ljava/util/HashMap;
+
+    .line 12
+    .line 13
+    iget v0, p1, Lcom/instagram/filterkit/filter/VideoFilter;->A0R:I
+
+    .line 14
+    .line 15
+    invoke-static {v0}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    .line 16
+    .line 17
+    .line 18
+    move-result-object v1
+
+    .line 19
+    invoke-virtual {v2, v1}, Ljava/util/AbstractMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 20
+    .line 21
+    .line 22
+    move-result-object v0
+
+    .line 23
+    if-eqz v0, :cond_1
+
+    .line 24
+    .line 25
+    iget-object v0, p0, LX/Dw8;->A03:Ljava/util/HashMap;
+
+    .line 26
+    .line 27
+    invoke-virtual {v0, v1}, Ljava/util/AbstractMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 28
+    .line 29
+    .line 30
+    move-result-object v0
+
+    .line 31
+    invoke-static {v0}, LX/0wp;->A04(Ljava/lang/Object;)I
+
+    .line 32
+    .line 33
+    .line 34
+    move-result v0
+
+    .line 35
+    return v0
+
+    .line 36
+    :cond_1
+    const/16 v0, 0x64
+
+    .line 37
+    .line 38
+    return v0
+    .line 39
+.end method
+
+.method public final APj(Landroid/content/Context;)Landroid/view/View;
+    .locals 3
+
+    .line 0
+    invoke-static {p1}, Landroid/view/LayoutInflater;->from(Landroid/content/Context;)Landroid/view/LayoutInflater;
+
+    .line 1
+    .line 2
+    .line 3
+    move-result-object v2
+
+    .line 4
+    const v1, 0x7f0c03fd
+
+    .line 5
+    .line 6
+    .line 7
+    const/4 v0, 0x0
+
+    .line 8
+    invoke-static {v2, v0, v1}, LX/0wp;->A0H(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;I)Landroid/view/View;
+
+    .line 9
+    .line 10
+    .line 11
+    move-result-object v2
+
+    .line 12
+    const v0, 0x7f0910e9
+
+    .line 13
+    .line 14
+    .line 15
+    invoke-static {v2, v0}, LX/02w;->A02(Landroid/view/View;I)Landroid/view/View;
+
+    .line 16
+    .line 17
+    .line 18
+    move-result-object v1
+
+    .line 19
+    check-cast v1, LX/L0o;
+
+    .line 20
+    .line 21
+    iget v0, p0, LX/Dw8;->A00:I
+
+    .line 22
+    .line 23
+    invoke-virtual {v1, v0}, LX/L0o;->setCurrentValue(I)V
+
+    .line 24
+    .line 25
+    .line 26
+    const/4 v0, 0x7
+
+    .line 27
+    invoke-static {v1, p0, v0}, LX/Bs8;->A1S(LX/L0o;Ljava/lang/Object;I)V
+
+    .line 28
+    .line 29
+    .line 30
+    return-object v2
+    .line 31
+.end method
+
+.method public final BHM()Ljava/lang/String;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/Dw8;->A05:LX/BvW;
+
+    .line 1
+    .line 2
+    invoke-static {v0}, LX/BvW;->A02(LX/BvW;)Ljava/lang/String;
+
+    .line 3
+    .line 4
+    .line 5
+    move-result-object v0
+
+    .line 6
+    return-object v0
+    .line 7
+.end method
+
+.method public final synthetic BNd(Landroid/view/View;Landroid/view/MotionEvent;)Z
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x0
+
+    .line 1
+    return v0
+    .line 2
+    .line 3
+    .line 4
+    .line 5
+    .line 6
+    .line 7
+.end method
+
+.method public final synthetic BQe(LX/BvW;Lcom/instagram/creation/photo/edit/effectfilter/PhotoFilter;)Z
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x0
+
+    .line 1
+    return v0
+    .line 2
+    .line 3
+    .line 4
+    .line 5
+    .line 6
+    .line 7
+.end method
+
+.method public final synthetic BQf(LX/BvW;Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;)Z
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x0
+
+    .line 1
+    return v0
+    .line 2
+    .line 3
+    .line 4
+    .line 5
+    .line 6
+    .line 7
+.end method
+
+.method public final BkL(Z)V
+    .locals 4
+
+    .line 0
+    iget-object v3, p0, LX/Dw8;->A01:LX/Em6;
+
+    .line 1
+    .line 2
+    invoke-virtual {v3}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 3
+    .line 4
+    .line 5
+    iget-object v1, p0, LX/Dw8;->A02:Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;
+
+    .line 6
+    .line 7
+    instance-of v0, v1, Lcom/instagram/filterkit/filtergroup/model/impl/OneCameraFilterGroupModel;
+
+    .line 8
+    .line 9
+    if-eqz v0, :cond_2
+
+    .line 10
+    .line 11
+    invoke-interface {v1}, Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;->AiX()Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/basic/FilterChain;
+
+    .line 12
+    .line 13
+    .line 14
+    move-result-object v0
+
+    .line 15
+    invoke-static {v0}, LX/Bs5;->A0L(Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/basic/FilterChain;)Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/FilterModel;
+
+    .line 16
+    .line 17
+    .line 18
+    move-result-object v2
+
+    .line 19
+    check-cast v2, Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/basic/ColorFilter;
+
+    .line 20
+    .line 21
+    if-eqz v2, :cond_0
+
+    .line 22
+    .line 23
+    const/high16 v1, 0x42c80000    # 100.0f
+
+    .line 24
+    .line 25
+    if-eqz p1, :cond_1
+
+    .line 26
+    .line 27
+    iget v0, p0, LX/Dw8;->A00:I
+
+    .line 28
+    .line 29
+    int-to-float v0, v0
+
+    .line 30
+    div-float/2addr v0, v1
+
+    .line 31
+    iput v0, v2, Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/basic/ColorFilter;->A00:F
+
+    .line 32
+    .line 33
+    :goto_0
+    iget v0, p0, LX/Dw8;->A00:I
+
+    .line 34
+    .line 35
+    iput v0, p0, LX/Dw8;->A04:I
+
+    .line 36
+    .line 37
+    :cond_0
+    :goto_1
+    const/4 v0, 0x0
+
+    .line 38
+    iput-object v0, p0, LX/Dw8;->A01:LX/Em6;
+
+    .line 39
+    .line 40
+    return-void
+
+    .line 41
+    :cond_1
+    iget v0, p0, LX/Dw8;->A04:I
+
+    .line 42
+    .line 43
+    int-to-float v0, v0
+
+    .line 44
+    div-float/2addr v0, v1
+
+    .line 45
+    iput v0, v2, Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/basic/ColorFilter;->A00:F
+
+    .line 46
+    .line 47
+    goto :goto_1
+
+    .line 48
+    :cond_2
+    if-eqz p1, :cond_3
+
+    .line 49
+    .line 50
+    iget-object v2, p0, LX/Dw8;->A03:Ljava/util/HashMap;
+
+    .line 51
+    .line 52
+    invoke-interface {v3}, LX/Em6;->AiV()Lcom/instagram/filterkit/filter/VideoFilter;
+
+    .line 53
+    .line 54
+    .line 55
+    move-result-object v0
+
+    .line 56
+    invoke-virtual {v0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 57
+    .line 58
+    .line 59
+    iget v0, v0, Lcom/instagram/filterkit/filter/VideoFilter;->A0R:I
+
+    .line 60
+    .line 61
+    invoke-static {v0}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    .line 62
+    .line 63
+    .line 64
+    move-result-object v1
+
+    .line 65
+    iget v0, p0, LX/Dw8;->A00:I
+
+    .line 66
+    .line 67
+    invoke-static {v1, v2, v0}, LX/4uX;->A1M(Ljava/lang/Object;Ljava/util/AbstractMap;I)V
+
+    .line 68
+    .line 69
+    .line 70
+    goto :goto_0
+
+    .line 71
+    :cond_3
+    invoke-interface {v3}, LX/Em6;->AiV()Lcom/instagram/filterkit/filter/VideoFilter;
+
+    .line 72
+    .line 73
+    .line 74
+    move-result-object v0
+
+    .line 75
+    if-eqz v0, :cond_0
+
+    .line 76
+    .line 77
+    iget-object v2, p0, LX/Dw8;->A03:Ljava/util/HashMap;
+
+    .line 78
+    .line 79
+    iget-object v0, p0, LX/Dw8;->A01:LX/Em6;
+
+    .line 80
+    .line 81
+    invoke-interface {v0}, LX/Em6;->AiV()Lcom/instagram/filterkit/filter/VideoFilter;
+
+    .line 82
+    .line 83
+    .line 84
+    move-result-object v0
+
+    .line 85
+    iget v0, v0, Lcom/instagram/filterkit/filter/VideoFilter;->A0R:I
+
+    .line 86
+    .line 87
+    invoke-static {v0}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    .line 88
+    .line 89
+    .line 90
+    move-result-object v1
+
+    .line 91
+    iget v0, p0, LX/Dw8;->A04:I
+
+    .line 92
+    .line 93
+    invoke-static {v1, v2, v0}, LX/4uX;->A1M(Ljava/lang/Object;Ljava/util/AbstractMap;I)V
+
+    .line 94
+    .line 95
+    .line 96
+    iget-object v1, p0, LX/Dw8;->A01:LX/Em6;
+
+    .line 97
+    .line 98
+    iget v0, p0, LX/Dw8;->A04:I
+
+    .line 99
+    .line 100
+    invoke-interface {v1, v0}, LX/Em6;->Clc(I)V
+
+    .line 101
+    .line 102
+    .line 103
+    goto :goto_1
+    .line 104
+    .line 105
+.end method
+
+.method public final synthetic Bsc(Landroid/view/View;Landroid/view/ViewGroup;LX/Ek1;Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;)Z
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x0
+
+    .line 1
+    return v0
+    .line 2
+    .line 3
+    .line 4
+    .line 5
+    .line 6
+    .line 7
+    .line 8
+    .line 9
+    .line 10
+    .line 11
+    .line 12
+    .line 13
+    .line 14
+.end method
+
+.method public final synthetic CJu(Landroid/view/View;Landroid/view/ViewGroup;LX/Ek1;Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;)Z
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x0
+
+    .line 1
+    return v0
+    .line 2
+    .line 3
+    .line 4
+    .line 5
+    .line 6
+    .line 7
+    .line 8
+    .line 9
+    .line 10
+    .line 11
+    .line 12
+    .line 13
+    .line 14
+.end method
+
+.method public final CJv(Landroid/view/View;LX/Ek1;Lcom/instagram/filterkit/filter/VideoFilter;Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;)Z
+    .locals 5
+
+    .line 0
+    const/4 v3, 0x0
+
+    .line 1
+    invoke-static {v3}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
+
+    .line 2
+    .line 3
+    .line 4
+    move-result-object v4
+
+    .line 5
+    iput-object p4, p0, LX/Dw8;->A02:Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;
+
+    .line 6
+    .line 7
+    instance-of v0, p4, Lcom/instagram/filterkit/filtergroup/model/impl/OneCameraFilterGroupModel;
+
+    .line 8
+    .line 9
+    const/4 v2, 0x1
+
+    .line 10
+    if-eqz v0, :cond_2
+
+    .line 11
+    .line 12
+    invoke-interface {p4}, Lcom/instagram/filterkit/filtergroup/model/intf/FilterGroupModel;->AiX()Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/basic/FilterChain;
+
+    .line 13
+    .line 14
+    .line 15
+    move-result-object v0
+
+    .line 16
+    invoke-static {v0}, LX/Bs5;->A0L(Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/basic/FilterChain;)Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/FilterModel;
+
+    .line 17
+    .line 18
+    .line 19
+    move-result-object v1
+
+    .line 20
+    check-cast v1, Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/basic/ColorFilter;
+
+    .line 21
+    .line 22
+    if-eqz v1, :cond_1
+
+    .line 23
+    .line 24
+    iget-object v0, p0, LX/Dw8;->A05:LX/BvW;
+
+    .line 25
+    .line 26
+    if-eq v0, p1, :cond_0
+
+    .line 27
+    .line 28
+    const/16 v0, 0x64
+
+    .line 29
+    .line 30
+    iput v0, p0, LX/Dw8;->A00:I
+
+    .line 31
+    .line 32
+    :cond_0
+    iget-object v1, v1, Lcom/facebook/cameracore/litecamera/mediapipeline/iglu/filter/model/basic/ColorFilter;->A04:Ljava/lang/String;
+
+    .line 33
+    .line 34
+    const-string v0, "normal"
+
+    .line 35
+    .line 36
+    invoke-virtual {v1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    .line 37
+    .line 38
+    .line 39
+    move-result v0
+
+    .line 40
+    :goto_0
+    invoke-static {v0}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
+
+    .line 41
+    .line 42
+    .line 43
+    move-result-object v4
+
+    .line 44
+    :goto_1
+    check-cast p2, LX/Em6;
+
+    .line 45
+    .line 46
+    iput-object p2, p0, LX/Dw8;->A01:LX/Em6;
+
+    .line 47
+    .line 48
+    iget-object v1, p0, LX/Dw8;->A05:LX/BvW;
+
+    .line 49
+    .line 50
+    if-ne v1, p1, :cond_3
+
+    .line 51
+    .line 52
+    invoke-virtual {v4}, Ljava/lang/Boolean;->booleanValue()Z
+
+    .line 53
+    .line 54
+    .line 55
+    move-result v0
+
+    .line 56
+    if-nez v0, :cond_3
+
+    .line 57
+    .line 58
+    iget v0, p0, LX/Dw8;->A00:I
+
+    .line 59
+    .line 60
+    iput v0, p0, LX/Dw8;->A04:I
+
+    .line 61
+    .line 62
+    return v2
+
+    .line 63
+    :cond_1
+    if-eqz p3, :cond_4
+
+    .line 64
+    .line 65
+    goto :goto_1
+
+    .line 66
+    :cond_2
+    if-eqz p3, :cond_4
+
+    .line 67
+    .line 68
+    invoke-virtual {p0, p3}, LX/Dw8;->A00(Lcom/instagram/filterkit/filter/VideoFilter;)I
+
+    .line 69
+    .line 70
+    .line 71
+    move-result v0
+
+    .line 72
+    iput v0, p0, LX/Dw8;->A00:I
+
+    .line 73
+    .line 74
+    iput v0, p3, Lcom/instagram/filterkit/filter/VideoFilter;->A01:I
+
+    .line 75
+    .line 76
+    iget v0, p3, Lcom/instagram/filterkit/filter/VideoFilter;->A0R:I
+
+    .line 77
+    .line 78
+    invoke-static {v0}, LX/0wr;->A1W(I)Z
+
+    .line 79
+    .line 80
+    .line 81
+    move-result v0
+
+    .line 82
+    goto :goto_0
+
+    .line 83
+    :cond_3
+    if-eqz v1, :cond_4
+
+    .line 84
+    .line 85
+    invoke-virtual {v1, v3}, LX/BvW;->setChecked(Z)V
+
+    .line 86
+    .line 87
+    .line 88
+    :cond_4
+    check-cast p1, LX/BvW;
+
+    .line 89
+    .line 90
+    invoke-virtual {p1, v2}, LX/BvW;->setChecked(Z)V
+
+    .line 91
+    .line 92
+    .line 93
+    invoke-virtual {p1}, Landroid/view/View;->refreshDrawableState()V
+
+    .line 94
+    .line 95
+    .line 96
+    iput-object p1, p0, LX/Dw8;->A05:LX/BvW;
+
+    .line 97
+    .line 98
+    return v3
+    .line 99
+    .line 100
+    .line 101
+    .line 102
+    .line 103
+    .line 104
+    .line 105
+    .line 106
+    .line 107
+    .line 108
+    .line 109
+    .line 110
+    .line 111
+    .line 112
+    .line 113
+    .line 114
+    .line 115
+    .line 116
+    .line 117
+    .line 118
+    .line 119
+    .line 120
+    .line 121
+    .line 122
+.end method
+
+.method public final CfL()V
+    .locals 2
+
+    .line 0
+    iget-object v1, p0, LX/Dw8;->A01:LX/Em6;
+
+    .line 1
+    .line 2
+    invoke-virtual {v1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 3
+    .line 4
+    .line 5
+    iget v0, p0, LX/Dw8;->A00:I
+
+    .line 6
+    .line 7
+    invoke-interface {v1, v0}, LX/Em6;->Clc(I)V
+
+    .line 8
+    .line 9
+    .line 10
+    return-void
+    .line 11
+.end method
+
+.method public final CfP()V
+    .locals 2
+
+    .line 0
+    iget-object v1, p0, LX/Dw8;->A01:LX/Em6;
+
+    .line 1
+    .line 2
+    invoke-virtual {v1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 3
+    .line 4
+    .line 5
+    iget v0, p0, LX/Dw8;->A04:I
+
+    .line 6
+    .line 7
+    invoke-interface {v1, v0}, LX/Em6;->Clc(I)V
+
+    .line 8
+    .line 9
+    .line 10
+    return-void
+    .line 11
+.end method

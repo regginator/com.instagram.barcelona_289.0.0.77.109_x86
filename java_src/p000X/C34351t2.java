@@ -1,0 +1,6 @@
+package p000X;
+/* renamed from: X.1t2  reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes2.dex */
+public final class C34351t2 extends C2QU {
+    public static final C34351t2 A00 = new C34351t2();
+}

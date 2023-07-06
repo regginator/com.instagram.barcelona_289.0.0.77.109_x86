@@ -1,0 +1,434 @@
+{
+  "media_or_ad": {
+    "taken_at": 1486652422,
+    "pk": 1446467820509673700,
+    "id": "1446467820509673705_695995017",
+    "device_timestamp": 1486652422,
+    "media_type": 8,
+    "code": "BQS4tGsgzjp",
+    "client_cache_key": "MTQ0NjQ2NzgyMDUwOTY3MzcwNQ==.2",
+    "filter_type": 0,
+    "is_sidecar_child": true,
+    "is_dash_eligible": 1,
+    "video_versions":[
+      {
+        "type":101,
+        "width":1280,
+        "height":720,
+        "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "id":"18053562115157882"
+      }
+    ],
+    "has_audio": true,
+    "video_duration": 14.462,
+    "view_count": 7999946,
+    "user": {
+      "pk": 695995017,
+      "username": "chanelofficial",
+      "full_name": "CHANEL",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/47XCqLc/66505567-684858381987599-4049279537282809856-n.jpg",
+      "profile_pic_id": "2095674205765904804_695995017",
+      "friendship_status": {
+        "following": false,
+        "outgoing_request": false,
+        "is_muting_reel": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": true,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "latest_reel_media": 1584032382
+    },
+    "caption_is_edited": false,
+    "liker_config": {
+      "is_daisy": true,
+      "hide_view_count": true,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 1,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false
+    },
+    "direct_reply_to_author_enabled": true,
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": true,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 692,
+    "like_count": 83849,
+    "bucketed_like_count": null,
+    "ads_bucketed_like_count": 1,
+    "has_liked": false,
+    "top_likers": [],
+    "photo_of_you": false,
+    "caption": {
+      "pk": 17848678258187836,
+      "user_id": 695995017,
+      "text": "Declare your Crush. #ValentinesDay #CocoCrush #ChanelFineJewelry",
+      "type": 1,
+      "created_at": 1486652423,
+      "created_at_utc": 1486652423,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 695995017,
+        "username": "chanelofficial",
+        "full_name": "CHANEL",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/47XCqLc/66505567-684858381987599-4049279537282809856-n.jpg",
+        "profile_pic_id": "2095674205765904804_695995017",
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_muting_reel": false,
+          "is_bestie": false,
+          "is_restricted": false
+        },
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": 1584032382
+      },
+      "media_id": 1446467820509673700
+    },
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQIV2B3j7x8dBLBKVuhnMRafZSczIbM1lEwfrazss3uB9ygvU94YggPtfQGIZI4u9t1Bi3_CB_pwAmaiVgwlJkTS",
+      "show_ad_choices": false,
+      "ad_title": "CHANEL",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 6064877071002,
+      "display_viewability_eligible": true,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": "{}",
+            "serializedImpOrganicScoreMap": "{}"
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=1LunrJFv5ghw8YVNy.AWUd0G_K_OYc40aAq1EKSQrlBFg.Beaosp..AAA.0.0.Beaosp.AWUxvHUl; expires=Wed, 10 Jun 2020 19:19:05 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ]
+    },
+    "collapse_comments": true,
+    "carousel_media": [
+      {
+        "media_type": 2,
+        "pk": 1446467820509673700,
+        "id": "1446467820509673705_695995017_card",
+        "carousel_parent_id": "1446467820509673705_695995017",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 695995017,
+            "username": "chanelofficial",
+            "full_name": "CHANEL",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/47XCqLc/66505567-684858381987599-4049279537282809856-n.jpg",
+            "profile_pic_id": "2095674205765904804_695995017",
+            "is_verified": true
+          },
+          "user_id": 695995017,
+          "pk": "1446467820509673705_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584040746,
+          "created_at_utc": 1584015546,
+          "media_id": 1446467820509673700,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "video_subtitles_uri": null,
+        "dominant_color": "#374F73",
+        "link": "http://ws.chanel.com/pageDispatch/2017-wfj-cococrush_stvalentin-instagram_paid",
+        "link_text": "Learn More",
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://www.chanel.com/us/",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_metadata": [
+          {
+            "value": "ws.chanel.com",
+            "type": 1
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "image_versions2":{
+          "candidates":[
+            {
+              "width":1285,
+              "height":722,
+              "url":"https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png"
+            }
+          ]
+        },
+        "original_width": 1280,
+        "original_height": 720,
+        "video_versions":[
+          {
+            "type":101,
+            "width":1280,
+            "height":720,
+            "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+            "id":"18053562115157882"
+          }
+        ],
+        "has_audio": true,
+        "video_duration": 14.462,
+        "force_overlay": false,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "CHANEL",
+        "overlay_subtitle": "Go to Website",
+        "photo_of_you": false
+      },
+      {
+        "media_type": 2,
+        "pk": 1446467820761305300,
+        "id": "1446467820761305290_695995017_card",
+        "carousel_parent_id": "1446467820509673705_695995017",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 695995017,
+            "username": "chanelofficial",
+            "full_name": "CHANEL",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/47XCqLc/66505567-684858381987599-4049279537282809856-n.jpg",
+            "profile_pic_id": "2095674205765904804_695995017",
+            "is_verified": true
+          },
+          "user_id": 695995017,
+          "pk": "1446467820761305290_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584040746,
+          "created_at_utc": 1584015546,
+          "media_id": 1446467820761305300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "video_subtitles_uri": null,
+        "dominant_color": "#B60B1C",
+        "link": "http://ws.chanel.com/pageDispatch/2017-wfj-cococrush_stvalentin-instagram_paid",
+        "link_text": "See More",
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://www.youtube.com",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_metadata": [
+          {
+            "value": "ws.chanel.com",
+            "type": 1
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "image_versions2":{
+          "candidates":[
+            {
+              "width":1280,
+              "height":720,
+              "url":"https://i.ibb.co/tDjkVYf/Screen-Shot-2019-09-27-at-10-49-08-AM.png"
+            }
+          ]
+        },
+        "original_width": 1280,
+        "original_height": 720,
+        "video_versions":[
+          {
+            "type":101,
+            "width":1280,
+            "height":720,
+            "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "id":"18053562115157888"
+          }
+        ],
+        "has_audio": true,
+        "video_duration": 14.462,
+        "force_overlay": false,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "CHANEL",
+        "overlay_subtitle": "Go to Website",
+        "photo_of_you": false
+      },
+      {
+        "media_type": 2,
+        "pk": 1446467820509631000,
+        "id": "1446467820509630952_695995017_card",
+        "carousel_parent_id": "1446467820509673705_695995017",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 695995017,
+            "username": "chanelofficial",
+            "full_name": "CHANEL",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/47XCqLc/66505567-684858381987599-4049279537282809856-n.jpg",
+            "profile_pic_id": "2095674205765904804_695995017",
+            "is_verified": true
+          },
+          "user_id": 695995017,
+          "pk": "1446467820509630952_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584040746,
+          "created_at_utc": 1584015546,
+          "media_id": 1446467820509631000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "video_subtitles_uri": null,
+        "dominant_color": "#4D2A6D",
+        "link": "http://ws.chanel.com/pageDispatch/boyfriend_tweed-cdm-instagram-paid",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://www.google.com/",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_metadata": [
+          {
+            "value": "ws.chanel.com",
+            "type": 1
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "image_versions2":{
+          "candidates":[
+            {
+              "width":1285,
+              "height":722,
+              "url":"https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png"
+            }
+          ]
+        },
+        "original_width": 1280,
+        "original_height": 720,
+        "video_versions":[
+          {
+            "type":101,
+            "width":1280,
+            "height":720,
+            "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+            "id":"18053562115157882"
+          }
+        ],
+        "has_audio": true,
+        "video_duration": 14.462,
+        "force_overlay": false,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "CHANEL",
+        "overlay_subtitle": "Go to Website",
+        "photo_of_you": false
+      }
+    ],
+    "carousel_media_type": 4,
+    "iTunesItem": null,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "iab_autofill_optout_info": {
+      "domain": "ws.chanel.com",
+      "is_iab_autofill_optout": false
+    },
+    "top_followers_count": 2,
+    "follower_count": 39327866,
+    "post_count": 2405,
+    "fb_page_url": "https://www.facebook.com/chanel/",
+    "can_viewer_save": true,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYmI4YTk0ODQxY2U0NDE0NTkxZTU2Njc4Mjc1MzhjOGMxNDQ2NDY3ODIwNTA5NjczNzA1Iiwic2VydmVyX3Rva2VuIjoiMTU4NDA0MDc0NjYyNXwxNDQ2NDY3ODIwNTA5NjczNzA1fDQzNjExNzk2Nnw1OWFmZjMxZTMxYTU2MmU5ZjhlMWJiOGEzYjc4MGYzZmE4MGVkNTQ3MjU2ZDNlZDYzNGIxNjBiMWQ4ZDBjYmU3In0sInNpZ25hdHVyZSI6IiJ9",
+    "expiring_at": 9999999999,
+    "preview": "ACoqZSCnYpCOKAHRrufnovNXGGDVGJGYMB1JA57DqT+lXicn9KAEop2KSgCpx6/oaQ4x1H5Gos0xzxQBcTH5gH9cH/Pap1x6/wA6pwnei/7QZfx+8Pwq0wxz6/8A1qAJOPX+dHHr/Oos0ZoAoZprciiigCa1YL8vpj/61XZDyBWdD9/8KvydR+NACUUlLQB//9k=",
+    "inventory_source": "media_or_ad",
+    "is_seen": false,
+    "is_eof": false
+  }
+}

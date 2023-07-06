@@ -1,0 +1,637 @@
+{
+  "id": "dynamic_duration_carousel_image_ad",
+  "latest_reel_media": null,
+  "expiring_at": 9564175315,
+  "seen": null,
+  "can_reply": false,
+  "can_reshare": true,
+  "reel_type": "ads_reel",
+  "user": {
+    "pk": 224223453,
+    "username": "spotify",
+    "full_name": "Spotify",
+    "is_private": false,
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "1814283376876563268_224223453",
+    "is_verified": true
+  },
+  "items": [
+    {
+      "taken_at": 1564002014,
+      "pk": 2095323224031262701,
+      "id": "dynamic_duration_carousel_image_ad_1",
+      "dynamic_time_change": 5,
+      "device_timestamp": 1564002014,
+      "media_type": 0,
+      "code": "B0UFV7qAnfm",
+      "client_cache_key": "MjA5NTMyMzIyNDAzMTI2MjY5NA==.2",
+      "filter_type": 0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://images.unsplash.com/photo-1624814448264-f2273a961d33"
+          }
+        ]
+      },
+      "original_width":900,
+      "original_height":1600,
+      "is_sidecar_child": true,
+      "is_dash_eligible": 1,
+      "has_audio": true,
+      "video_duration": 15,
+      "view_count": 56188,
+      "user": {
+        "pk": 224223453,
+        "username": "spotify",
+        "full_name": "Spotify",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": null
+      },
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "like_count": 0,
+      "has_liked": false,
+      "likers": [],
+      "photo_of_you": false,
+      "caption": null,
+      "can_viewer_save": true,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTE1NjYyZjNkMjUwNDhkMjliNjU5YjdjNDI0MTA3MTAyMDk1MzIzMjI0MDMxMjYyNjk0Iiwic2VydmVyX3Rva2VuIjoiMTU2NDA4ODkxNTU5NnwyMDk1MzIzMjI0MDMxMjYyNjk0fDI2MTQzMTkyMHw2MTJjZmZiOWE2NzAxNzdkNGE1MDg3NjZmNWZjNGRjNTU0NWQ3YWJmOThlNTEwNGIwMDc1MmQ2M2MyYzQwNzZlIn0sInNpZ25hdHVyZSI6IiJ9",
+      "expiring_at": 9564175315,
+      "can_reshare": true,
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQI5J2o83tHeol4fI3M1RpXZOYcwnQ0kXhz__gWTOS71dPSZGwrLRL8-VA_KBPqocs_V79vPtXPo5b7cNYYud1Ya",
+        "show_ad_choices": false,
+        "ad_title": "Melitta Brasil",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23843738399210730,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": "{}",
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "cookies": [
+          "fr=1ZTiJWiE3ZIvcuEJy.AWWFFl1eD2-rpydjrNAnvLHgXBQ.BdOhpS..AAA.0.0.BdOhpS.AWV5qqr_; expires=Fri, 24 Jul 2020 21:08:34 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links": [
+        {
+          "linkType": 2,
+          "webUri": "",
+          "androidClass": "",
+          "package": "com.spotify.music",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": 1,
+          "destinationContext": "Go to App Store",
+          "tapAndHoldContext": "Swipe up to view app details"
+        },
+        {
+          "linkType": 1,
+          "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "View website on Instagram",
+          "tapAndHoldContext": "Swipe up to view website"
+        }
+      ],
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 2,
+              "webUri": "",
+              "androidClass": "",
+              "package": "com.spotify.music",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": 1,
+              "destinationContext": "Go to App Store",
+              "tapAndHoldContext": "Swipe up to view app details"
+            },
+            {
+              "linkType": 1,
+              "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "View website on Instagram",
+              "tapAndHoldContext": "Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "overlay_text": "View in Play Store",
+      "overlay_title": "Spotify",
+      "overlay_subtitle": "View in Play Store",
+      "dominant_color": "#1B2E58",
+      "ad_action": "appinstall",
+      "link_text": "Install Now",
+      "ad_metadata": [
+        {
+          "value": 5,
+          "type": 2
+        }
+      ],
+      "is_reel_media": true
+    },
+    {
+      "taken_at": 1564002024,
+      "pk": 2095323224106846202,
+      "id": "dynamic_duration_carousel_image_ad_2",
+      "dynamic_time_change": 5,
+      "device_timestamp": 1564002014,
+      "media_type": 0,
+      "code": "B0UFV7ug8h3",
+      "client_cache_key": "MjA5NTMyMzIyNDEwNjg0NjMyNw==.2",
+      "filter_type": 0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://images.unsplash.com/photo-1638805318011-a1a62878cac8"
+          }
+        ]
+      },
+      "original_width":900,
+      "original_height":1600,
+      "is_sidecar_child": true,
+      "is_dash_eligible": 1,
+      "has_audio": true,
+      "video_duration": 15,
+      "view_count": 30510,
+      "user": {
+        "pk": 224223453,
+        "username": "spotify",
+        "full_name": "Spotify",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": null
+      },
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "like_count": 0,
+      "has_liked": false,
+      "likers": [],
+      "photo_of_you": false,
+      "caption": null,
+      "can_viewer_save": true,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTE1NjYyZjNkMjUwNDhkMjliNjU5YjdjNDI0MTA3MTAyMDk1MzIzMjI0MTA2ODQ2MzI3Iiwic2VydmVyX3Rva2VuIjoiMTU2NDA4ODkxNTU5NnwyMDk1MzIzMjI0MTA2ODQ2MzI3fDI2MTQzMTkyMHw3M2U5YmNkZjRkMjEyYjk3YmJjMjcyMGZlZDU3MjJkYjI5OTI5MjVjM2U1ZWE5M2IwODY1ZDZmNTQ1NDRhZWRlIn0sInNpZ25hdHVyZSI6IiJ9",
+      "expiring_at": 9564175315,
+      "can_reshare": true,
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQI5J2o83tHeol4fI3M1RpXZOYcwnQ0kXhz__gWTOS71dPSZGwrLRL8-VA_KBPqocs_V79vPtXPo5b7cNYYud1Ya",
+        "show_ad_choices": false,
+        "ad_title": "Melitta Brasil",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23843738399210730,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": "{}",
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "cookies": [
+          "fr=1ZTiJWiE3ZIvcuEJy.AWWFFl1eD2-rpydjrNAnvLHgXBQ.BdOhpS..AAA.0.0.BdOhpS.AWV5qqr_; expires=Fri, 24 Jul 2020 21:08:34 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links": [
+        {
+          "linkType": 2,
+          "webUri": "",
+          "androidClass": "",
+          "package": "com.spotify.music",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": 1,
+          "destinationContext": "Go to App Store",
+          "tapAndHoldContext": "Swipe up to view app details"
+        },
+        {
+          "linkType": 1,
+          "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "View website on Instagram",
+          "tapAndHoldContext": "Swipe up to view website"
+        }
+      ],
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 2,
+              "webUri": "",
+              "androidClass": "",
+              "package": "com.spotify.music",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": 1,
+              "destinationContext": "Go to App Store",
+              "tapAndHoldContext": "Swipe up to view app details"
+            },
+            {
+              "linkType": 1,
+              "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "View website on Instagram",
+              "tapAndHoldContext": "Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "overlay_text": "View in Play Store",
+      "overlay_title": "Spotify",
+      "overlay_subtitle": "View in Play Store",
+      "dominant_color": "#1B2E58",
+      "ad_action": "appinstall",
+      "link_text": "Install Now",
+      "ad_metadata": [
+        {
+          "value": 5,
+          "type": 2
+        }
+      ],
+      "is_reel_media": true
+    },
+    {
+      "taken_at": 1564002034,
+      "pk": 2095323224056382503,
+      "id": "dynamic_duration_carousel_image_ad_3",
+      "dynamic_time_change": 10,
+      "device_timestamp": 1564002014,
+      "media_type": 0,
+      "code": "B0UFV7rgcOP",
+      "client_cache_key": "MjA5NTMyMzIyNDA1NjM4MjM1MQ==.2",
+      "filter_type": 0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://images.unsplash.com/photo-1587204714992-2c93329aaa3a"
+          }
+        ]
+      },
+      "original_width":900,
+      "original_height":1600,
+      "is_sidecar_child": true,
+      "is_dash_eligible": 1,
+      "has_audio": true,
+      "video_duration": 15,
+      "view_count": 41273,
+      "user": {
+        "pk": 224223453,
+        "username": "spotify",
+        "full_name": "Spotify",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": null
+      },
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "like_count": 0,
+      "has_liked": false,
+      "likers": [],
+      "photo_of_you": false,
+      "caption": null,
+      "can_viewer_save": true,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTE1NjYyZjNkMjUwNDhkMjliNjU5YjdjNDI0MTA3MTAyMDk1MzIzMjI0MDU2MzgyMzUxIiwic2VydmVyX3Rva2VuIjoiMTU2NDA4ODkxNTU5NnwyMDk1MzIzMjI0MDU2MzgyMzUxfDI2MTQzMTkyMHxkNTFkM2QwOTM1MjRiNjAyYTFkNTExOGEwOTg2MGQwYjQxZGM1ODg5MTcyMDJhMmMyY2I2MTc0NDg5NjRhODFiIn0sInNpZ25hdHVyZSI6IiJ9",
+      "expiring_at": 9564175315,
+      "can_reshare": true,
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQI5J2o83tHeol4fI3M1RpXZOYcwnQ0kXhz__gWTOS71dPSZGwrLRL8-VA_KBPqocs_V79vPtXPo5b7cNYYud1Ya",
+        "show_ad_choices": false,
+        "ad_title": "Melitta Brasil",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23843738399210730,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": "{}",
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "cookies": [
+          "fr=1ZTiJWiE3ZIvcuEJy.AWWFFl1eD2-rpydjrNAnvLHgXBQ.BdOhpS..AAA.0.0.BdOhpS.AWV5qqr_; expires=Fri, 24 Jul 2020 21:08:34 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links": [
+        {
+          "linkType": 2,
+          "webUri": "",
+          "androidClass": "",
+          "package": "com.spotify.music",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": 1,
+          "destinationContext": "Go to App Store",
+          "tapAndHoldContext": "Swipe up to view app details"
+        },
+        {
+          "linkType": 1,
+          "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "View website on Instagram",
+          "tapAndHoldContext": "Swipe up to view website"
+        }
+      ],
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 2,
+              "webUri": "",
+              "androidClass": "",
+              "package": "com.spotify.music",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": 1,
+              "destinationContext": "Go to App Store",
+              "tapAndHoldContext": "Swipe up to view app details"
+            },
+            {
+              "linkType": 1,
+              "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "View website on Instagram",
+              "tapAndHoldContext": "Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "overlay_text": "View in Play Store",
+      "overlay_title": "Spotify",
+      "overlay_subtitle": "View in Play Store",
+      "dominant_color": "#1B2E58",
+      "ad_action": "appinstall",
+      "link_text": "Install Now",
+      "ad_metadata": [
+        {
+          "value": 5,
+          "type": 2
+        }
+      ],
+      "is_reel_media": true
+    }
+  ],
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "muted": false,
+  "prefetch_count": 0,
+  "carousel_rendering_type": "mps",
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index": 0,
+  "has_pride_media": false
+}

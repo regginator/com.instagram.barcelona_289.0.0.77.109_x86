@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.instagram.common.ui.base.IgFrameLayout android:id="@id/report_button_row" android:background="?dialogButtonBackground" android:layout_width="fill_parent" android:layout_height="@dimen/abc_action_bar_stacked_max_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.instagram.common.ui.base.IgTextView android:textColor="@color/igds_error_or_destructive" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@id/report_button" android:layout_width="fill_parent" android:layout_height="@dimen/abc_action_bar_stacked_max_height" android:maxLines="1" android:includeFontPadding="false" android:lineSpacingMultiplier="1.0" android:layout_marginStart="@dimen/abc_select_dialog_padding_start_material" android:layout_marginEnd="@dimen/abc_select_dialog_padding_start_material" android:autoSizeTextType="uniform" android:autoSizePresetSizes="@array/iig_dialog_autosize_text_sizes" />
+</com.instagram.common.ui.base.IgFrameLayout>

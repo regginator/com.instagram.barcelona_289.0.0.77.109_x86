@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/igds_creation_tools_red" />
+    <corners android:radius="@dimen/account_section_text_margin_horizontal" />
+    <size android:height="@dimen/abc_dialog_padding_material" android:width="@dimen/abc_dialog_padding_material" />
+    <padding android:left="@dimen/abc_action_bar_elevation_material" android:top="@dimen/abc_action_bar_elevation_material" android:right="@dimen/abc_action_bar_elevation_material" android:bottom="@dimen/abc_action_bar_elevation_material" />
+</shape>

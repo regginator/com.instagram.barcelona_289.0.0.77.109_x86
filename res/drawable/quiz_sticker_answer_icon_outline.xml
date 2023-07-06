@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/gradient_layer">
+        <shape android:shape="oval">
+            <gradient android:startColor="@color/direct_light_mode_glyph_color_tertiary" android:endColor="@color/direct_light_mode_glyph_color_tertiary" android:angle="0.0" />
+        </shape>
+    </item>
+    <item android:left="@dimen/quiz_sticker_answer_icon_stroke_padding" android:top="@dimen/quiz_sticker_answer_icon_stroke_padding" android:right="@dimen/quiz_sticker_answer_icon_stroke_padding" android:bottom="@dimen/quiz_sticker_answer_icon_stroke_padding">
+        <shape android:shape="oval">
+            <solid android:color="@color/canvas_bottom_sheet_description_text_color" />
+        </shape>
+    </item>
+</layer-list>

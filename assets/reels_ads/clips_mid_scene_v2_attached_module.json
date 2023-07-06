@@ -1,0 +1,473 @@
+{
+  "ad_id": "23853190989950557",
+  "is_demo": false,
+  "label": "Sponsored",
+  "tracking_token": "AI@AQJcn88jCw4XOn1j3nxRGh-ylWtwbpfScYS_PBqizM2msjegUeMi333fTdeGMXDa-rOwTe3GRYOGArpyCpfwOori",
+  "hide_reasons_v2": [
+    {
+      "text": "It's not relevant",
+      "reason": "NOT_RELEVANT"
+    },
+    {
+      "text": "I see it too often",
+      "reason": "KEEP_SEEING_THIS"
+    },
+    {
+      "text": "It's inappropriate"
+    },
+    {
+      "text": "[Employee only] Send ad for review",
+      "reason": "EMPLOYEE_REPORT"
+    }
+  ],
+  "ad_title": "Rocket Money",
+  "fb_page_url": "https://www.facebook.com/rocketmoney/",
+  "hide_flow_type": 2,
+  "show_ad_choices": false,
+  "cookies": [
+    "fr=0EtKqWaYbHAZzJzAq.AWVHcxzVzgUqvgFKUat5H_DCUZI.Bj4p9a..AAA.0.0.Bj4p9a.AWVppwyM0XA; expires=Mon, 08 May 2023 18:58:34 GMT; Max-Age=7776000; path=/; domain=.facebook.com; SameSite=None; httponly; Secure"
+  ],
+  "client_gap_rules": {
+    "min_container_gap_to_previous_ad": 2,
+    "target_insertion_position": 3,
+    "highest_position_rule": 3,
+    "consumed_media_gap_to_previous_ad": 0,
+    "reel_gap_to_previous_ad": 0
+  },
+  "ad_action": "appinstall",
+  "link_text": "Install Now",
+  "link_hint_text": "Tap Photo to Install",
+  "ios_links": [],
+  "android_links": [
+    {
+      "linkType": 2,
+      "webUri": "",
+      "deeplinkUri": "",
+      "callToActionTitle": "",
+      "appInstallObjectiveInvalidationBehavior": 1,
+      "package": "com.truebill",
+      "referrerData": "utm_source=apps.facebook.com&utm_campaign=fb4a&utm_content=%7B%22app%22%3A198910933775388%2C%22t%22%3A1675796314%2C%22source%22%3A%7B%22data%22%3A%222a1418179c1675bc79f729c40dec73c4439be384964b3160d320409fa9fd567ed1e69c2998ebcabc354f26eaa1501aa4b9f4f13811880f05744f8be438b865b6f576fe2570a8a5024a16a927e198d106769ae5e8941e0e94f8665282e134acfe61567fd570cea56db49966ccbd5bdaf4e8d10d67b87dddd41ab1140e6fa3c16b18eea28c9b692d837b138d092e5f34706895c7ca5f168f4da2368ed43b1fe234faf0a5fc63933fbfc0af26d0bf37dc0f9cb80fc5e88574bd196d7b2d1959274aee89e89acfdcab2c8194a8f9a2f44b5729194482a832c5d700d97addc13570112da4ef1e37d6e497bf6d16dccefc88add6f3498ff952c6209d461ed68b15d8afe356d8d8fc420797faa673567f546d671552c87f5a722e5c0863cdbc1ecce06cf04adcc5862dcb11ffb2dfdbedb7f248f11a7a0a34ab3e37403dd4007d32040f57963af57b67c1dd2100f97bfd9bee3cd0a44915108ecda833656a692b45a8f4697ad20256894b15e3f03644c7e721bf734b789d9a40c3e7f12f2bf67ad87c376f64ae2b453e91ce32ecae203b0ca61bc65b86297f26339267f94293f71d540f36d41541984b949f2315cb3ff65d5dec56250377e13b23a3826e1d5126433322e67933b224c3456ea25bf6d8afc8b8d670c29f7b62d6c14d4ea75a99637ecca9b343c66a03f12dcefbca50b4b356802b93e1e5%22%2C%22nonce%22%3A%2230f5085e7876d9c6c5a43eaa%22%7D%7D"
+    },
+    {
+      "linkType": 1,
+      "webUri": "http://play.google.com/store/apps/details?id=com.truebill&fbclid=PAAab1PSb4Dw_nmMSRGcOd3ISEkahI2zeRmhLQ_3kJqoOgCVGToZJxHWTeNyI&external_browser_redirect=true",
+      "deeplinkUri": "",
+      "callToActionTitle": "",
+      "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8gYrC3rgFbg3GEJvCm3p3VwmkvQun2q0HGiUsr7NCo4xnzBD9707ydrJYewqKYKO1ApT4amJVBt5-aoYKsb-d58bCI-iuiaPOcP2_UvwX0w2bgKefVKeh-K5gCSRTrl7UEBdoD97kbJLYf_5QaoRdg6XcCHBUJrLhEI6V_D2-39_zlG8bVND-EMtEvzpF0pX9LlBDaoIjbklBUa8zwsSJbp6NVYNjlagqhMAKIe_WyRGnOl2SSvYHydZlGAxpsWmhPMX63I1-8fKmmWA2kBd9C9F50K1ruZl0OKJecJ6EoCrXubXLOjvI-lPF0fUxnOce46FpU5jo6Lk3gUThsqAkhxYK1b6f0-yYHMUEk2Qaebq_pL71dPxnhla1fly7rNFI2Gu1NlgT--PKo_R5tAkLq&a=1&hash=Ad_Q4xHNq3S1pkbEZeU",
+      "package": ""
+    }
+  ],
+  "items": [
+    {
+      "taken_at": 1672700857,
+      "pk": 3007155203323310000,
+      "id": "3007155203323309913_4017947671",
+      "device_timestamp": 1672700857,
+      "media_type": 2,
+      "code": "Cm7j7mOja9Z",
+      "client_cache_key": "MzAwNzE1NTIwMzMyMzMwOTkxMw==.2",
+      "filter_type": 0,
+      "is_unified_video": false,
+      "should_request_ads": false,
+      "original_media_has_visual_reply_media": false,
+      "caption_is_edited": false,
+      "like_and_view_counts_disabled": false,
+      "commerciality_status": "not_commercial",
+      "is_paid_partnership": false,
+      "is_visual_reply_commenter_notice_enabled": false,
+      "clips_tab_pinned_user_ids": [],
+      "has_delayed_metadata": false,
+      "fundraiser_tag": {
+        "has_standalone_fundraiser": false
+      },
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "max_num_visible_preview_comments": 2,
+      "has_more_comments": true,
+      "preview_comments": [],
+      "photo_of_you": false,
+      "is_organic_product_tagging_eligible": false,
+      "can_see_insights_as_brand": false,
+      "user": {
+        "has_anonymous_profile_picture": false,
+        "follower_count": 116652,
+        "fan_club_info": {
+          "fan_club_id": null,
+          "fan_club_name": null,
+          "is_fan_club_referral_eligible": null,
+          "fan_consideration_page_revamp_eligiblity": null,
+          "is_fan_club_gifting_eligible": null
+        },
+        "transparency_product_enabled": false,
+        "is_favorite": false,
+        "is_unpublished": false,
+        "pk": 4017947671,
+        "pk_id": "4017947671",
+        "username": "rocketmoney",
+        "full_name": "Rocket Money",
+        "is_private": false,
+        "is_verified": true,
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_bestie": false,
+          "is_restricted": false,
+          "is_feed_favorite": false
+        },
+        "profile_pic_id": "2905585947702102387_4017947671",
+        "profile_pic_url": "https://images.pexels.com/videos/8059611/pexels-photo-8059611.jpeg?w=640",
+        "account_badges": []
+      },
+      "like_count": 317,
+      "has_liked": false,
+      "image_versions2": {
+        "candidates": [
+          {
+            "width": 360,
+            "height": 640,
+            "url": "https://images.pexels.com/videos/8059611/pexels-photo-8059611.jpeg?w=640",
+            "scans_profile": "e15",
+            "estimated_scans_sizes": [
+              3536,
+              7073,
+              10610,
+              14147,
+              17683,
+              31831,
+              31831,
+              31831,
+              31831
+            ]
+          }
+        ]
+      },
+      "original_width": 2160,
+      "original_height": 3840,
+      "caption": {
+        "pk": 17971339175003180,
+        "user_id": 4017947671,
+        "text": "Yes, you have subscriptions you've forgotten about. And yes, they're costing you hundreds a year. That's why you need Rocket Money.\n\n🤑 Find and cancel hidden subscriptions\n🤑 End free trials that are costing you\n🤑 Put wasted $$$ back in your pocket\n\nDownload today.",
+        "type": 1,
+        "created_at": 1672700858,
+        "created_at_utc": 1672700858,
+        "content_type": "comment",
+        "status": "Active",
+        "bit_flags": 0,
+        "did_report_as_spam": false,
+        "share_enabled": false,
+        "user": {
+          "pk": 4017947671,
+          "pk_id": "4017947671",
+          "username": "rocketmoney",
+          "full_name": "Rocket Money",
+          "is_private": false,
+          "is_verified": true,
+          "profile_pic_id": "2905585947702102387_4017947671",
+          "profile_pic_url": "https://images.pexels.com/videos/8059611/pexels-photo-8059611.jpeg?w=640",
+          "fbid_v2": "17841403950152243",
+          "follower_count": 116488
+        },
+        "is_covered": false,
+        "is_ranked_comment": false,
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00",
+        "media_id": 3007155203323310000,
+        "private_reply_status": 0,
+        "hide_username": false
+      },
+      "comment_inform_treatment": {
+        "should_have_inform_treatment": false,
+        "text": "",
+        "url": null,
+        "action_type": null
+      },
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null,
+        "sharing_friction_payload": null
+      },
+      "is_dash_eligible": 1,
+      "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT31.253334045410156S\">\n  <Period id=\"0\" duration=\"PT31.253334045410156S\">\n    <AdaptationSet id=\"0\" contentType=\"video\" width=\"1080\" height=\"1920\" frameRate=\"15360/512\" subsegmentAlignment=\"true\" par=\"9:16\" FBUnifiedUploadResolutionMos=\"360:76.99\">\n      <Representation id=\"699745861671939(mpd_qe=ig_ads_xhe_audio_backtest_0201)vd\" bandwidth=\"1245117\" codecs=\"vp09.00.40.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"1080\" height=\"1920\" FBQualityClass=\"hdr1\" FBQualityLabel=\"1080w\" FBPlaybackResolutionMos=\"0:100.00,360:96.81,480:96.24,720:95.23,1080:91.67\">\n        <BaseURL>https://scontent-sea1-1.cdninstagram.com/v/t66.30100-16/321724225_6113786668685209_6219815881302264439_n.mp4?cb=677c4ff2-3372a880&amp;efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3F1aWNfY29uZ2VzdGlvbl9jb250cm9sX21vbm90b25pY190aW1lOnRpZ29uX2xpZ2VyX2JiciJ9&amp;_nc_ht=scontent-sea1-1.cdninstagram.com&amp;_nc_cat=101&amp;_nc_ohc=3cr30IqqSHMAX_NE_3Y&amp;edm=APcnxpQBAAAA&amp;ccb=7-5&amp;oh=00_AfD0-VU8L7JdEomOqbuLlUAU5FOkdoMq6kGDQ-DTej-R1g&amp;oe=63E482DF&amp;_nc_sid=1b1685</BaseURL>\n        <SegmentBase indexRange=\"792-907\" timescale=\"15360\" FBFirstSegmentRange=\"908-1436955\" FBSecondSegmentRange=\"1436956-2226202\" FBPrefetchSegmentRange=\"908-2226202\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"554544966281460(mpd_qe=ig_ads_xhe_audio_backtest_0201)v\" bandwidth=\"147455\" codecs=\"vp09.00.30.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"424\" height=\"754\" FBQualityClass=\"sdr1\" FBQualityLabel=\"424w\" FBPlaybackResolutionMos=\"0:100.00,360:81.37,480:75.13,720:68.11,1080:62.75\">\n        <BaseURL>https://scontent-sea1-1.cdninstagram.com/v/t66.30100-16/322577058_132033309712451_3013530395910132853_n.mp4?cb=677c4ff2-3372a880&amp;efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3F1aWNfY29uZ2VzdGlvbl9jb250cm9sX21vbm90b25pY190aW1lOnRpZ29uX2xpZ2VyX2JiciJ9&amp;_nc_ht=scontent-sea1-1.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=SpuMOW2jTmcAX9B0YUW&amp;edm=APcnxpQBAAAA&amp;ccb=7-5&amp;oh=00_AfAYSq6v9C1bgUNenQxJGzOwGourJY7grQt7KAt_IS7W4A&amp;oe=63E4314A&amp;_nc_sid=1b1685</BaseURL>\n        <SegmentBase indexRange=\"792-907\" timescale=\"15360\" FBFirstSegmentRange=\"908-134414\" FBSecondSegmentRange=\"134415-238881\" FBPrefetchSegmentRange=\"908-238881\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"690434412462986(mpd_qe=ig_ads_xhe_audio_backtest_0201)v\" bandwidth=\"280276\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"720\" height=\"1280\" FBQualityClass=\"hdr1\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,360:90.41,480:87.95,720:82.11,1080:79.96\">\n        <BaseURL>https://scontent-sea1-1.cdninstagram.com/v/t66.30100-16/322655456_2207128289468575_204515253984988823_n.mp4?cb=677c4ff2-3372a880&amp;efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3F1aWNfY29uZ2VzdGlvbl9jb250cm9sX21vbm90b25pY190aW1lOnRpZ29uX2xpZ2VyX2JiciJ9&amp;_nc_ht=scontent-sea1-1.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=q78xQ2gFu4MAX_uiTxx&amp;edm=APcnxpQBAAAA&amp;ccb=7-5&amp;oh=00_AfD-LpMZ2Z_Lmf9L95NSZ7xxVrGGm1sjaSUrqJbh1A7KFg&amp;oe=63E48648&amp;_nc_sid=1b1685</BaseURL>\n        <SegmentBase indexRange=\"792-907\" timescale=\"15360\" FBFirstSegmentRange=\"908-258516\" FBSecondSegmentRange=\"258517-455520\" FBPrefetchSegmentRange=\"908-455520\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"1324600841638478(mpd_qe=ig_ads_xhe_audio_backtest_0201)v\" bandwidth=\"470531\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"720\" height=\"1280\" FBQualityClass=\"hdr1\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,360:94.06,480:92.56,720:87.27,1080:85.46\">\n        <BaseURL>https://scontent-sea1-1.cdninstagram.com/v/t66.30100-16/120028660_214721604291898_2847109907175575522_n.mp4?cb=677c4ff2-3372a880&amp;efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3F1aWNfY29uZ2VzdGlvbl9jb250cm9sX21vbm90b25pY190aW1lOnRpZ29uX2xpZ2VyX2JiciJ9&amp;_nc_ht=scontent-sea1-1.cdninstagram.com&amp;_nc_cat=110&amp;_nc_ohc=ORYhPai7FfwAX9CDdVS&amp;edm=APcnxpQBAAAA&amp;ccb=7-5&amp;oh=00_AfDhKX2IGCk3P2u47DdeZdUJwOU4dpFpHV9jn24Iaj8jDQ&amp;oe=63E48CAD&amp;_nc_sid=1b1685</BaseURL>\n        <SegmentBase indexRange=\"792-907\" timescale=\"15360\" FBFirstSegmentRange=\"908-449032\" FBSecondSegmentRange=\"449033-770415\" FBPrefetchSegmentRange=\"908-770415\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    <Representation id=\"1883373028678373(mpd_qe=ig_ads_xhe_audio_backtest_0201)v\" bandwidth=\"729715\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" width=\"720\" height=\"1280\" FBQualityClass=\"hdr1\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,360:95.68,480:94.66,720:89.77,1080:88.10\">\n        <BaseURL>https://scontent-sea1-1.cdninstagram.com/v/t66.30100-16/121183841_505598178088445_4397149836906150165_n.mp4?cb=677c4ff2-3372a880&amp;efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3F1aWNfY29uZ2VzdGlvbl9jb250cm9sX21vbm90b25pY190aW1lOnRpZ29uX2xpZ2VyX2JiciJ9&amp;_nc_ht=scontent-sea1-1.cdninstagram.com&amp;_nc_cat=105&amp;_nc_ohc=M5ddAUDlDmEAX-IaRjg&amp;edm=APcnxpQBAAAA&amp;ccb=7-5&amp;oh=00_AfCRoRoDkeP_NLj5mdexhKmc-FDHM5v51Of_am5CBpZeCw&amp;oe=63E4115F&amp;_nc_sid=1b1685</BaseURL>\n        <SegmentBase indexRange=\"792-907\" timescale=\"15360\" FBFirstSegmentRange=\"908-734385\" FBSecondSegmentRange=\"734386-1219314\" FBPrefetchSegmentRange=\"908-1219314\">\n          <Initialization range=\"0-791\"/>\n        </SegmentBase>\n      </Representation>\n    </AdaptationSet>\n  <AdaptationSet id=\"0\" contentType=\"audio\" subsegmentAlignment=\"true\">\n      <Representation id=\"1265517027640130ad\" bandwidth=\"72273\" codecs=\"mp4a.40.42\" mimeType=\"audio/mp4\" FBAvgBitrate=\"72031\" audioSamplingRate=\"48000\">\n        <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n        <BaseURL>https://scontent-sea1-1.cdninstagram.com/v/t66.30100-16/48469953_734678427805650_8846065622597870699_n.mp4?cb=677c4ff2-3372a880&amp;efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3F1aWNfY29uZ2VzdGlvbl9jb250cm9sX21vbm90b25pY190aW1lOnRpZ29uX2xpZ2VyX2JiciJ9&amp;_nc_ht=scontent-sea1-1.cdninstagram.com&amp;_nc_cat=106&amp;_nc_ohc=RrFYYrcPvX4AX9WbCkT&amp;edm=APcnxpQBAAAA&amp;ccb=7-5&amp;oh=00_AfA8kTvqm9kX1t78QklTddAJs1IOchHykEZm2X-41ueINQ&amp;oe=63E43B8E&amp;_nc_sid=1b1685</BaseURL>\n        <SegmentBase indexRange=\"831-946\" timescale=\"48000\" FBFirstSegmentRange=\"947-55307\" FBSecondSegmentRange=\"55308-107543\" FBPrefetchSegmentRange=\"947-107543\">\n          <Initialization range=\"0-830\"/>\n        </SegmentBase>\n      </Representation>\n    </AdaptationSet>\n  </Period>\n</MPD>",
+      "video_codec": "vp09.00.40.08.00.01.01.01.00",
+      "number_of_qualities": 5,
+      "video_versions": [
+        {
+          "type": 101,
+          "width": 720,
+          "height": 1280,
+          "url": "https://player.vimeo.com/external/554762074.sd.mp4?s=024a3a1467e6cf23ccffec60f3349f76d362a77c&profile_id=164",
+          "id": "17969203514024854"
+        },
+        {
+          "type": 102,
+          "width": 480,
+          "height": 854,
+          "url": "https://player.vimeo.com/external/554762074.sd.mp4?s=024a3a1467e6cf23ccffec60f3349f76d362a77c&profile_id=164",
+          "id": "18336580276052069"
+        },
+        {
+          "type": 103,
+          "width": 480,
+          "height": 854,
+          "url": "https://player.vimeo.com/external/554762074.sd.mp4?s=024a3a1467e6cf23ccffec60f3349f76d362a77c&profile_id=164",
+          "id": "18336580276052069"
+        }
+      ],
+      "has_audio": true,
+      "video_duration": 31.296,
+      "can_viewer_save": true,
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "view_count": 36485,
+      "play_count": 210806,
+      "injected": {
+        "label": "Sponsored",
+        "show_icon": true,
+        "hide_label": "Hide this",
+        "is_demo": false,
+        "view_tags": [],
+        "is_holdout": false,
+        "tracking_token": "AI@AQJcn88jCw4XOn1j3nxRGh-ylWtwbpfScYS_PBqizM2msjegUeMi333fTdeGMXDa-rOwTe3GRYOGArpyCpfwOori",
+        "show_ad_choices": false,
+        "ad_title": "Rocket Money",
+        "about_ad_params": "",
+        "direct_share": true,
+        "ad_id": 23853190989950556,
+        "campaign_id": 23852198476940556,
+        "app_id": 1113579108715791,
+        "fb_app_id": 0,
+        "page_id": 633318986770616,
+        "actor_id": 1239674389429425,
+        "media_id": 3007155203323310000,
+        "display_viewability_eligible": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 197239.5066000288,
+            "ecpmPrice": 120747,
+            "ectr": 0.5048828125,
+            "ecvr": 0.0026797913014888763,
+            "postImpEcvr": 2869676,
+            "organicBidInfo": {
+              "organicBidCpm": 2.244233441217719,
+              "userDollarValue": 3000,
+              "serializedPacedOrganicBidMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":2.244233}",
+              "serializedOrganicEventProbMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":1}",
+              "serializedEventQualityMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":2.244233}",
+              "serializedImpOrganicBidMap": "{\"AD_EVENT_TYPE_REPETITION\":-0.109489,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":-0.315655,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":2.903411,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":-0.244243,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":0.01021,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_BID\":0,\"AD_EVENT_TYPE_UNIFIED_OOPS_DELIVERY\":0,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_BID_MEASUREMENT\":0,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_QUALITY_COEFF\":0,\"AD_EVENT_TYPE_PNFR_BID\":0,\"AD_EVENT_TYPE_META_FEATURE_SUBSIDY\":0}",
+              "serializedImpOrganicCoeffMap": null,
+              "serializedImpOrganicScoreMap": "{\"AD_EVENT_TYPE_REPETITION\":0.014599,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0.029977,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":1,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":0.00013,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0.010489,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":0.064823,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_BID\":0.900975,\"AD_EVENT_TYPE_UNIFIED_OOPS_DELIVERY\":0.030811,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_BID_MEASUREMENT\":0.920956,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_QUALITY_COEFF\":0.080975,\"AD_EVENT_TYPE_PNFR_BID\":0,\"AD_EVENT_TYPE_META_FEATURE_SUBSIDY\":1}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 44,
+            "ecpsBidRank": 98,
+            "totalBidRank": 98
+          }
+        },
+        "should_show_secondary_cta_on_profile": false,
+        "creation_source": "ADS_MANAGER",
+        "invalidation_rules": {
+          "meta_ids": [
+            "ad_id"
+          ],
+          "local_surface": [
+            {
+              "instruction": {
+                "signal": "seen",
+                "conditions": [
+                  {
+                    "lhs": "dwelltime",
+                    "comparator": "ge",
+                    "rhs": 250
+                  },
+                  {
+                    "lhs": "time",
+                    "comparator": "le",
+                    "rhs": 7200000
+                  }
+                ]
+              }
+            },
+            {
+              "instruction": {
+                "signal": "x-out"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_pool"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_inserted"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "app_install"
+              }
+            }
+          ]
+        },
+        "is_luxury_vertical_ad": false,
+        "is_shops_ifu_eligible": false,
+        "is_bau_ifu_eligible": false,
+        "brs_threshold": 100,
+        "phone_number": null,
+        "lead_gen_new_experience_ineligible": false,
+        "sponsored_ad_disclaimer": null,
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "cookies": [
+          "fr=0EtKqWaYbHAZzJzAq.AWVHcxzVzgUqvgFKUat5H_DCUZI.Bj4p9a..AAA.0.0.Bj4p9a.AWVppwyM0XA; expires=Mon, 08 May 2023 18:58:34 GMT; Max-Age=7776000; path=/; domain=.facebook.com; SameSite=None; httponly; Secure"
+        ],
+        "click_to_direct_lead_gen_ads_info": {
+          "isLeadGenAd": false
+        },
+        "ctd_ads_info": {
+          "business_responsiveness_time_text": null,
+          "welcome_message_text": null,
+          "business_response_time_in_sec": null
+        },
+        "global_position": 3,
+        "is_post_click_afi_eligible": false,
+        "is_consent_growth_ifu_eligible": false,
+        "is_consent_growth_popup_eligible": false,
+        "adtaxon_i18n_top1_l7_prediction": "Services//Platforms & Applications",
+        "cop_render_output": [
+          {
+            "optimization_type": 173,
+            "option_value": 1730003
+          }
+        ]
+      },
+      "is_sensitive_vertical_ad": false,
+      "collapse_comments": false,
+      "ad_metadata": [
+        {
+          "value": "4",
+          "type": 2
+        }
+      ],
+      "link": "market://details?id=com.truebill",
+      "link_text": "Install Now",
+      "ad_action": "appinstall",
+      "link_hint_text": "Tap Photo to Install",
+      "iTunesItem": null,
+      "ad_link_type": 1,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "android_links": [
+        {
+          "linkType": 2,
+          "webUri": "",
+          "androidClass": "",
+          "package": "com.truebill",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": 1,
+          "referrerData": "utm_source=apps.facebook.com&utm_campaign=fb4a&utm_content=%7B%22app%22%3A198910933775388%2C%22t%22%3A1675796314%2C%22source%22%3A%7B%22data%22%3A%222a1418179c1675bc79f729c40dec73c4439be384964b3160d320409fa9fd567ed1e69c2998ebcabc354f26eaa1501aa4b9f4f13811880f05744f8be438b865b6f576fe2570a8a5024a16a927e198d106769ae5e8941e0e94f8665282e134acfe61567fd570cea56db49966ccbd5bdaf4e8d10d67b87dddd41ab1140e6fa3c16b18eea28c9b692d837b138d092e5f34706895c7ca5f168f4da2368ed43b1fe234faf0a5fc63933fbfc0af26d0bf37dc0f9cb80fc5e88574bd196d7b2d1959274aee89e89acfdcab2c8194a8f9a2f44b5729194482a832c5d700d97addc13570112da4ef1e37d6e497bf6d16dccefc88add6f3498ff952c6209d461ed68b15d8afe356d8d8fc420797faa673567f546d671552c87f5a722e5c0863cdbc1ecce06cf04adcc5862dcb11ffb2dfdbedb7f248f11a7a0a34ab3e37403dd4007d32040f57963af57b67c1dd2100f97bfd9bee3cd0a44915108ecda833656a692b45a8f4697ad20256894b15e3f03644c7e721bf734b789d9a40c3e7f12f2bf67ad87c376f64ae2b453e91ce32ecae203b0ca61bc65b86297f26339267f94293f71d540f36d41541984b949f2315cb3ff65d5dec56250377e13b23a3826e1d5126433322e67933b224c3456ea25bf6d8afc8b8d670c29f7b62d6c14d4ea75a99637ecca9b343c66a03f12dcefbca50b4b356802b93e1e5%22%2C%22nonce%22%3A%2230f5085e7876d9c6c5a43eaa%22%7D%7D",
+          "isAndroidAppLink": null
+        },
+        {
+          "linkType": 1,
+          "webUri": "http://play.google.com/store/apps/details?id=com.truebill&fbclid=PAAab1PSb4Dw_nmMSRGcOd3ISEkahI2zeRmhLQ_3kJqoOgCVGToZJxHWTeNyI&external_browser_redirect=true",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8gYrC3rgFbg3GEJvCm3p3VwmkvQun2q0HGiUsr7NCo4xnzBD9707ydrJYewqKYKO1ApT4amJVBt5-aoYKsb-d58bCI-iuiaPOcP2_UvwX0w2bgKefVKeh-K5gCSRTrl7UEBdoD97kbJLYf_5QaoRdg6XcCHBUJrLhEI6V_D2-39_zlG8bVND-EMtEvzpF0pX9LlBDaoIjbklBUa8zwsSJbp6NVYNjlagqhMAKIe_WyRGnOl2SSvYHydZlGAxpsWmhPMX63I1-8fKmmWA2kBd9C9F50K1ruZl0OKJecJ6EoCrXubXLOjvI-lPF0fUxnOce46FpU5jo6Lk3gUThsqAkhxYK1b6f0-yYHMUEk2Qaebq_pL71dPxnhla1fly7rNFI2Gu1NlgT--PKo_R5tAkLq&a=1&hash=Ad_Q4xHNq3S1pkbEZeU",
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "referrerData": null,
+          "isAndroidAppLink": null
+        }
+      ],
+      "force_overlay": false,
+      "hide_nux_text": true,
+      "overlay_text": "View in Play Store",
+      "overlay_title": "Rocket Money",
+      "overlay_subtitle": "View in Play Store",
+      "dominant_color": "#1969F9",
+      "fb_page_url": "https://www.facebook.com/rocketmoney/",
+      "item_client_gap_rules": {
+        "time_based_insertion_gap_in_seconds": null,
+        "push_up_min_gap": null,
+        "enable_user_engagement_base_insertion": false,
+        "user_engagement_based_insertion_settings": null
+      },
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNGIzN2M3NTkwZDBiNGU1NWI3MzBiYzQ3NDMxMmQxNzMzMDA3MTU1MjAzMzIzMzA5OTEzIiwic2VydmVyX3Rva2VuIjoiMTY3NTc5NjMxNjY1MHwzMDA3MTU1MjAzMzIzMzA5OTEzfDU1MDYzNjUxNDk0fGM1ZGYzN2RhYjhlZTQzYzUzZjgzMmMwMDcxOWIyZTlkNmMyM2U1OTNkOGY3NWEwNDk1M2VkNTI5NTg5ZGU1MzEifSwic2lnbmF0dXJlIjoiIn0=",
+      "expiring_at": 1675882716,
+      "has_shared_to_fb": 0,
+      "product_type": "ad",
+      "deleted_reason": 0,
+      "integrity_review_decision": "pending",
+      "commerce_integrity_review_decision": null,
+      "music_metadata": null,
+      "is_artist_pick": false,
+      "ig_media_sharing_disabled": false,
+      "can_view_more_preview_comments": false,
+      "comment_count": 5,
+      "hide_view_all_comment_entrypoint": false
+    }
+  ],
+  "hide_label": "Hide this",
+  "media_background": {
+    "top": {
+      "background_color": "#E9F2F9"
+    },
+    "bottom": {
+      "background_color": "#A67938"
+    }
+  },
+  "dominant_color": "#1969F9",
+  "is_sensitive_vertical_ad": false,
+  "overlay_subtitle": "View in Play Store",
+  "cop_render_output": [
+    {
+      "optimization_type": 173,
+      "option_value": 1730003
+    }
+  ],
+  "is_luxury_vertical_ad": false,
+  "cta_info": {
+    "delay_time_ms": 3000,
+    "highlight_time_ms": 5000
+  },
+  "enable_reels_end_scene": false,
+  "view_state_item_type": 1,
+  "reels_mid_scene_info": {
+    "format": "attached_module",
+    "delay_in_ms": 2000,
+    "title_list": ["A long headline that should be wrapped to two lines but truncated at the end of the line"],
+    "subtitle_list": ["A long subtitle that should be truncated at the end of the second line"],
+    "mid_scene_card_height": 132,
+    "image_url_list": ["https://media.istockphoto.com/id/1334993269/vector/green-frog-on-a-white-background.jpg?s=612x612&w=0&k=20&c=1FSGovE6-gV3rerrp7zg7oA_j5yd1oLqBCixT6BhSDw="],
+    "image_width": 44,
+    "image_height": 44
+  }
+}

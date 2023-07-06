@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="1.0dip" android:color="@color/igds_status_pill_ripple" />
+    <corners android:radius="@dimen/abc_select_dialog_padding_start_material" />
+    <solid android:color="@color/canvas_bottom_sheet_description_text_color" />
+</shape>

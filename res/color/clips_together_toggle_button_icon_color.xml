@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/canvas_bottom_sheet_description_text_color" android:state_activated="false" />
+    <item android:color="@color/igds_icon_on_white" android:state_activated="true" />
+</selector>

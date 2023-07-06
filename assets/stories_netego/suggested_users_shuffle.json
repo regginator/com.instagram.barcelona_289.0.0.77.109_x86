@@ -1,0 +1,200 @@
+{
+  "id": "suggested_users_shuffle",
+  "latest_reel_media": null,
+  "expiring_at": 9571394248,
+  "seen": null,
+  "can_reply": null,
+  "can_gif_quick_reply": true,
+  "can_reshare": null,
+  "reel_type": "netego_reel",
+  "suggested_users": {
+    "title": "Suggested for You",
+    "action_text": "Shuffle Suggestions",
+    "netego_type": "suggested_users",
+    "is_unit_dismissable": true,
+    "ranking_algorithm": "su_default",
+    "duration": 15,
+    "dynamic_width_enabled": "true",
+    "gradient_animation_enabled": "true",
+    "multiple_gradients_enabled": "true",
+    "large_profile_pictures_enabled": "true",
+    "load_animation_enabled": "true",
+    "no_follow_confirmation": "true",
+    "shuffle_enabled": "true",
+    "smaller_follow_tap_target_enabled": "true",
+    "suggestions": [
+      {
+        "user": {
+          "pk": "90010176924925",
+          "username": "suinstories01",
+          "full_name": "Sam Test",
+          "is_private": false,
+          "profile_pic_url": "https://i.ibb.co/mv3ncHG/beach.png",
+          "profile_pic_id": "1382910171441140355_4153440330",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false
+        },
+        "algorithm": "ig_normal_followings_of_normal_followings_algorithm",
+        "social_context": "Followed by testlei10 + 17 more",
+        "followed_by": false,
+        "is_new_suggestion": false,
+        "uuid": "7100932505|1589398481"
+      },
+      {
+        "user": {
+          "pk": "90010176924930",
+          "username": "suinstories02",
+          "full_name": "Tim Test",
+          "is_private": true,
+          "profile_pic_url": "https://i.ibb.co/HtsyWtF/park.png",
+          "profile_pic_id": "2107999072236549304_2236432951",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false
+        },
+        "algorithm": "facebook_friends_algorithm",
+        "social_context": "Friend on Facebook",
+        "followed_by": false,
+        "is_new_suggestion": false,
+        "uuid": "7100932505|1589398481"
+      },
+      {
+        "user": {
+          "pk": "90010176924940",
+          "username": "suinstories03",
+          "full_name": "Pat Test",
+          "is_private": false,
+          "profile_pic_url": "https://i.ibb.co/r7WKghc/sunset.png",
+          "profile_pic_id": "2044670018624784487_2262976883",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false
+        },
+        "algorithm": "ig_friends_of_friends_from_tao_laser_algorithm",
+        "social_context": "Followed by testlei20 + 6 more",
+        "followed_by": false,
+        "is_new_suggestion": false,
+        "uuid": "7100932505|1589398481"
+      },
+      {
+        "user": {
+          "pk": "90010176924925123",
+          "username": "suinstories04",
+          "full_name": "Alpha Test",
+          "is_private": false,
+          "profile_pic_url": "https://i.ibb.co/cN9B6mz/keyboard-U.png",
+          "profile_pic_id": "1382910171441140355_4153440330",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false
+        },
+        "algorithm": "ig_normal_followings_of_normal_followings_algorithm",
+        "social_context": "Followed by testlei11 + 17 more",
+        "followed_by": false,
+        "is_new_suggestion": false,
+        "uuid": "7100932505|1589398481"
+      },
+      {
+        "user": {
+          "pk": "90010176924930123",
+          "username": "suinstories05",
+          "full_name": "Beta Test",
+          "is_private": true,
+          "profile_pic_url": "https://i.ibb.co/vzfF214/keyboard-L.png",
+          "profile_pic_id": "2107999072236549304_2236432951",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false
+        },
+        "algorithm": "facebook_friends_algorithm",
+        "social_context": "Friend on Facebook",
+        "followed_by": false,
+        "is_new_suggestion": false,
+        "uuid": "7100932505|1589398481"
+      },
+      {
+        "user": {
+          "pk": "90010176924940123",
+          "username": "suinstories06",
+          "full_name": "Gamma Test",
+          "is_private": false,
+          "profile_pic_url": "https://i.ibb.co/BsjxRh3/apple-mouse.png",
+          "profile_pic_id": "2044670018624784487_2262976883",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false
+        },
+        "algorithm": "ig_friends_of_friends_from_tao_laser_algorithm",
+        "social_context": "Followed by testlei02 + 16 more",
+        "followed_by": false,
+        "is_new_suggestion": false,
+        "uuid": "7100932505|1589398481"
+      },
+      {
+        "user": {
+          "pk": "90010176924925456",
+          "username": "suinstories07",
+          "full_name": "Tom Test",
+          "is_private": false,
+          "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+          "profile_pic_id": "1382910171441140355_4153440330",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false
+        },
+        "algorithm": "ig_normal_followings_of_normal_followings_algorithm",
+        "social_context": "Followed by testlei01 + 7 more",
+        "followed_by": false,
+        "is_new_suggestion": false,
+        "uuid": "7100932505|1589398481"
+      },
+      {
+        "user": {
+          "pk": "90010176924930456",
+          "username": "suinstories08",
+          "full_name": "Leo Test",
+          "is_private": true,
+          "profile_pic_url": "https://i.ibb.co/qp9wjGT/27578358-1921177271530788-1328907342883848192-n.jpg",
+          "profile_pic_id": "2107999072236549304_2236432951",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false
+        },
+        "algorithm": "facebook_friends_algorithm",
+        "social_context": "Friend on Facebook",
+        "followed_by": false,
+        "is_new_suggestion": false,
+        "uuid": "7100932505|1589398481"
+      },
+      {
+        "user": {
+          "pk": "90010176924940456",
+          "username": "suinstories09",
+          "full_name": "Jerry Test",
+          "is_private": false,
+          "profile_pic_url": "https://i.ibb.co/KFH712h/fb-logo.png",
+          "profile_pic_id": "2044670018624784487_2262976883",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false
+        },
+        "algorithm": "ig_friends_of_friends_from_tao_laser_algorithm",
+        "social_context": "Followed by testlei02 + 16 more",
+        "followed_by": false,
+        "is_new_suggestion": false,
+        "uuid": "7100932505|1589398481"
+      }
+    ],
+    "id": "2512152077399",
+    "tracking_token": "eyJ1dWlkIjoiZWVjYTVjMDI4NmNiNGUzOGJkOGJjNTcwZDM4YmY0NjUiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MC4wMDQxOTMwMDU2LCJmYl91c2VyX2lkIjoxMDAwMTE4MDAwODA0MjMsIm5ldF9lZ29fdHlwZSI6NDgsImdsb2JhbF9wb3NpdGlvbiI6MSwiZ2FwX3J1bGVfdmFsdWUiOjEsInJpZ2h0X2dhcF9ydWxlX3ZhbHVlIjoxLCJoaWdoZXN0X25ldGVnb19wb3NpdGlvbiI6MSwiZWNwbV9wcmljZSI6MTU3OTUuMCwicGFjaW5nX3FlX2luZm8iOiJpZ19zdV9zdG9yaWVzX3Rlc3RpbmdfZG9fbm90X2FsbG9jYXRlfGVuZ190ZXN0aW5nX3NodWZmbGUiLCJ1c2VyX2RvbGxhcl92YWx1ZSI6Mi4wNjg1NTU4OTg0LCJpc19uZXdfaW5zZXJ0aW9uIjp0cnVlLCJpc19mcm9tX25lZWR5X3VzZXIiOmZhbHNlLCJhdWN0aW9uX3ByaWNlX291dGNvbWUiOjN9fQ=="
+  },
+  "netego_type": "suggested_users_in_story",
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "highest_position_rule": 1,
+    "min_media_gap_to_previous_item": 3,
+    "time_gap_to_previous_item_in_sec": 11.5
+  },
+  "priority_index": 1
+}
+
+

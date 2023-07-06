@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/grey_8" />
+            <size android:height="@dimen/debug_head_height" android:width="@dimen/cover_photo_picker_filmstrip_frame_width" />
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/red_5" />
+            <size android:height="@dimen/activation_module_horizontal_margin" android:width="@dimen/activation_module_horizontal_margin" />
+        </shape>
+    </item>
+</layer-list>

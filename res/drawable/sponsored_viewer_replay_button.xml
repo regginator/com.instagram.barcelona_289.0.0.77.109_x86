@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#26ffffff" />
+            <size android:height="@dimen/abc_action_bar_stacked_max_height" android:width="@dimen/abc_action_bar_stacked_max_height" />
+        </shape>
+    </item>
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/instagram_arrow_cw_pano_filled_16" android:tint="@color/canvas_bottom_sheet_description_text_color" />
+    </item>
+</layer-list>

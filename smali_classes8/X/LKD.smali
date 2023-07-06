@@ -1,0 +1,295 @@
+.class public final LX/LKD;
+.super LX/DLQ;
+.source ""
+
+
+# instance fields
+.field public final A00:Ljava/util/List;
+
+
+# direct methods
+.method public constructor <init>(Lcom/instagram/service/session/UserSession;)V
+    .locals 3
+
+    .line 0
+    invoke-direct {p0, p1}, LX/DLQ;-><init>(Lcom/instagram/service/session/UserSession;)V
+
+    .line 1
+    .line 2
+    .line 3
+    sget-object v2, LX/LM3;->A0B:LX/LM3;
+
+    .line 4
+    .line 5
+    sget-object v1, LX/LM3;->A06:LX/LM3;
+
+    .line 6
+    .line 7
+    sget-object v0, LX/LM3;->A05:LX/LM3;
+
+    .line 8
+    .line 9
+    filled-new-array {v2, v1, v0}, [LX/LM3;
+
+    .line 10
+    .line 11
+    .line 12
+    move-result-object v0
+
+    .line 13
+    invoke-static {v0}, LX/0aH;->A17([Ljava/lang/Object;)Ljava/util/List;
+
+    .line 14
+    .line 15
+    .line 16
+    move-result-object v0
+
+    .line 17
+    iput-object v0, p0, LX/LKD;->A00:Ljava/util/List;
+
+    .line 18
+    .line 19
+    return-void
+    .line 20
+    .line 21
+    .line 22
+.end method
+
+
+# virtual methods
+.method public final A00()LX/LMx;
+    .locals 1
+
+    .line 0
+    sget-object v0, LX/LMx;->A0C:LX/LMx;
+
+    .line 1
+    .line 2
+    return-object v0
+    .line 3
+.end method
+
+.method public final A01(LX/LMw;Lcom/instagram/share/facebook/upsell/noticestate/internal/CXPNoticeStateRepository;)LX/18F;
+    .locals 4
+
+    .line 0
+    const/4 v0, 0x1
+
+    .line 1
+    invoke-static {p2, v0}, LX/0OR;->A0B(Ljava/lang/Object;I)V
+
+    .line 2
+    .line 3
+    .line 4
+    const-string v0, "BOTTOMSHEET_UNIFIED_STORIES_FEED"
+
+    .line 5
+    .line 6
+    invoke-static {p2, v0}, LX/LMV;->A01(Lcom/instagram/share/facebook/upsell/noticestate/internal/CXPNoticeStateRepository;Ljava/lang/String;)LX/18F;
+
+    .line 7
+    .line 8
+    .line 9
+    move-result-object v3
+
+    .line 10
+    iget-object v0, p0, LX/DLQ;->A00:Lcom/instagram/service/session/UserSession;
+
+    .line 11
+    .line 12
+    invoke-static {v0}, LX/3gG;->A01(Lcom/instagram/service/session/UserSession;)Landroid/content/SharedPreferences;
+
+    .line 13
+    .line 14
+    .line 15
+    move-result-object v2
+
+    .line 16
+    const/16 v0, 0x5c1
+
+    .line 17
+    .line 18
+    invoke-static {v0}, LX/0wo;->A00(I)Ljava/lang/String;
+
+    .line 19
+    .line 20
+    .line 21
+    move-result-object v1
+
+    .line 22
+    const/4 v0, 0x0
+
+    .line 23
+    invoke-interface {v2, v1, v0}, Landroid/content/SharedPreferences;->getInt(Ljava/lang/String;I)I
+
+    .line 24
+    .line 25
+    .line 26
+    move-result v1
+
+    .line 27
+    const/16 v0, 0x5c2
+
+    .line 28
+    .line 29
+    invoke-static {v0}, LX/0wo;->A00(I)Ljava/lang/String;
+
+    .line 30
+    .line 31
+    .line 32
+    move-result-object v0
+
+    .line 33
+    invoke-static {v2, v3, v0, v1}, LX/Kyv;->A0O(Landroid/content/SharedPreferences;LX/18F;Ljava/lang/String;I)LX/18F;
+
+    .line 34
+    .line 35
+    .line 36
+    move-result-object v0
+
+    .line 37
+    return-object v0
+    .line 38
+.end method
+
+.method public final A02()Ljava/lang/String;
+    .locals 1
+
+    .line 0
+    const-string v0, "BOTTOMSHEET_UNIFIED_STORIES_FEED"
+
+    .line 1
+    .line 2
+    return-object v0
+    .line 3
+.end method
+
+.method public final A03()Ljava/util/List;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/LKD;->A00:Ljava/util/List;
+
+    .line 1
+    .line 2
+    return-object v0
+    .line 3
+.end method
+
+.method public final A07(Lcom/instagram/service/session/UserSession;)Z
+    .locals 1
+
+    const/4 v0, 0x1
+
+    return v0
+.end method
+
+.method public final A08(LX/LcA;)Z
+    .locals 8
+
+    .line 0
+    const/4 v7, 0x0
+
+    .line 1
+    invoke-static {p1, v7}, LX/0OR;->A0B(Ljava/lang/Object;I)V
+
+    .line 2
+    .line 3
+    .line 4
+    iget-object v6, p1, LX/LcA;->A04:LX/4pM;
+
+    .line 5
+    .line 6
+    if-nez v6, :cond_0
+
+    .line 7
+    .line 8
+    sget-object v6, LX/MHL;->A00:LX/MHL;
+
+    .line 9
+    .line 10
+    :cond_0
+    invoke-virtual {p0}, LX/DLQ;->A05()Z
+
+    .line 11
+    .line 12
+    .line 13
+    move-result v0
+
+    .line 14
+    sget-object v1, LX/1zn;->A06:LX/3aJ;
+
+    .line 15
+    .line 16
+    iget-object v2, p1, LX/LcA;->A00:Landroid/app/Activity;
+
+    .line 17
+    .line 18
+    iget-object v5, p1, LX/LcA;->A03:Lcom/instagram/service/session/UserSession;
+
+    .line 19
+    .line 20
+    iget-object v4, p1, LX/LcA;->A02:LX/LMw;
+
+    .line 21
+    .line 22
+    if-eqz v0, :cond_1
+
+    .line 23
+    .line 24
+    invoke-static {v4, v6}, LX/0wp;->A1T(Ljava/lang/Object;Ljava/lang/Object;)V
+
+    .line 25
+    .line 26
+    .line 27
+    invoke-static {v5}, LX/3aJ;->A00(Lcom/instagram/service/session/UserSession;)LX/1zn;
+
+    .line 28
+    .line 29
+    .line 30
+    move-result-object v0
+
+    .line 31
+    iput-object v4, v0, LX/49z;->A00:LX/LMw;
+
+    .line 32
+    .line 33
+    iput-boolean v7, v0, LX/49z;->A06:Z
+
+    .line 34
+    .line 35
+    iput-object v6, v0, LX/49z;->A04:LX/4pM;
+
+    .line 36
+    .line 37
+    invoke-virtual {v0, v2}, LX/49z;->A05(Landroid/app/Activity;)V
+
+    .line 38
+    .line 39
+    .line 40
+    const/4 v0, 0x1
+
+    .line 41
+    return v0
+
+    .line 42
+    :cond_1
+    invoke-virtual {v2}, Landroid/content/Context;->getApplicationContext()Landroid/content/Context;
+
+    .line 43
+    .line 44
+    .line 45
+    move-result-object v3
+
+    .line 46
+    invoke-virtual/range {v1 .. v7}, LX/3aJ;->A03(Landroid/app/Activity;Landroid/content/Context;LX/LMw;Lcom/instagram/service/session/UserSession;LX/4pM;Z)Z
+
+    .line 47
+    .line 48
+    .line 49
+    move-result v0
+
+    .line 50
+    return v0
+    .line 51
+.end method

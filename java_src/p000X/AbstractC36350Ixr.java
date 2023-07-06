@@ -1,0 +1,5 @@
+package p000X;
+/* renamed from: X.Ixr  reason: case insensitive filesystem */
+/* loaded from: classes7.dex */
+public abstract class AbstractC36350Ixr {
+}

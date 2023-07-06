@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quiz_sticker_answer_row_hint_text">
+        <item>ಆಯ್ಕೆ 1</item>
+        <item>ಆಯ್ಕೆ 2</item>
+        <item>ಆಯ್ಕೆ 3</item>
+        <item>ಆಯ್ಕೆ 4</item>
+    </string-array>
+    <string-array name="quiz_sticker_answer_row_options">
+        <item>ಎ</item>
+        <item>ಬಿ</item>
+        <item>ಸಿ</item>
+        <item>ಡಿ</item>
+    </string-array>
+</resources>

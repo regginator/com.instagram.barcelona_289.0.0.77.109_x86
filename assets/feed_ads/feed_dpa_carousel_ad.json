@@ -1,0 +1,1046 @@
+{
+  "media_or_ad": {
+    "id": "3050116578265098836_20269764",
+    "taken_at": 1677822261,
+    "pk": 3050116578265099000,
+    "media_type": 8,
+    "dynamic_item_id": 5784193164971308,
+    "user": {
+      "has_anonymous_profile_picture": false,
+      "is_favorite": false,
+      "is_unpublished": false,
+      "pk": 20269764,
+      "pk_id": "20269764",
+      "username": "adidas",
+      "full_name": "adidas",
+      "is_private": false,
+      "is_verified": true,
+      "friendship_status": {
+        "following": false,
+        "followed_by": false,
+        "blocking": false,
+        "muting": false,
+        "is_private": false,
+        "incoming_request": false,
+        "outgoing_request": false,
+        "is_bestie": false,
+        "is_restricted": false,
+        "is_feed_favorite": false,
+        "subscribed": false,
+        "is_eligible_to_subscribe": false
+      },
+      "profile_pic_id": "2915663505812327894_20269764",
+      "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+      "account_badges": [],
+      "latest_reel_media": 0
+    },
+    "caption": {
+      "content_type": "comment",
+      "user": {
+        "pk": 20269764,
+        "pk_id": "20269764",
+        "username": "adidas",
+        "full_name": "adidas",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_id": "2915663505812327894_20269764",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+      },
+      "user_id": 20269764,
+      "pk": "3050116578265098836_caption",
+      "text": "New season, new reason to create the new. Click here to create your style.",
+      "type": 1,
+      "created_at": 1677822261,
+      "created_at_utc": 1677793461,
+      "media_id": 3050116578265099000,
+      "bit_flags": 0,
+      "status": "Active",
+      "hide_username": false
+    },
+    "can_viewer_save": true,
+    "like_count": 0,
+    "has_liked": false,
+    "has_more_comments": false,
+    "comment_count": 0,
+    "max_num_visible_preview_comments": 2,
+    "comments": [],
+    "caption_is_edited": false,
+    "photo_of_you": false,
+    "injected": {
+      "label": "Sponsored (Demo)",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQLIKoZkOoPtX1JH__QbHdOzZmOLPZHd19toNOVsHv909EzURvqRRq5GItJ1CX4u28fWKXYYuigLBrQ8tyeY8rS4",
+      "show_ad_choices": false,
+      "ad_title": "adidas",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 6305862290229,
+      "campaign_id": 6304498818429,
+      "app_id": 0,
+      "fb_app_id": 0,
+      "page_id": 2005593623024412,
+      "actor_id": 318167291630156,
+      "media_id": 3050116578265099000,
+      "display_viewability_eligible": true,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": null,
+            "serializedImpOrganicScoreMap": "{}"
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "should_show_secondary_cta_on_profile": false,
+      "creation_source": "ADS_MANAGER",
+      "invalidation_rules": {
+        "meta_ids": [
+          "ad_id"
+        ],
+        "local_surface": [
+          {
+            "instruction": {
+              "signal": "seen",
+              "conditions": [
+                {
+                  "lhs": "dwelltime",
+                  "comparator": "ge",
+                  "rhs": 250
+                },
+                {
+                  "lhs": "time",
+                  "comparator": "le",
+                  "rhs": 7200000
+                }
+              ]
+            }
+          },
+          {
+            "instruction": {
+              "signal": "x-out"
+            }
+          },
+          {
+            "instruction": {
+              "signal": "ads_pool"
+            }
+          },
+          {
+            "instruction": {
+              "signal": "ads_inserted"
+            }
+          },
+          {
+            "instruction": {
+              "signal": "app_install"
+            }
+          }
+        ]
+      },
+      "is_luxury_vertical_ad": false,
+      "is_shops_ifu_eligible": false,
+      "is_bau_ifu_eligible": false,
+      "brs_threshold": 100,
+      "phone_number": null,
+      "lead_gen_new_experience_ineligible": false,
+      "sponsored_ad_disclaimer": null,
+      "is_boosted": null,
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=0NX0K4fZpd7ntZqxZ.AWUlcs7geFyZsDUyLR2K6T7GLF4.BkAYk0..AAA.0.0.BkAYk0.AWUTPLVnx6o; expires=Thu, 01 Jun 2023 05:44:20 GMT; Max-Age=7776000; path=/; domain=.facebook.com; SameSite=None; httponly; Secure"
+      ],
+      "click_to_direct_lead_gen_ads_info": {
+        "isLeadGenAd": false
+      },
+      "ctd_ads_info": {
+        "business_responsiveness_time_text": null,
+        "welcome_message_text": null,
+        "business_response_time_in_sec": null
+      },
+      "is_multi_ads_eligible": false,
+      "ig_ad_rendering_cta_trust_info_data": null,
+      "global_position": 5,
+      "is_post_click_afi_eligible": false,
+      "is_consent_growth_ifu_eligible": false,
+      "is_consent_growth_popup_eligible": false,
+      "adtaxon_i18n_top1_l7_prediction": "",
+      "cop_render_output": null
+    },
+    "is_sensitive_vertical_ad": false,
+    "collapse_comments": false,
+    "more_carousel_media_available": false,
+    "total_carousel_media_count": 15,
+    "carousel_media": [
+      {
+        "dynamic_item_id": 5784193164971308,
+        "media_type": 1,
+        "id": "5784193164971308_20269764_card",
+        "pk": 5784193164971308,
+        "image_versions2":{
+          "candidates":[
+            {
+              "width": 1080,
+              "height": 1080,
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-unisex&density=1"
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "5784193164971308_headline",
+          "text": "adidas TERREX x and wander Xploric Jacket",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/terrex-x-and-wander-xploric-jacket/HN6941.html?dfw_tracker=26585-HN6941&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Shop Now",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/terrex-x-and-wander-xploric-jacket/HN6941.html?dfw_tracker=26585-HN6941&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9cqhjUcFE8VuUL5_ljUoaqHtKJLwTwhmpuLetzeOskvXE9tScGN3xjQ8p5SxJm6wlFtXaOT5OEOQuJpTGiI5lvc6psFJmfoOw-cicMZpB_pWZK3zVXlTAPGYd4dWZsgMXN7X90KtyHOz82Eknt7YAVWndIGyUG9PngprCaX-rpadrVVfqEqpaF_78uzK1gvm5zq2ZHFFQUA0zFcQwKLxlt6EkOULmLGjhklVsTQjfDjOtQ9nMG2kTU3eQ8pvMLoqNYQR-qNiIItBeaTOsFUsPyqpzbHix0QyviXxHT-zKnNNREj6Mn2ZxsyIrsGW7MI3JkOlm7FHD-mi0Q-VCb6EWdXv23S_H7NJ4DBqZq1-VQAW3ML0hCAEzCY1Rm6Lizca6dj916_tUv6MT1ini9dPFSc_Jx-h7B-BvdtH0ykZDTYIlxXl_R1VhPAs4gSPCwnZW-KGN1t9URcyeYsb_67Y3cqZ_aGyqowJrF4JCCNyTY2dAOhHqCKtvnCJoLwj54AhPkTAADMXp-nt-x_UPsd9C4-b9lYMG-KXDCyDHOO2508Wnny7PfBg_PHK7N6mIlop-cRG0mZutl9rpWl14Sz3PZEX2R_DTls1VTSlVU7PJhgQpg9-1MTiTDAYvAzM6GeQ5ShwyMgEjK0iaqtXF5eCortx2bn_j07WNKGQ3WZzV_ktuhEUzYBEUZlon6pzRumB5_2wKnMDYGzkTToZIyzzsE-yb11WY0SQ7DmxnKtXr1-hch6litgqv55l0S2JWNbs31FP_6y3kVyPbl3DZBAaFZvf8KjCpj3gt7o5iHN-NztrWtPXOaNrahtuQFUPreT-9ycWcQgzsaWwrF2fAeT16CcWgTGBEkCprtNasSXCWd0TbVZd-H02mGkFYlvJTs59lLPEoGVvZzrJ5XyE3MS9CYFWMB4Zx7n4zI4gmGfPVRfA&a=1&hash=Ad87KkNl8r3eyvWASVg",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#B48757",
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Shop Now"
+        }
+      },
+      {
+        "dynamic_item_id": 5103407899785033,
+        "media_type": 1,
+        "id": "5103407899785033_20269764_card",
+        "pk": 5103407899785033,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-men&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "5103407899785033_headline",
+          "text": "adidas Sleeveless Techfit Top",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/sleeveless-techfit-top/GA8646.html?dfw_tracker=26585-GA8646&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Learn More",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/sleeveless-techfit-top/GA8646.html?dfw_tracker=26585-GA8646&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-4HMcmqQQ5aNa3YbXXE1uGFhmcSjRSGUuJjhkLpjsUYDTiLK1luXIl2lxfMsLkMIW2PObf2azC5bnY3mP1Pm1Ol0rP5Yk8xA1-yqeLXYHIJ5nYsOk8LrC35meq94u5x6O3g_K0XhTo1N_SxvgMq5AIh4bgXqTkwocWSB0oefnKczoRTk2NC7REF9bGT_LYoZfziWrrSL2aj4wWVUI6PIWgCdfrDPhRDqUy6FQ87TE6mdVWNtaa6SXz6b41DxatFRi9aczgbcg8VYzUuOFaptPn7whkDNIoNpd8uq4e3Z3XbfmUghclARG2VU6989Q7tEscD_Shd07cCKIEiqMCRCmU2vXz-j-G6po-zgXf2ztaOCsSuJxarvgORyRMvfcpnozJRO9CucF_KifkPJV2PgEit90JjewoLkzWWJtSEif1g98i0Q1PArmP4RfcAfjqTbO8l8HOs2KpS3PYrNfvRLBiZD2yNSvXfBQmAmvgTMCcg1Hycx_Ldi1M2C_0p-efzRvNbtcB-iQokCWJrrtb79OEnITT0NgDRjRmFKtWOA9jRugD6kqEYgZjwOJYdzolX8iwE-yjW_AmRPrTsXq6Yeq7vWF51suf9A9r3WvhycI2nyzNkdpri0_Tklu_8lj5clFHEYpJxw0aJzIosYOS2QPPO-zIudXDPaMbpGapNi83RD0NUQGE4b1PLFLB6Px2jvdpxAHoFVhlWlF3CYpeuwp5kKY32u41oYae5Ac6QleHQuKj3moIKkPyUmqYQw5qy9uQyH_1AglZoKDWx77Q5NLfMQ2oHpXjKwNu8l69LP-hRQEmbOUjVVFO0X_b9k6ZZ-E-sBLaKadMBmsnUL_-epGGdh-i343yQC7hktsFoIek_LccH4BeA7nBX_7GC_WgWDvsaXxpagsGzYxzUh1mzXfp&a=1&hash=Ad_QyY8J1LmnB3FK2pA",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": null,
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Learn More"
+        }
+      },
+      {
+        "dynamic_item_id": 5531036303674116,
+        "media_type": 1,
+        "id": "5531036303674116_20269764_card",
+        "pk": 5531036303674116,
+        "image_versions2":{
+          "candidates":[
+            {
+              "width": 1080,
+              "height": 1080,
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-women&density=1"
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "5531036303674116_headline",
+          "text": "adidas Graphic Tee",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/graphic-tee/HK2821.html?dfw_tracker=26585-HK2821&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Shop Now",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/graphic-tee/HK2821.html?dfw_tracker=26585-HK2821&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9lPQPQajue-wXg7JJ8IVxZDbfHuoR6ehl0oj5-f6F2gzfD2iIwD0m9GGx5xwtenrfJFZTpMkADRoDRDqQjpde-v_WyEkVlxZXKRR92F29VrJrhf9F9AwQcp7NCCkfGGLfQwaFlc6UdpiIL0BddNZD8sqLCs4upK3v9pRQwnKJGvYQ8hyN9sQX95sbhmwIqvO_Z6FS6UxsB1B-gR1q4vuYYrGiHr-SLKa_jz322wqW42saA4O90iy3DyQ8EEX59kY24p0_pbERLh3qYZkKh42KTqRtpnW78a_i-ufSeN2tqNyARDQHLCdTNVpErm5zacHpucxpLMGXKjBP-IC4F-zzmnLRIwiPxfS2i2_jFvZec9m07-hqfRn0QHx2hJJh7yme8Wb1guhHttpbXVNhLeIVKAeEUBy-krVC_hE40piO-lUMRwspaaleB5Y2Te3KNpdRxjjso_OVx-1VywZbGUJY6Wsw9LXyMmLN0B6YVqohxCv0jHZvSlt4yZnkyH6OE8PDTyPU1T3uyJv8SpLOwB6q49PH3UdwF8MP3F9LzC1aJASSi9f0GoYX-RoB7ZzVmHgWoQyWcU8Of2OInob88BOE-bHaHoqb8zoMnWJRvt9V1hxETAKpDqDUffVcrZLuBYHVRzbj2V5ko5UCbqLbkUTF63Hc9Gq9l7_5ZitH8eOsSWuexDqxmw0Lzz9MUakFNZ0tlAZd_o0GzvXyaQuWElQdgfKfhEIfKEaiF4wk1APem1xdS_yt9iRRBttR4jy4rkb2L7ARuHUxEgwS6ZzWJmGm77WyLr9vAchYkiysZf5fx3JAXaz0yzVb-kIkBI5FSqYyGpRjwJrzWqoPKAm9Pj74MdkfDoncVWVNlHt9P-lN8KiYxCUsQYqi_DcKkJyXRZOtmOPouUuD9rnsT13BL83E_&a=1&hash=Ad9QINPlr5XhK32M8e0",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#32465E",
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Shop Now"
+        }
+      },
+      {
+        "dynamic_item_id": 7095949673767032,
+        "media_type": 1,
+        "id": "7095949673767032_20269764_card",
+        "pk": 7095949673767032,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-unisex&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "7095949673767032_headline",
+          "text": "adidas TERREX Techrock GORE-TEX Pro Jacket",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/terrex-techrock-gore-tex-pro-jacket/HE2293.html?dfw_tracker=26585-HE2293&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Shop Now",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/terrex-techrock-gore-tex-pro-jacket/HE2293.html?dfw_tracker=26585-HE2293&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9Kqg8CK3bQYxIc6Kyg_FKaWjd_90de2deKrNnkKuRRxI-080QpeoSNrP8EPX-u6_nINCvyZ89GiNxKnlpLidPXKaUKJ-kK7YEzx8ATPP7nUH8jArTpw-_d3qabEuXNSQGSOsoTdwxGNmXH0FynDtpmJnTATHWGzPF8th8cVU2u3qLaOSFz9wnn65P3MbCtCv7xMhLhzxVaGnALifRGxDN2NcDShAD9ajUw39QO6h3ja1vYiSN8MU_m5OqA26ttMZ8ldMB2_fsmH6owTUaJIFIfqD16SlI5KyvvT22e6jgNIuQebSSLn_tkKuCiVenPk0j593DkQ4xIGDUbIeGXJaP_6ggbrdDBcdtSWpNK_nP506Bic54wvcE6DqYejvocyM8vjO3QweERmTE_WNJcii8ESMz6vkMHnseQRZ6y84Fb-0fUEq5euWmME5ht14YCjadlaQb9y_AyxWY1EhM3tQif5MK0EqGit-hlWXZZhh4T7xLKeWeOHjsgl2IHs0o7B-AAheBJcjJbK8dgjCXsaO-OQ42yphc_SFzMU0SncLQzVsxRNLGM93GNFg2e3yKCIH5VaUy8OFSlNOD1uGsZ7miajgcIHB3lscCZE3ItOVSuJHnonTVvZQuA07bkKrbWDWGANAuqHe27G6x8ibh69X3VCZ5lGV3_r57eTRv2zrzJ-17uWor-R0SYSopreYGT4f3Rk3BFEWKi3Zig_7zt7YuqnOBzUq9DVkGEA7u9VU7Eh9akaydFxIMHehtOYgJVtrnkhVtGGjqkVO6hT8ouocLKuA_Udy2on5PneNXWdkIA2z00_LezhZ0hihA6JUYxqD7EwKJsISYjSd03YdAsJCJfIQVRUmT4itLYM4Aw36Qm-Tm8NPrh0mFJIwQ_SJQRwi0OY60ZP9b6IGBtCIr_NlsP0p3nNOgdRq6B8z0_vxNmUw&a=1&hash=Ad-ACKdJOaQtkaDaJoU",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#2F4358",
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Shop Now"
+        }
+      },
+      {
+        "dynamic_item_id": 8309847282421669,
+        "media_type": 1,
+        "id": "8309847282421669_20269764_card",
+        "pk": 8309847282421669,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-men&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "8309847282421669_headline",
+          "text": "adidas New York Series Long Sleeve Graphic Tee",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/new-york-series-long-sleeve-graphic-tee/HM1345.html?dfw_tracker=26585-HM1345&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Shop Now",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/new-york-series-long-sleeve-graphic-tee/HM1345.html?dfw_tracker=26585-HM1345&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-ZeCpnolwC9f5GEF0ieiOTVhaIGecZrfPFZGlMpqN4akcYf2PduJwmcoErHBeTPDJzdX6kqGolfkwy4JuK1iZJbtWYbYUQtq0MEMoY34R8C83525k3otVrHBFs3QDgVvPDsdzKNYO8uNHyiW-gn3rg9Z9YmKJRGv3HZMev3xMMM9TOPtkMAM1w6jMTp2X6JxoWxzht-qUWCllhVHkyR_8gJ9Kj7kVotCe3jnqc1yZ2spbxKpWOfqJJyfH0tdPQ0d6NxHaHy0GIF14fdVIMWmcOk4SnpY7bLNAb5QxEadtg9CdLsTXlbDKYOtj4A5r1TyN5YjCe7xVl6azZXO3Yi-Don9nBu71C8XEfnaAzoaA0ib6boQDDuNJOyZGSm3D_ZRHRNLQYi5CMfkfzXr_Vcj3R_mCuGRQCMWDNqTiQ0yfFbQCL_0YRmLZCqMeREHpK8IuWEsRZT2Ut1TGmjRGoYuJLvBOFTTz_qzghIu6_wuZnWeRAQZxama1tHH2kyw7um0cH09TlSJfeEs_cgXBqrWm4ss3Wyxy29aDIWMjuI5_7pk2K_OKjiMWiaN7DUX3Ti0g6Yp6NmnEK6pkL_JCijgaaXhRgg1lpIJ1wpRgoIcTPCsKxxXCfz275PCDO-BTXuA8UkB18kbGULEKnd-sjpO9VfFAqfk-qOUmJtcHEvetNOE8MVqCQsG8Y6zkTT0-6fTk9Ke5gcOYzrFLGwFsOUsd_zyYpO72lCX6Hf3eZlM1ZVqcqGkUONxaEdqQf2uGlqYeBj3gHxUfDdl4rNFeY-93WPcrgWlMG5wCHZn6NUpc-kL4tpm_WkPGpyxA-TNOqILc9E9H0tBLzCKaLszy4nPseM7ojlqUvR5TD1C3VIi35Uv75bTjNigy0xNCDNIVG22NVDySG6uV6qJlvYmAkcE6jKcUGBQhZRJamulONR9oOm9Sh9jLnMFHfm5fSlGI7oPg&a=1&hash=Ad8XCzjMw6pE7siJcxc",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#388BB5",
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Shop Now"
+        }
+      },
+      {
+        "dynamic_item_id": 5689649474434785,
+        "media_type": 1,
+        "id": "5689649474434785_20269764_card",
+        "pk": 5689649474434785,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-women&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "5689649474434785_headline",
+          "text": "adidas Thebe Magugu Studio Light-Support Bra (Plus Size)",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/thebe-magugu-studio-light-support-bra-(plus-size)/HM9286.html?dfw_tracker=26585-HM9286&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Shop Now",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/thebe-magugu-studio-light-support-bra-(plus-size)/HM9286.html?dfw_tracker=26585-HM9286&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_o8kEMHaphT_cIlSXOfWwZt2ik8RHd2FoUrdZjb_Vvp54BwbbiJ7ZmOlUmfBbfQ1hCCIiO1d20IWAMjASf58qkEr28nCY96hmj46vi82xlh8_X7kBRv0PMH1GnmvvC-eLARX4MIjTbjaTOzGLysypCGn8Tz61iHG9-0VNk0vtRW4SX6hll1YmUTiYHPfjU450RRAFFgxEgxo9RVRf7N1dLzsut3LHH-lHPELcWNCP5p7gm1o9Q_Y2iKq_dGwYsr8nDmn-_52o9gb1JGgsboYwPGDrRvvbfwvEplYT59tt_Mua5JZMRQN42wrmJqqfvSnVqIcLyFnbP6QCzwPHiEJQe5cDUX_4RCi7uCrp3cZEsu_qL2-VevgUfCIXWFEGafNj5zDSsT_RulKYo2r-VPLBj1U8BvFTYx1MW5-XfNNGldNA6cLMbajf_wr9mKM_LFbrk8-ZxqirgdrfUeLfEg7xgpoyv-mzgpWMmkTzjwzyYDcpMUDKiaugYoqinQ7IC-0id7ObUlyaCDilyZVaqTVXFOrmu5TdsQeJ2XgI6TvWfMUhu1bHlE3zFUleinOaaueWDedbRdS2oFxaZ2fiRl65WrdS3fGPkidDGoU7rWYl9xJRiNdMwLWHPU22IrTEfbt2qcyapZnzfzGsuN3wSWnW65obvrDMrFS93xSoPg5XdbFGyMfCbPMvYLt0cDDxzJcXt6MqmOQ2uVDUVJ2T6HRvLrti1B7mEpRYYtaUJ0KFthDJg-F_9q51afjGxoJWoVtJgSVvXjRqYspezUyE7c7KrZdTFkrm7GTRO29rYeiKMt9F_h4qGH3a4ap2y2yOVObaQEd6KRRoicqCBFoKY8Fq6eY28TjDz15lCiFevddA_H_QIbaTAU5LdG7gD0SFs44cvbF27FweJ68LXM9AGrv9G8EALTRXQw9IIAeZ4TYgA3VBSl43nJwVD8LwlMyRZaLM&a=1&hash=Ad9__StIcz-G0Q9ysAE",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#0995BF",
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Shop Now"
+        }
+      },
+      {
+        "dynamic_item_id": 5615924061819469,
+        "media_type": 1,
+        "id": "5615924061819469_20269764_card",
+        "pk": 5615924061819469,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-unisex&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "5615924061819469_headline",
+          "text": "adidas Lineage Love Heather Pullover Hoodie",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/lineage-love-heather-pullover-hoodie/GB3341.html?dfw_tracker=26585-GB3341&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Shop Now",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/lineage-love-heather-pullover-hoodie/GB3341.html?dfw_tracker=26585-GB3341&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9BL2lUyeErqQsvz0S_UWgscT5K1rtZOYK3dNCuLCQZRhwI5G1fseQMm1czYdKU9tkFEuYENx3pqa6vUQQmtDO20OiBjoyzuxe-CHL6yBacoUUfvoNViosQjNxogEX25iLt7AGWGTOKobxobKfxUXu-NinNowbmzNyqZR5wUBFIuuqirO2TXfQRl8tThVQ7zvPMm25yHih3PiKRmiBsx3zGT64M5GgEUYFYh5vC7DdSU7PctFJY13GyJgB76RnkdDKOHnkxER84cQOBThvQ9qoKaijjkvZc8aClpQgNGAe3PYUcvMhHoqJScDIf6RojLgVMkxfS_VzPCmC24kCTekRkU9N1g1DyhHxHwn1_UrYLeGFRwL3TCTS9CPXEpEsPpX8XbcYwA5wl6Me7nJnM9KgX8LLfuKIYNZwbOdue2qcbTGTDOhCoAWxhbBZX7iz9uToopThPRjWQszkxLXVfbMnuFzKcIwn4kFBGWpbj8JBtzFyXxuPqI86C_8gEzGXMWtDUxwud1EBbfT2Fa1IgVZkDLS4-0uNInKJToMSe8W8eSoZ77Yd0L3uB0j9izOX-WQuT64zOqN0w9EJ2b4plX66Ro5-Xj5BFUPZCRpI_DVwwDoovNZ65LRYOLG0J72wIX3NEQHjudJXI3P00XCsjMzDS7gA1-tfR1HetBjkdSGAK6fd5JAo5JLHr-x8j5qdRPei0pLEDceP_TWweuOq5O2gCPoU0yrb0tq_fJGmzB3InaUhWByN9I-6jAMNkuSfrBVLfYBCvzAsQiFy3-2cl_LBnvDveTSWs7RtfRoSZESD015w-ISN1oJ7a-gWTNpSY9POBF6aUSpZ0zR1TlTm1YhsjiXF9Y0sPRhNft-xBzF1-Sc9b968iqOYnUPvJA3D5B6JeDG9-DNhGWBpx8ms6oHCyVja2exg7sKsy1n9tqrgByw&a=1&hash=Ad8tmD38_AuWcVYiAzM",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#7A4465",
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Shop Now"
+        }
+      },
+      {
+        "dynamic_item_id": 5222336691181926,
+        "media_type": 1,
+        "id": "5222336691181926_20269764_card",
+        "pk": 5222336691181926,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-men&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "5222336691181926_headline",
+          "text": "adidas Graphic Print Cycling Shorts",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/graphic-print-cycling-shorts/HK2943.html?dfw_tracker=26585-HK2943&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Shop Now",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/graphic-print-cycling-shorts/HK2943.html?dfw_tracker=26585-HK2943&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-Y0tQNopsNXxpNpT-UJPIbp_naKku1KN5_pylVf2z0paOCrNtR8yDo7IyptofEwfB6E9d9-Arguo5aS2KGhnfqYDs3Vc1pzFpMOS7fDmJne3zNdhPdE_r4CG7SdVljkXyttZHUmOKfkVcpttqXxdexia2F-USzd-Hnzp9V2W13GVaXk3TqvmXMq4jhrXZwZ5_HcNG7FDXZODziAZ0dJzYZ-skZihxP5AzZMnOvU7S3INdJ875jDaaGTE7kYL43VxR9Trq1UDUecaYXr7DKJoqgZdBxGZH0QFaZ0YRd7legbJp1CzxQMwLW5OnB2X64W88JWVzc3tfv1kcm4Z2_mEfKeA_nxfl-jyz5WARc4BPdIZ53lO-bygS9cZs7rxEVC3ospyjAWIu5uBdmLqvMMAnTwiYk8JXbts6Cl0Jd35W2C-7rsYc-wBXD5ockaqTUvGHNCcyVRxRp3RFhMUUVV1g8PHgKPKSC3lCkTvjI-Npz0ii3zOUjOt93p15WwUwueS7x83qh7ub5syU1psGjyyS39F-1R_KiC1bZKP8lldxTgRGYSdgc7eTmZL_gkfQui550nsoUZSG2S8-qwPfgILGUNfavPB12y9kBvontrfft65rJ9EnCcTh68WVgQTShep9RCuDz3rSg02-qGiznVfq55ZWptNAsFDtQICtcqd3VDa7waO86yveo4chQKu8sbVp-ExGYviqwMTyUwSmz-9Ghs5CYAuygV0p01afiICNyoepKzOUD5BbZsHRibTIfoh71V4FgExyAN9kJz7qTxDGPt_EOkLmiA7dartMsezdO6gzz4XqKcWqSvdnm0R3Fd7w2EqD34h1b4_hh5OtGFyCn2gmK_Ig2NrN1gtp5m6gvf6ShdIy9xVsJ5_AXwKDjo8GONyW2Cg1oV1v4Tq2B-VhL34DXxl9NCqbuXqJgMr1eng&a=1&hash=Ad-MS6iSr6quGm7c3WM",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#7596C8",
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Shop Now"
+        }
+      },
+      {
+        "dynamic_item_id": 4736326426462413,
+        "media_type": 1,
+        "id": "4736326426462413_20269764_card",
+        "pk": 4736326426462413,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-women&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "4736326426462413_headline",
+          "text": "adidas Adicolor Shorts",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/adicolor-shorts/HD2061.html?dfw_tracker=26585-HD2061&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Shop Now",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/adicolor-shorts/HD2061.html?dfw_tracker=26585-HD2061&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_-gCfYyA_GKnpweqycVLH9E8Y1b1CBFAO6nvwmoRdAtTbJ1Y7x0d5WQUCFZn4JDhPtd8g8ZHe4Bd0KT2bfV9XweuEq8lz_hvUI4ljjhD8LWCg0uIljTRsEMYr3fiOlOunpLY-1Uob9J078ntOL3k3yhCkFXDvZG_3WgvIuv12dqiZyzhKTRhoTlCmVWY_UkBBDLsQfIE5Bc06_QOY-hzYcyEFwCmSzyvIBy0CA4brq-YbluPcO5ODw5qiMAafRn3AQLZQG4GY2mpdwsKOuDmbA7ejOaKB0H2R77Kmt_21R2JUcZ8p42hK4JSRd8jd8NZbqhhKKOkLwjU8sLFIDm4cRuIDE8OmCQlJ0GUgJRDB7fgd04Q2W_SY5sKHcFYq8bVXXrHxfUlWvre2WSrwxc_TUqYvFWKQXiI7IyfMU8F2ZPylwlnOEombk4uJsMCHsVyyEB-g4H-tjJQzhxMIe8zDQgimfvPvsMik-WZE4ZlxhfjU7QqfxoDTPwKhFk4YCHX7gvdR8lOtlW5RNbYCu4rguvmiPLu_XXibI9-nP40Z6A721Q2xi_P8qzQ8wS_EH1p2lJ-Ra6mzfl-GV0ed7CAEMJjQyZ52eOCLo8wko7JQIOkBcpf2c2dAY0IqPZAIekBmTsSt-6OOW1JE2TsHN7_wM3aISxE-OpsTw0C-fnemYV0M35tGsKogpStZWmjnGLRmYlOeIT7SINWauzTA9FHJQukYgMc2mVwOF4r24a11GO76xR0eG7Te1-HHMJZm7PJqSngaSBhKAKj6VsI9rxc127yj85biGtQlmNPhSWIp6kG5A7DrrAqXiOMklWVtRcFxK7MJKlEr4NtXvHHkP3U17fOwmE5p9vsuDM5PTTTQVFAq_CMymxg8FADR0N_xTQWuIHcpUfCjs4i5zlsYBqWaG&a=1&hash=Ad_Itm6lfhPwlzZ2JFM",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#1A191C",
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Shop Now"
+        }
+      },
+      {
+        "dynamic_item_id": 7648037241937952,
+        "media_type": 1,
+        "id": "7648037241937952_20269764_card",
+        "pk": 7648037241937952,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-unisex&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "3050116578265098836_20269764",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 20269764,
+            "pk_id": "20269764",
+            "username": "adidas",
+            "full_name": "adidas",
+            "is_private": false,
+            "is_verified": true,
+            "profile_pic_id": "2915663505812327894_20269764",
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png"
+          },
+          "user_id": 20269764,
+          "pk": "7648037241937952_headline",
+          "text": "adidas Graphic Print Leggings",
+          "type": 1,
+          "created_at": 1677822261,
+          "created_at_utc": 1677793461,
+          "media_id": 3050116578265099000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/graphic-print-leggings/HK2933.html?dfw_tracker=26585-HK2933&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+        "link_text": "Shop Now",
+        "link_secondary_texts": null,
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://ad.doubleclick.net/ddm/trackclk/N6311.126603.FACEBOOK/B29120756.355233522;dc_trk_aid=546038915;dc_trk_cid=183890042;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.adidas.com/us/graphic-print-leggings/HK2933.html?dfw_tracker=26585-HK2933&cm_mmc=AdiPaidSocial_FBIG-_-Horizontal-_-Darkpost-_-Dynamic-_-Link-_-dv:eCom-_-cn:DBA-_-pc:Horizontal&cm_mmc1=&cm_mmc2=adidas-NA-eCom-FBIG-Horizontal-Prospecting-US-DBA-2301-1418&fbclid=PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-3qJRkdhmornfTq96cL7SD2tMGgrSHAJ13Dky-jkfHoMc7lMJwty_SwMBycUKxP7yqNGD9ej011ROFifgregAWCaN7U8wMD-UHaMMHQY6RxaLkg0bO9_CIZjXFFj018-KvLvcx3Y2U5c5UGKOLLlt6qXTgjCwNoep8ZDSCt8_8lD9-u_Q2E6BUS9w5xiXg_m3oZi9TGDQwotuxWv1VWkF4mNjIRF2qSZdEYQ5Rb1iGCSUr990_2YPDFtXF4qN7jEeHVRS2wurNJB8DYdJZc7FfTNs90sDlmJxH_dNLv9JuTsuqtztSkf56nOddMcHtFPIuILAYf0QDJF48P4MreYyBnX6pqDEpZ4751HKShV8oq3Yz2OzhQHhenyTshXvM7WUBbb0ALqyLFjhXLMrlnA4-ExXcO_1UjxPT7o3Ley59z0WNWLXvgjjXE52xLhN9pFxmd0ZLUgVPV-sWrj5CknwGP0GCv5bmo5whzsXyUlMaOLl9jAjL5m52-RFlZM5lny7VfOO8QhbreFsmEJCDAWk6XHhiWw6r6FMVOR6S9J16lIAHmW9sFxl0sV6Um5UTUF_mpgU42ufGOkkH4dqK63B6OG3Z_PZrcDEOTROKnvU7frERs09OlRbXkdrDfPpd17CxNXkPcEXnp6XSuLx23B-gmKhsOzKoMmR-AuLT93S_vrTDIuW5bhKC19osfFX1mM_4fT3_6UaGltlIqNpkPx4UUKDHSyr8hQqJj-nK6aqqzUg5bCj9QzFWLMPB0K8ibOWRDAxBMXGfUkDKE4Qqowb607y_6gHF1QzvT-XuZjeMYlimrdwCJsxRfYwECaVdN7iMEwUdRyMe5e1HbTzPb1Mh7WN4U1ebwgRwv9KDp0zLDBeTIVRSnMYt8YxfR8yC3Dkeqlp74WnfSVSkziLbEzrc&a=1&hash=Ad9Vza7YiafoWicbEeY",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "productPageId": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "adidas",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#7596C8",
+        "prefetched_product_info": null,
+        "ad_tag": {
+          "ad_id": 6305862290229,
+          "title": "Shop Now"
+        }
+      }
+    ],
+    "carousel_media_type": 4,
+    "iTunesItem": null,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "iab_autofill_optout_info": {
+      "domain": "",
+      "is_iab_autofill_optout": false
+    },
+    "click_id": "PAAaZBxmEHRrVQ77ls6--ESkx1bNWKtbtWQWQIXfM2V5bxlxw0CyCGVO4Ecec",
+    "fb_page_url": "https://www.facebook.com/adidasUS/",
+    "item_client_gap_rules": {
+      "time_based_insertion_gap_in_seconds": null,
+      "push_up_min_gap": null,
+      "enable_user_engagement_base_insertion": false,
+      "user_engagement_based_insertion_settings": null
+    },
+    "ad_demotion_control": {
+      "title": "Not Interested",
+      "confirmation_body": "Any other feedback?",
+      "enable_word_wrapping": true,
+      "confirmation_icon": "none",
+      "title_style": "normal",
+      "confirmation_title": "Ad hidden",
+      "confirmation_title_style": "large_left",
+      "undo_style": "top_right",
+      "confirmation_style": "tombstone_v2",
+      "followup_options": [
+        {
+          "text": "This ad is irrelevant to me",
+          "id": "ad_irrelevant",
+          "show_icon": true,
+          "style": null,
+          "data": null,
+          "demotion_control": {
+            "confirmation_style": "tombstone_v2",
+            "confirmation_icon": "checkmark",
+            "confirmation_title": "",
+            "confirmation_body": "Hiding ads and leaving feedback lets us know what not to show you in the future.",
+            "undo_style": "row"
+          }
+        },
+        {
+          "text": "I see this ad too often",
+          "id": "ad_too_often",
+          "show_icon": true,
+          "style": null,
+          "data": null,
+          "demotion_control": {
+            "confirmation_style": "tombstone_v2",
+            "confirmation_icon": "checkmark",
+            "confirmation_title": "",
+            "confirmation_body": "Hiding ads and leaving feedback lets us know what not to show you in the future.",
+            "undo_style": "row"
+          }
+        },
+        {
+          "text": "This ad is inappropriate",
+          "id": "ad_inappropriate",
+          "show_icon": true,
+          "style": null,
+          "data": null,
+          "demotion_control": {
+            "confirmation_style": "tombstone_v2",
+            "confirmation_icon": "checkmark",
+            "confirmation_title": "",
+            "confirmation_body": "Hiding ads and leaving feedback lets us know what not to show you in the future.",
+            "undo_style": "row"
+          }
+        },
+        {
+          "text": "I already bought an item in this ad",
+          "id": "ad_already_bought",
+          "show_icon": true,
+          "style": null,
+          "data": null,
+          "demotion_control": {
+            "confirmation_style": "tombstone_v2",
+            "confirmation_icon": "checkmark",
+            "confirmation_title": "",
+            "confirmation_body": "Hiding ads and leaving feedback lets us know what not to show you in the future.",
+            "undo_style": "row"
+          }
+        }
+      ]
+    },
+    "inventory_source": "media_or_ad",
+    "is_seen": true,
+    "is_eof": false,
+    "view_state_item_type": 1,
+    "ranking_weight": 0,
+    "enable_feed_waist_in_menu": false,
+    "enable_waist": false,
+    "waist_data": ""
+  }
+}

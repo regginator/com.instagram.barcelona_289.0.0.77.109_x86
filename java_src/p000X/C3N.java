@@ -1,0 +1,15 @@
+package p000X;
+
+import com.instagram.igds.components.peoplecell.IgdsPeopleCell;
+/* renamed from: X.C3N */
+/* loaded from: classes5.dex */
+public final class C3N extends LsI {
+    public final CMU A00;
+    public final IgdsPeopleCell A01;
+
+    public C3N(CMU cmu, IgdsPeopleCell igdsPeopleCell) {
+        super(igdsPeopleCell);
+        this.A01 = igdsPeopleCell;
+        this.A00 = cmu;
+    }
+}

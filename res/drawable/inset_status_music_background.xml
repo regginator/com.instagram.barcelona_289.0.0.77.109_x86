@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:drawable="@drawable/status_music_background" android:insetLeft="@dimen/abc_floating_window_z" android:insetRight="@dimen/abc_floating_window_z" android:insetTop="@dimen/abc_button_inset_vertical_material" android:insetBottom="@dimen/abc_button_inset_vertical_material"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

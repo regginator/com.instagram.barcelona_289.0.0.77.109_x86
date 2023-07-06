@@ -1,0 +1,309 @@
+{
+  "id":"dynamic_duration_long_video_v2c_ad",
+  "latest_reel_media":null,
+  "video_to_carousel_cut_secs":[
+    0,
+    5,
+    10
+  ],
+  "video_to_carousel_cut_thumbnails":[
+    {
+      "width":800,
+      "height":420,
+      "url":"https://images.pexels.com/videos/5077472/pexels-photo-5077472.jpeg"
+    },
+    {
+      "width":800,
+      "height":420,
+      "url":"https://images.pexels.com/videos/5077472/pexels-photo-5077472.jpeg"
+    },
+    {
+      "width":800,
+      "height":420,
+      "url":"https://images.pexels.com/videos/5077472/pexels-photo-5077472.jpeg"
+    }
+  ],
+  "cop_render_output": [
+    {
+      "optimization_type": "44",
+      "option_value": "440003"
+    }
+  ],
+  "expiring_at":9565808470,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":true,
+  "reel_type":"ads_reel",
+  "user": {
+    "pk": 224223453,
+    "username": "spotify",
+    "full_name": "Spotify",
+    "is_private": false,
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "1814283376876563268_224223453",
+    "is_verified": true
+  },
+  "items":[
+    {
+      "taken_at":1564522289,
+      "pk":2099687609558294302,
+      "id":"dynamic_duration_long_video_v2c_ad",
+      "dynamic_time_change": 10,
+      "device_timestamp":1564522289,
+      "media_type":2,
+      "code":"B0jlsGbAt9G",
+      "client_cache_key":"MjA5OTY4NzYwOTU1ODI5NDM0Mg==.2",
+      "filter_type":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":800,
+            "height":420,
+            "url":"https://images.pexels.com/videos/5077472/pexels-photo-5077472.jpeg"
+          }
+        ]
+      },
+      "original_width":800,
+      "original_height":420,
+      "video_versions":[
+        {
+          "type":101,
+          "width":800,
+          "height":420,
+          "url":"https://player.vimeo.com/external/446518421.sd.mp4?s=f4afb591d3ec16d6b4c90bb99655f2f85679c56a&amp;profile_id=164&amp;oauth2_token_id=57447761",
+          "id":"18053562115157889"
+        }
+      ],
+      "has_audio":false,
+      "video_duration":84,
+      "view_count":18,
+      "user": {
+        "pk": 224223453,
+        "username": "spotify",
+        "full_name": "Spotify",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": null
+      },
+      "caption":null,
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":0,
+      "has_liked":false,
+      "likers":[
+
+      ],
+      "photo_of_you":false,
+      "fb_page_url":"https://www.facebook.com/CatPixApp/",
+      "collapse_comments":false,
+      "top_followers":[
+        "placeholder"
+      ],
+      "top_followers_count":1,
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6ImUzYjJiOTEwMjFmYzQwODA4ZGFjMDQ4MDkyOWMwZjNjMjA5OTY4NzYwOTU1ODI5NDM0MiIsInNlcnZlcl90b2tlbiI6IjE1NjU3MjIwNzAyMTR8MjA5OTY4NzYwOTU1ODI5NDM0Mnw1NDg1NjEwMjE5fGRkMTU5YjgzNzk3OGUzNTg2NTZjOGU4MjYwOGMxZWY2MmM0Y2Q4ZWY0ZjcxYWFhMDIzMGRjNjVkY2E0MmVjNWMifSwic2lnbmF0dXJlIjoiIn0=",
+      "expiring_at":9565808470,
+      "can_reshare":true,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQLcH9mHD2AaVB1F7Mw0BWZ1cwco81Q84fsebGaysZScMjFBuQfxZQJPENyfw-ndPShkR3WUdGSDiHRbjA7v9xUj",
+        "show_ad_choices":false,
+        "ad_title":"Cat Pix",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":6163277749920,
+        "direct_share":true,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":"{}",
+              "serializedImpOrganicScoreMap":"{}"
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=10Tvk5qqRnHMkXwX0.AWUxH8VVYNiNj4GUVj135an2gUw.BdUwXV..AAA.0.0.BdUwXV.AWXvBugd; expires=Wed, 12 Aug 2020 18:47:49 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links": [
+        {
+          "linkType": 2,
+          "webUri": "",
+          "androidClass": "",
+          "package": "com.spotify.music",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": 1,
+          "destinationContext": "Go to App Store",
+          "tapAndHoldContext": "Swipe up to view app details"
+        },
+        {
+          "linkType": 1,
+          "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "View website on Instagram",
+          "tapAndHoldContext": "Swipe up to view website"
+        }
+      ],
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 2,
+              "webUri": "",
+              "androidClass": "",
+              "package": "com.spotify.music",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": 1,
+              "destinationContext": "Go to App Store",
+              "tapAndHoldContext": "Swipe up to view app details"
+            },
+            {
+              "linkType": 1,
+              "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "View website on Instagram",
+              "tapAndHoldContext": "Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#5C5245"
+        },
+        "bottom":{
+          "background_color":"#F5F2ED"
+        }
+      },
+      "overlay_text": "View in Play Store",
+      "overlay_title": "Spotify",
+      "overlay_subtitle": "View in Play Store",
+      "dominant_color": "#1B2E58",
+      "ad_action": "appinstall",
+      "link_text": "Install Now",
+      "ad_metadata": [
+        {
+          "value": 5,
+          "type": 2
+        }
+      ],
+      "is_reel_media": true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/default_slideout_icon_background_border" />
+            <size android:height="@dimen/_self_serve_linking_artist_avatar_search_size" android:width="@dimen/_self_serve_linking_artist_avatar_search_size" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/music_search_typeahead_row_icon__app_bitmap_0" />
+</layer-list>

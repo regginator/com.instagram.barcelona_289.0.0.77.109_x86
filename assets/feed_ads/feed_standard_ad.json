@@ -1,0 +1,246 @@
+{
+  "media_or_ad": {
+    "taken_at": 1486768258,
+    "pk": 1447439518726558500,
+    "id": "1447439518726558400_378671112",
+    "device_timestamp": 1486768258,
+    "media_type": 1,
+    "code": "BQWVpLLjxLA",
+    "client_cache_key": "MTQ0NzQzOTUxODcyNjU1ODQwMA==.2",
+    "filter_type": 0,
+    "image_versions2": {
+      "candidates": [
+        {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://i.ibb.co/kQmDC4n/standard-1.jpg",
+          "estimated_scans_sizes": [
+            27514,
+            55028,
+            82543,
+            110057,
+            137571,
+            247629,
+            247629,
+            247629,
+            247629
+          ]
+        },
+        {
+          "width": 360,
+          "height": 360,
+          "url": "https://ibb.co/kcmG2gP",
+          "estimated_scans_sizes": [
+            4011,
+            8022,
+            12034,
+            16045,
+            20057,
+            36103,
+            36103,
+            36103,
+            36103
+          ]
+        }
+      ]
+    },
+    "original_width": 1080,
+    "original_height": 1080,
+    "user": {
+      "pk": 378671112,
+      "username": "dominos",
+      "full_name": "Domino's Pizza",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/7QjHDZL/standard-3.jpg",
+      "profile_pic_id": "1809549825142792937_378671112",
+      "friendship_status": {
+        "following": false,
+        "outgoing_request": false,
+        "is_muting_reel": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": true,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "latest_reel_media": 0
+    },
+    "caption_is_edited": false,
+    "liker_config": {
+      "is_daisy": true,
+      "hide_view_count": false,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 1,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false
+    },
+    "direct_reply_to_author_enabled": true,
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": true,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 5993,
+    "like_count": 190732,
+    "bucketed_like_count": null,
+    "ads_bucketed_like_count": 1,
+    "has_liked": false,
+    "top_likers": [],
+    "photo_of_you": false,
+    "ad_tag": {
+      "ad_id": 6084387224057,
+      "title": "Learn More"
+    },
+    "caption": {
+      "pk": 17851065496131474,
+      "user_id": 378671112,
+      "text": "🍕 cravings? This might help. Carry out all large 2-topping pizzas for $5.99 each this week only.",
+      "type": 1,
+      "created_at": 1486768259,
+      "created_at_utc": 1486768259,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 378671112,
+        "username": "dominos",
+        "full_name": "Domino's Pizza",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/7QjHDZL/standard-3.jpg",
+        "profile_pic_id": "1809549825142792937_378671112",
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_muting_reel": false,
+          "is_bestie": false,
+          "is_restricted": false
+        },
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": 0
+      },
+      "media_id": 1447439518726558500
+    },
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQJfzFz8-aQx7yy8TdAMbPsOwPNaReZlwEvy5HRfltc-MiNJYeH55ZDnViYUCt_L3e0FM91oRqIvq7bg1lzkouN7",
+      "show_ad_choices": false,
+      "ad_title": "Domino's Pizza",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 6084387224057,
+      "display_viewability_eligible": false,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": "{}",
+            "serializedImpOrganicScoreMap": "{}"
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=1y1XHHYjn0MomqBYm.AWVHdpss91QpBjLj_sBRbOTUATQ.BeaqtN..AAA.0.0.BeaqtN.AWX6Dutx; expires=Wed, 10 Jun 2020 21:36:13 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ]
+    },
+    "collapse_comments": true,
+    "ad_metadata": [
+      {
+        "value": "www.dominos.com",
+        "type": 1
+      }
+    ],
+    "link": "https://www.dominos.com/en/pages/order/?&couponCode=9159",
+    "link_text": "Learn More",
+    "ad_action": "webclick",
+    "link_hint_text": "Tap Photo to Open Page",
+    "iTunesItem": null,
+    "ad_link_type": 0,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "android_links": [
+      {
+        "linkType": 1,
+        "webUri": "https://www.dominos.com/en/pages/order/?&couponCode=9159",
+        "androidClass": "",
+        "package": "",
+        "deeplinkUri": "",
+        "callToActionTitle": "",
+        "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9-TGgyphbO5Zm28TYW9B1z7X40PVqBT8uXV5GE2ItFhMTBEYABIhQ3cNWqhE2mEtA8Hj5HcSgltUKX1MxVT2_ysW6SiVz_KlvbkTABZWzj1C29PqJijRpv4kYZy3XzMfzYNR7U9RJWc_f9lsR6NGjfC1RTKvl_jYmTC_jDVRaK9DVkfMmuAjYDRrJ1rGQMIy83XYonQMAKUn8AKPYdaj9298QoFB7CkDzzJmRFLvKsKQ&a=1&hash=Ad-eEK2qQSaTqgOa",
+        "leadGenFormId": null,
+        "igUserId": null,
+        "appInstallObjectiveInvalidationBehavior": null
+      }
+    ],
+    "iab_autofill_optout_info": {
+      "domain": "dominos.com",
+      "is_iab_autofill_optout": false
+    },
+    "force_overlay": true,
+    "hide_nux_text": true,
+    "overlay_text": "Go to Website",
+    "overlay_title": "Domino's Pizza",
+    "overlay_subtitle": "Go to Website",
+    "dominant_color": "#470809",
+    "follower_count": 1670554,
+    "post_count": 2087,
+    "fb_page_url": "https://www.facebook.com/Dominos/",
+    "can_viewer_save": true,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZWJkMWI0NWE5YTRiNGE0ODkwNmQyMTdmZGI4NGMxOTUxNDQ3NDM5NTE4NzI2NTU4NDAwIiwic2VydmVyX3Rva2VuIjoiMTU4NDA0ODk3MzkxNXwxNDQ3NDM5NTE4NzI2NTU4NDAwfDQzNjExNzk2Nnw4MDMyOTRkNWEzZGVhNGE4MzdjMmRkNjlhNDNhNzUzYmQ5ZjQ4MTIxMWQzMzg3ODE1M2E0OTQ4Y2Q2MmZhZDZhIn0sInNpZ25hdHVyZSI6IiJ9",
+    "expiring_at": 9999999999,
+    "preview": "ACoqz44jM+cgovXHt2x156elW5Ld42V4hiLK5H905/i9fr2qKxJAPlAllGSSeMngdOg7/h1rRghmx+9dcN1UDOD2qPU1bs/ToVZY1V2H3vMAYgnOBk5P6/XNWY40wGZtgzgjr07/AEOOvTmmJCsUu2Rsu6FQB7nJ/Ork0cQUFgBt4z36dvSmvIV+muvUga2WVsE4A79QfcHtUXlSjgK2B7GrhUCNWj9QSOnvj1FSfaXPIC/maPULvoYovfs7bYlATPTue2c9/b9KekrMdpUrluuTuHXjHH4Ht2pFjGQyL8wySx6A5wOPXHfpULFmlwM4Ht057+pPp3pW6mmj0RclRIisj/MeF5HOc53A9j7f/Xq4qGTO4n5h16DA6evA6eucmq94sZhIbK/Mpy3c/wD6s05i0ijaT5TDdtx78fSizI3/AOCLJGtqQ24mNj25P09CO1OBtSPvn86jiAdGXouOOOCc9B7/AP1qlFqcdB+QpsfqyCO4KqVPRu+OfpUkURYkqRg45HXjp+OKrCmMSJFA75rV009tDmU2i/NbeaghJIByexx9ePepnXaQBwqqBgH07VTFTrQoeY+d9iUkvzyv8/8A61PxTVqSqSS2Jbb3P//Z",
+    "inventory_source": "media_or_ad",
+    "is_seen": true,
+    "is_eof": false
+  }
+}

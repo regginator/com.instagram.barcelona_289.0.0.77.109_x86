@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">%1$d ছেকেণ্ড বাকী আছে\"</item>
+        <item quantity="one">1 ছেকেণ্ড বাকী আছে\"</item>
+    </plurals>
+</resources>

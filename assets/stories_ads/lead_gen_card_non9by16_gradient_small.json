@@ -1,0 +1,726 @@
+{
+  "id":"lead_gen_card_non9by16_gradient_small.json",
+  "latest_reel_media":null,
+  "expiring_at":9564178697,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":false,
+  "can_react_with_avatar": false,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk": 8053212,
+    "username": "frenchkandejewelry",
+    "full_name": "French Kande Jewelry - Vintage Medallions Redefined",
+    "is_private":false,
+    "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/275472944_282179324033212_2447158821208490628_n.jpg?stp=dst-jpg_s150x150&efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=LGG5HfIk5wsAX9Uqi7c&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT_oQ714-hMaBuQ1iOFFyFRlrYS2UsTdzmOGVQw8Gw9xwQ&oe=6325EC9F&_nc_sid=e4e9cf",
+    "profile_pic_id": "2790443788919474833_8053212",
+    "is_verified":false
+  },
+  "items":[
+    {
+      "taken_at": 1617323989,
+      "pk": 2542620365596642977,
+      "id": "lead_gen_card_non9by16_gradient_small_8053212",
+      "device_timestamp": 1617323989,
+      "media_type": 2,
+      "code": "CNJM8BKD86h",
+      "client_cache_key": "MjU0MjYyMDM2NTU5NjY0Mjk3Nw==.2",
+      "filter_type": 0,
+      "is_unified_video": false,
+      "should_request_ads": false,
+      "caption_is_edited": false,
+      "like_and_view_counts_disabled": false,
+      "commerciality_status": "not_commercial",
+      "fundraiser_tag": {
+        "has_standalone_fundraiser": false
+      },
+      "is_paid_partnership": false,
+      "is_visual_reply_commenter_notice_enabled": true,
+      "original_media_has_visual_reply_media": false,
+      "has_delayed_metadata": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": true,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 283,
+      "hide_view_all_comment_entrypoint": false,
+      "image_versions2": {
+        "candidates": [
+          {
+            "width": 360,
+            "height": 450,
+            "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/167190520_2677765402468008_6639074736575046405_n.jpg?stp=dst-jpg_e15_p360x360&efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=RwTewcAxjZQAX9tjY7W&edm=ANct6CgBAAAA&ccb=7-5&ig_cache_key=MjU0MjYyMDM2NTU5NjY0Mjk3Nw%3D%3D.2-ccb7-5&oh=00_AT-VTJcTFkQyWLC_Nb2jPtSi4T-1sZWpgPG1yr6Jipxmwg&oe=632733D4&_nc_sid=e4e9cf",
+            "scans_profile": "e15",
+            "estimated_scans_sizes": [
+              3311,
+              6622,
+              9933,
+              13244,
+              16555,
+              29799,
+              29799,
+              29799,
+              29799
+            ]
+          }
+        ]
+      },
+      "original_width": 1080,
+      "original_height": 1350,
+      "user": {
+        "pk": 8053212,
+        "username": "frenchkandejewelry",
+        "full_name": "French Kande Jewelry - Vintage Medallions Redefined",
+        "is_private": false,
+        "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/275472944_282179324033212_2447158821208490628_n.jpg?stp=dst-jpg_s150x150&efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=LGG5HfIk5wsAX9Uqi7c&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT_oQ714-hMaBuQ1iOFFyFRlrYS2UsTdzmOGVQw8Gw9xwQ&oe=6325EC9F&_nc_sid=e4e9cf",
+        "profile_pic_id": "2790443788919474833_8053212",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "has_highlight_reels": false,
+        "transparency_product_enabled": false,
+        "account_badges": [],
+        "fan_club_info": {
+          "fan_club_id": null,
+          "fan_club_name": null
+        }
+      },
+      "like_count": 8803,
+      "has_liked": false,
+      "photo_of_you": false,
+      "is_organic_product_tagging_eligible": false,
+      "can_see_insights_as_brand": false,
+      "is_dash_eligible": 1,
+      "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H1M40.841S\" maxSegmentDuration=\"PT0H0M5.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H1M40.841S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"900\" maxFrameRate=\"30\" par=\"720:900\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17901035767894864vd\" mimeType=\"video/mp4\" codecs=\"avc1.64001F\" width=\"720\" height=\"900\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"1385893\" FBQualityClass=\"hdr1\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:81.92,640:75.74,1080:59.55\">\n    <BaseURL urlExpiration=\"1663181624\">https://scontent-sjc3-1.cdninstagram.com/v/t50.2886-16/10000000_880496569474451_8336982630463880547_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=F5iFTlPykxoAX-ghku_&amp;edm=ANct6CgBAAAA&amp;ccb=7-5&amp;oh=00_AT-_rusp55pdUsc3A4GKbQky-C5gLRmBUxcNvfrTiynRag&amp;oe=63222338&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"920-1203\" FBFirstSegmentRange=\"1204-681821\" FBSecondSegmentRange=\"681822-1482398\" FBPrefetchSegmentRange=\"1204-1482398\">\n      <Initialization range=\"0-919\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17901036766894864v\" mimeType=\"video/mp4\" codecs=\"avc1.64001F\" width=\"240\" height=\"300\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"122470\" FBQualityClass=\"sdr1\" FBQualityLabel=\"240w\" FBPlaybackResolutionMos=\"0:100.00,480:25.54,640:21.19,1080:16.31\">\n    <BaseURL urlExpiration=\"1663168507\">https://scontent-sjc3-1.cdninstagram.com/v/t50.2886-16/168535573_509979356665815_6385847566753958650_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=Qd4mALn72wwAX8j-zgD&amp;edm=ANct6CgBAAAA&amp;ccb=7-5&amp;oh=00_AT8V-UovzOzPKIaSCAiHM5l-LQwbQHcg4jJ9MF_4WVyuEw&amp;oe=6321EFFB&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"919-1202\" FBFirstSegmentRange=\"1203-83494\" FBSecondSegmentRange=\"83495-164300\" FBPrefetchSegmentRange=\"1203-164300\">\n      <Initialization range=\"0-918\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17901036523894864v\" mimeType=\"video/mp4\" codecs=\"avc1.64001F\" width=\"362\" height=\"452\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"247872\" FBQualityClass=\"sdr1\" FBQualityLabel=\"362w\" FBPlaybackResolutionMos=\"0:100.00,480:42.23,640:34.15,1080:23.49\">\n    <BaseURL urlExpiration=\"1663182004\">https://scontent-sjc3-1.cdninstagram.com/v/t50.2886-16/165920655_1273440639724745_2108248815798605444_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;_nc_cat=105&amp;_nc_ohc=WIhhZEjACRYAX-UBLgW&amp;edm=ANct6CgBAAAA&amp;ccb=7-5&amp;oh=00_AT9d_ietn1-Xbhy56B5E0nr0nPklY5fPysvorg6CqdaSEw&amp;oe=632224B4&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"920-1203\" FBFirstSegmentRange=\"1204-123744\" FBSecondSegmentRange=\"123745-277301\" FBPrefetchSegmentRange=\"1204-277301\">\n      <Initialization range=\"0-919\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17901036268894864v\" mimeType=\"video/mp4\" codecs=\"avc1.64001F\" width=\"550\" height=\"688\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"483538\" FBQualityClass=\"sdr1\" FBQualityLabel=\"550w\" FBPlaybackResolutionMos=\"0:100.00,480:60.30,640:51.86,1080:35.60\">\n    <BaseURL urlExpiration=\"1663183559\">https://scontent-sjc3-1.cdninstagram.com/v/t50.2886-16/168177482_286695909500654_2711411021466039868_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=1_uToel3mNoAX9QOwy_&amp;edm=ANct6CgBAAAA&amp;ccb=7-5&amp;oh=00_AT_aeJU-fmRW1Ky_dZKS4_DhFi23r_pCbEdu2KyAMCxzZA&amp;oe=63222AC7&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"920-1203\" FBFirstSegmentRange=\"1204-243243\" FBSecondSegmentRange=\"243244-530083\" FBPrefetchSegmentRange=\"1204-530083\">\n      <Initialization range=\"0-919\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17901035914894864v\" mimeType=\"video/mp4\" codecs=\"avc1.64001F\" width=\"720\" height=\"900\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"800213\" FBQualityClass=\"hdr1\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:71.07,640:64.10,1080:47.50\">\n    <BaseURL urlExpiration=\"1663152644\">https://scontent-sjc3-1.cdninstagram.com/v/t50.2886-16/10000000_2507778026033327_953394010218036581_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=R-7WgEuQR0gAX9DxQEU&amp;edm=ANct6CgBAAAA&amp;ccb=7-5&amp;oh=00_AT_zwpxtMfkFZn5sJvQa1yG3eZweynScr8NMCP8G_gCv8g&amp;oe=6321B204&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"920-1203\" FBFirstSegmentRange=\"1204-408927\" FBSecondSegmentRange=\"408928-882433\" FBPrefetchSegmentRange=\"1204-882433\">\n      <Initialization range=\"0-919\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\n   <Representation id=\"17901035695894864ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.5\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"52605\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"1\"/>\n    <BaseURL urlExpiration=\"1663168349\">https://scontent-sjc3-1.cdninstagram.com/v/t50.2886-16/168649038_870151976875122_7142530324422305866_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;_nc_cat=106&amp;_nc_ohc=C0sCbt4QekwAX-5ry-5&amp;edm=ANct6CgBAAAA&amp;ccb=7-5&amp;oh=00_AT8ALamnwGoZDrlVFZu4hlIyDn2RhEm7VNQjuYyKH7brrg&amp;oe=6321EF5D&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"872-1515\" FBFirstSegmentRange=\"1516-13892\" FBSecondSegmentRange=\"13893-27197\" FBPrefetchSegmentRange=\"1516-27197\">\n      <Initialization range=\"0-871\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+      "video_codec": "avc1.64001F",
+      "number_of_qualities": 5,
+      "video_versions": [
+        {
+          "type": 101,
+          "width": 720,
+          "height": 900,
+          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t50.2886-16/10000000_2957273444517788_5868335407311943536_n.mp4?efg=eyJxZV9ncm91cHMiOiJbXCJpZ19wcm9ncmVzc2l2ZV91cmxnZW4ucHJvZHVjdF90eXBlLmFkXCJdIiwicm1kIjoiaWdfYW5kcm9pZF9tb2JpbGVfbmV0d29ya19zdGFja190Y3Bfd3JpdGVfdGltZW91dF9kb2dmb29kaW5nOm1uc19kZWZhdWx0In0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=MZO5B65-OckAX8PVWu5&edm=ANct6CgBAAAA&ccb=7-5&oe=6321B12E&oh=00_AT-5saqeCrPqIE34Hse_AYri0ZKBJOKfFASzhsJv9PWcdA&_nc_sid=e4e9cf",
+          "id": "17901035683894864"
+        },
+        {
+          "type": 102,
+          "width": 480,
+          "height": 600,
+          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t50.2886-16/10000000_307747084032633_17269821539111754_n.mp4?efg=eyJxZV9ncm91cHMiOiJbXCJpZ19wcm9ncmVzc2l2ZV91cmxnZW4ucHJvZHVjdF90eXBlLmFkXCJdIiwicm1kIjoiaWdfYW5kcm9pZF9tb2JpbGVfbmV0d29ya19zdGFja190Y3Bfd3JpdGVfdGltZW91dF9kb2dmb29kaW5nOm1uc19kZWZhdWx0In0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=FFfz7RJ5sZwAX9I80oQ&edm=ANct6CgBAAAA&ccb=7-5&oe=6321D13F&oh=00_AT8ANO-3E-sLGPVrUv6miQqJcUaoGVWY4Kx3bWO-XyhO-w&_nc_sid=e4e9cf",
+          "id": "17901035635894864"
+        },
+        {
+          "type": 103,
+          "width": 480,
+          "height": 600,
+          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t50.2886-16/10000000_307747084032633_17269821539111754_n.mp4?efg=eyJxZV9ncm91cHMiOiJbXCJpZ19wcm9ncmVzc2l2ZV91cmxnZW4ucHJvZHVjdF90eXBlLmFkXCJdIiwicm1kIjoiaWdfYW5kcm9pZF9tb2JpbGVfbmV0d29ya19zdGFja190Y3Bfd3JpdGVfdGltZW91dF9kb2dmb29kaW5nOm1uc19kZWZhdWx0In0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=FFfz7RJ5sZwAX9I80oQ&edm=ANct6CgBAAAA&ccb=7-5&oe=6321D13F&oh=00_AT8ANO-3E-sLGPVrUv6miQqJcUaoGVWY4Kx3bWO-XyhO-w&_nc_sid=e4e9cf",
+          "id": "17901035635894864"
+        }
+      ],
+      "has_audio": true,
+      "video_duration": 100.891,
+      "view_count": 344776,
+      "caption": {
+        "pk": 17865485006379772,
+        "user_id": 8053212,
+        "text": "Our luxury pieces are handmade to order in California and designed around French Vintage Medallions from the 1960's. Designer and founder Kande Hall has one goal in mind, to make women feel fabulous.",
+        "type": 1,
+        "created_at": 1617323990,
+        "created_at_utc": 1617323990,
+        "content_type": "comment",
+        "status": "Active",
+        "bit_flags": 0,
+        "did_report_as_spam": false,
+        "share_enabled": false,
+        "user": {
+          "pk": 8053212,
+          "username": "frenchkandejewelry",
+          "full_name": "French Kande Jewelry - Vintage Medallions Redefined",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/275472944_282179324033212_2447158821208490628_n.jpg?stp=dst-jpg_s150x150&efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=LGG5HfIk5wsAX9Uqi7c&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT_oQ714-hMaBuQ1iOFFyFRlrYS2UsTdzmOGVQw8Gw9xwQ&oe=6325EC9F&_nc_sid=e4e9cf",
+          "profile_pic_id": "2790443788919474833_8053212",
+          "is_verified": false
+        },
+        "is_covered": false,
+        "is_ranked_comment": false,
+        "media_id": 2542620365596642977,
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00",
+        "private_reply_status": 0,
+        "hide_username": false
+      },
+      "comment_inform_treatment": {
+        "should_have_inform_treatment": false,
+        "text": "",
+        "url": null,
+        "action_type": null
+      },
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null,
+        "sharing_friction_payload": null
+      },
+      "can_viewer_save": true,
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "injected": {
+        "label": "Sponsored (Demo)",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQIOz0N1qTjm8DwOcE9IKrjyi87zBBnHbRZ90Zv-bAqBNNwZvSRT_moAweRXBAjxYKtITtZ-s6AtPsv9oDIvVr6V",
+        "show_ad_choices": false,
+        "ad_title": "French Kande",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 6234905749669,
+        "campaign_id": 6193112489869,
+        "app_id": 0,
+        "page_id": 126289380715569,
+        "actor_id": 454039457985127,
+        "media_id": 2542620365596642977,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0.0,
+            "ecpmPrice": 0.0,
+            "ectr": 0.0,
+            "ecvr": 0.0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0.0,
+              "userDollarValue": 0.0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": null,
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "invalidation_rules": {
+          "meta_ids": [
+            "ad_id"
+          ],
+          "local_surface": [
+            {
+              "instruction": {
+                "signal": "seen",
+                "conditions": [
+                  {
+                    "lhs": "dwelltime",
+                    "comparator": "ge",
+                    "rhs": 250
+                  },
+                  {
+                    "lhs": "time",
+                    "comparator": "le",
+                    "rhs": 7200000
+                  }
+                ]
+              }
+            },
+            {
+              "instruction": {
+                "signal": "x-out"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_pool"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_inserted"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "app_install"
+              }
+            }
+          ]
+        },
+        "fb_app_id": 0,
+        "is_luxury_vertical_ad": false,
+        "lead_gen_form_id": 164267994507138,
+        "is_leadgen_native_eligible": true,
+        "cookies": [
+          "fr=0Eiu4GotUxMqpzGdW.AWUTGPBL4U6L_nyHVws6roNiQeo.BjH6GU..AAA.0.0.BjH6GU.AWXtbn0Gcsw; expires=Sun, 11 Dec 2022 21:16:04 GMT; Max-Age=7776000; path=/; domain=.facebook.com; SameSite=None; httponly; Secure"
+        ]
+      },
+      "is_sensitive_vertical_ad": false,
+      "collapse_comments": false,
+      "ad_metadata": [
+        {
+          "value": "frenchkande.com",
+          "type": 1
+        }
+      ],
+      "link": "https://www.frenchkande.com/stores/new-arrivals/chatelet-collection-holiday-2018.html?product_list_limit=all&fbclid=PAAaYEtw8GxVKmbKOkWTKofvjNxVeEAaMU9Rggux4l_kuvcUZeaf3A4ugmE6M&external_browser_redirect=true",
+      "link_text": "Sign Up",
+      "ad_action": "leadads",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "android_links": [
+        {
+          "linkType": 7,
+          "webUri": "https://www.frenchkande.com/stores/new-arrivals/chatelet-collection-holiday-2018.html?product_list_limit=all&fbclid=PAAaYEtw8GxVKmbKOkWTKofvjNxVeEAaMU9Rggux4l_kuvcUZeaf3A4ugmE6M&external_browser_redirect=true",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9wCgW_VHkoHOmRlmGKPwNLHEWtj1KUkEyGg1G-KRwMDjIYPHcRhJRZA8fra_RGpweC0w0g2ALYwaCvMO2nobJDg2opqFiezo2ytgjotmNB1TD-biXLGbZOYW4ulfxZVr7nEKE8DqxmpkOYREE-j6G2wkimlI3xKAAC1Pn2ASw1lgDzHji1aV1EKk5f2VEwbdaYdTAVDW84BUVZ2gshBdVFl_oOMOIgNR3t0Fgr-M-SNNlrr3nOFiniSXVk83JwQAaeqFcBvR_Eni2i2Z5NDSdq3XelWnkwwKesLxPS8fPHJXVHSjWds1cS0Cc11_jBwFvPHAxS35CHXjWpWMXkIfiuj8xt5I61wM1ySDnibQshABPQNippsiDBxSf7vVOZVNJi00GzHg9nPwotIxti3urf_FB743G2zbflzVYVaFEiXHdg6r_fIR5yUFHi6a58sH72-JsfzPXEDp14EbVu1oAM&a=1&hash=Ad96eaBRe_Mr8Okp8bk",
+          "leadGenFormId": 164267994507138,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "referrerData": null,
+          "isAndroidAppLink": null,
+          "destinationContext": "Sign Up Now",
+          "tapAndHoldContext": "Swipe up to view form"
+        }
+      ],
+      "iab_autofill_optout_info": {
+        "domain": "",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "PAAaYEtw8GxVKmbKOkWTKofvjNxVeEAaMU9Rggux4l_kuvcUZeaf3A4ugmE6M",
+      "force_overlay": false,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "French Kande",
+      "overlay_subtitle": "Go to frenchkande.com",
+      "dominant_color": "#99887B",
+      "ad_id": 6234905749669,
+      "fb_page_url": "https://www.facebook.com/FrenchKande/",
+      "reel_media_background": {
+        "top": {
+          "background_color": "#B29D8B"
+        },
+        "bottom": {
+          "background_color": "#BAA899"
+        }
+      },
+      "item_client_gap_rules": {
+        "time_based_insertion_gap_in_seconds": null,
+        "push_up_min_gap": null,
+        "enable_user_engagement_base_insertion": null,
+        "user_engagement_based_insertion_settings": null
+      },
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNzNmOTE4MmE3MDNmNGViMzhmNjIwY2I0NTRhNGY4ODMyNTQyNjIwMzY1NTk2NjQyOTc3Iiwic2VydmVyX3Rva2VuIjoiMTY2MzAxNzM2NTA1M3wyNTQyNjIwMzY1NTk2NjQyOTc3fDQyNDkyMjE0N3wzNzY4ZGFlMjM5NmQ3ZmYxNGJkYmNiMzZkYTU0Mzg3ZTYyZWNiYWUzNjY4NjhhODhlMjMxOWEyZjdmYTdkMDE0In0sInNpZ25hdHVyZSI6IiJ9",
+      "expiring_at": 1663103765,
+      "has_shared_to_fb": 0,
+      "product_type": "ad",
+      "deleted_reason": 0,
+      "integrity_review_decision": "pending",
+      "commerce_integrity_review_decision": null,
+      "music_metadata": null,
+      "is_artist_pick": false,
+      "can_reshare": false,
+      "can_reply": false,
+      "can_send_prompt": false,
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 7,
+              "webUri": "https://www.frenchkande.com/stores/new-arrivals/chatelet-collection-holiday-2018.html?product_list_limit=all&fbclid=PAAaYEtw8GxVKmbKOkWTKofvjNxVeEAaMU9Rggux4l_kuvcUZeaf3A4ugmE6M&external_browser_redirect=true",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9wCgW_VHkoHOmRlmGKPwNLHEWtj1KUkEyGg1G-KRwMDjIYPHcRhJRZA8fra_RGpweC0w0g2ALYwaCvMO2nobJDg2opqFiezo2ytgjotmNB1TD-biXLGbZOYW4ulfxZVr7nEKE8DqxmpkOYREE-j6G2wkimlI3xKAAC1Pn2ASw1lgDzHji1aV1EKk5f2VEwbdaYdTAVDW84BUVZ2gshBdVFl_oOMOIgNR3t0Fgr-M-SNNlrr3nOFiniSXVk83JwQAaeqFcBvR_Eni2i2Z5NDSdq3XelWnkwwKesLxPS8fPHJXVHSjWds1cS0Cc11_jBwFvPHAxS35CHXjWpWMXkIfiuj8xt5I61wM1ySDnibQshABPQNippsiDBxSf7vVOZVNJi00GzHg9nPwotIxti3urf_FB743G2zbflzVYVaFEiXHdg6r_fIR5yUFHi6a58sH72-JsfzPXEDp14EbVu1oAM&a=1&hash=Ad96eaBRe_Mr8Okp8bk",
+              "leadGenFormId": 164267994507138,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "referrerData": null,
+              "isAndroidAppLink": null,
+              "destinationContext": "Sign Up Now",
+              "tapAndHoldContext": "Swipe up to view form"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true,
+      "story_ad_headline": {
+        "text": "Free Gift With Purchase! Sign Up.",
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00"
+      },
+      "supports_reel_reactions": true,
+      "can_send_custom_emojis": true,
+      "show_one_tap_fb_share_tooltip": true
+    },
+    {
+      "taken_at": 1617323989,
+      "pk": 2542620365596642977,
+      "id": "lead_gen_card_non9by16_gradient_small_lead_gen_card_8053212",
+      "device_timestamp": 1617323989,
+      "media_type": 1,
+      "code": "CNJM8BKD86h",
+      "client_cache_key": "MjU0MjYyMDM2NTU5NjY0Mjk3Nw==.2",
+      "filter_type": 0,
+      "is_unified_video": false,
+      "should_request_ads": false,
+      "caption_is_edited": false,
+      "like_and_view_counts_disabled": false,
+      "commerciality_status": "not_commercial",
+      "is_paid_partnership": false,
+      "is_visual_reply_commenter_notice_enabled": true,
+      "original_media_has_visual_reply_media": false,
+      "has_delayed_metadata": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": true,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 283,
+      "hide_view_all_comment_entrypoint": false,
+      "image_versions2": {
+        "candidates": [
+          {
+            "width": 360,
+            "height": 450,
+            "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/167190520_2677765402468008_6639074736575046405_n.jpg?stp=dst-jpg_e15_p360x360&efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RjcF93cml0ZV90aW1lb3V0X2RvZ2Zvb2Rpbmc6bW5zX2RlZmF1bHQifQ&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=RwTewcAxjZQAX9tjY7W&edm=ANct6CgBAAAA&ccb=7-5&ig_cache_key=MjU0MjYyMDM2NTU5NjY0Mjk3Nw%3D%3D.2-ccb7-5&oh=00_AT-VTJcTFkQyWLC_Nb2jPtSi4T-1sZWpgPG1yr6Jipxmwg&oe=632733D4&_nc_sid=e4e9cf",
+            "scans_profile": "e15",
+            "estimated_scans_sizes": [
+              3311,
+              6622,
+              9933,
+              13244,
+              16555,
+              29799,
+              29799,
+              29799,
+              29799
+            ]
+          }
+        ]
+      },
+      "original_width": 1080,
+      "original_height": 1350,
+      "user": {
+        "pk": 8053212,
+        "username": "frenchkandejewelry",
+        "full_name": "French Kande Jewelry - Vintage Medallions Redefined",
+        "is_private": false,
+        "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/275472944_282179324033212_2447158821208490628_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=LGG5HfIk5wsAX-EjLRG&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT-LIwkjR69s9j8dSdCoDhkdp1h7zz6dDuMC3WfjK-xfQg&oe=6325EC9F&_nc_sid=e4e9cf",
+        "profile_pic_id": "2790443788919474833_8053212",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "has_highlight_reels": false,
+        "transparency_product_enabled": false,
+        "account_badges": [],
+        "fan_club_info": {
+          "fan_club_id": null,
+          "fan_club_name": null
+        }
+      },
+      "like_count": 8803,
+      "has_liked": false,
+      "photo_of_you": false,
+      "is_organic_product_tagging_eligible": false,
+      "can_see_insights_as_brand": false,
+      "is_dash_eligible": 1,
+      "view_count": 344775,
+      "comment_inform_treatment": {
+        "should_have_inform_treatment": false,
+        "text": "",
+        "url": null,
+        "action_type": null
+      },
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null,
+        "sharing_friction_payload": null
+      },
+      "can_viewer_save": true,
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "auto_generated_card_type_v2":"LEADGEN",
+      "lead_gen_card_info":{
+        "context_headline":"Let us help you elevate your space with our consultation",
+        "sticker_icon_url": "",
+        "background_type":"PORTAL_COLOR_GRADIENT",
+        "sticker_size":"SMALL" ,
+        "click_area":"CTA_ONLY",
+        "cta_type":"STICKER_CTA"
+      },
+      "injected": {
+        "label": "Sponsored (Demo)",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AQLbZIQYtN1DmnxtuITjBg1lQeLZU8jvdZWH8PYze3g5q3DIY8HjDtXSo2sWAnUxPf3vCZhnKLniogqleWEt16BtTDof-5v0oDoVNUBunWQfK0BTQoCWRZWGIWAmDt6pm-zsTMthFyjjDRIfIRTZ7JG1nZrSNRw7OXKYjY9xIPx6pNucl4gAPOWRp4cgHLTbVnuFgmwMUyaWObH-rRWIIZl9bBQh9XXNmh05-Hjvs_xqqa9GDK_AwNze9yH2CWnviBknoy3kusOMgVOB0gIJb2OkAnP195R0z6yXWpGe6Xm7UZTd-SZ4GjaT7_bQtOGtZvMSuk2PXuqKp9B2qG6Pw9FHCJes0w4Kwxua6WnaFmGes7L0TMD2EHbFgk3jZryNhfTjDjg-8gvb9uSgD2syWTDB8Q46uVziwrw3uNDeJ-5Kwx7JXFBakT7KA0s-LNZkswvWxR0KHG_GvICdyx1L9Yti4O8gu2HC3FfPmbACO08WaL8fzxGefZL4C1E0ZTnpVXVlHGlZKHl05CdXZx1Br_I7TKag8oJo5rvEwq9-WFnyf_6INJjGXP-_AWK4rGh7WDOaltXuD5Q5xjDHwh0zmNb0sFDg9jfHHFYfJ6gm5EYSON2I4savkltDtYI-jf3iyLFluvJBDaaO0qjcHPlAhwvfxnj70Q4kvJ7zBueikPl-6cMbjp4bUGOmkDNZ9wiFY1n4G6cgHVselGptaxBn0GQV_aApF9FGiehadcEG1lcy0chMsx-OEHAn7Rcv2nkklHnjM8XbF7bp_MLUjhbyhHMmAvKCfS9rabch76IUxKEhpfunYa_5QmcEV9XOAoSJYZmGfW8yKkFxnMV2MGhio0OUmlh-zdrRQgE3L5MYVje-hS2Y1PF72NWhsX-Xfop59_rhZvRdGqJBcwadIHH207zrA_XFyIiFlxhmJlY_Jw-KuoAVJHlAbgIe7MY2isCWBrgWljQzD2wDv6SUPyD3RtXeJBBhwPC8z2S8_Dg_65rI6bRTMpow_Z4qeGl043Sgb8dX_KBYCSN38QA2hYGVZ_lKfK8pyrQmVFFjUz1v_iPuE6mDIRdlwHRDAyOGAc9efFwqrSu5vo2oWMKgL5w4idbCmMh5jl6wovi7yHIjbO0X9iHS75bU0ZtuZrsKDNmYgqoMGykTzNaKYz7z2_dsW1q-Za3Efn0fQZzQIo7L68HQY4qnUiw3xGHX3klBVzpGoE5TB8OwUWrO1BFc4WNTIX9XySW9Nlvm6VHgdBgOe9B-hgzttw5aeu1HQ6T4W1WxDMSV5aSG4onjvJktUvGM0g8vGbhKiXyeEHZXb3gl6qYh2sJ9JPMX-l-ybNZQXYpIqfYYYjFWf8jMHZN7px055DoLFXrtwXoBkt3aQOKD1DwHYuvAYaZoXtaV9GHnVKkf8baLpHE6T4PLoemgdjqx9KCkFrVmYuAvBztSVEfknK9NQulWhbsxq3sP4_UmTq18rwEj3ksnzojcT9PgYqruvnN31btsIK_Hc371WzXur4Q8qhd20mS1kXlHibOIrTg1kkaYupl2OSZOyOIn8JQWx0Fpnjf_KSGd2JcQPwV7WYIsyyhAByGjp5bk-wktM36fUa4Jz0wjSp5WUWSduI51ikIpvlFuCpgXBdM2fEjmKHhsppk7gElqfw5mtuKtxED1B6IoMx08gOXTxyFf_7yEvrPcTK3YxLGFjoqcg65nrQqAXHRjxOoHnfejqLT-HcO0x-2KAMAmV5tJ3gA2y1uJjbDpuacQf7E4A0Wa-MC_4sRAnHJehfkcX7ocmfUZ2hbajqna6TgGslYvZA_kogFZ63gNoabCMahDfpJ1r1CxsEahvuuHU1xFMns-mP-EN-zaFxcQsfMI38NNLGQeCcfVodmfPfDKsaD4LuiZwCYmiGpGD3EdeP5xWbBMqosUAnNSr-Gj8qsGD51lkOojOsRyw1fS5nPFb6fMEaIFMFTs__Gnqp2uYhI1iHnhODUcZnH9GFPlMEDwUclEqffvvkXAEn37mM2wjOD00Yl2_W5zSMgb6mFFellgCMj7QzUnBWhBIkR3DuEAWfgCZUQWaxHxx9rcjMOVXDmYXnyiEVt2L2SG6FlH-Z0c6KghMsmthvXcpeBfCInRDuz5ptIofHbWmwGmDoNPLU3HdMLAx_OurucFiXSky-tYzBSytTW4dm-3GaIX1u4ByOg9T_coFTwA7McyV74cF_RNPO12uC_duJ2huGU4wvRH9Yj2gDLmefH6GBF_BFLIBXfF3evzFsWidn9O7DHcLsz_pGYyhjrxhonD0DS7BYzr7FAwar-VmMbDb6vKZGCNZKI3sfzSIbZ7cTln-ryZMrk9QXAsU9eJLFtQz3ar2E7E0NX-Z3ewv_3UC89uIW_6mJzLWazEoJ8D_n9qXtezuJ8Tkbitb1jD9xbrMws2a5fyfRzPq_pwlUBqDPC-s7iJKOh1zGxWVGfRh4UgvBG2FFcpXsi9jfyOclHUhPwmn0Vg-EAu_q7cVAahibpHqWAcK18XXBud_Us_F6r7Or893hBcucXLkG6gp4KpQCH4iK1VymKCc_dmqLcJF7rHj4BDLXHS1wS9qXA48XqyKL9dDAAwtQQ21_xUNyaWA1a0TmwIXUfHmcV5YTEa7Weu-CJUpZCh0LKdNhcRgZh__3EO_izAppvGUlA3NZ0CyF7ydambrQ0p88oTO_CyTq2nYs2kjq_bmCJRlGdfyQHuQwg856cvjSJ77k3pxigLZKNIhx6RrEJfG78ha6ZhC0nOxH_GcyyeXvNCQ6cgpDKmbjUtU0xLG4BHU6wqBavgPhBJRqb5EdmNymQWu0NKNmEuLvt5f-xmV-s13w5djNouUCIFWSYlZoqMkhWGztMFKLTEr0Y52yUFjtBDCAVQerxwotDrwizt5jpjfBhLU8w9KihfQkrn9hSYRx8GKB3SQFrieHBGBgCSHysfGkx4l1DiFoBXV-3ZPqPF6ZwbkVQwSGDJ3nlER2fPEIFKs3OgFrMFUCFobR6je3LNWa8qjhzmDdJ22p6070t-ZWxhvAJqFw4WOCU1Iw6hBu5BPecGNroV6_h_fVY4kAVSVSpSt4IKNixgB2LhVVtK_DFqD5S8Qqlz94y_Asx2hZt4T1bnjx5aSUrDTxgTDPerva3l9zQpSIV4oTQEFPzflATUuXRzZN7xjs5aR1eYz31HuULZc565mnEbQouosVvH3m3OlOXk-iIT8NeLV-oYaFJ2Me5VMLpxf-tCtYEfFmj0fZzkBQAGxNjVB9qfyet0aH6ZVr9tekgVxBn6yQ4rCrtoIkYtV1iVmw5lUfaiTSOwPiBxsYuYv8hOQnib5fJOx_CiIPD6IBarXU19tq9nnq8uCxneyOIUhKAxb9l_92ctua7LCjxN223UzDRHfEmHiMrQ-4ZgVhJLqcRmPTHmRf4Z3ULwMeHO-XuO7Mj2oQUQYM5yOf5B6EOtYaSRI8GkPJT5QGLdekUxdXARR3BxkOtL6G_ldED-xibwZ_cQxdYWrOL1GfdM4uyGTNvSI5Ebdbsdl5GaawIlCJ_EqEFZNodLBZFFmRfKSY3UEOr2jZhquaRkKCXUXCK3vYNcIM8d9D4q2EgxZvkSByGBq81J8g0EOwD3wWBGEuV8yfaO94FEjkMo6FvuzssRcDVLhImHEZl7AOAVgQBzNQ3R2cjAnB18osJhTYUkg9dfEYtjS2BpV62jYA8bTj6Lsh3KpEtkL3-St9naANRfwiRYZctYifYgLOcm0AtoIeAOT1DJ2DQtoGph99woyDIDURZHvdQnVzbAlpco2lBy2qkUWuaX-Zb_FOS3w5xn_q610EgxKDTCb7W4wkuE4QUGkEV3DUl9_Z5UknMYTJx_c8OFh-fkbNEwR5nJA1wMSYiLVxeXUN-lBz7xNQcWChdHtJ0KUyh4bNAhydrXohtlQg_5VyYa6_WFKtmXNbI68m51g6ittEF4yEk84ONIWPtEhy45S5zwLs7nHM",
+        "show_ad_choices": false,
+        "ad_title": "French Kande",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 6234905749669,
+        "campaign_id": 6193112489869,
+        "app_id": 0,
+        "page_id": 126289380715569,
+        "actor_id": 454039457985127,
+        "media_id": 2542620365596642977,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0.0,
+            "ecpmPrice": 0.0,
+            "ectr": 0.0,
+            "ecvr": 0.0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0.0,
+              "userDollarValue": 0.0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": null,
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "invalidation_rules": {
+          "meta_ids": [
+            "ad_id"
+          ],
+          "local_surface": [
+            {
+              "instruction": {
+                "signal": "seen",
+                "conditions": [
+                  {
+                    "lhs": "dwelltime",
+                    "comparator": "ge",
+                    "rhs": 250
+                  },
+                  {
+                    "lhs": "time",
+                    "comparator": "le",
+                    "rhs": 7200000
+                  }
+                ]
+              }
+            },
+            {
+              "instruction": {
+                "signal": "x-out"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_pool"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_inserted"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "app_install"
+              }
+            }
+          ]
+        },
+        "carousel_transformation_cards_v2":[
+          "ORIGINAL",
+          "LEADGEN"
+        ],
+        "fb_app_id": 0,
+        "is_luxury_vertical_ad": false,
+        "lead_gen_form_id": 164267994507138,
+        "is_leadgen_native_eligible": true,
+        "cookies": [
+          "fr=0zVcU6HSlbaVEUIeH.AWXikmHP4c2C81Hq36JIevcaL14.BjH3XM..AAA.0.0.BjH3XM.AWWEyg1p7SA; expires=Sun, 11 Dec 2022 18:09:16 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "is_sensitive_vertical_ad": false,
+      "collapse_comments": false,
+      "ad_metadata": [
+        {
+          "value": "frenchkande.com",
+          "type": 1
+        }
+      ],
+      "link": "https://www.frenchkande.com/stores/new-arrivals/chatelet-collection-holiday-2018.html?product_list_limit=all&fbclid=PAAaZJxwe4849tfQJd0JIa8MsKCtG_l3VHdJt7XYYVx5c_oDbQEO8OWXALpfs_aem_AS5TABfsOIGPhg7T--iZ8w2HA8j8cAWchKhHMKYqZNyI6-7dRJsQUiLvInpK0Z481UCiY8WJPWCSO70ik9yKSiq8OWZqphNXA7Y1HAerop2Cpu0c3A4WC3bbpSvLDx2gqFw",
+      "link_text": "Sign Up",
+      "ad_action": "leadads",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "android_links": [
+        {
+          "linkType": 7,
+          "webUri": "https://www.frenchkande.com/stores/new-arrivals/chatelet-collection-holiday-2018.html?product_list_limit=all&fbclid=PAAaZJxwe4849tfQJd0JIa8MsKCtG_l3VHdJt7XYYVx5c_oDbQEO8OWXALpfs_aem_AS5TABfsOIGPhg7T--iZ8w2HA8j8cAWchKhHMKYqZNyI6-7dRJsQUiLvInpK0Z481UCiY8WJPWCSO70ik9yKSiq8OWZqphNXA7Y1HAerop2Cpu0c3A4WC3bbpSvLDx2gqFw",
+          "contentId": 0,
+          "productPageId": null,
+          "isUniversalLink": null,
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-fmME06zAsU4vYQI4IYoBzTZk9akFxrNYb-E6_w6DpGWN_eRzDBAnsTk8J5by2fGm8_0lkX326yd5pwzRX1nx_KzvbjYGDzug-P3YAn9BY3hYOxqvKw_MQQEnbDGeMdfs8qVScP6jY7cdvZS-c31ttcO63qLCezWyB2L7wWj7DhqEgquv6rvDOcQ8CPT1Xf-eRhCBzZLoucZsLwykdWQRlirI1qQm5GHgSvcuq3eroV_duvKBVoRc9Bv1MxNCjtPxYMee1Ukg4WYeurHUfb_Z2i4gSkia59DcsEI30D2pUeyvav0qAYuCoXsF6qGk5P_ilrOPOZr2HX6q57GN_piBySkg4PjVR_YInz2ZIrdyWrZ6g3qz02nklVcvhaMpjN1RN8EwFxs-Csf11U5FeIeiYh6L07I2cX7vyg9k6PkI4iq7VCe4Q35x7Y7cXEMKh_0FV8FDkzdYTy5f0qooLsVaFHR_m-Yk250wT5QIIPxlnm1OufphO03zjZ0lJPoelHDQiqn9PVtc0hv1Hz2-N-alKDxgfTgtXfVyUC8OtPuZfLPMIFN0nwyMmTuEbK9dDau2me9CjTSzfbnn8JoxFIu0k&a=1&hash=Ad_8ZZUauwmMwNrpGa4",
+          "leadGenFormId": 164267994507138,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "skAdNetworkMetadata": null,
+          "destinationContext": "Sign Up Now",
+          "tapAndHoldContext": "Swipe up to view form"
+        }
+      ],
+      "iab_autofill_optout_info": {
+        "domain": "",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "PAAaZJxwe4849tfQJd0JIa8MsKCtG_l3VHdJt7XYYVx5c_oDbQEO8OWXALpfs_aem_AS5TABfsOIGPhg7T—iZ8w2HA8j8cAWchKhHMKYqZNyI6-7dRJsQUiLvInpK0Z481UCiY8WJPWCSO70ik9yKSiq8OWZqphNXA7Y1HAerop2Cpu0c3A4WC3bbpSvLDx2gqFw",
+      "force_overlay": false,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "French Kande",
+      "overlay_subtitle": "Go to frenchkande.com",
+      "dominant_color": "#99887B",
+      "ad_id": 6234905749669,
+      "fb_page_url": "https://www.facebook.com/FrenchKande/",
+      "reel_media_background": {
+        "top": {
+          "background_color": "#B29D8B"
+        },
+        "bottom": {
+          "background_color": "#BAA899"
+        }
+      },
+      "item_client_gap_rules": {
+        "time_based_insertion_gap_in_seconds": null,
+        "push_up_min_gap": null,
+        "enable_user_engagement_base_insertion": null,
+        "user_engagement_based_insertion_settings": null
+      },
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZDQ1NjY1NjU5NmM4NGJhMWJhNGJiZDdhOWNmMTBjOWUyNTQyNjIwMzY1NTk2NjQyOTc3Iiwic2VydmVyX3Rva2VuIjoiMTY2MzAwNjE1NzA3N3wyNTQyNjIwMzY1NTk2NjQyOTc3fDQ0MjM0ODIxMzgyfGE1MDNhY2RkMjQzZjVlZjRlYjE4NDJjYWUxYjMxNmRiZDBjYWE5ZGZjNmYyZWUxMzM5ZGFhNDQzYjNlYWM4MWQifSwic2lnbmF0dXJlIjoiIn0=",
+      "expiring_at": 1650511963,
+      "has_shared_to_fb": 0,
+      "product_type": "ad",
+      "deleted_reason": 0,
+      "integrity_review_decision": "pending",
+      "commerce_integrity_review_decision": null,
+      "music_metadata": null,
+      "is_artist_pick": false,
+      "can_reshare": false,
+      "can_reply": false,
+      "can_send_prompt": false,
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 7,
+              "webUri": "https://www.frenchkande.com/stores/new-arrivals/chatelet-collection-holiday-2018.html?product_list_limit=all&fbclid=PAAaZJxwe4849tfQJd0JIa8MsKCtG_l3VHdJt7XYYVx5c_oDbQEO8OWXALpfs_aem_AS5TABfsOIGPhg7T--iZ8w2HA8j8cAWchKhHMKYqZNyI6-7dRJsQUiLvInpK0Z481UCiY8WJPWCSO70ik9yKSiq8OWZqphNXA7Y1HAerop2Cpu0c3A4WC3bbpSvLDx2gqFw",
+              "contentId": 0,
+              "productPageId": null,
+              "isUniversalLink": null,
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-fmME06zAsU4vYQI4IYoBzTZk9akFxrNYb-E6_w6DpGWN_eRzDBAnsTk8J5by2fGm8_0lkX326yd5pwzRX1nx_KzvbjYGDzug-P3YAn9BY3hYOxqvKw_MQQEnbDGeMdfs8qVScP6jY7cdvZS-c31ttcO63qLCezWyB2L7wWj7DhqEgquv6rvDOcQ8CPT1Xf-eRhCBzZLoucZsLwykdWQRlirI1qQm5GHgSvcuq3eroV_duvKBVoRc9Bv1MxNCjtPxYMee1Ukg4WYeurHUfb_Z2i4gSkia59DcsEI30D2pUeyvav0qAYuCoXsF6qGk5P_ilrOPOZr2HX6q57GN_piBySkg4PjVR_YInz2ZIrdyWrZ6g3qz02nklVcvhaMpjN1RN8EwFxs-Csf11U5FeIeiYh6L07I2cX7vyg9k6PkI4iq7VCe4Q35x7Y7cXEMKh_0FV8FDkzdYTy5f0qooLsVaFHR_m-Yk250wT5QIIPxlnm1OufphO03zjZ0lJPoelHDQiqn9PVtc0hv1Hz2-N-alKDxgfTgtXfVyUC8OtPuZfLPMIFN0nwyMmTuEbK9dDau2me9CjTSzfbnn8JoxFIu0k&a=1&hash=Ad_8ZZUauwmMwNrpGa4",
+              "leadGenFormId": 164267994507138,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "skAdNetworkMetadata": null,
+              "destinationContext": "Sign Up Now",
+              "tapAndHoldContext": "Swipe up to view form"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true,
+      "story_ad_headline": {
+        "text": "Free Gift With Purchase! Sign Up.",
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00"
+      },
+      "supports_reel_reactions": true,
+      "can_send_custom_emojis": true,
+      "show_one_tap_fb_share_tooltip": true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "carousel_rendering_type":"mps",
+  "carousel_transformation_cards_v2":["ORIGINAL", "LEADGEN"],
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 0,
+    "reel_gap_to_previous_netego": 0,
+    "consumed_media_gap_to_previous_ad": 0,
+    "consumed_media_gap_to_previous_netego": 0,
+    "max_reel_gap_to_previous_item": 0,
+    "highest_position_rule": 1,
+    "min_media_gap_to_previous_item": 0,
+    "time_gap_to_previous_item_in_sec": 0,
+    "is_media_based_hp_enabled": true,
+    "carry_over_highest_position_rule": 0
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

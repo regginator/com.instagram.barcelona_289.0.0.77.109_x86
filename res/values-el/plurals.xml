@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">Οι θεατές θα μπορούν να σύρουν προς τα πάνω για να επισκεφτούν αυτό το σύνδεσμο. Μπορείτε να προσθέσετε μόνο ένα σύνδεσμο με δυνατότητα swipe up.</item>
+        <item quantity="one">Οι θεατές θα μπορούν να σύρουν προς τα πάνω για να επισκεφτούν αυτό το σύνδεσμο.</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">Προστέθηκαν ονομαστικές αναφορές.</item>
+        <item quantity="one">Προστέθηκε η ονομαστική αναφορά.</item>
+    </plurals>
+    <plurals name="alt_text_popup_description">
+        <item quantity="other">Περιγράψτε τις φωτογραφίες σας για άτομα με προβλήματα όρασης.</item>
+        <item quantity="one">Περιγράψτε τη φωτογραφία σας για άτομα με προβλήματα όρασης.</item>
+    </plurals>
+    <plurals name="anonymous_comments_message">
+        <item quantity="other">Δείτε %1$d σχόλια στην {original_post}.</item>
+        <item quantity="one">Δείτε 1 σχόλιο στην {original_post}.</item>
+    </plurals>
+    <plurals name="anonymous_likers_message">
+        <item quantity="other">Δείτε %1$d \"Μου αρέσει!\" στην {original_post}.</item>
+        <item quantity="one">Δείτε 1 \"Μου αρέσει!\" στην {original_post}.</item>
+    </plurals>
+    <plurals name="appended_poll_vote_count_label_on_feed">
+        <item quantity="other">%1$s αποτελέσματα από τη δημοσκόπηση</item>
+        <item quantity="one">%1$s αποτέλεσμα από τη δημοσκόπηση</item>
+    </plurals>
+    <plurals name="appreciation_funding_a11y_star_balance">
+        <item quantity="other">Το υπόλοιπό σας είναι %1$d αστέρια</item>
+        <item quantity="one">Το υπόλοιπό σας είναι 1 αστέρι</item>
+    </plurals>
+    <plurals name="appreciation_gifting_a11y_balance">
+        <item quantity="other">Υπόλοιπο: %1$d αστέρια</item>
+        <item quantity="one">Υπόλοιπο: 1 αστέρι</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_body">
+        <item quantity="other">Επιλέξατε %1$d σχόλια. Αν εγκρίνετε μια απάντηση, το αρχικό σχόλιο θα είναι επίσης εγκεκριμένο.</item>
+        <item quantity="one">Επιλέξατε 1 σχόλιο. Αν εγκρίνετε μια απάντηση, το αρχικό σχόλιο θα είναι επίσης εγκεκριμένο.</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_primary_button">
+        <item quantity="other">Έγκριση σχολίων</item>
+        <item quantity="one">Έγκριση σχολίου</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_title">
+        <item quantity="other">Έγκριση %1$d σχολίων;</item>
+        <item quantity="one">Έγκριση 1 σχολίου;</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">%1$d άτομα</item>
+        <item quantity="one">1 άτομο</item>
+    </plurals>
+    <plurals name="average_time_spent_hours">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="one">%1$d ώρα</item>
+    </plurals>
+    <plurals name="average_time_spent_minutes">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+    </plurals>
+    <plurals name="barcelona_expand_replies">
+        <item quantity="other">%1$s απαντήσεις</item>
+        <item quantity="one">%1$s απάντηση</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_follower_tab_count">
+        <item quantity="other">%1$s ακόλουθοι</item>
+        <item quantity="one">1 ακόλουθος</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_following_tab_count">
+        <item quantity="other">Ακολουθεί %1$s</item>
+        <item quantity="one">Ακολουθεί 1</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_pending_tab_count">
+        <item quantity="other">%1$s σε εκκρεμότητα · Θα αρχίσετε να ακολουθείτε αυτούς τους λογαριασμούς μόλις εγγραφούν στο %2$s. %3$s</item>
+        <item quantity="one">Σε εκκρεμότητα · Θα αρχίσετε να ακολουθείτε αυτόν τον λογαριασμό μόλις εγγραφεί στο %2$s. %3$s</item>
+    </plurals>
+    <plurals name="barcelona_onboarding_following_screen__pending_tab_subtitle">
+        <item quantity="other">Αυτοί οι %1$s λογαριασμοί δεν έχουν εγγραφεί ακόμα στο %2$s ή πρέπει να εγκρίνουν το αίτημα ακολούθησής σας.</item>
+        <item quantity="one">Αυτός ο λογαριασμός δεν έχει εγγραφεί ακόμα στο %2$s ή πρέπει να εγκρίνει το αίτημα ακολούθησής σας.</item>
+    </plurals>
+    <plurals name="barcelona_post_like_count">
+        <item quantity="other">Αρέσει σε %1$s</item>
+    </plurals>
+    <plurals name="barcelona_profile_follower_count">
+        <item quantity="other">%1$s ακόλουθοι</item>
+        <item quantity="one">1 ακόλουθος</item>
+    </plurals>
+    <plurals name="barcelona_search_follower_count">
+        <item quantity="other">%1$s ακόλουθοι</item>
+        <item quantity="one">1 ακόλουθος</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">Τα αιτήματα ακολούθησης δεν επιβεβαιώθηκαν. Δοκιμάστε ξανά αργότερα.</item>
+        <item quantity="one">Το αίτημα ακολούθησης δεν επιβεβαιώθηκε. Δοκιμάστε ξανά αργότερα.</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">Τα αιτήματα ακολούθησης δεν διαγράφηκαν. Δοκιμάστε ξανά αργότερα.</item>
+        <item quantity="one">Το αίτημα ακολούθησης δεν διαγράφηκε. Δοκιμάστε ξανά αργότερα.</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">Το αίτημά σας να ακολουθήσετε κι εσείς αυτούς τους χρήστες απέτυχε. Προσπαθήστε ξανά αργότερα.</item>
+        <item quantity="one">Το αίτημά σας να ακολουθήσετε κι εσείς αυτόν τον χρήστη απέτυχε. Προσπαθήστε ξανά αργότερα.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">Το αίτημά σας να αφαιρέσετε αυτούς τους ακόλουθους απέτυχε. Προσπαθήστε ξανά αργότερα.</item>
+        <item quantity="one">Το αίτημά σας να αφαιρέσετε αυτόν τον ακόλουθο απέτυχε. Προσπαθήστε ξανά αργότερα.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">Αφαιρέθηκαν %1$s ακόλουθοι</item>
+        <item quantity="one">Αφαιρέθηκε 1 ακόλουθος</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">%1$d αιτήματα</item>
+        <item quantity="one">%1$d αίτημα</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s άτομα</item>
+        <item quantity="one">1 άτομο</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_body">
+        <item quantity="other">Επιλέξατε %1$d λογαριασμούς. Δεν θα μπορούν να βρουν το προφίλ, τις δημοσιεύσεις ή την ιστορία σας στο Instagram.</item>
+        <item quantity="one">Επιλέξατε 1 λογαριασμό. Δεν θα μπορεί να βρει το προφίλ, τις δημοσιεύσεις ή την ιστορία σας στο Instagram.</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_primary_button">
+        <item quantity="other">Μπλοκάρισμα λογαριασμών</item>
+        <item quantity="one">Μπλοκάρισμα λογαριασμού</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_title">
+        <item quantity="other">Μπλοκάρισμα %1$d λογαριασμών;</item>
+        <item quantity="one">Μπλοκάρισμα 1 λογαριασμού;</item>
+    </plurals>
+    <plurals name="blocked_story_photos_delete_button_text">
+        <item quantity="other">Διαγραφή %1$d φωτογραφιών</item>
+        <item quantity="one">Διαγραφή 1 φωτογραφίας</item>
+    </plurals>
+    <plurals name="blocked_story_videos_delete_button_text">
+        <item quantity="other">Διαγραφή %1$d βίντεο</item>
+        <item quantity="one">Διαγραφή 1 βίντεο</item>
+    </plurals>
+    <plurals name="bonuses_tagging_reels_welcome_bonus_reels_left">
+        <item quantity="other">%1$d ακόμη reel μπορούν να αντιστοιχιστούν σε αυτό το μπόνους</item>
+        <item quantity="one">1 ακόμη reel μπορεί να αντιστοιχιστεί σε αυτό το μπόνους</item>
+    </plurals>
+    <plurals name="bulk_block_confirmation_toast">
+        <item quantity="other">Οι λογαριασμοί μπλοκαρίστηκαν</item>
+        <item quantity="one">Ο λογαριασμός μπλοκαρίστηκε</item>
+    </plurals>
+    <plurals name="bulk_restrict_confirmation_toast">
+        <item quantity="other">Οι λογαριασμοί περιορίστηκαν</item>
+        <item quantity="one">Ο λογαριασμός περιορίστηκε</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">Πριν από %1$d χρόνια…</item>
+        <item quantity="one">Πριν από 1 χρόνο…</item>
+    </plurals>
+    <plurals name="cart_sold_out_and_unavailable_items_status_message">
+        <item quantity="other">%1$d προϊόντα στο καλάθι αγορών σας δεν είναι πλέον διαθέσιμα.</item>
+        <item quantity="one">Ένα προϊόν στο καλάθι αγορών σας δεν είναι πλέον διαθέσιμο.</item>
+    </plurals>
+    <plurals name="chat_badge">
+        <item quantity="other">%1$d συνομιλίες</item>
+        <item quantity="one">1 συνομιλία</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">%1$s μέλη</item>
+        <item quantity="one">%1$s μέλος</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d απαντήσεις</item>
+        <item quantity="one">%1$d απάντηση</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">%1$d στενοί φίλοι στο Facebook</item>
+        <item quantity="one">1 στενός φίλος στο Facebook</item>
+    </plurals>
+    <plurals name="comment_badge">
+        <item quantity="other">%1$d σχόλια</item>
+        <item quantity="one">1 σχόλιο</item>
+    </plurals>
+    <plurals name="comment_count_label_on_feed">
+        <item quantity="other">%1$s σχόλια</item>
+        <item quantity="one">%1$s σχόλιο</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">Ο χρήστης %1$s και &lt;b>%2$s ακόμη&lt;/b> σχολίασαν</item>
+        <item quantity="one">Ο χρήστης %1$s και &lt;b>1 ακόμη&lt;/b> σχολίασαν</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">Σχολίασε ο χρήστης %1$s και άλλοι</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">Οι %1$s, %2$s, %3$s και &lt;b>%4$s ακόμη&lt;/b> σχολίασαν</item>
+        <item quantity="one">Οι %1$s, %2$s, %3$s και &lt;b>1 ακόμη&lt;/b> σχολίασαν</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">Σχολίασαν οι %1$s, %2$s, %3$s και άλλοι</item>
+    </plurals>
+    <plurals name="comments_from_facebook_title">
+        <item quantity="other">Εμφάνιση %1$d σχολίων από το Facebook</item>
+        <item quantity="one">Εμφάνιση ενός σχολίου από το Facebook</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">Επιβεβαίωση %1$s αιτημάτων ακολούθησης;</item>
+        <item quantity="one">Επιβεβαίωση 1 αιτήματος ακολούθησης;</item>
+    </plurals>
+    <plurals name="connect_page_num_like">
+        <item quantity="other">%1$d Μου αρέσει!</item>
+        <item quantity="one">%1$d \"Μου αρέσει!\"</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">ημέρες</item>
+        <item quantity="one">ημέρα</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">ώρες</item>
+        <item quantity="one">ώρα</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">λεπτά</item>
+        <item quantity="one">λεπτό</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">μήνες</item>
+        <item quantity="one">μήνας</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">δευτερόλεπτα</item>
+        <item quantity="one">δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="custom_comment_filter_upsell_toast_message">
+        <item quantity="other">%1$d στοιχεία προστέθηκαν στη λίστα σας με τις Κρυφές λέξεις.</item>
+        <item quantity="one">Ένα στοιχείο προστέθηκε στη λίστα σας με τις Κρυφές λέξεις.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_message">
+        <item quantity="other">Δεν θα μπορείτε πλέον να δείτε αυτά τα βίντεο.</item>
+        <item quantity="one">Δεν θα μπορείτε πλέον να δείτε αυτό το βίντεο.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_title">
+        <item quantity="other">Διαγραφή %1$d βίντεο;</item>
+        <item quantity="one">Να διαγραφεί το βίντεο;</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">Διαγραφή %1$s αιτημάτων ακολούθησης;</item>
+        <item quantity="one">Διαγραφή 1 αιτήματος ακολούθησης;</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">Αυτά τα αιτήματα δεν θα εγκριθούν αν κάνετε την αλλαγή σε δημόσιο λογαριασμό.</item>
+        <item quantity="one">Αυτό το αίτημα δεν θα εγκριθεί αν κάνετε την αλλαγή σε δημόσιο λογαριασμό.</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">Διαγραφή αιτημάτων ακολούθησης;</item>
+        <item quantity="one">Διαγραφή αυτού του αιτήματος ακολούθησης;</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">Θα δουν όλα τα προηγούμενα μηνύματα της συζήτησης.</item>
+        <item quantity="one">Ο χρήστης %1$s θα δει όλα τα προηγούμενα μηνύματα από αυτή τη συζήτηση.</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message_without_all">
+        <item quantity="other">Θα βλέπει τα προηγούμενα μηνύματα αυτής της συζήτησης.</item>
+        <item quantity="one">Ο χρήστης %1$s θα βλέπει τα προηγούμενα μηνύματα αυτής της συζήτησης.</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_hours_ago">
+        <item quantity="other">Ενεργός/ή πριν από %1$d ώρες</item>
+        <item quantity="one">Ενεργός/ή πριν από 1 ώρα</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_mins_ago">
+        <item quantity="other">Ενεργός/ή πριν από %1$d λεπ.</item>
+        <item quantity="one">Ενεργός/ή πριν από 1 λεπτό</item>
+    </plurals>
+    <plurals name="direct_faq_import_bottom_button_footer">
+        <item quantity="other">Επιλέξτε έως %1$d ερωτήσεις</item>
+        <item quantity="one">Επιλέξτε έως 1 ερώτηση</item>
+    </plurals>
+    <plurals name="direct_faq_import_max_limit_reached_message">
+        <item quantity="other">Δεν μπορείτε να εισαγάγετε πάνω από %1$d ερωτήσεις</item>
+        <item quantity="one">Δεν μπορείτε να εισαγάγετε περισσότερες από 1 ερωτήσεις</item>
+    </plurals>
+    <plurals name="direct_max_recipients_in_chat_reached_body">
+        <item quantity="other">Ο συνολικός αριθμός ατόμων που μπορούν να συμμετέχουν σε μια συνομιλία είναι %1$s. Περιορίστε τον αριθμό των ατόμων στα %1$s συμπεριλαμβανομένου του εαυτού σας για να ολοκληρώσετε τη δημιουργία αυτής της συνομιλίας.</item>
+    </plurals>
+    <plurals name="direct_max_recipients_reached_body">
+        <item quantity="other">Ο συνολικός αριθμός ατόμων που μπορούν να αποτελούν μια ομάδα είναι %1$s. Περιορίστε τον αριθμό των ατόμων στα %1$s, συμπεριλαμβανομένου του εαυτού σας για να ολοκληρώσετε τη δημιουργία αυτής της ομάδας.</item>
+    </plurals>
+    <plurals name="direct_media_composer_send_button_description">
+        <item quantity="other">Αποστολή %1$s</item>
+        <item quantity="one">Αποστολή</item>
+    </plurals>
+    <plurals name="direct_welcome_message_edit_character_limit_reached_error">
+        <item quantity="other">Το μήνυμα καλωσορίσματος έχει όριο %1$d χαρακτήρων.</item>
+        <item quantity="one">Το μήνυμα καλωσορίσματος έχει όριο 1 χαρακτήρα.</item>
+    </plurals>
+    <plurals name="discard_x_drafts">
+        <item quantity="other">Απόρριψη %1$d προσχεδίων;</item>
+        <item quantity="one">Απόρριψη 1 προσχεδίου;</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">Το εφέ%1$s χρησιμοποιείται από &lt;b>%2$s φίλους&lt;/b></item>
+        <item quantity="one">Το εφέ%1$s έχει χρησιμοποιηθεί από &lt;b> 1 φίλο&lt;/b></item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">Το εφέ %1$s έχει χρησιμοποιηθεί από &lt;b>%2$s άτομα&lt;/b></item>
+        <item quantity="one">Το εφέ %1$s έχει χρησιμοποιηθεί από &lt;b>1 άτομο&lt;/b></item>
+    </plurals>
+    <plurals name="fan_club_content_preview_settings_detail">
+        <item quantity="other">%1$d δημοσιεύσεις</item>
+        <item quantity="one">%1$d δημοσίευση</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">Προβολή %1$d συνδρομητών</item>
+        <item quantity="one">Προβολή %1$d συνδρομητή</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_subtitle">
+        <item quantity="other">Το κουμπί \"Γίνετε συνδρομητής\" είναι πλέον διαθέσιμο στο προφίλ σας. Οι ακόλουθοί σας θα ενημερωθούν αυτόματα για τη συνδρομή σας σε %1$d ημέρες.</item>
+        <item quantity="one">Το κουμπί \"Γίνετε συνδρομητής\" είναι πλέον διαθέσιμο στο προφίλ σας. Οι ακόλουθοί σας θα ενημερωθούν αυτόματα για τη συνδρομή σας σε 1 ημέρα.</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_title">
+        <item quantity="other">Οι ακόλουθοί σας θα ενημερωθούν σε %1$d ημέρες</item>
+        <item quantity="one">Οι ακόλουθοί σας θα ενημερωθούν σε 1 ημέρα</item>
+    </plurals>
+    <plurals name="fb_page_num_like_label">
+        <item quantity="other">%1$s \"Μου αρέσει!\"</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">Ο τίτλος %1$s έχει %2$d στοιχεία, είναι %3$s, %4$s</item>
+        <item quantity="one">Το στοιχείο %1$s έχει %2$d προϊόν, είναι \"%3$s\", %4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">Θέλετε να ακολουθήσετε κι εσείς τους %1$s χρήστες;</item>
+        <item quantity="one">Θέλετε να ακολουθήσετε κι εσείς τον 1 χρήστη;</item>
+    </plurals>
+    <plurals name="follow_badge">
+        <item quantity="other">Ακολουθούν %1$d</item>
+        <item quantity="one">1 ακόλουθος</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">Ακολουθούν %1$d</item>
+        <item quantity="one">1 ακόλουθος</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">Ακολουθείται από %1$s άτομα</item>
+        <item quantity="one">Ακολουθείται από 1 άτομο</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">Ακολουθείται από τον χρήστη %1$s και &lt;font face=sans-serif-medium>%2$s ακόμη&lt;/font></item>
+        <item quantity="one">Ακολουθείται από τον χρήστη %1$s και &lt;font face=sans-serif-medium>1 ακόμη&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">Ακολουθείται από τον χρήστη %1$s και %2$s ακόμη</item>
+        <item quantity="one">Ακολουθείται από τον χρήστη %1$s και 1 ακόμη</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">Ακολουθείται από %1$s, %2$s και &lt;font face=sans-serif-medium>%3$s ακόμη&lt;/font></item>
+        <item quantity="one">Ακολουθείται από τους χρήστες %1$s, %2$s και &lt;font face=sans-serif-medium>1 ακόμη&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">Ακολουθείται από τους %1$s, %2$s, %3$s και &lt;font face=sans-serif-medium>%4$s ακόμη&lt;/font></item>
+        <item quantity="one">Ακολουθείται από τους %1$s, %2$s, %3$s και &lt;font face=sans-serif-medium>1 ακόμη &lt;/font></item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">%1$s ακόλουθοι</item>
+        <item quantity="one">%1$s ακόλουθος</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos">
+        <item quantity="other">%1$d φωτογραφίες</item>
+        <item quantity="one">%1$d φωτογραφία</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos_one_video">
+        <item quantity="other">%1$d φωτογραφίες και 1 βίντεο</item>
+        <item quantity="one">%1$d φωτογραφία και 1 βίντεο</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_videos">
+        <item quantity="other">%1$d βίντεο</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_one_photo_n_videos">
+        <item quantity="other">1 φωτογραφία και %1$d βίντεο</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_months_ago">
+        <item quantity="other">%1$d μήνες πριν</item>
+        <item quantity="one">Τον προηγούμενο μήνα</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_weeks_ago">
+        <item quantity="other">%1$d εβδομάδες πριν</item>
+        <item quantity="one">Την προηγούμενη εβδομάδα</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_years_ago">
+        <item quantity="other">%1$d χρόνια πριν</item>
+        <item quantity="one">Πέρυσι</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_day">
+        <item quantity="other">%1$d ημέρες</item>
+        <item quantity="one">1 ημέρα</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_minute">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_month">
+        <item quantity="other">%1$d μήνες</item>
+        <item quantity="one">1 μήνας</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_week">
+        <item quantity="other">%1$d εβδομάδες</item>
+        <item quantity="one">1 εβδομάδα</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_year">
+        <item quantity="other">%1$d χρόνια</item>
+        <item quantity="one">1 έτος</item>
+    </plurals>
+    <plurals name="granted_extension_time_hours">
+        <item quantity="other">%1$d ώρες ακόμη</item>
+        <item quantity="one">%1$d ώρα ακόμη</item>
+    </plurals>
+    <plurals name="granted_extension_time_minutes">
+        <item quantity="other">%1$d λεπτά ακόμη</item>
+        <item quantity="one">%1$d λεπτό ακόμη</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">%1$d φωτογραφίες και 1 βίντεο από τον χρήστη %2$s στη σειρά %3$d, στήλη %4$d</item>
+        <item quantity="one">%1$d φωτογραφία και 1 βίντεο από τον χρήστη %2$s στη σειρά %3$d, στήλη %4$d</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">1 φωτογραφία και %1$d βίντεο από τον χρήστη %2$s στη σειρά %3$d, στήλη %4$d</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">%1$d συνδρομητές</item>
+        <item quantity="one">%1$d συνδρομητής</item>
+    </plurals>
+    <plurals name="guide_detail_text_accounts">
+        <item quantity="other">%1$s ΛΟΓΑΡΙΑΣΜΟΙ</item>
+        <item quantity="one">%1$s ΛΟΓΑΡΙΑΣΜΟΣ</item>
+    </plurals>
+    <plurals name="guide_detail_text_locations">
+        <item quantity="other">%1$s ΤΟΠΟΘΕΣΙΕΣ</item>
+        <item quantity="one">%1$s ΤΟΠΟΘΕΣΙΑ</item>
+    </plurals>
+    <plurals name="guide_detail_text_media">
+        <item quantity="other">%1$s ΔΗΜΟΣΙΕΥΣΕΙΣ</item>
+        <item quantity="one">%1$s ΔΗΜΟΣΙΕΥΣΗ</item>
+    </plurals>
+    <plurals name="guide_detail_text_products">
+        <item quantity="other">%1$s ΠΡΟΪΟΝΤΑ</item>
+        <item quantity="one">%1$s ΠΡΟΪΟΝ</item>
+    </plurals>
+    <plurals name="guide_drafts_count">
+        <item quantity="other">%1$s προσχέδια οδηγών</item>
+        <item quantity="one">%1$s προσχέδιο οδηγού</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_attempts_left_error">
+        <item quantity="other">Έχετε ακόμη %1$d προσπάθειες εισαγωγής του PIN σας πριν μπλοκαριστεί.</item>
+        <item quantity="one">Έχετε ακόμη %1$d προσπάθεια εισαγωγής του PIN σας πριν μπλοκαριστεί.</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_hours_popup_title_text">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="one">1 ώρα</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_minutes_popup_title_text">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_seconds_popup_title_text">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">Οι διαφημίσεις από %1$s όπως τα τυχερά παιχνίδια και το dating περιορίζονται από προεπιλογή. Μπορείτε να επιλέξετε έως και %2$d πρόσθετες κατηγορίες διαφημίσεων που δεν θέλετε να εμφανίζονται στα reel σας.</item>
+        <item quantity="one">Οι διαφημίσεις από %1$s όπως τα τυχερά παιχνίδια και το dating περιορίζονται από προεπιλογή. Μπορείτε να επιλέξετε έως 1 πρόσθετη κατηγορία διαφημίσεων που δεν θέλετε να εμφανίζεται στα reel σας.</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s και %6$d ακόμη λογαριασμοί</item>
+        <item quantity="one">Οι %1$s, %2$s, %3$s, %4$s, %5$s και 1 ακόμη λογαριασμός</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s και %6$d ακόμη κατηγορίες</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s και 1 ακόμη κατηγορία</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">Οι διαφημίσεις από %1$s όπως τα τυχερά παιχνίδια και το dating περιορίζονται από προεπιλογή. Μπορείτε να επιλέξετε έως και %2$d πρόσθετες κατηγορίες διαφημίσεων που δεν θέλετε να εμφανίζονται στη ροή του προφίλ σας.</item>
+        <item quantity="one">Οι διαφημίσεις από %1$s όπως τα τυχερά παιχνίδια και το dating περιορίζονται από προεπιλογή. Μπορείτε να επιλέξετε έως και 1 πρόσθετη κατηγορία διαφημίσεων που δεν θέλετε να εμφανίζεται στη ροή του προφίλ σας.</item>
+    </plurals>
+    <plurals name="iglive_audience_mode_close_friends_edit_option_close_friends_added">
+        <item quantity="other">%1$d άτομα</item>
+        <item quantity="one">%1$d άτομο</item>
+    </plurals>
+    <plurals name="iglive_presence_text">
+        <item quantity="other">%1$d ενεργοί ακόλουθοι τώρα</item>
+        <item quantity="one">%1$d ενεργός ακόλουθος τώρα</item>
+    </plurals>
+    <plurals name="igtv_series_episode">
+        <item quantity="other">%1$s επεισόδια</item>
+        <item quantity="one">1 επεισόδιο</item>
+    </plurals>
+    <plurals name="igtv_video_minute_duration_description">
+        <item quantity="other">%1$s λεπτά και %2$s δευτερόλεπτα</item>
+        <item quantity="one">%1$s λεπτά και 1 δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="igtv_video_seconds_duration_description_one_min">
+        <item quantity="other">1 λεπτό και %1$s δευτερόλεπτα</item>
+        <item quantity="one">1 λεπτό και 1 δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="lead_gen_available_forms_number_of_custom_questions">
+        <item quantity="other">%1$d ερωτήσεις</item>
+        <item quantity="one">%1$d ερώτηση</item>
+    </plurals>
+    <plurals name="lead_gen_form_num_questions">
+        <item quantity="other">%1$d ερωτήσεις</item>
+        <item quantity="one">1 ερώτηση</item>
+    </plurals>
+    <plurals name="like_badge">
+        <item quantity="other">Αρέσει σε %1$d</item>
+        <item quantity="one">Αρέσει σε 1</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d \"Μου αρέσει!\"</item>
+        <item quantity="one">1 \"Μου αρέσει!\"</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">Αρέσει στον χρήστη %1$s και &lt;font face=sans-serif-medium>%2$sακόμη άτομα&lt;/font></item>
+        <item quantity="one">Αρέσει στον χρήστη %1$s και &lt;font face=sans-serif-medium>1 ακόμη άτομο&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">Αρέσει στους %1$s, %2$s και &lt;font face=sans-serif-medium>%3$sακόμη άτομα&lt;/font></item>
+        <item quantity="one">Αρέσει στους %1$s, %2$s και &lt;font face=sans-serif-medium>1 ακόμη άτομο&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">Αρέσει στους %1$s, %2$s, %3$s και &lt;font face=sans-serif-medium>%4$sακόμη άτομα&lt;/font></item>
+        <item quantity="one">Αρέσει στους %1$s, %2$s, %3$s και &lt;font face=sans-serif-medium>1 ακόμη άτομο&lt;/font></item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_day">
+        <item quantity="other">%1$d ημέρες</item>
+        <item quantity="one">1 ημέρα</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_week">
+        <item quantity="other">%1$d εβδομάδες</item>
+        <item quantity="one">1 εβδομάδα</item>
+    </plurals>
+    <plurals name="live_question_like_count">
+        <item quantity="other">Αρέσει σε %1$d</item>
+        <item quantity="one">1 \"Μου αρέσει!\"</item>
+    </plurals>
+    <plurals name="live_streak_subtitle_post_live_streak_increased">
+        <item quantity="other">Κάνατε live μετάδοση %1$d συνεχόμενες εβδομάδες! Δείτε πόσες συνεχόμενες εβδομάδες ακόμη μπορείτε να κάνετε live μετάδοση.</item>
+        <item quantity="one">Μπράβο! Θέστε ένα νέο προσωπικό ρεκόρ βλέποντας πόσες συνεχόμενες εβδομάδες μπορείτε να κάνετε live μετάδοση.</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">Οι %1$s και %2$s έκαναν live μετάδοση</item>
+        <item quantity="one">Ο χρήστης %1$s έκανε live μετάδοση</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">%1$d σήματα</item>
+        <item quantity="one">1 σήμα</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d σήματα</item>
+        <item quantity="one">1 σήμα</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">Ο χρήστης %1$s και %2$d ακόμη έστειλαν ένα αίτημα για να συμμετάσχουν στο live βίντεό σας.</item>
+        <item quantity="one">Ο χρήστης %1$s και %2$d ακόμη άτομα έστειλαν ένα αίτημα για να συμμετάσχουν στο live βίντεό σας.</item>
+    </plurals>
+    <plurals name="location_list_title">
+        <item quantity="other">%1$d τοποθεσίες</item>
+        <item quantity="one">%1$d τοποθεσία</item>
+    </plurals>
+    <plurals name="member_count_text">
+        <item quantity="other">%1$s μέλη</item>
+        <item quantity="one">%1$s μέλος</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">Απομένουν %1$d ώρες</item>
+        <item quantity="one">Απομένει %1$d ώρα</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">Απομένουν %1$d λεπτά</item>
+        <item quantity="one">Απομείνει %1$d λεπτό</item>
+    </plurals>
+    <plurals name="msys_ds_4xu0wn">
+        <item quantity="other">Έστειλε %1$d φωτογραφίες.</item>
+        <item quantity="one">Έστειλε μια φωτογραφία</item>
+    </plurals>
+    <plurals name="msys_ds_Tey2G">
+        <item quantity="other">Ο χρήστης %1$s έστειλε %2$d φωτογραφίες</item>
+        <item quantity="one">Ο χρήστης %1$s έστειλε μια φωτογραφία</item>
+    </plurals>
+    <plurals name="msys_ds_l81ip">
+        <item quantity="other">Στείλατε %1$d φωτογραφίες</item>
+        <item quantity="one">Στείλατε μια φωτογραφία</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">Αναφορά συνομιλίας με τους %1$s, %2$s και %3$d ακόμη;</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">Προσθέσατε τον χρήστη %1$s και άλλους %2$d στην ομάδα.</item>
+        <item quantity="one">Προσθέσατε τον χρήστη %1$s και %2$d ακόμα στην ομάδα.</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">Αφαιρέσατε τον χρήστη %1$s και άλλους %2$d από την ομάδα.</item>
+        <item quantity="one">Αφαιρέσατε τον χρήστη %1$s και άλλον %2$d από την ομάδα.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">Προστέθηκαν %1$d εφέ κειμένου από το θέμα \"%2$s\" %3$s</item>
+        <item quantity="one">Προστέθηκε %1$d εφέ κειμένου από το θέμα \"%2$s\" %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">Αλλάξατε %1$d εφέ κειμένου.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">Ο χρήστης %1$s άλλαξε %2$d εφέ κειμένου.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">Ορίσατε %1$d εφέ κειμένου %2$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">Ο χρήστης %1$s όρισε %2$d εφέ κειμένου %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">Αφαιρέσατε %1$d εφέ κειμένου.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">Ο χρήστης %1$s αφαίρεσε %2$d εφέ κειμένου.</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d ημέρες</item>
+        <item quantity="one">%1$d ημέρα</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="one">%1$d ώρα</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="one">%1$d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">Ο χρήστης %1$s πρόσθεσε εσάς και άλλους %2$d στην ομάδα.</item>
+        <item quantity="one">Ο χρήστης %1$s πρόσθεσε εσάς και %2$d ακόμα στην ομάδα.</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">Ο χρήστης %1$s πρόσθεσε τον χρήστη %2$s και άλλους %3$d στην ομάδα.</item>
+        <item quantity="one">Ο χρήστης %1$s πρόσθεσε τον χρήστη %2$s και %3$d ακόμα στην ομάδα.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">Ο χρήστης %1$s αφαίρεσε εσάς και %2$d ακόμη άτομα από την ομάδα.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">Ο χρήστης %1$s αφαίρεσε τον χρήστη %2$s και %3$d ακόμα από την ομάδα.</item>
+        <item quantity="one">Ο χρήστης %1$s αφαίρεσε τον χρήστη %2$s και άλλον %3$d από την ομάδα.</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">Αυτά τα άτομα θα μπορούν να δουν το ιστορικό της συνομιλίας</item>
+        <item quantity="one">Αυτό το άτομο θα μπορεί να δει το ιστορικό της συνομιλίας</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">Εσείς και %1$d ακόμη άτομα προστεθήκατε στην ομάδα.</item>
+        <item quantity="one">Εσείς και %1$d ακόμα άτομα προστεθήκατε στην ομάδα.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">Ο χρήστης %1$s και άλλοι %2$d προστέθηκαν στην ομάδα.</item>
+        <item quantity="one">Ο χρήστης %1$s και άλλος %2$d προστέθηκαν στην ομάδα.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">Εσείς και %1$d ακόμη άτομα αφαιρεθήκατε από την ομάδα.</item>
+        <item quantity="one">Εσείς και %1$d ακόμη άτομο αφαιρεθήκατε από την ομάδα.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">Ο χρήστης %1$s και %2$d ακόμα αφαιρέθηκαν από την ομάδα.</item>
+        <item quantity="one">Ο χρήστης %1$s και άλλος %2$d αφαιρέθηκαν από την ομάδα.</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">Προσθέσατε %1$d άτομα</item>
+        <item quantity="one">Προσθέσατε %1$d άτομο</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">Προσθέσατε τους %1$s, %2$s και %3$d ακόμη άτομα</item>
+        <item quantity="one">Προσθέσατε τους %1$s, %2$s και 1 ακόμη άτομο</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">Στείλατε %1$d φωτογραφίες.</item>
+        <item quantity="one">Στείλατε μια φωτογραφία.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">Η φωτογραφία σας περιλαμβάνεται στην ιστορία \"%1$s\" και σε %2$s ακόμη.</item>
+        <item quantity="one">Η φωτογραφία σας περιλαμβάνεται στην ιστορία \"%1$s\" και μία ακόμη.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">Το βίντεό σας περιλαμβάνεται στην ιστορία \"%1$s\" και σε %2$s ακόμη.</item>
+        <item quantity="one">Το βίντεό σας περιλαμβάνεται στην ιστορία \"%1$s\" και μία ακόμη.</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">Η φωτογραφία σας προστέθηκε σε %1$s ιστορίες με hashtag</item>
+        <item quantity="one">Η φωτογραφία σας προστέθηκε σε μια ιστορία με hashtag</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">Η φωτογραφία σας προστέθηκε σε %1$s ιστορίες τοποθεσιών</item>
+        <item quantity="one">Η φωτογραφία σας προστέθηκε σε μια ιστορία τοποθεσίας</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">Το βίντεό σας προστέθηκε σε %1$s ιστορίες με hashtag</item>
+        <item quantity="one">Το βίντεό σας προστέθηκε σε μια ιστορία hashtag</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">Το βίντεό σας προστέθηκε σε %1$s ιστορίες τοποθεσιών</item>
+        <item quantity="one">Το βίντεό σας προστέθηκε σε μια ιστορία τοποθεσίας</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">&lt;b>%1$s&lt;/b> από %2$s και %3$s ακόμη εφέ</item>
+    </plurals>
+    <plurals name="n_additionalDiscounts">
+        <item quantity="other">%1$d περισσότερες προωθήσεις</item>
+        <item quantity="one">%1$d ακόμη προώθηση</item>
+    </plurals>
+    <plurals name="n_additionalDiscountsOffers">
+        <item quantity="other">%1$d περισσότερες προσφορές</item>
+        <item quantity="one">%1$d μία προσφορά</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">Λάβατε %1$d νέους υποψήφιους πελάτες.</item>
+        <item quantity="one">Λάβατε 1 νέο υποψήφιο πελάτη.</item>
+    </plurals>
+    <plurals name="new_post_badge">
+        <item quantity="other">Νέες δημοσιεύσεις</item>
+        <item quantity="one">1 νέα δημοσίευση</item>
+    </plurals>
+    <plurals name="notification_badge">
+        <item quantity="other">%1$d ειδοποιήσεις</item>
+        <item quantity="one">1 ειδοποίηση</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">%1$d ή περισσότερα μη αναγνωσμένα μηνύματα</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d μη αναγνωσμένα μηνύματα</item>
+        <item quantity="one">%1$d μη αναγνωσμένο μήνυμα</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">%1$d συλλογές προϊόντων</item>
+        <item quantity="one">1 συλλογή προϊόντων</item>
+    </plurals>
+    <plurals name="num_pdp_attributes_discounts_formatted">
+        <item quantity="other">%1$s και %2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">%1$d προϊόντα</item>
+        <item quantity="one">1 προϊόν</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">%1$s σχόλια</item>
+        <item quantity="one">%1$s σχόλιο</item>
+    </plurals>
+    <plurals name="number_of_comments_with_specific_emoji">
+        <item quantity="other">%1$s σχόλια με %2$s</item>
+        <item quantity="one">1 σχόλιο με %2$s</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">Αρέσει σε %1$s</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">%1$s προβολές</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s δημοσιεύσεις</item>
+        <item quantity="one">%1$s δημοσίευση</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">%1$s δημόσιες αναρτήσεις</item>
+        <item quantity="one">%1$s δημόσια ανάρτηση</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">%1$s \"Μου αρέσει!\" και αντιδράσεις</item>
+        <item quantity="one">%1$s \"Μου αρέσει!\" ή αντίδραση</item>
+    </plurals>
+    <plurals name="number_of_reels_in_chain">
+        <item quantity="other">%1$d reel</item>
+        <item quantity="one">1 reel</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">%1$s κοινοποιήσεις</item>
+        <item quantity="one">%1$s κοινοποίηση</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">%1$s θεατές</item>
+        <item quantity="one">1 θεατής</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">%1$s προβολές</item>
+        <item quantity="one">%1$s προβολή</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">Σαν σήμερα, %1$d χρόνια πριν.</item>
+        <item quantity="one">Σαν σήμερα, 1 χρόνο πριν.</item>
+    </plurals>
+    <plurals name="on_x_countries">
+        <item quantity="other">Ενεργοποιημένο (%1$d χώρες)</item>
+        <item quantity="one">Ενεργοποιημένο (1 χώρα)</item>
+    </plurals>
+    <plurals name="other_badges">
+        <item quantity="other">%1$d ακόμη</item>
+        <item quantity="one">1 ακόμη</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">Εκκρεμούν %1$d διαφημίσεις.</item>
+        <item quantity="one">Έχετε 1 διαφήμιση σε εκκρεμότητα.</item>
+    </plurals>
+    <plurals name="people_tagging_x_people_plurals">
+        <item quantity="other">%2$d άτομα</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="plays_user_list_title">
+        <item quantity="other">%1$d προβολές</item>
+        <item quantity="one">1 προβολή</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">%1$s ψηφοφόροι για προώθηση</item>
+        <item quantity="one">1 ψηφοφόρος για προώθηση</item>
+    </plurals>
+    <plurals name="post_live_broadcaster_user_pay_summary_info">
+        <item quantity="other">Κερδίσατε περίπου %1$s από %2$s αγορές σημάτων.</item>
+        <item quantity="one">Κερδίσατε %1$s περίπου από 1 σήμα.</item>
+    </plurals>
+    <plurals name="post_live_viewer_count">
+        <item quantity="other">Οι %1$s, %2$s και %3$d ακόμη είδα το live βίντεό σας.</item>
+        <item quantity="one">Ο χρήστης %1$s είδε το live βίντεό σας.</item>
+    </plurals>
+    <plurals name="post_live_viewer_user_pay_summary_info">
+        <item quantity="other">Αγοράσατε %2$d σήματα. Ο χρήστης %1$s θα βλέπει μια λίστα με όλα τα άτομα που έχουν αγοράσει σήματα.</item>
+        <item quantity="one">Αγοράσατε ένα σήμα. Ο χρήστης %1$s θα βλέπει μια λίστα με όλα τα άτομα που έχουν αγοράσει σήματα.</item>
+    </plurals>
+    <plurals name="product_guide_shop_row_subtitle">
+        <item quantity="other">%1$d προϊόντα</item>
+        <item quantity="one">%1$d προϊόν</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">Υπάρχουν διαθέσιμες προτάσεις</item>
+        <item quantity="one">Υπάρχει διαθέσιμη πρόταση</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_facebook_others">
+        <item quantity="other">%1$s και %2$d ακόμη σύνδεσμοι</item>
+        <item quantity="one">%1$s και 1 ακόμη σύνδεσμο</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_others">
+        <item quantity="other">%1$s και %2$d ακόμη</item>
+        <item quantity="one">%1$s και 1 ακόμη</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_admins_with_count">
+        <item quantity="other">%1$s διαχειριστές</item>
+        <item quantity="one">%1$s διαχειριστής</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_blocked_with_count">
+        <item quantity="other">%1$s μπλοκαρισμένοι</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_members_with_count">
+        <item quantity="other">%1$s μέλη</item>
+        <item quantity="one">%1$s μέλος</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">Ο χρήστης&lt;b>%1$s&lt;/b> και &lt;b>%2$s ακόμη&lt;/b> πρόσθεσαν κάτι σε αυτό</item>
+        <item quantity="one">Ο χρήστης &lt;b>%1$s&lt;/b> και &lt;b>1 ακόμη&lt;/b> πρόσθεσαν κάτι σε αυτό</item>
+    </plurals>
+    <plurals name="quickshare_add_topics_pill_text">
+        <item quantity="other">%1$d θέματα</item>
+        <item quantity="one">1 θέμα</item>
+    </plurals>
+    <plurals name="recipient_picker_close_friends_count">
+        <item quantity="other">%1$s άτομα</item>
+        <item quantity="one">1 άτομο</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">%1$s ακόμη άτομα είδαν αυτή την ιστορία στο Facebook. Εφόσον την κοινοποιείτε ως δημόσια στο Facebook, την είδαν άτομα που δεν ανήκουν στους φίλους σας.</item>
+        <item quantity="one">1 ακόμη άτομο είδε αυτή την ιστορία στο Facebook. Εφόσον την κοινοποιείτε ως δημόσια στο Facebook, την είδε ένα άτομο που δεν ανήκει στους φίλους σας.</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">Άλλες %1$s προβολές στο Facebook</item>
+        <item quantity="one">Άλλη 1 προβολή στο Facebook</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">ψήφοι για %1$s</item>
+        <item quantity="one">ψήφος για %1$s</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">Απάντησαν %1$d άτομα. Αυτή είναι η μέση απάντηση.</item>
+        <item quantity="one">Απάντησε 1 άτομο. Αυτή είναι η μέση απάντηση.</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">Έγινε remix από &lt;b>%1$s φίλους&lt;/b></item>
+        <item quantity="one">Έγινε remix από &lt;b>1 φίλο&lt;/b></item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">Έγινε remix από &lt;b>%1$s άτομα&lt;/b></item>
+        <item quantity="one">Έγινε remix από &lt;b>1 άτομο&lt;/b></item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_message">
+        <item quantity="other">Διαγράφετε %1$d βίντεο από το highlight σας.</item>
+        <item quantity="one">Διαγράφετε 1 βίντεο από το highlight σας.</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_title">
+        <item quantity="other">Να διαγραφούν %1$d βίντεο από το highlight;</item>
+        <item quantity="one">Να διαγραφεί το βίντεο από το highlight;</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">Αφαίρεση %1$s ακόλουθων;</item>
+        <item quantity="one">Αφαίρεση 1 ακόλουθου;</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">%1$d προϊόντα αφαιρέθηκαν</item>
+        <item quantity="one">Αφαιρέθηκε 1 προϊόν</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_body">
+        <item quantity="other">Επιλέξατε %1$d λογαριασμούς. Μόνο εσείς και το άτομο που περιορίζετε θα βλέπετε τα νέα του σχόλια στις δημοσιεύσεις σας.</item>
+        <item quantity="one">Επιλέξατε έναν λογαριασμό. Μόνο εσείς και το άτομο που περιορίζετε θα βλέπετε τα νέα του σχόλια στις δημοσιεύσεις σας.</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_primary_button">
+        <item quantity="other">Περιορισμός λογαριασμών</item>
+        <item quantity="one">Περιορισμός λογαριασμού</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_title">
+        <item quantity="other">Περιορισμός %1$d λογαριασμών;</item>
+        <item quantity="one">Περιορισμός ενός λογαριασμού;</item>
+    </plurals>
+    <plurals name="rolodex_hour">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="one">%1$d ώρα</item>
+    </plurals>
+    <plurals name="rolodex_minute">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+    </plurals>
+    <plurals name="rolodex_second">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="one">%1$d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="rtc_effects_removed_multipeer_effect_max_participant_exceed">
+        <item quantity="other">Το περιβάλλον %1$s υποστηρίζει έως %2$d άτομα.</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">%1$s αποθηκευμένες δημοσιεύσεις</item>
+        <item quantity="one">%1$s αποθηκευμένη δημοσίευση</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">Οι δημοσιεύσεις δεν μπορούν να προστεθούν</item>
+        <item quantity="one">Η δημοσίευση δεν μπορεί να προστεθεί</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">%2$s δημοσιεύσεις προστέθηκαν στη συλλογή %1$s</item>
+        <item quantity="one">Η δημοσίευση προστέθηκε στη συλλογή %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">Δεν είναι δυνατή η μετακίνηση δημοσιεύσεων</item>
+        <item quantity="one">Δεν είναι δυνατή η μετακίνηση της δημοσίευσης</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">%2$s δημοσιεύσεις μετακινήθηκαν στη συλλογή %1$s</item>
+        <item quantity="one">Η δημοσίευση μετακινήθηκε στη συλλογή %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">Θα διαγραφούν οι δημοσιεύσεις από αυτή τη συλλογή και θα μετακινηθούν στη συλλογή %1$s. Οι δημοσιεύσεις θα αποθηκευτούν στην ενότητα \"Όλα τα αποθηκευμένα στοιχεία\".</item>
+        <item quantity="one">Θα διαγραφεί η δημοσίευση από αυτή τη συλλογή και θα μετακινηθεί στη συλλογή %1$s. Η δημοσίευση θα αποθηκευτεί στην ενότητα \"Όλα τα αποθηκευμένα στοιχεία\".</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">Αν αφαιρέσετε δημοσιεύσεις από τα αποθηκευμένα, θα αφαιρεθούν επίσης από όλες τις συλλογές.</item>
+        <item quantity="one">Αν αφαιρέσετε αυτή τη δημοσίευση από τα αποθηκευμένα, θα αφαιρεθεί επίσης από όλες τις συλλογές.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">Αφαίρεση δημοσιεύσεων από τα αποθηκευμένα;</item>
+        <item quantity="one">Αφαίρεση δημοσίευσης από τα αποθηκευμένα;</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">Η διαγραφή των δημοσιεύσεων δεν είναι δυνατή</item>
+        <item quantity="one">Η διαγραφή της δημοσίευσης δεν είναι δυνατή</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">Διαγράφηκαν %2$s δημοσιεύσεις από τη συλλογή %1$s</item>
+        <item quantity="one">Η δημοσίευση διαγράφηκε από τη συλλογή %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">Οι δημοσιεύσεις δεν διαγράφηκαν από τα αποθηκευμένα</item>
+        <item quantity="one">Η δημοσίευση δεν διαγράφηκε από τα αποθηκευμένα</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">%1$s δημοσιεύσεις διαγράφηκαν από τα αποθηκευμένα</item>
+        <item quantity="one">Η δημοσίευση διαγράφηκε από τα αποθηκευμένα</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">Επιλέχθηκαν %1$d στοιχεία</item>
+        <item quantity="one">Επιλέχθηκε 1 στοιχείο</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">%1$d προϊόντα</item>
+        <item quantity="one">1 προϊόν</item>
+    </plurals>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">Απομένουν %1$d δευτερόλεπτα\"</item>
+        <item quantity="one">Απομένει 1 δευτερόλεπτο\"</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">Νέες δημοσιεύσεις</item>
+        <item quantity="one">Νέα δημοσίευση</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s νέες δημοσιεύσεις</item>
+        <item quantity="one">1 νέα δημοσίευση</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_subtitle">
+        <item quantity="other">%1$d βίντεο μπλοκαρίστηκαν σε ορισμένες χώρες.</item>
+        <item quantity="one">1 βίντεο μπλοκαρίστηκε σε ορισμένες χώρες.</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_title">
+        <item quantity="other">%1$d βίντεο μπλοκαρίστηκαν σε ορισμένες χώρες</item>
+        <item quantity="one">1 βίντεο μπλοκαρίστηκε σε ορισμένες χώρες</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_subtitle">
+        <item quantity="other">%1$d βίντεο μπλοκαρίστηκαν</item>
+        <item quantity="one">1 βίντεο μπλοκαρίστηκε.</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_title">
+        <item quantity="other">%1$d βίντεο μπλοκαρίστηκαν</item>
+        <item quantity="one">1 βίντεο μπλοκαρίστηκε</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_subtitle">
+        <item quantity="other">%1$d βίντεο είναι διαθέσιμα μόνο σε ορισμένες χώρες.</item>
+        <item quantity="one">1 βίντεο είναι διαθέσιμο μόνο σε ορισμένες χώρες.</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_title">
+        <item quantity="other">%1$d βίντεο είναι διαθέσιμα μόνο σε ορισμένες χώρες</item>
+        <item quantity="one">1 βίντεο είναι διαθέσιμο μόνο σε ορισμένες χώρες</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">Μπορείτε να επιλέξετε μόνο %1$d σχόλια κάθε φορά.</item>
+        <item quantity="one">Μπορείτε να επιλέξετε μόνο ένα σχόλιο κάθε φορά.</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">Όλα τα αιτήματα ακολούθησης που εκκρεμούν θα εγκριθούν αυτόματα εκτός αν τα διαγράψετε τώρα. Ελέγξτε %1$s εκκρεμή αιτήματα ακολούθησης.</item>
+        <item quantity="one">Όλα τα αιτήματα ακολούθησης που εκκρεμούν θα εγκριθούν αυτόματα εκτός αν τα διαγράψετε τώρα. Ελέγξτε %1$s εκκρεμές αίτημα ακολούθησης.</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">%1$s προϊόντα</item>
+        <item quantity="one">%1$s προϊόν</item>
+    </plurals>
+    <plurals name="shopping_cart_count_content_description">
+        <item quantity="other">%1$d προϊόντα στο καλάθι αγορών σας</item>
+        <item quantity="one">1 προϊόν στο καλάθι αγορών σας</item>
+    </plurals>
+    <plurals name="shopping_cart_num_items">
+        <item quantity="other">%1$d προϊόντα</item>
+        <item quantity="one">1 προϊόν</item>
+    </plurals>
+    <plurals name="shopping_cart_subtotal_title_text">
+        <item quantity="other">Μερικό σύνολο (%1$d προϊόντα)</item>
+        <item quantity="one">Μερικό σύνολο (1 προϊόν)</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">Ο χρήστης %1$s και &lt;b>%2$s ακόμη&lt;/b> είναι μέλη</item>
+        <item quantity="one">Ο χρήστης %1$s και &lt;b>1 ακόμη&lt;/b> είναι μέλη</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">Οι %1$s, %2$s και &lt;b>%3$s ακόμη&lt;/b> είναι μέλη</item>
+        <item quantity="one">%1$s, %2$s και &lt;b>1 ακόμη&lt;/b> are members</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">Οι %1$s, %2$s, %3$s και &lt;b>%4$s ακόμη&lt;/b> είναι μέλη</item>
+        <item quantity="one">Οι %1$s, %2$s, %3$s και &lt;b>1 ακόμη&lt;/b> είναι μέλη</item>
+    </plurals>
+    <plurals name="standalone_fundraiser_with_cohost_label">
+        <item quantity="other">&lt;b>%1$s&lt;/b> και &lt;b>%2$s others&lt;/b></item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> και &lt;b>1 other&lt;/b></item>
+    </plurals>
+    <plurals name="sticker_count_limit">
+        <item quantity="other">Δεν μπορείτε να προσθέσετε αυτό το αυτοκόλλητο πάνω από %1$d φορές σε κάθε ιστορία</item>
+        <item quantity="one">Δεν μπορείτε να προσθέσετε αυτό το αυτοκόλλητο πάνω από μία φορά σε κάθε ιστορία.</item>
+    </plurals>
+    <plurals name="story_drafts_confirmation_title">
+        <item quantity="other">Διαγραφή προσχεδίων;</item>
+        <item quantity="one">Διαγραφή προσχεδίου;</item>
+    </plurals>
+    <plurals name="subscriptions_shoutout_bottom_sheet_title">
+        <item quantity="other">Αναφέρει ονομαστικά %1$d συνδρομητές</item>
+        <item quantity="one">Αναφέρει ονομαστικά %1$d συνδρομητή</item>
+    </plurals>
+    <plurals name="suggested_hidden_words_toast_text">
+        <item quantity="other">Προστέθηκαν %1$d λέξεις στη λίστα κρυφών λέξεων</item>
+        <item quantity="one">Προστέθηκε 1 λέξη στη λίστα κρυφών λέξεων</item>
+    </plurals>
+    <plurals name="suggested_products_count">
+        <item quantity="other">%1$d προτεινόμενα προϊόντα</item>
+        <item quantity="one">1 προτεινόμενο προϊόν</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos">
+        <item quantity="other">Φωτογραφίες ομάδας από το περασμένο σαββατοκύριακο</item>
+        <item quantity="one">Φωτογραφία της ομάδας από το περασμένο σαββατοκύριακο</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos_with_location">
+        <item quantity="other">Φωτογραφίες ομάδας από το περασμένο Σαββατοκύριακο στην τοποθεσία %1$s</item>
+        <item quantity="one">Φωτογραφία ομάδας από την περασμένη εβδομάδα στην τοποθεσία %1$s</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos">
+        <item quantity="other">Φωτογραφίες ομάδας από σήμερα</item>
+        <item quantity="one">Φωτογραφία ομάδας από σήμερα</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos_with_location">
+        <item quantity="other">Φωτογραφίες ομάδας από σήμερα στην τοποθεσία %1$s</item>
+        <item quantity="one">Φωτογραφία ομάδας από σήμερα στην τοποθεσία %1$s</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos">
+        <item quantity="other">Φωτογραφίες ομάδας από χθες</item>
+        <item quantity="one">Φωτογραφία ομάδας από χθες</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos_with_location">
+        <item quantity="other">Φωτογραφίες ομάδας από χθες στην τοποθεσία %1$s</item>
+        <item quantity="one">Φωτογραφία ομάδας από χθες στην τοποθεσία %1$s</item>
+    </plurals>
+    <plurals name="suggestion_your_recent_favorites">
+        <item quantity="other">Αγαπημένα από την περασμένη εβδομάδα</item>
+        <item quantity="one">Αγαπημένο από την περασμένη εβδομάδα</item>
+    </plurals>
+    <plurals name="tagged_accounts_plural">
+        <item quantity="other">λογαριασμοί που έχουν προστεθεί με ετικέτα:</item>
+        <item quantity="one">λογαριασμός που έχει προστεθεί με ετικέτα:</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">Πρότυπο που χρησιμοποιήθηκε από &lt;b>%1$s φίλους&lt;/b></item>
+        <item quantity="one">Το πρότυπο έχει χρησιμοποιηθεί από &lt;b>1 φίλο&lt;/b></item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">Το πρότυπο χρησιμοποιήθηκε από &lt;b>%1$s άτομα&lt;/b></item>
+        <item quantity="one">Το πρότυπο χρησιμοποιήθηκε από &lt;b>1 άτομο&lt;/b></item>
+    </plurals>
+    <plurals name="thread_title_suffix_n_others">
+        <item quantity="other">… και %1$d ακόμη</item>
+        <item quantity="one">… και 1 ακόμη</item>
+    </plurals>
+    <plurals name="thread_title_x_and_n_others">
+        <item quantity="other">Ο χρήστης %1$s και %2$d ακόμη</item>
+        <item quantity="one">Ο χρήστης %1$s και 1 ακόμη</item>
+    </plurals>
+    <plurals name="thread_title_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s και %3$s ακόμη</item>
+        <item quantity="one">%1$s, %2$s και 1 ακόμη</item>
+    </plurals>
+    <plurals name="unseen_like_notification">
+        <item quantity="other">Έχετε %1$d νέα \"Μου αρέσει!\"</item>
+        <item quantity="one">Έχετε 1 νέο \"Μου αρέσει!\"</item>
+    </plurals>
+    <plurals name="upcoming_event_subtitle_template">
+        <item quantity="other">%1$d προϊόντα · %2$s</item>
+        <item quantity="one">%2$s</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_list_supporters_title">
+        <item quantity="other">%1$d υποστηρικτές</item>
+        <item quantity="one">1 υποστηρικτής</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">%1$d υποστηρικτές θα λάβουν ειδοποίηση στην ενότητα \"Δραστηριότητα\"</item>
+        <item quantity="one">1 υποστηρικτής θα λάβει μια ειδοποίηση στην ενότητα \"Δραστηριότητα\"</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notified_supporters_number">
+        <item quantity="other">%1$d υποστηρικτές με σήματα από το πιο πρόσφατο live βίντεό σας θα ειδοποιηθούν όταν κοινοποιήσετε αυτή την ιστορία. Δείτε</item>
+        <item quantity="one">1 υποστηρικτής με σήματα από το πιο πρόσφατο live βίντεό σας θα ειδοποιηθεί όταν κοινοποιήσετε αυτή την ιστορία. Δείτε</item>
+    </plurals>
+    <plurals name="user_pay_fanclub_all_subscribers_header">
+        <item quantity="other">Όλοι οι συνδρομητές (%1$d)</item>
+        <item quantity="one">Όλοι οι συνδρομητές</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d προβολές</item>
+        <item quantity="one">1 προβολή</item>
+    </plurals>
+    <plurals name="view_x_more_replies">
+        <item quantity="other">Δείτε %1$d ακόμη απαντήσεις</item>
+        <item quantity="one">Δείτε %1$d ακόμη απάντηση</item>
+    </plurals>
+    <plurals name="view_x_previous_replies">
+        <item quantity="other">Δείτε %1$d προηγούμενες απαντήσεις</item>
+        <item quantity="one">Δείτε τη %1$d προηγούμενη απάντηση</item>
+    </plurals>
+    <plurals name="view_x_replies">
+        <item quantity="other">Δείτε %1$d ακόμη απαντήσεις</item>
+        <item quantity="one">Δείτε %1$d ακόμη απάντηση</item>
+    </plurals>
+    <plurals name="voter_count_on_surfaces">
+        <item quantity="other">Ψηφίστε · %1$s αποτελέσματα από τη δημοσκόπηση</item>
+        <item quantity="one">Ψηφίστε · %1$s αποτέλεσμα από τη δημοσκόπηση</item>
+    </plurals>
+    <plurals name="voters_count">
+        <item quantity="other">%1$s ψήφοι</item>
+        <item quantity="one">%1$s ψήφος</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">Διαγράφηκαν %1$d σχόλια.</item>
+        <item quantity="one">Το σχόλιο διαγράφηκε.</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$s μέρες</item>
+        <item quantity="one">%1$s μέρα</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">%1$s ημέρες πριν</item>
+        <item quantity="one">%1$s ημέρα πριν</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s ώρες</item>
+        <item quantity="one">%1$s ώρα</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">%1$s ώρες πριν</item>
+        <item quantity="one">%1$s ώρα πριν</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s λεπτά</item>
+        <item quantity="one">%1$s λεπτό</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">%1$s λεπτά πριν</item>
+        <item quantity="one">%1$s λεπτό πριν</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d άτομα</item>
+        <item quantity="one">1 άτομο</item>
+    </plurals>
+    <plurals name="x_reactions">
+        <item quantity="other">%1$s αντιδράσεις</item>
+        <item quantity="one">%1$s αντίδραση</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s δευτερόλεπτα</item>
+        <item quantity="one">%1$s δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">%1$s δευτερόλεπτα πριν</item>
+        <item quantity="one">%1$s δευτερόλεπτο πριν</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">%1$d επιλεγμένα</item>
+        <item quantity="one">1 επιλεγμένο</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">Απάντησαν %1$d άτομα.</item>
+        <item quantity="one">Απάντησε 1 άτομο.</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s εβδομάδες</item>
+        <item quantity="one">%1$s εβδομάδα</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">%1$s εβδομάδες πριν</item>
+        <item quantity="one">%1$s εβδομάδα πριν</item>
+    </plurals>
+</resources>

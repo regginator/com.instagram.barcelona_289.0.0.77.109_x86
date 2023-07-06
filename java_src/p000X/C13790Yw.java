@@ -1,0 +1,8 @@
+package p000X;
+/* renamed from: X.0Yw  reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes.dex */
+public final class C13790Yw {
+    public static String A00(int i) {
+        return i != 1575 ? i != 5075 ? i != 6091 ? i != 9466 ? i != 10204 ? i != 11341 ? i != 12395 ? i != 12535 ? i != 14411 ? i != 15831 ? "UNDEFINED_QPL_EVENT" : "AR_MESSAGING_UMAMI_IRIS_APP_START" : "AR_MESSAGING_UMAMI_BASELINE_CHAT_OPENING_INBOX" : "AR_MESSAGING_UMAMI_NAVIGATION" : "AR_MESSAGING_UMAMI_SEND_TEXT_MESSAGE" : "AR_MESSAGING_UMAMI_LOGOUT" : "AR_MESSAGING_UMAMI_MAILBOX_INITIALIZER" : "AR_MESSAGING_UMAMI_INBOX_LOAD" : "AR_MESSAGING_UMAMI_HOOK_USEMULTITHREADS" : "AR_MESSAGING_UMAMI_BASELINE_CHAT_CLOSE_THREAD" : "AR_MESSAGING_UMAMI_LOAD_THREAD_TTRC";
+    }
+}

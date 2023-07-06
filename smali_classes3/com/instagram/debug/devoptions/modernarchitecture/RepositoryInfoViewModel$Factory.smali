@@ -1,0 +1,80 @@
+.class public final Lcom/instagram/debug/devoptions/modernarchitecture/RepositoryInfoViewModel$Factory;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements LX/8b1;
+
+
+# static fields
+.field public static final $stable:I = 0x8
+
+
+# instance fields
+.field public final userSession:Lcom/instagram/service/session/UserSession;
+
+
+# direct methods
+.method public constructor <init>(Lcom/instagram/service/session/UserSession;)V
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x1
+
+    .line 1
+    invoke-static {p1, v0}, LX/0OR;->A0B(Ljava/lang/Object;I)V
+
+    .line 2
+    .line 3
+    .line 4
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 5
+    .line 6
+    .line 7
+    iput-object p1, p0, Lcom/instagram/debug/devoptions/modernarchitecture/RepositoryInfoViewModel$Factory;->userSession:Lcom/instagram/service/session/UserSession;
+
+    .line 8
+    .line 9
+    return-void
+    .line 10
+.end method
+
+
+# virtual methods
+.method public create(Ljava/lang/Class;)LX/3cS;
+    .locals 2
+
+    .line 0
+    iget-object v1, p0, Lcom/instagram/debug/devoptions/modernarchitecture/RepositoryInfoViewModel$Factory;->userSession:Lcom/instagram/service/session/UserSession;
+
+    .line 1
+    .line 2
+    new-instance v0, Lcom/instagram/debug/devoptions/modernarchitecture/RepositoryInfoViewModel;
+
+    .line 3
+    .line 4
+    invoke-direct {v0, v1}, Lcom/instagram/debug/devoptions/modernarchitecture/RepositoryInfoViewModel;-><init>(Lcom/instagram/service/session/UserSession;)V
+
+    .line 5
+    .line 6
+    .line 7
+    return-object v0
+.end method
+
+.method public synthetic create(Ljava/lang/Class;LX/6ly;)LX/3cS;
+    .locals 1
+
+    .line 268435456
+    invoke-static {p0, p1}, LX/8b1;->A00(LX/8b1;Ljava/lang/Class;)LX/3cS;
+
+    .line 268435457
+    .line 268435458
+    .line 268435459
+    move-result-object v0
+
+    .line 268435460
+    return-object v0
+    .line 268435461
+    .line 268435462
+.end method

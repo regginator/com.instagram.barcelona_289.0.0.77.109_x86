@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">यूज़र इस लिंक पर जाने के लिए ऊपर स्वाइप कर सकेंगे. आप सिर्फ़ एक \"स्वाइप अप\" लिंक जोड़ सकते हैं.</item>
+        <item quantity="one">दर्शक इस लिंक पर जाने के लिए ऊपर स्वाइप कर पाएँगे.</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">मेंशन जोड़े गए.</item>
+    </plurals>
+    <plurals name="alt_text_popup_description">
+        <item quantity="other">जिन लोगों को ठीक से नहीं दिखता, उनके लिए अपनी सभी फ़ोटो का डिस्क्रिप्शन दें.</item>
+        <item quantity="one">दृष्टिबाधित लोगों के लिए अपनी फ़ोटो का डिस्क्रिप्शन दें.</item>
+    </plurals>
+    <plurals name="anonymous_comments_message">
+        <item quantity="other">{original_post} पर %1$d टिप्पणियाँ देखें.</item>
+        <item quantity="one">{original_post} पर 1 कमेंट देखें.</item>
+    </plurals>
+    <plurals name="anonymous_likers_message">
+        <item quantity="other">{original_post} पर %1$d पसंद देखें.</item>
+        <item quantity="one">{original_post} पर 1 पसंद देखें.</item>
+    </plurals>
+    <plurals name="appended_poll_vote_count_label_on_feed">
+        <item quantity="other">%1$s पोल के परिणाम</item>
+        <item quantity="one">%1$s पोल का परिणाम</item>
+    </plurals>
+    <plurals name="appreciation_funding_a11y_star_balance">
+        <item quantity="other">आपके पास %1$d स्टार्स का बैलेंस हैं</item>
+        <item quantity="one">आपका बैलेंस 1 स्टार है</item>
+    </plurals>
+    <plurals name="appreciation_gifting_a11y_balance">
+        <item quantity="other">बैलेंस: %1$d स्टार</item>
+        <item quantity="one">बैलेंस: 1 स्टार</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_body">
+        <item quantity="other">आपने %1$d कमेंट चुने हैं. किसी जवाब को स्वीकृति देने पर, ओरिजनल कमेंट को भी स्वीकृति मिल जाएगी.</item>
+        <item quantity="one">आपने 1 कमेंट चुना है. किसी जवाब को मंज़ूर करने पर, ओरिजनल कमेंट को भी मंज़ूरी मिल जाएगी.</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_primary_button">
+        <item quantity="other">कमेंट को स्वीकृति दें</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_title">
+        <item quantity="other">%1$d कमेंट को स्वीकृति दें?</item>
+        <item quantity="one">1 कमेंट को स्वीकृति दें?</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">%1$d लोग</item>
+        <item quantity="one">1 व्यक्ति</item>
+    </plurals>
+    <plurals name="average_time_spent_hours">
+        <item quantity="other">%1$d घंटे</item>
+        <item quantity="one">%1$d घंटा</item>
+    </plurals>
+    <plurals name="average_time_spent_minutes">
+        <item quantity="other">%1$d मिनट</item>
+    </plurals>
+    <plurals name="barcelona_expand_replies">
+        <item quantity="other">%1$s जवाब</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_follower_tab_count">
+        <item quantity="other">%1$s फ़ॉलोअर</item>
+        <item quantity="one">1 फ़ॉलोअर</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_following_tab_count">
+        <item quantity="other">%1$s लोगों को फ़ॉलो कर रहे हैं</item>
+        <item quantity="one">1 व्यक्ति को फ़ॉलो कर रहे हैं</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_pending_tab_count">
+        <item quantity="other">%1$s पेंडिंग • जब ये अकाउंट %2$s से जुड़ जाएँगे, तब आप इन्हें फ़ॉलो करना शुरू कर देंगे. %3$s</item>
+        <item quantity="one">1 पेंडिंग • जब यह अकाउंट %2$s से जुड़ जाएगा, तब आप इसे फ़ॉलो करना शुरू कर देंगे. %3$s</item>
+    </plurals>
+    <plurals name="barcelona_onboarding_following_screen__pending_tab_subtitle">
+        <item quantity="other">ये %1$s अकाउंट अब तक %2$s से नहीं जुड़े हैं या इन्होंने आपकी फ़ॉलो रिक्वेस्ट स्वीकार नहीं की है.</item>
+        <item quantity="one">यह अकाउंट अब तक %2$s से नहीं जुड़ा है या इन्होंने आपकी फ़ॉलो रिक्वेस्ट स्वीकार नहीं की है.</item>
+    </plurals>
+    <plurals name="barcelona_post_like_count">
+        <item quantity="other">%1$s लाइक</item>
+    </plurals>
+    <plurals name="barcelona_profile_follower_count">
+        <item quantity="other">%1$s फ़ॉलोअर</item>
+        <item quantity="one">1 फ़ॉलोअर</item>
+    </plurals>
+    <plurals name="barcelona_search_follower_count">
+        <item quantity="other">%1$s फ़ॉलोअर</item>
+        <item quantity="one">1 फ़ॉलोअर</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">आपकी फ़ॉलो रिक्वेस्ट अभी कन्फ़र्म नहीं की जा सकीं. बाद में फिर से कोशिश करें.</item>
+        <item quantity="one">आपकी फ़ॉलो रिक्वेस्ट अभी कन्फ़र्म नहीं की जा सकी. बाद में फिर से कोशिश करें.</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">आपकी फ़ॉलो रिक्वेस्ट अभी डिलीट नहीं की जा सकी. बाद में फिर से कोशिश करें.</item>
+        <item quantity="one">आपकी फ़ॉलो रिक्वेस्ट को अभी डिलीट नहीं किया जा सका. बाद में फिर से कोशिश करें.</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">वापस इन यूज़र्स को फ़ॉलो करने की आपकी रिक्वेस्ट पूरी नहीं हो सकी. बाद में फिर से कोशिश करें.</item>
+        <item quantity="one">वापस इस यूज़र को फ़ॉलो करने की आपकी रिक्वेस्ट पूरी नहीं हो सकी. बाद में फिर से कोशिश करें.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">इन फ़ॉलोअर्स को हटाने की आपकी रिक्वेस्ट पूरी नहीं हो सकी. बाद में फिर से कोशिश करें.</item>
+        <item quantity="one">इस फ़ॉलोअर को हटाने की आपकी रिक्वेस्ट पूरी नहीं हो सकी. बाद में फिर से कोशिश करें.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">%1$s फ़ॉलोअर्स को हटाया गया</item>
+        <item quantity="one">1 फ़ॉलोअर हटाया गया</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">%1$d रिक्वेस्ट</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s लोग</item>
+        <item quantity="one">1 व्यक्ति</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_body">
+        <item quantity="other">आपने %1$d अकाउंट चुने हैं. इन्हें Instagram पर आपकी प्रोफ़ाइल, पोस्ट या स्टोरी नहीं दिखेगी.</item>
+        <item quantity="one">आपने 1 अकाउंट चुना है. इसे Instagram पर आपकी प्रोफ़ाइल, पोस्ट या स्टोरी नहीं दिखेगी.</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_primary_button">
+        <item quantity="other">अकाउंट्स ब्लॉक करें</item>
+        <item quantity="one">अकाउंट ब्लॉक करें</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_title">
+        <item quantity="other">%1$d अकाउंट ब्लॉक करें?</item>
+        <item quantity="one">1 अकाउंट ब्लॉक करें?</item>
+    </plurals>
+    <plurals name="blocked_story_photos_delete_button_text">
+        <item quantity="other">%1$d फ़ोटो डिलीट करें</item>
+        <item quantity="one">1 फ़ोटो डिलीट करें</item>
+    </plurals>
+    <plurals name="blocked_story_videos_delete_button_text">
+        <item quantity="other">%1$d वीडियो हटाएँ</item>
+        <item quantity="one">1 वीडियो हटाएँ</item>
+    </plurals>
+    <plurals name="bonuses_tagging_reels_welcome_bonus_reels_left">
+        <item quantity="other">इस बोनस में %1$d और रील को गिना जा सकता है</item>
+        <item quantity="one">इस बोनस में 1 और रील को गिना जा सकता है</item>
+    </plurals>
+    <plurals name="bulk_block_confirmation_toast">
+        <item quantity="other">अकाउंट ब्लॉक किए गए</item>
+        <item quantity="one">अकाउंट ब्लॉक किया गया</item>
+    </plurals>
+    <plurals name="bulk_restrict_confirmation_toast">
+        <item quantity="other">अकाउंट प्रतिबंधिक किए गए</item>
+        <item quantity="one">अकाउंट प्रतिबंधित</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">%1$d वर्ष पहले…</item>
+        <item quantity="one">1 वर्ष पहले…</item>
+    </plurals>
+    <plurals name="cart_sold_out_and_unavailable_items_status_message">
+        <item quantity="other">आपकी कार्ट के %1$d आइटम अब उपलब्द नहीं हैं.</item>
+        <item quantity="one">आपकी कार्ट का एक आइटम अब उपलब्ध नहीं है.</item>
+    </plurals>
+    <plurals name="chat_badge">
+        <item quantity="other">%1$d चैट</item>
+        <item quantity="one">1 चैट</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">%1$s मेंबर</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d जवाब</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">Facebook के %1$d ख़ास दोस्त</item>
+        <item quantity="one">Facebook का 1 ख़ास दोस्त</item>
+    </plurals>
+    <plurals name="comment_badge">
+        <item quantity="other">%1$d कमेंट</item>
+        <item quantity="one">1 कमेंट</item>
+    </plurals>
+    <plurals name="comment_count_label_on_feed">
+        <item quantity="other">%1$s कमेंट</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">%1$s और &lt;b>%2$s अन्य &lt;/b> ने कमेंट किया</item>
+        <item quantity="one">%1$s और &lt;b>1 अन्य&lt;/b> ने कमेंट किया</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">%1$s और अन्य लोगों ने कमेंट किया है</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s और &lt;b>%4$s अन्य&lt;/b> ने कमेंट किया</item>
+        <item quantity="one">%1$s, %2$s, %3$s और &lt;b>1 अन्य&lt;/b> ने कमेंट किया</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">%1$s, %2$s, %3$s और अन्य लोगों ने कमेंट किया है</item>
+    </plurals>
+    <plurals name="comments_from_facebook_title">
+        <item quantity="other">Facebook पर मिले %1$d कमेंट देखें</item>
+        <item quantity="one">Facebook पर मिला 1 कमेंट देखें</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">%1$s फ़ॉलो रिक्वेस्ट कन्फ़र्म करें?</item>
+        <item quantity="one">1 फ़ॉलो रिक्वेस्ट कन्फ़र्म करें?</item>
+    </plurals>
+    <plurals name="connect_page_num_like">
+        <item quantity="other">%1$d लाइक</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">दिन</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">घंटे</item>
+        <item quantity="one">घंटा</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">मिनट</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">महीने</item>
+        <item quantity="one">महीना</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">सेकंड</item>
+    </plurals>
+    <plurals name="custom_comment_filter_upsell_toast_message">
+        <item quantity="other">आपकी छिपे हुए शब्दों की लिस्ट में %1$d आइटम जोड़े गए.</item>
+        <item quantity="one">"'छिपाए गए शब्द' वाली आपकी लिस्ट में 1 आइटम जोड़ा गया."</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_message">
+        <item quantity="other">अब आप इन वीडियो को नहीं देख पाएँगे.</item>
+        <item quantity="one">अब आप यह वीडियो नहीं देख पाएँगे.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_title">
+        <item quantity="other">%1$d वीडियो हटाएँ?</item>
+        <item quantity="one">यह वीडियो हटाएँ?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">%1$s फ़ॉलो रिक्वेस्ट डिलीट करें?</item>
+        <item quantity="one">1 फ़ॉलो रिक्वेस्ट को डिलीट करें?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">पब्लिक अकाउंट पर स्विच करने के बाद ये रिक्वेस्ट मंज़ूर नहीं की जाएँगी.</item>
+        <item quantity="one">पब्लिक अकाउंट पर स्विच करने के बाद यह रिक्वेस्ट मंज़ूर नहीं की जाएगी.</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">फ़ॉलो रिक्वेस्ट डिलीट करें?</item>
+        <item quantity="one">क्या इस फ़ॉलो रिक्वेस्ट को डिलीट करना है?</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">उन्हें इस वार्तालाप से सभी पिछले संदेश दिखाई देंगे.</item>
+        <item quantity="one">%1$s को इस वार्तालाप के सभी पिछले संदेश दिखाई देंगे.</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message_without_all">
+        <item quantity="other">उन्हें इस बातचीत के पिछले संदेश दिखाई देंगे.</item>
+        <item quantity="one">%1$s को इस बातचीत के पिछले संदेश दिखाई देंगे.</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_hours_ago">
+        <item quantity="other">%1$d घंटे पहले एक्टिव</item>
+        <item quantity="one">1 घंटे पहले एक्टिव</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_mins_ago">
+        <item quantity="other">%1$d मिनट पहले एक्टिव</item>
+        <item quantity="one">1 मिनट पहले एक्टिव</item>
+    </plurals>
+    <plurals name="direct_faq_import_bottom_button_footer">
+        <item quantity="other">अधिकतम %1$d सवाल चुनें</item>
+        <item quantity="one">अधिकतम 1 सवाल चुनें</item>
+    </plurals>
+    <plurals name="direct_faq_import_max_limit_reached_message">
+        <item quantity="other">आप %1$d से ज़्यादा सवालों को इम्पोर्ट नहीं कर सकते</item>
+        <item quantity="one">आप 1 से ज़्यादा सवाल इम्पोर्ट नहीं कर सकते</item>
+    </plurals>
+    <plurals name="direct_max_recipients_in_chat_reached_body">
+        <item quantity="other">चैट में कुल लोगों की संख्या %1$s हो सकती है. चैट बनाना पूरा करने के लिए कृपया लोगों की संख्या को %1$s तक रखें, इसमें आप भी शामिल होंगे.</item>
+    </plurals>
+    <plurals name="direct_max_recipients_reached_body">
+        <item quantity="other">ग्रुप में कुल लोगों की संख्या %1$s हो सकती है. ग्रुप बनाना पूरा करने के लिए प्लीज़ लोगों की संख्या को %1$s तक रखें, इसमें आप शामिल हैं.</item>
+    </plurals>
+    <plurals name="direct_media_composer_send_button_description">
+        <item quantity="other">%1$s भेजें</item>
+        <item quantity="one">भेजें</item>
+    </plurals>
+    <plurals name="direct_welcome_message_edit_character_limit_reached_error">
+        <item quantity="other">स्वागत के मैसेज में ज़्यादा से ज़्यादा %1$d वर्ण हो सकते हैं.</item>
+        <item quantity="one">स्वागत के मैसेज में ज़्यादा से ज़्यादा 1 वर्ण हो सकता है.</item>
+    </plurals>
+    <plurals name="discard_x_drafts">
+        <item quantity="other">%1$d ड्राफ़्ट छोड़ें?</item>
+        <item quantity="one">1 ड्राफ़्ट छोड़ें?</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">&lt;b>%2$s दोस्तों&lt;/b> ने %1$s का इस्तेमाल किया है</item>
+        <item quantity="one">&lt;b>1 दोस्त&lt;/b> ने %1$s का इस्तेमाल किया</item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">&lt;b>%2$s लोगों&lt;/b> ने %1$s का इस्तेमाल किया</item>
+        <item quantity="one">&lt;b>1 व्यक्ति&lt;/b> ने %1$s का इस्तेमाल किया</item>
+    </plurals>
+    <plurals name="fan_club_content_preview_settings_detail">
+        <item quantity="other">%1$d पोस्ट</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">%1$d सब्सक्राइबर्स देखें</item>
+        <item quantity="one">%1$d सब्सक्राइबर देखें</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_subtitle">
+        <item quantity="other">"'सब्सक्राइब करें' बटन अब आपकी प्रोफ़ाइल पर लाइव है. %1$d दिन में आपके फ़ॉलोअर्स को आपके सब्सक्रिप्शन के बारे में अपने आप बता दिया जाएगा."</item>
+        <item quantity="one">"'सब्सक्राइब करें' बटन अब आपकी प्रोफ़ाइल पर लाइव है. 1 दिन में आपके फ़ॉलोअर्स को आपके सब्सक्रिप्शन के बारे में अपने आप बता दिया जाएगा."</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_title">
+        <item quantity="other">आपके फ़ॉलोअर्स को %1$d दिन में बता दिया जाएगा</item>
+        <item quantity="one">आपके फ़ॉलोअर्स को 1 दिन में बता दिया जाएगा</item>
+    </plurals>
+    <plurals name="fb_page_num_like_label">
+        <item quantity="other">%1$s लाइक</item>
+        <item quantity="one">%1$s पसंद</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s के पास %2$d आइटम हैं, %3$s है, %4$s</item>
+        <item quantity="one">%1$s के पास %2$d आइटम है, %3$s है, %4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">%1$s यूज़र को वापस फ़ॉलो करें?</item>
+        <item quantity="one">1 यूज़र को वापस फ़ॉलो करें?</item>
+    </plurals>
+    <plurals name="follow_badge">
+        <item quantity="other">%1$d फ़ॉलो</item>
+        <item quantity="one">1 फ़ॉलो</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$d फ़ॉलो</item>
+        <item quantity="one">1 फ़ॉलो</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">%1$s लोग फ़ॉलो करते हैं</item>
+        <item quantity="one">1 व्यक्ति ने फ़ॉलो किया है</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">%1$s और &lt;font face=sans-serif-medium>%2$s अन्य लोग&lt;/font> फ़ॉलो करते हैं</item>
+        <item quantity="one">%1$s और &lt;font face=sans-serif-medium>1 अन्य व्यक्ति&lt;/font> फ़ॉलो करते हैं</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">%1$s और %2$s अन्य लोग फ़ॉलो करते हैं</item>
+        <item quantity="one">%1$s और 1 अन्य व्यक्ति फ़ॉलो करते हैं</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s और &lt;font face=sans-serif-medium>%3$s अन्य लोग&lt;/font> फ़ॉलो करते हैं</item>
+        <item quantity="one">%1$s, %2$s और &lt;font face=sans-serif-medium>1 अन्य व्यक्ति&lt;/font> फ़ॉलो करते हैं</item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s और &lt;font face=sans-serif-medium>%4$s अन्य लोग&lt;/font> फ़ॉलो करते हैं</item>
+        <item quantity="one">%1$s, %2$s, %3$s और &lt;font face=sans-serif-medium>1 अन्य व्यक्ति&lt;/font> फ़ॉलो करते हैं</item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">%1$s फ़ॉलोअर</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos">
+        <item quantity="other">%1$d फ़ोटो</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos_one_video">
+        <item quantity="other">%1$d फ़ोटो और 1 वीडियो</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_videos">
+        <item quantity="other">%1$d वीडियो</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_one_photo_n_videos">
+        <item quantity="other">1 फ़ोटो और %1$d वीडियो</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_months_ago">
+        <item quantity="other">%1$d महीने पहले</item>
+        <item quantity="one">पिछले महीने</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_weeks_ago">
+        <item quantity="other">%1$d हफ़्ते पहले</item>
+        <item quantity="one">पिछले सप्ताह</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_years_ago">
+        <item quantity="other">%1$d वर्ष पहले</item>
+        <item quantity="one">पिछले साल</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_day">
+        <item quantity="other">%1$d दिन</item>
+        <item quantity="one">1 दिन</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_minute">
+        <item quantity="other">%1$d मिनट</item>
+        <item quantity="one">1 मिनट</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_month">
+        <item quantity="other">%1$d महीने</item>
+        <item quantity="one">1 महीने</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_week">
+        <item quantity="other">%1$d सप्ताह</item>
+        <item quantity="one">1 सप्ताह</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_year">
+        <item quantity="other">%1$d साल</item>
+        <item quantity="one">1 वर्ष</item>
+    </plurals>
+    <plurals name="granted_extension_time_hours">
+        <item quantity="other">%1$d घंटे और</item>
+    </plurals>
+    <plurals name="granted_extension_time_minutes">
+        <item quantity="other">%1$d मिनट और</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">%3$d पंक्ति, %4$d स्तंभ में %2$s द्वारा %1$d फ़ोटो और 1 वीडियो</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">%3$d पंक्ति, %4$d स्तंभ में %2$s द्वारा 1 फ़ोटो और %1$d वीडियो</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">%1$d सब्सक्राइबर्स</item>
+        <item quantity="one">%1$d सब्सक्राइबर</item>
+    </plurals>
+    <plurals name="guide_detail_text_accounts">
+        <item quantity="other">%1$s अकाउंट</item>
+    </plurals>
+    <plurals name="guide_detail_text_locations">
+        <item quantity="other">%1$s लोकेशन</item>
+    </plurals>
+    <plurals name="guide_detail_text_media">
+        <item quantity="other">%1$s पोस्ट</item>
+    </plurals>
+    <plurals name="guide_detail_text_products">
+        <item quantity="other">%1$s प्रोडक्ट</item>
+    </plurals>
+    <plurals name="guide_drafts_count">
+        <item quantity="other">%1$s ड्राफ़्ट गाइड</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_attempts_left_error">
+        <item quantity="other">आप पिन डालने की कोशिश %1$d बार और कर सकते हैं. इसके बाद यह काम नहीं करेगा.</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_hours_popup_title_text">
+        <item quantity="other">%1$d घंटे</item>
+        <item quantity="one">1 घंटा</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_minutes_popup_title_text">
+        <item quantity="other">%1$d मिनट</item>
+        <item quantity="one">1 मिनट</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_seconds_popup_title_text">
+        <item quantity="other">%1$d सेकंड</item>
+        <item quantity="one">1 सेकंड</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">जुआ खेलने और डेटिंग जैसी %1$s के विज्ञापन डिफ़ॉल्ट तौर पर प्रतिबंधित हैं. आप ऐसी अधिकतम %2$dअतिरिक्त विज्ञापन कैटेगरी चुन सकते हैं, जिनके विज्ञापन आप अपनी रील्स पर दिखाए जाने से रोकना चाहते हैं.</item>
+        <item quantity="one">जुआ खेलने और डेटिंग जैसी %1$s के विज्ञापन डिफ़ॉल्ट तौर पर प्रतिबंधित हैं. आप ऐसी अधिकतम 1 अतिरिक्त विज्ञापन कैटेगरी चुन सकते हैं, जिनके विज्ञापन आप अपनी रील्स में दिखाए जाने से रोकना चाहते हैं.</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s और %6$d अन्य अकाउंट</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s और 1 अन्य अकाउंट</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s और %6$d अन्य कैटेगरी</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s और 1 अन्य कैटेगरी</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">जुआ खेलने और डेटिंग जैसी %1$s के विज्ञापन डिफ़ॉल्ट तौर पर प्रतिबंधित हैं. आप ऐसी अधिकतम %2$d अतिरिक्त विज्ञापन कैटेगरी चुन सकते हैं, जिनके विज्ञापन आप अपनी प्रोफ़ाइल फ़ीड में दिखने से रोकना चाहते हैं.</item>
+        <item quantity="one">जुआ खेलने और डेटिंग जैसी %1$s के विज्ञापन डिफ़ॉल्ट तौर पर प्रतिबंधित हैं. आप ऐसी अधिकतम 1 अतिरिक्त विज्ञापन कैटेगरी चुन सकते हैं, जिसके विज्ञापन आप अपनी प्रोफ़ाइल फ़ीड में दिखने से रोकना चाहते हैं.</item>
+    </plurals>
+    <plurals name="iglive_audience_mode_close_friends_edit_option_close_friends_added">
+        <item quantity="other">%1$d लोग</item>
+    </plurals>
+    <plurals name="iglive_presence_text">
+        <item quantity="other">%1$d फ़ॉलोअर अभी एक्टिव हैं</item>
+    </plurals>
+    <plurals name="igtv_series_episode">
+        <item quantity="other">%1$s एपिसोड</item>
+        <item quantity="one">1 एपिसोड</item>
+    </plurals>
+    <plurals name="igtv_video_minute_duration_description">
+        <item quantity="other">%1$s मिनट और %2$s सेकंड</item>
+        <item quantity="one">%1$s मिनट और 1 सैकंड</item>
+    </plurals>
+    <plurals name="igtv_video_seconds_duration_description_one_min">
+        <item quantity="other">1 मिनट और %1$s सेेकंड</item>
+        <item quantity="one">1 मिनट और 1 सेकंड</item>
+    </plurals>
+    <plurals name="lead_gen_available_forms_number_of_custom_questions">
+        <item quantity="other">%1$d सवाल</item>
+    </plurals>
+    <plurals name="lead_gen_form_num_questions">
+        <item quantity="other">%1$d सवाल</item>
+        <item quantity="one">1 सवाल</item>
+    </plurals>
+    <plurals name="like_badge">
+        <item quantity="other">%1$d लाइक</item>
+        <item quantity="one">1 लाइक</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d लाइक</item>
+        <item quantity="one">1 लाइक</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">%1$s और &lt;font face=sans-serif-medium>%2$s अन्य लोगों&lt;/font> ने लाइक किया है</item>
+        <item quantity="one">%1$s और &lt;font face=sans-serif-medium>1 अन्य व्यक्ति&lt;/font> ने लाइक किया है</item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s और &lt;font face=sans-serif-medium>%3$s अन्य लोगों&lt;/font> ने लाइक किया है</item>
+        <item quantity="one">%1$s, %2$s और &lt;font face=sans-serif-medium>1 अन्य व्यक्ति&lt;/font> ने लाइक किया है</item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s और &lt;font face=sans-serif-medium>%4$s अन्य लोगों&lt;/font> ने लाइक किया है</item>
+        <item quantity="one">%1$s, %2$s, %3$s और &lt;font face=sans-serif-medium>1 अन्य व्यक्ति&lt;/font> ने लाइक किया है</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_day">
+        <item quantity="other">%1$d दिन</item>
+        <item quantity="one">1 दिन</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_week">
+        <item quantity="other">%1$d सप्ताह</item>
+        <item quantity="one">1 सप्ताह</item>
+    </plurals>
+    <plurals name="live_question_like_count">
+        <item quantity="other">%1$d लाइक</item>
+        <item quantity="one">1 लाइक</item>
+    </plurals>
+    <plurals name="live_streak_subtitle_post_live_streak_increased">
+        <item quantity="other">आप लगातार %1$d हफ़्तों तक लाइव गए! देखते हैं आने वाले हफ़्तों में आप लगातार कितने हफ़्तों तक लाइव जा पाएँगे.</item>
+        <item quantity="one">बहुत अच्छे! आने वाले हफ़्तों में आप लगातार कितने हफ़्तों तक लाइव जा पाएँगे, इसको देखते हुए अपना नया पर्सनल रिकॉर्ड सेट करें.</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">%1$s और %2$s लाइव थे</item>
+        <item quantity="one">%1$s लाइव थे</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">%1$d बैज</item>
+        <item quantity="one">1 बैज</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d बैज</item>
+        <item quantity="one">1 बैज</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">%1$s और %2$d अन्य लोगों ने आपके लाइव वीडियो में शामिल होने के लिए एक अनुरोध भेजा है.</item>
+    </plurals>
+    <plurals name="location_list_title">
+        <item quantity="other">%1$d जगहें</item>
+        <item quantity="one">%1$d जगह</item>
+    </plurals>
+    <plurals name="member_count_text">
+        <item quantity="other">%1$s मेंबर</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">%1$d घंटे बाकी हैं</item>
+        <item quantity="one">%1$d घंटा बाकी है</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">%1$d मिनट बचे हैं</item>
+        <item quantity="one">%1$d मिनट बाकी है</item>
+    </plurals>
+    <plurals name="msys_ds_4xu0wn">
+        <item quantity="other">%1$d फ़ोटो भेजीं</item>
+        <item quantity="one">कोई फ़ोटो भेजी है</item>
+    </plurals>
+    <plurals name="msys_ds_Tey2G">
+        <item quantity="other">%1$s ने %2$d फ़ोटो भेजीं</item>
+        <item quantity="one">%1$s ने फ़ोटो भेजी</item>
+    </plurals>
+    <plurals name="msys_ds_l81ip">
+        <item quantity="other">आपने %1$d फ़ोटो भेजीं</item>
+        <item quantity="one">आपने फ़ोटो भेजी</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">%1$s, %2$s और %3$d अन्य लोगों की चैट की रिपोर्ट करें?</item>
+        <item quantity="one">%1$s, %2$s और %3$d की चैट की रिपोर्ट करें?</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">आपने %1$s और %2$d अन्य को ग्रुप में जोड़ा.</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">आपने %1$s और %2$d अन्य को ग्रुप से हटा दिया.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">%2$s के %1$d वर्ड इफ़ेक्ट्स %3$s जोड़े गए</item>
+        <item quantity="one">%2$s के %1$d वर्ड इफ़ेक्ट %3$s को जोड़ा गया</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">आपने %1$d वर्ड इफ़ेक्ट्स को बदल दिया है.</item>
+        <item quantity="one">आपने %1$d वर्ड इफ़ेक्ट को बदल दिया है.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">%1$s ने %2$d वर्ड इफ़ेक्ट्स बदल दिए हैं.</item>
+        <item quantity="one">%1$s ने %2$d वर्ड इफ़ेक्ट को बदल दिया है.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">आपने %1$d वर्ड इफ़ेक्ट्स %2$s सेट किए</item>
+        <item quantity="one">आपने %1$d वर्ड इफ़ेक्ट %2$s सेट किया</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">%1$s ने %2$d %3$s वर्ड इफ़ेक्ट्स सेट किए हैं</item>
+        <item quantity="one">%1$s ने %2$d %3$s वर्ड इफ़ेक्ट सेट किया है</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">आपने %1$d वर्ड इफ़ेक्ट्स हटा दिए हैं.</item>
+        <item quantity="one">आपने %1$d वर्ड इफ़ेक्ट को हटा दिया है.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">%1$s ने %2$d वर्ड इफ़ेक्ट्स हटा दिए हैं.</item>
+        <item quantity="one">%1$s ने %2$d वर्ड इफ़ेक्ट को हटा दिया है.</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d दिन</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d घंटे</item>
+        <item quantity="one">%1$d घंटा</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d मिनट</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d सेकंड</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">%1$s ने आपको और %2$d अन्य को ग्रुप में जोड़ा.</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">%1$s ने %2$s और %3$d अन्य को ग्रुप में जोड़ा.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">%1$s ने आपको और %2$d अन्य को ग्रुप से हटा दिया.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">%1$s ने %2$s और %3$d अन्य को ग्रुप से हटा दिया.</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">ये लोग चैट हिस्ट्री देख पाएँगे</item>
+        <item quantity="one">यह व्यक्ति चैट हिस्ट्री देख पाएगा</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">आपको और %1$d अन्य को ग्रुप में जोड़ा गया.</item>
+        <item quantity="one">आपको और %1$d अन्य लोगों को ग्रुप में जोड़ा गया.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">%1$s और %2$d अन्य को ग्रुप में जोड़ा गया.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">आप और %1$d अन्य को ग्रुप से हटा दिया गया.</item>
+        <item quantity="one">आपको और %1$d अन्य लोगों को ग्रुप से हटा दिया गया.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">%1$s और %2$d अन्य को ग्रुप से हटा दिया गया था.</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">आपने %1$d लोगों को जोड़ा</item>
+        <item quantity="one">आपने %1$d व्‍यक्ति को जोड़ा</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">आपने %1$s, %2$s और %3$d और लोगों को जोड़ा</item>
+        <item quantity="one">आपने %1$s, %2$s और एक अन्‍य व्‍यक्ति को जोड़ा</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">आपने %1$d फ़ोटो भेजीं.</item>
+        <item quantity="one">आपने एक फ़ोटो भेजी.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">आपकी फ़ोटो %1$s कहानी और %2$s अन्य कहानियों में है.</item>
+        <item quantity="one">आपकी फ़ोटो %1$s कहानी और एक अन्य कहानी में है.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">आपका वीडियो %1$s की स्टोरी में और %2$s अन्य स्टोरीज़ में है.</item>
+        <item quantity="one">आपका वीडियो %1$s की स्टोरी में और एक अन्य स्टोरी में है.</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">आपकी फ़ोटो को %1$s हैशटैग कहानियों में जोड़ा गया था</item>
+        <item quantity="one">आपकी फ़ोटो को एक हैशटैग कहानी में जोड़ा गया था</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">आपकी फ़ोटो को %1$s स्थान कहानियों में जोड़ा गया था</item>
+        <item quantity="one">आपकी फ़ोटो को किसी लोकेशन स्टोरी में जोड़ा गया</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">आपका वीडियो %1$s हैशटैग कहानियों में जोड़ा गया था</item>
+        <item quantity="one">आपके वीडियो को किसी हैशटैग स्टोरी में जोड़ा गया</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">आपका वीडियो %1$s स्थान कहानियों में जोड़ा गया था</item>
+        <item quantity="one">आपके वीडियो को किसी लोकेशन स्टोरी में जोड़ा गया</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">%2$s का &lt;b>%1$s&lt;/b> और %3$s अन्य इफ़ेक्ट</item>
+    </plurals>
+    <plurals name="n_additionalDiscounts">
+        <item quantity="other">%1$d और प्रमोशन</item>
+    </plurals>
+    <plurals name="n_additionalDiscountsOffers">
+        <item quantity="other">%1$d और ऑफ़र</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">आपको %1$d नई लीड मिलीं.</item>
+        <item quantity="one">आपको 1 नई लीड मिली.</item>
+    </plurals>
+    <plurals name="new_post_badge">
+        <item quantity="other">नई पोस्ट</item>
+        <item quantity="one">1 नई पोस्ट</item>
+    </plurals>
+    <plurals name="notification_badge">
+        <item quantity="other">%1$d सूचनाएँ</item>
+        <item quantity="one">1 सूचना</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">%1$d या अधिक अपठित संदेश</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d मैसेज पढ़े नहीं हैं</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">%1$d प्रोडक्ट कलेक्शन</item>
+        <item quantity="one">1 प्रोडक्ट कलेक्शन</item>
+    </plurals>
+    <plurals name="num_pdp_attributes_discounts_formatted">
+        <item quantity="other">%1$s और %2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">%1$d प्रोडक्ट</item>
+        <item quantity="one">1 प्रोडक्ट</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">%1$s कमेंट</item>
+    </plurals>
+    <plurals name="number_of_comments_with_specific_emoji">
+        <item quantity="other">%2$s के साथ %1$s कमेंट</item>
+        <item quantity="one">%2$s के साथ 1 कमेंट</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">%1$s लाइक</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">%1$s बार चलाया गया</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s पोस्ट</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">%1$s पब्लिक पोस्ट</item>
+        <item quantity="one">%1$s सार्वजनिक पोस्ट</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">%1$s लाइक और रिएक्शन</item>
+        <item quantity="one">%1$s लाइक या रिएक्शन</item>
+    </plurals>
+    <plurals name="number_of_reels_in_chain">
+        <item quantity="other">%1$d रील</item>
+        <item quantity="one">1 रील</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">%1$s बार शेयर की गई</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">%1$s दर्शक</item>
+        <item quantity="one">1 दर्शक</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">%1$s बार देखा गया</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">%1$d साल पहले आज के दिन</item>
+        <item quantity="one">आज के दिन 1 साल पहले</item>
+    </plurals>
+    <plurals name="on_x_countries">
+        <item quantity="other">(%1$d देशों) में</item>
+        <item quantity="one">चालू (1 देश)</item>
+    </plurals>
+    <plurals name="other_badges">
+        <item quantity="other">%1$d अन्य</item>
+        <item quantity="one">1 अन्य</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">आपके पास %1$d लंबित विज्ञापन हैं.</item>
+        <item quantity="one">आपका 1 विज्ञापन लंबित है.</item>
+    </plurals>
+    <plurals name="people_tagging_x_people_plurals">
+        <item quantity="other">%2$d लोग</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="plays_user_list_title">
+        <item quantity="other">%1$d बार चलाई गई</item>
+        <item quantity="one">1 बार चलाया गया</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">प्रचार से %1$s वोटर</item>
+        <item quantity="one">प्रचार से 1 वोटर</item>
+    </plurals>
+    <plurals name="post_live_broadcaster_user_pay_summary_info">
+        <item quantity="other">आपने %2$s बैज से लगभग %1$s कमाए हैं.</item>
+        <item quantity="one">आपने 1 बैज से करीब %1$s कमाए.</item>
+    </plurals>
+    <plurals name="post_live_viewer_count">
+        <item quantity="other">%1$s, %2$s +%3$d दूसरे लोगों ने आपका लाइव वीडियो देखा.</item>
+        <item quantity="one">%1$s ने आपका लाइव वीडियो देखा.</item>
+    </plurals>
+    <plurals name="post_live_viewer_user_pay_summary_info">
+        <item quantity="other">आपने %2$d खरीदे हैं. %1$s को बैज खरीदने वालों की पूरी लिस्ट दिखेगी.</item>
+        <item quantity="one">आपने बैज खरीदा है. %1$s को बैज खरीदने वालों की पूरी लिस्ट दिखेगी.</item>
+    </plurals>
+    <plurals name="product_guide_shop_row_subtitle">
+        <item quantity="other">%1$d प्रोडक्ट</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">सुझाव उपलब्ध हैं</item>
+        <item quantity="one">सुझाव उपलब्ध है</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_facebook_others">
+        <item quantity="other">%1$s और %2$d अन्य लिंक</item>
+        <item quantity="one">%1$s और 1 अन्य लिंक</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_others">
+        <item quantity="other">%1$s और %2$d अन्य</item>
+        <item quantity="one">%1$s और 1 अन्य</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_admins_with_count">
+        <item quantity="other">%1$s एडमिन</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_blocked_with_count">
+        <item quantity="other">%1$s ब्लॉक किए गए हैं</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_members_with_count">
+        <item quantity="other">%1$s मेंबर</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">&lt;b>%1$s&lt;/b> और &lt;b>%2$s अन्य लोगों&lt;/b> ने इसमें जोड़ा है</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> और &lt;b>1 अन्य व्यक्ति&lt;/b> ने इसमें जोड़ा है</item>
+    </plurals>
+    <plurals name="quickshare_add_topics_pill_text">
+        <item quantity="other">%1$d विषय</item>
+        <item quantity="one">1 विषय</item>
+    </plurals>
+    <plurals name="recipient_picker_close_friends_count">
+        <item quantity="other">%1$s लोग</item>
+        <item quantity="one">1 व्यक्ति</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">%1$s अन्य लोगों ने Facebook पर इस स्टोरी को देखा. क्योंकि आप इसे Facebook पर पब्लिक शेयर कर रहे हैं, जो लोग आपके दोस्त नहीं हैं, उन्होंने भी इसे देखा है.</item>
+        <item quantity="one">1 अन्य व्यक्ति ने Facebook पर इस स्टोरी को देखा. क्योंकि आप इसे Facebook पर पब्लिक शेयर कर रहे हैं, जो व्यक्ति आपका दोस्त नहीं है, उन्होंने भी इसे देखा है.</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">Facebook पर %1$s और व्यू</item>
+        <item quantity="one">Facebook पर 1 और व्यू</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">%1$s के वोट</item>
+        <item quantity="one">%1$s के लिए वोट करें</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">%1$d लोगों ने उत्तर दिया. यह औसत उत्तर है.</item>
+        <item quantity="one">1 व्यक्ति ने उत्तर दिया. यह औसत उत्तर है.</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">&lt;b>%1$s दोस्तों&lt;/b> ने रीमिक्स बनाया है</item>
+        <item quantity="one">&lt;b>1 दोस्त&lt;/b> ने रीमिक्स किया</item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">&lt;b>%1$s लोगों&lt;/b> ने रीमिक्स किया</item>
+        <item quantity="one">&lt;b>1 व्यक्ति&lt;/b> ने रीमिक्स बनाया है</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_message">
+        <item quantity="other">आप अपने हाइलाइट से %1$d वीडियो को निकाल रहे हैं.</item>
+        <item quantity="one">आप 1 वीडियो को अपने हाइलाइट से निकाल रहे हैं.</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_title">
+        <item quantity="other">%1$d वीडियो को हाइलाइट से निकालें?</item>
+        <item quantity="one">हाइलाइट से वीडियो निकालें?</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">%1$s फ़ॉलोअर्स को हटाएँ?</item>
+        <item quantity="one">1 फ़ॉलोअर को हटाएँ?</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">%1$d प्रोडक्ट्स हटाए गए</item>
+        <item quantity="one">1 प्रोडक्ट हटाया गया</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_body">
+        <item quantity="other">आपने %1$d अकाउंट चुने हैं. आप जिस व्यक्ति को प्रतिबंधित करते हैं, आपकी पोस्ट पर उनके कमेंट सिर्फ़ आप दोनों को ही दिखेंगे.</item>
+        <item quantity="one">आपने 1 अकाउंट चुना है. आप जिस व्यक्ति को प्रतिबंधित करते हैं, आपकी पोस्ट पर उनके कमेंट सिर्फ़ आप दोनों को ही दिखेंगे.</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_primary_button">
+        <item quantity="other">अकाउंट प्रतिबंधित करें</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_title">
+        <item quantity="other">%1$d अकाउंट प्रतिबंधित करें?</item>
+        <item quantity="one">1 अकाउंट प्रतिबंधित करें?</item>
+    </plurals>
+    <plurals name="rolodex_hour">
+        <item quantity="other">%1$d घंटे</item>
+        <item quantity="one">%1$d घंटा</item>
+    </plurals>
+    <plurals name="rolodex_minute">
+        <item quantity="other">%1$d मिनट</item>
+    </plurals>
+    <plurals name="rolodex_second">
+        <item quantity="other">%1$d सेकंड</item>
+    </plurals>
+    <plurals name="rtc_effects_removed_multipeer_effect_max_participant_exceed">
+        <item quantity="other">अधिकतम %2$d लोगों के लिए इन्वायरन्मेंट %1$s सपोर्ट.</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">%1$s सेव की गईं पोस्ट</item>
+        <item quantity="one">%1$s सेव की गई पोस्ट</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">पोस्ट जोड़ने में असमर्थ</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">%1$s में %2$s पोस्ट जोड़ी गईं</item>
+        <item quantity="one">%1$s में पोस्ट जोड़ी गई</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">पोस्ट को स्थानांतरित करने में असमर्थ रहे</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">%2$s पोस्ट को %1$s में स्थानांतरित किया गया</item>
+        <item quantity="one">पोस्ट को %1$s में भेजा गया</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">"ऐसा करने पर, ये पोस्ट इस कलेक्शन से हटाकर %1$s में भेज दी जाएँगी. पोस्ट फिर भी 'सेव की गई सभी पोस्ट' में सेव रहेंगी."</item>
+        <item quantity="one">ऐसा करने से यह पोस्ट इस कलेक्शन से हटा कर %1$s में स्थानांतरित कर दी जाएगी. पोस्ट फिर भी सभी सहेजे गए सभी में सहेज दी जाएगी.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">अगर आप पोस्ट को सेव करना कैंसल करते हैं, तो इन्हें सभी कलेक्शन से भी हटा दिया जाएगा.</item>
+        <item quantity="one">इस पोस्ट को सहेजना रद्द करने पर इसे सभी कलेक्शन से भी निकाल दिया जाएगा.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">पोस्ट को अनसेव करें?</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">पोस्ट निकालने में असमर्थ</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">%1$s से %2$s पोस्ट निकाली गईं</item>
+        <item quantity="one">%1$s से पोस्ट निकाली गई</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">पोस्ट्स को अनसेव नहीं किया जा सका</item>
+        <item quantity="one">पोस्ट को अनसेव नहीं किया जा सका</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">%1$s पोस्ट को सहेजना रद्द किया गया</item>
+        <item quantity="one">पोस्ट सहेजी नहीं गई</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">%1$d चुने हैं</item>
+        <item quantity="one">1 चुना है</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">%1$d आइटम</item>
+        <item quantity="one">1 आइटम</item>
+    </plurals>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">%1$d सेकंड बाकी हैं\"</item>
+        <item quantity="one">1 सेकंड बाकी है\"</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">नई पोस्ट</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s नई पोस्ट</item>
+        <item quantity="one">1 नई पोस्ट</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_subtitle">
+        <item quantity="other">%1$d वीडियो को कुछ देशों में ब्लॉक कर दिया गया था</item>
+        <item quantity="one">1 वीडियो को कुछ देशों में ब्लॉक कर दिया गया था</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_title">
+        <item quantity="other">%1$d वीडियो को कुछ देशों में ब्लॉक कर दिया गया था</item>
+        <item quantity="one">1 वीडियो को कुछ देशों में ब्लॉक कर दिया गया था</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_subtitle">
+        <item quantity="other">%1$d वीडियो को ब्लॉक किया गया</item>
+        <item quantity="one">1 वीडियो को ब्लॉक कर दिया गया था.</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_title">
+        <item quantity="other">%1$d वीडियो को ब्लॉक कर दिया गया था</item>
+        <item quantity="one">1 वीडियो को ब्लॉक कर दिया गया था</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_subtitle">
+        <item quantity="other">%1$d वीडियो कुछ देशों में उपलब्ध हैं.</item>
+        <item quantity="one">1 वीडियो कुछ देशों में उपलब्ध है.</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_title">
+        <item quantity="other">%1$d वीडियो केवल कुछ देशों में उपलब्ध हैं</item>
+        <item quantity="one">1 वीडियो केवल कुछ देशों में उपलब्ध है</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">आप एक बार में सिर्फ़ %1$d कमेंट चुन सकते हैं.</item>
+        <item quantity="one">आप एक बार में सिर्फ़ 1 कमेंट चुन सकते हैं.</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">अगर आपने उन्हें अभी डिलीट नहीं किया, तो सभी पेंडिंग फ़ॉलो रिक्वेस्ट को अपने आप मंज़ूरी मिल जाएगी. %1$s पेंडिंग फ़ॉलो रिक्वेस्ट को रिव्यू करें.</item>
+        <item quantity="one">अगर आपने सभी पेंडिंग फ़ॉलो रिक्वेस्ट को अभी डिलीट नहीं किया, तो उन्हें अपने आप मंज़ूरी मिल जाएगी. %1$s पेंडिंग फ़ॉलो रिक्वेस्ट को रिव्यू करें.</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">%1$s प्रोडक्ट्स</item>
+        <item quantity="one">%1$s प्रोडक्ट</item>
+    </plurals>
+    <plurals name="shopping_cart_count_content_description">
+        <item quantity="other">आपकी कार्ट में %1$d आइटम हैं</item>
+        <item quantity="one">आपकी कार्ट में 1 आइटम है</item>
+    </plurals>
+    <plurals name="shopping_cart_num_items">
+        <item quantity="other">%1$d आइटम</item>
+        <item quantity="one">1 आइटम</item>
+    </plurals>
+    <plurals name="shopping_cart_subtotal_title_text">
+        <item quantity="other">कुल (%1$d आइटम)</item>
+        <item quantity="one">कुल (1 आइटम)</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">%1$s और &lt;b>%2$s अन्य व्यक्ति&lt;/b>, ग्रुप के मेंबर हैं</item>
+        <item quantity="one">%1$s और &lt;b>1 अन्य व्यक्ति&lt;/b>, ग्रुप के मेंबर हैं</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s और &lt;b>%3$s1 अन्य व्यक्ति&lt;/b>, ग्रुप के मेंबर हैं</item>
+        <item quantity="one">%1$s, %2$s और &lt;b>1 अन्य व्यक्ति&lt;/b> are members</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s और &lt;b>%4$s अन्य व्यक्ति&lt;/b>, ग्रुप के मेंबर हैं</item>
+        <item quantity="one">%1$s, %2$s, %3$s और &lt;b>1 अन्य व्यक्ति&lt;/b>, ग्रुप के मेंबर हैं</item>
+    </plurals>
+    <plurals name="standalone_fundraiser_with_cohost_label">
+        <item quantity="other">&lt;b>%1$s&lt;/b> और &lt;b>%2$s others&lt;/b></item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> और &lt;b>1 other&lt;/b></item>
+    </plurals>
+    <plurals name="sticker_count_limit">
+        <item quantity="other">आप इस स्टिकर को प्रति स्टोरी %1$d से ज़्यादा नहीं जोड़ सकते</item>
+        <item quantity="one">आप इस स्टिकर को प्रति स्टोरी एक से ज़्यादा बार नहीं जोड़ सकते</item>
+    </plurals>
+    <plurals name="story_drafts_confirmation_title">
+        <item quantity="other">ड्राफ़्ट डिलीट करें?</item>
+    </plurals>
+    <plurals name="subscriptions_shoutout_bottom_sheet_title">
+        <item quantity="other">%1$d सब्सक्राइबर्स को मेंशन करें</item>
+        <item quantity="one">%1$d सब्सक्राइबर को मेंशन किया गया</item>
+    </plurals>
+    <plurals name="suggested_hidden_words_toast_text">
+        <item quantity="other">छिपे हुए शब्दों की लिस्ट में %1$d शब्द जोड़े गए</item>
+        <item quantity="one">छिपे हुए शब्दों की लिस्ट में 1 शब्द जोड़ा गया</item>
+    </plurals>
+    <plurals name="suggested_products_count">
+        <item quantity="other">%1$d सुझाए गए उत्पाद</item>
+        <item quantity="one">1 सुझाया गया प्रोडक्ट</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos">
+        <item quantity="other">पिछले वीकेंड की ग्रुप फ़ोटो</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos_with_location">
+        <item quantity="other">%1$s में पिछले वीकेंड की ग्रुप फ़ोटो</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos">
+        <item quantity="other">आज की ग्रुप फ़ोटो</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos_with_location">
+        <item quantity="other">%1$s में आज की ग्रुप फ़ोटो</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos">
+        <item quantity="other">कल की ग्रुप फ़ोटो</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos_with_location">
+        <item quantity="other">%1$s में कल की ग्रुप फ़ोटो</item>
+    </plurals>
+    <plurals name="suggestion_your_recent_favorites">
+        <item quantity="other">पिछले हफ़्ते के फ़ेवरेट</item>
+        <item quantity="one">पिछले हफ़्ते का फ़ेवरेट</item>
+    </plurals>
+    <plurals name="tagged_accounts_plural">
+        <item quantity="other">टैग किए गए अकाउंट:</item>
+        <item quantity="one">टैग किया गया अकाउंट:</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">&lt;b>%1$s दोस्तों&lt;/b> ने टेंप्लेट इस्तेमाल किया है</item>
+        <item quantity="one">&lt;b>1 दोस्त&lt;/b> ने टेंप्लेट का इस्तेमाल किया</item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">&lt;b>%1$s लोगों&lt;/b> द्वारा टेंप्लेट का उपयोग किया गया</item>
+        <item quantity="one">&lt;b>1 व्यक्ति&lt;/b> द्वारा टेंप्लेट का उपयोग किया गया</item>
+    </plurals>
+    <plurals name="thread_title_suffix_n_others">
+        <item quantity="other">… और %1$d अन्य</item>
+        <item quantity="one">... और 1 अन्य</item>
+    </plurals>
+    <plurals name="thread_title_x_and_n_others">
+        <item quantity="other">%1$s और %2$d अन्य</item>
+        <item quantity="one">%1$s और 1 अन्य</item>
+    </plurals>
+    <plurals name="thread_title_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s और %3$s अन्य</item>
+        <item quantity="one">%1$s, %2$s और 1 अन्य</item>
+    </plurals>
+    <plurals name="unseen_like_notification">
+        <item quantity="other">आपको %1$d नए लाइक मिले हैं</item>
+        <item quantity="one">आपको 1 नया लाइक मिला है</item>
+    </plurals>
+    <plurals name="upcoming_event_subtitle_template">
+        <item quantity="other">%1$d प्रोडक्ट · %2$s</item>
+        <item quantity="one">%2$s</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_list_supporters_title">
+        <item quantity="other">%1$d सपोर्टर</item>
+        <item quantity="one">1 सपोर्टर</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">"%1$d सपोर्टर को 'एक्टिविटी' में नोटिफ़िकेशन मिलेगा"</item>
+        <item quantity="one">"1 सपोर्टर को 'एक्टिविटी' में नोटिफ़िकेशन मिलेगा"</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notified_supporters_number">
+        <item quantity="other">जब आप यह स्टोरी शेयर करेंगे, तो आपके सबसे हालिया लाइव वीडियो के %1$d बैज सपोर्टर्स को नोटिफ़िकेशन भेजकर इसकी सूचना दी जाएगी. देखें</item>
+        <item quantity="one">जब आप यह स्टोरी शेयर करेंगे, तो आपके सबसे हालिया लाइव वीडियो के 1 बैज सपोर्टर को नोटिफ़िकेशन भेजकर इसकी सूचना दी जाएगी. देखें</item>
+    </plurals>
+    <plurals name="user_pay_fanclub_all_subscribers_header">
+        <item quantity="other">सभी (%1$d) सब्सक्राइबर</item>
+        <item quantity="one">सभी सब्सक्राइबर्स</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d बार देखी गई</item>
+        <item quantity="one">1 बार देखी गई</item>
+    </plurals>
+    <plurals name="view_x_more_replies">
+        <item quantity="other">%1$d और जवाब देखें</item>
+        <item quantity="one">%1$d और जवाब दिखाएँ</item>
+    </plurals>
+    <plurals name="view_x_previous_replies">
+        <item quantity="other">पिछले %1$d जवाब देखें</item>
+        <item quantity="one">पिछला %1$d जवाब देखें</item>
+    </plurals>
+    <plurals name="view_x_replies">
+        <item quantity="other">%1$d और जवाब देखें</item>
+    </plurals>
+    <plurals name="voter_count_on_surfaces">
+        <item quantity="other">वोट · %1$s पोल के परिणाम</item>
+        <item quantity="one">वोट · %1$s पोल का परिणाम</item>
+    </plurals>
+    <plurals name="voters_count">
+        <item quantity="other">%1$s वोट</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">%1$d कमेंट को डिलीट किया गया.</item>
+        <item quantity="one">कमेंट हटाया गया.</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$s दिन</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">%1$s दिन पहले</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s घंटे</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">%1$s घंटे पहले</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s मिनट</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">%1$s मिनट पहले</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d लोग</item>
+        <item quantity="one">1 व्यक्ति</item>
+    </plurals>
+    <plurals name="x_reactions">
+        <item quantity="other">%1$s रिएक्शन</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s सेकंड</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">%1$s सेकंड पहले</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">%1$d चुने गए</item>
+        <item quantity="one">1 चुना गया</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">%1$d लोगों ने जवाब दिया.</item>
+        <item quantity="one">1 व्यक्ति ने जवाब दिया.</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s सप्ताह</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">%1$s सप्ताह पहले</item>
+    </plurals>
+</resources>

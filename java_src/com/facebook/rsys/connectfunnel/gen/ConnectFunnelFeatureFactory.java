@@ -1,0 +1,16 @@
+package com.facebook.rsys.connectfunnel.gen;
+
+import com.facebook.djinni.msys.infra.McfReference;
+import com.facebook.rsys.base.gen.FeatureHolder;
+/* loaded from: classes6.dex */
+public abstract class ConnectFunnelFeatureFactory {
+
+    /* loaded from: classes6.dex */
+    public final class CProxy extends ConnectFunnelFeatureFactory {
+        public static native FeatureHolder create(ConnectFunnelProxy connectFunnelProxy, boolean z);
+
+        public static native ConnectFunnelFeatureFactory createFromMcfType(McfReference mcfReference);
+
+        public static native long nativeGetMcfTypeId();
+    }
+}

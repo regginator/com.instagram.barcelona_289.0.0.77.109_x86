@@ -1,0 +1,236 @@
+{
+  "id": "canvas_ad",
+  "latest_reel_media": null,
+  "expiring_at": 9564180514,
+  "seen": null,
+  "can_reply": false,
+  "can_reshare": true,
+  "reel_type": "ads_reel",
+  "user": {
+    "pk": 3027756452,
+    "username": "visarussia",
+    "full_name": "Visa",
+    "is_private": false,
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "1663755956901515901_3027756452",
+    "is_verified": false
+  },
+  "items": [
+    {
+      "taken_at": 1563886765,
+      "pk": 2094356447721803500,
+      "id": "canvas_ad",
+      "device_timestamp": 1563886765,
+      "media_type": 1,
+      "code": "B0QphfDgc6r",
+      "client_cache_key": "MjA5NDM1NjQ0NzcyMTgwMzQzNQ==.2",
+      "filter_type": 0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png"
+          }
+        ]
+      },
+      "original_width":900,
+      "original_height":1600,
+      "user": {
+        "pk": 3027756452,
+        "username": "visarussia",
+        "full_name": "Visa",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1663755956901515901_3027756452",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": null
+      },
+      "caption": null,
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "like_count": 0,
+      "has_liked": false,
+      "likers": [],
+      "photo_of_you": false,
+      "fb_page_url": "https://www.facebook.com/VisaRU/",
+      "collapse_comments": false,
+      "top_followers": [
+        "placeholder"
+      ],
+      "top_followers_count": 1,
+      "can_viewer_save": true,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjNjM2I3MGRmMzhjNTRjZmM5ZjBkNGI3ZTk3OGQzM2ZhMjA5NDM1NjQ0NzcyMTgwMzQzNSIsInNlcnZlcl90b2tlbiI6IjE1NjQwOTQxMTQwNjB8MjA5NDM1NjQ0NzcyMTgwMzQzNXw1NDg1NjEwMjE5fDRlYzVlZmEwMmYxYjRmOWJlNGUyNDI3MzcxNzJiMTM4MjgxOWVlOWMyYzM2YzJhY2ZjOGY0NWVkZWMzMjM2ZWYifSwic2lnbmF0dXJlIjoiIn0=",
+      "expiring_at": 9564180514,
+      "can_reshare": true,
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQKb3AMVmJLgxTDRskXxKNseagEJnuyto8a-5BBez5ObVqFM69PIv1uTmFElXFwyNgqxM4jV7Kp-nA9ukPM_BYfL",
+        "show_ad_choices": false,
+        "ad_title": "Visa",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23843499812340110,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": "{}",
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "cookies": [
+          "fr=1ZuRCFG4vblSCQMku.AWUF_myz9G5JiVhFsrqosro_Ess.BdOi6h..AAA.0.0.BdOi6h.AWVQraIC; expires=Fri, 24 Jul 2020 22:35:13 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links": [
+        {
+          "linkType": 6,
+          "webUri": "https://fb.com/canvas_doc/558406867897356",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9eOw2tV-I4phxRnFRVO9mHao5ChUSjbeNQpyd5ph6Ul6hcPfGSuP52zNPjCqIyQEOHyIRRJfOZbkIzq2WhQX8lLs4Fv3xNQ4AVYtpsldou1NbbMqYE_zLuuL64n2zNQXY3CZBGm3bsrK2toxSUFuTae6FOUCK1KmlPtOhTLp2EWqBe0jzZowtx7C98bPefADd_o9g77ypt7aW7LgjRu4EP&a=1&hash=Ad-akraLa2N6rw7b",
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "canvasDocId": "bmF0aXZlZG9jdW1lbnQ6NTU4NDA2ODY3ODk3MzU2",
+          "canvasData": "{\"bmF0aXZlZG9jdW1lbnQ6NTU4NDA2ODY3ODk3MzU2\":{\"__typename\":\"NativeDocumentNode\",\"id\":\"bmF0aXZlZG9jdW1lbnQ6NTU4NDA2ODY3ODk3MzU2\",\"document\":{\"title\":null,\"background_color\":\"FF000000\",\"show_see_more_chrome\":true,\"document_body_elements\":{\"edges\":[{\"node\":{\"__typename\":\"InstantShoppingDocumentSlideshowElement\",\"document_element_type\":\"SLIDESHOW\",\"logging_token\":\"391277691526852\",\"child_elements\":[{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/66834973_2949385881756851_6260199611726561280_o.jpg?_nc_cat=1&_nc_oc=AQmjNpK686ukmUorxvTbq2leozKKJeyzGpvy_PtC0eKF9R6WllCxPuu_UCIAajqYNOvU2u8FXHPkug65thREdfY9&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=ec40770766273caa03ef361b2677a02e&oe=5DAA1417\"}]},\"logging_token\":\"2896115480459733\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/66830337_2949386491756790_8258587030573809664_o.jpg?_nc_cat=111&_nc_oc=AQnlFmreIJJjhM_oPveYQOJxQ2ZQTspRPf_08q6P-ayYu_NvkzgtwyjwP03-JcyDq6WCfWklpW3wd1YA5U2UfHkc&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=f6044497ab6730facc952555c9446d25&oe=5DAD5327\"}]},\"logging_token\":\"343537826593966\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/67185602_2949386961756743_1310224316750626816_o.jpg?_nc_cat=100&_nc_oc=AQnYn03Ix1fhJjuC_ooyx2e_eQ6OhtA90_BwNWq5uVeDK0ECIFeidMbVcjpIuK4Ts7-mW-etvsxybV81YZgc49Sr&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=2e41092cbf6cbec0b0c2a348464d4b4e&oe=5DE5E790\"}]},\"logging_token\":\"1307594909399158\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/67113595_2949387421756697_7337426453794914304_o.jpg?_nc_cat=103&_nc_oc=AQkRht_T4TkLtYmutjaZ4BxI7f7blnsCZzEYWzkueyaxPWYHDMwivAqmE3UGYBg3cXmLlNi49NB5IDYc2yzZT7DZ&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=7373f36e1feb0a2e2fe9b068f22d4208&oe=5DE1E759\"}]},\"logging_token\":\"385335282124118\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/67225621_2949387958423310_281143950696251392_o.png?_nc_cat=104&_nc_oc=AQnB-qTSBcX7g062lJs0lXFUUQp2qy_dn2Jz5Dyu__0b5bFOC0K3GKbbaWjr91DWxNqyC_szKUFNywOgESW0JV1D&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=7ed52681c4c5c64e20276430d13f61b0&oe=5DDFDE96\"}]},\"logging_token\":\"1821960777907308\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fad.doubleclick.net\\u00252Fddm\\u00252Ftrackclk\\u00252FN6027.159198FACEBOOK\\u00252FB22985615.251557927\\u00253Bdc_trk_aid\\u00253D447756985\\u00253Bdc_trk_cid\\u00253D118990488\\u00253Badid\\u00253D\\u0025257Bad_id\\u0025257D\\u00253Bdc_lat\\u00253D\\u00253Bdc_rdid\\u00253D\\u00253Btag_for_child_directed_treatment\\u00253D\\u00253Btfua\\u00253D&h=AT07JluGJwMvkaqT_WRuTIRdFqaUkJV2GPIyJ8KP47DN__mfKTIb9LucV69keYmgDJ8Aag0UmSgScSQ6AkdsfM0FO25h6fpYeNtTpo440LXgo0sbHpTk6bgack35Q-fzesEuVNsqODVQ&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]}}]},\"third_party_logging_urls\":[],\"style_list\":[\"ENABLE_SWIPE_TO_OPEN\"],\"analytics\":null}}}",
+          "destinationContext": "View on Instagram",
+          "tapAndHoldContext": "Swipe up to view on Instagram"
+        }
+      ],
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 6,
+              "webUri": "https://fb.com/canvas_doc/558406867897356",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9eOw2tV-I4phxRnFRVO9mHao5ChUSjbeNQpyd5ph6Ul6hcPfGSuP52zNPjCqIyQEOHyIRRJfOZbkIzq2WhQX8lLs4Fv3xNQ4AVYtpsldou1NbbMqYE_zLuuL64n2zNQXY3CZBGm3bsrK2toxSUFuTae6FOUCK1KmlPtOhTLp2EWqBe0jzZowtx7C98bPefADd_o9g77ypt7aW7LgjRu4EP&a=1&hash=Ad-akraLa2N6rw7b",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "canvasDocId": "bmF0aXZlZG9jdW1lbnQ6NTU4NDA2ODY3ODk3MzU2",
+              "canvasData": "{\"bmF0aXZlZG9jdW1lbnQ6NTU4NDA2ODY3ODk3MzU2\":{\"__typename\":\"NativeDocumentNode\",\"id\":\"bmF0aXZlZG9jdW1lbnQ6NTU4NDA2ODY3ODk3MzU2\",\"document\":{\"title\":null,\"background_color\":\"FF000000\",\"show_see_more_chrome\":true,\"document_body_elements\":{\"edges\":[{\"node\":{\"__typename\":\"InstantShoppingDocumentSlideshowElement\",\"document_element_type\":\"SLIDESHOW\",\"logging_token\":\"391277691526852\",\"child_elements\":[{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/66834973_2949385881756851_6260199611726561280_o.jpg?_nc_cat=1&_nc_oc=AQmjNpK686ukmUorxvTbq2leozKKJeyzGpvy_PtC0eKF9R6WllCxPuu_UCIAajqYNOvU2u8FXHPkug65thREdfY9&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=ec40770766273caa03ef361b2677a02e&oe=5DAA1417\"}]},\"logging_token\":\"2896115480459733\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/66830337_2949386491756790_8258587030573809664_o.jpg?_nc_cat=111&_nc_oc=AQnlFmreIJJjhM_oPveYQOJxQ2ZQTspRPf_08q6P-ayYu_NvkzgtwyjwP03-JcyDq6WCfWklpW3wd1YA5U2UfHkc&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=f6044497ab6730facc952555c9446d25&oe=5DAD5327\"}]},\"logging_token\":\"343537826593966\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/67185602_2949386961756743_1310224316750626816_o.jpg?_nc_cat=100&_nc_oc=AQnYn03Ix1fhJjuC_ooyx2e_eQ6OhtA90_BwNWq5uVeDK0ECIFeidMbVcjpIuK4Ts7-mW-etvsxybV81YZgc49Sr&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=2e41092cbf6cbec0b0c2a348464d4b4e&oe=5DE5E790\"}]},\"logging_token\":\"1307594909399158\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/67113595_2949387421756697_7337426453794914304_o.jpg?_nc_cat=103&_nc_oc=AQkRht_T4TkLtYmutjaZ4BxI7f7blnsCZzEYWzkueyaxPWYHDMwivAqmE3UGYBg3cXmLlNi49NB5IDYc2yzZT7DZ&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=7373f36e1feb0a2e2fe9b068f22d4208&oe=5DE1E759\"}]},\"logging_token\":\"385335282124118\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1920,\"width\":1080,\"url\":\"https:\\/\\/scontent-sea1-1.xx.fbcdn.net\\/v\\/t1.0-9\\/67225621_2949387958423310_281143950696251392_o.png?_nc_cat=104&_nc_oc=AQnB-qTSBcX7g062lJs0lXFUUQp2qy_dn2Jz5Dyu__0b5bFOC0K3GKbbaWjr91DWxNqyC_szKUFNywOgESW0JV1D&_nc_ad=z-m&_nc_cid=0&_nc_zor=9&_nc_ht=scontent-sea1-1.xx&oh=7ed52681c4c5c64e20276430d13f61b0&oe=5DDFDE96\"}]},\"logging_token\":\"1821960777907308\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fad.doubleclick.net\\u00252Fddm\\u00252Ftrackclk\\u00252FN6027.159198FACEBOOK\\u00252FB22985615.251557927\\u00253Bdc_trk_aid\\u00253D447756985\\u00253Bdc_trk_cid\\u00253D118990488\\u00253Badid\\u00253D\\u0025257Bad_id\\u0025257D\\u00253Bdc_lat\\u00253D\\u00253Bdc_rdid\\u00253D\\u00253Btag_for_child_directed_treatment\\u00253D\\u00253Btfua\\u00253D&h=AT07JluGJwMvkaqT_WRuTIRdFqaUkJV2GPIyJ8KP47DN__mfKTIb9LucV69keYmgDJ8Aag0UmSgScSQ6AkdsfM0FO25h6fpYeNtTpo440LXgo0sbHpTk6bgack35Q-fzesEuVNsqODVQ&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]}}]},\"third_party_logging_urls\":[],\"style_list\":[\"ENABLE_SWIPE_TO_OPEN\"],\"analytics\":null}}}",
+              "destinationContext": "View on Instagram",
+              "tapAndHoldContext": "Swipe up to view on Instagram"
+            }
+          ]
+        }
+      ],
+      "overlay_text": "Go to Website",
+      "overlay_title": "Visa",
+      "overlay_subtitle": "Go to Website",
+      "dominant_color": "#142D3D",
+      "iab_autofill_optout_info": {
+        "domain": "facebook.com",
+        "is_iab_autofill_optout": false
+      },
+      "ad_action": "canvas",
+      "link_text": "Learn More",
+      "ad_metadata": [
+        {
+          "value": "fb.com",
+          "type": 1
+        }
+      ],
+      "is_reel_media": true
+    }
+  ],
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "muted": false,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index": 0,
+  "has_pride_media": false
+}

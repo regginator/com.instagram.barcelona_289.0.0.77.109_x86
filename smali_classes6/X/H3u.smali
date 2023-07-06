@@ -1,0 +1,247 @@
+.class public final LX/H3u;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements LX/Bqt;
+.implements LX/BoF;
+
+
+# instance fields
+.field public A00:LX/8un;
+
+.field public A01:LX/B7P;
+
+.field public A02:Ljava/lang/Integer;
+
+.field public A03:Ljava/lang/Integer;
+
+.field public A04:Ljava/lang/String;
+
+.field public A05:Ljava/lang/String;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method
+
+
+# virtual methods
+.method public final AiA()LX/FeX;
+    .locals 1
+
+    .line 0
+    sget-object v0, LX/FeX;->A0o:LX/FeX;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final Akv()Ljava/lang/Integer;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/H3u;->A02:Ljava/lang/Integer;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final AqR()LX/8un;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/H3u;->A00:LX/8un;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final Au7()LX/B7P;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/H3u;->A01:LX/B7P;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final synthetic BDU(Lcom/instagram/service/session/UserSession;)Ljava/lang/String;
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x1
+
+    .line 1
+    invoke-static {p1, v0}, LX/0OR;->A0B(Ljava/lang/Object;I)V
+
+    .line 2
+    .line 3
+    .line 4
+    invoke-interface {p0}, LX/Bqt;->Au7()LX/B7P;
+
+    .line 5
+    .line 6
+    .line 7
+    move-result-object v0
+
+    .line 8
+    invoke-virtual {v0}, LX/B7P;->A31()Ljava/lang/String;
+
+    .line 9
+    .line 10
+    .line 11
+    move-result-object v0
+
+    .line 12
+    return-object v0
+    .line 13
+.end method
+
+.method public final BIM()Ljava/lang/String;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/H3u;->A05:Ljava/lang/String;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final BJk()Ljava/lang/Integer;
+    .locals 1
+
+    .line 0
+    sget-object v0, LX/006;->A01:Ljava/lang/Integer;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final BLe()Ljava/lang/Integer;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/H3u;->A03:Ljava/lang/Integer;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final synthetic BV8()Z
+    .locals 1
+
+    .line 0
+    invoke-interface {p0}, LX/Bqt;->Au7()LX/B7P;
+
+    .line 1
+    .line 2
+    .line 3
+    move-result-object v0
+
+    .line 4
+    iget-object v0, v0, LX/B7P;->A0f:LX/B7I;
+
+    .line 5
+    .line 6
+    iget-object v0, v0, LX/B7I;->A4Z:Ljava/lang/String;
+
+    .line 7
+    .line 8
+    invoke-static {v0}, LX/0wq;->A1Y(Ljava/lang/Object;)Z
+
+    .line 9
+    .line 10
+    .line 11
+    move-result v0
+
+    .line 12
+    return v0
+    .line 13
+    .line 14
+.end method
+
+.method public final synthetic BWz()Z
+    .locals 1
+
+    .line 0
+    invoke-interface {p0}, LX/Bqt;->Au7()LX/B7P;
+
+    .line 1
+    .line 2
+    .line 3
+    move-result-object v0
+
+    .line 4
+    iget-object v0, v0, LX/B7P;->A0f:LX/B7I;
+
+    .line 5
+    .line 6
+    iget-object v0, v0, LX/B7I;->A4l:Ljava/lang/String;
+
+    .line 7
+    .line 8
+    invoke-static {v0}, LX/0wq;->A1Y(Ljava/lang/Object;)Z
+
+    .line 9
+    .line 10
+    .line 11
+    move-result v0
+
+    .line 12
+    return v0
+    .line 13
+    .line 14
+.end method
+
+.method public final synthetic BYz()Z
+    .locals 1
+
+    .line 0
+    invoke-interface {p0}, LX/Bqt;->Au7()LX/B7P;
+
+    .line 1
+    .line 2
+    .line 3
+    move-result-object v0
+
+    .line 4
+    invoke-virtual {v0}, LX/B7P;->BYz()Z
+
+    .line 5
+    .line 6
+    .line 7
+    move-result v0
+
+    .line 8
+    return v0
+    .line 9
+.end method
+
+.method public final getId()Ljava/lang/String;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/H3u;->A04:Ljava/lang/String;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method

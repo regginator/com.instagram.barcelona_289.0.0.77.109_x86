@@ -1,0 +1,45 @@
+package p000X;
+
+import java.util.ArrayList;
+/* renamed from: X.CzW  reason: case insensitive filesystem */
+/* loaded from: classes5.dex */
+public final class C24731CzW {
+    public static final ArrayList A00;
+    public static final ArrayList A01;
+    public static final ArrayList A02;
+    public static final ArrayList A03;
+    public static final ArrayList A04;
+    public static final ArrayList A05;
+    public static final ArrayList A06;
+    public static final ArrayList A07;
+
+    static {
+        EnumC23700Ci4 enumC23700Ci4 = EnumC23700Ci4.SOLID_WHITE;
+        EnumC23700Ci4 enumC23700Ci42 = EnumC23700Ci4.SOLID_BLACK;
+        EnumC23700Ci4 enumC23700Ci43 = EnumC23700Ci4.SOLID_PINK_REFRESH;
+        EnumC23700Ci4 enumC23700Ci44 = EnumC23700Ci4.SOLID_LAVENDER_REFRESH;
+        EnumC23700Ci4 enumC23700Ci45 = EnumC23700Ci4.SOLID_PURPLE_REFRESH;
+        EnumC23700Ci4 enumC23700Ci46 = EnumC23700Ci4.SOLID_ORANGE_REFRESH;
+        EnumC23700Ci4 enumC23700Ci47 = EnumC23700Ci4.SOLID_GREEN_REFRESH;
+        EnumC23700Ci4 enumC23700Ci48 = EnumC23700Ci4.SOLID_BLUE_REFRESH;
+        A00 = C14200aH.A14(enumC23700Ci4, enumC23700Ci42, enumC23700Ci43, enumC23700Ci44, enumC23700Ci45, enumC23700Ci46, enumC23700Ci47, enumC23700Ci48);
+        EnumC23700Ci4 enumC23700Ci49 = EnumC23700Ci4.SOLID_LIGHT_GREY;
+        EnumC23700Ci4 enumC23700Ci410 = EnumC23700Ci4.GRADIENT_PURPLE_BLUE;
+        EnumC23700Ci4 enumC23700Ci411 = EnumC23700Ci4.GRADIENT_GREEN_CYAN;
+        EnumC23700Ci4 enumC23700Ci412 = EnumC23700Ci4.GRADIENT_RED_YELLOW;
+        EnumC23700Ci4 enumC23700Ci413 = EnumC23700Ci4.GRADIENT_PURPLE_RED;
+        EnumC23700Ci4 enumC23700Ci414 = EnumC23700Ci4.SOLID_PURPLE;
+        EnumC23700Ci4 enumC23700Ci415 = EnumC23700Ci4.SOLID_RED;
+        EnumC23700Ci4 enumC23700Ci416 = EnumC23700Ci4.SOLID_ORANGE;
+        EnumC23700Ci4 enumC23700Ci417 = EnumC23700Ci4.SOLID_YELLOW;
+        EnumC23700Ci4 enumC23700Ci418 = EnumC23700Ci4.SOLID_GREEN;
+        EnumC23700Ci4 enumC23700Ci419 = EnumC23700Ci4.SOLID_BLUE;
+        A01 = C14200aH.A14(enumC23700Ci49, enumC23700Ci42, enumC23700Ci410, enumC23700Ci411, enumC23700Ci412, enumC23700Ci413, enumC23700Ci414, enumC23700Ci415, enumC23700Ci416, enumC23700Ci417, enumC23700Ci418, enumC23700Ci419);
+        A02 = C14200aH.A14(enumC23700Ci4, enumC23700Ci42, enumC23700Ci410, enumC23700Ci411, enumC23700Ci412, enumC23700Ci413, enumC23700Ci414, enumC23700Ci415, enumC23700Ci416, enumC23700Ci417, enumC23700Ci418, enumC23700Ci419);
+        A06 = C14200aH.A14(enumC23700Ci42, enumC23700Ci410, enumC23700Ci411, enumC23700Ci412, enumC23700Ci413, enumC23700Ci414, enumC23700Ci415, enumC23700Ci416, enumC23700Ci417, enumC23700Ci418, enumC23700Ci419);
+        A04 = C14200aH.A14(enumC23700Ci42, enumC23700Ci410, enumC23700Ci411, enumC23700Ci412, enumC23700Ci413, enumC23700Ci414, enumC23700Ci415, enumC23700Ci416, enumC23700Ci417, enumC23700Ci418, enumC23700Ci419);
+        A05 = C14200aH.A14(enumC23700Ci42, enumC23700Ci43, enumC23700Ci44, enumC23700Ci45, enumC23700Ci46, enumC23700Ci47, enumC23700Ci48);
+        A07 = C14200aH.A14(enumC23700Ci4, enumC23700Ci42, enumC23700Ci410, enumC23700Ci411, enumC23700Ci412, EnumC23700Ci4.GRADIENT_PURPLE_PINK, enumC23700Ci415, enumC23700Ci416, enumC23700Ci418, enumC23700Ci419, enumC23700Ci414);
+        A03 = C14200aH.A14(enumC23700Ci42, enumC23700Ci43, enumC23700Ci44, enumC23700Ci45, enumC23700Ci46, enumC23700Ci47, enumC23700Ci48);
+    }
+}

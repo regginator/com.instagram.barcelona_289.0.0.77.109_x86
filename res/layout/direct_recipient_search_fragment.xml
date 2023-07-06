@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/direct_recipient_search_fragment" android:background="@color/direct_widget_primary_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/abc_text_size_menu_header_material" android:textColor="@color/igds_secondary_text" android:id="@id/no_chats_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/APKTOOL_DUMMYVAL_0x7f110065" android:layout_centerInParent="true" />
+    <ListView android:id="@id/recipients" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" />
+    <stroke android:width="@dimen/audition_audio_item_selected_stroke_border_width" android:color="@color/direct_light_mode_glyph_color_tertiary" android:dashWidth="@dimen/abc_action_bar_elevation_material" android:dashGap="@dimen/abc_action_bar_elevation_material" />
+    <corners android:radius="@dimen/audience_controls_footer_button_radius" />
+</shape>

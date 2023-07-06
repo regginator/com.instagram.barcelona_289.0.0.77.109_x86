@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/fundraiser_sticker_consumption_sheet_donation_disclaimer_bold_text_color" />
+    <corners android:topLeftRadius="@dimen/abc_floating_window_z" android:bottomLeftRadius="@dimen/abc_floating_window_z" />
+    <stroke android:width="1.0dip" android:color="@color/design_dark_default_color_on_background" />
+</shape>

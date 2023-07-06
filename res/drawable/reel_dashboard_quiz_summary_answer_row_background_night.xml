@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/audition_audio_item_selected_stroke_border_width" android:color="@color/grey_7" />
+    <corners android:radius="@dimen/abc_select_dialog_padding_start_material" />
+</shape>

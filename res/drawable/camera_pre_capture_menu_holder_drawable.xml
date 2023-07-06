@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:paddingLeft="@dimen/account_section_text_margin_horizontal" android:paddingTop="@dimen/account_section_text_margin_horizontal" android:paddingRight="@dimen/account_section_text_margin_horizontal" android:paddingBottom="@dimen/account_section_text_margin_horizontal" android:paddingHorizontal="@dimen/account_section_text_margin_horizontal" android:paddingVertical="@dimen/account_section_text_margin_horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/camera_pre_capture_utility_menu_color" />
+    <corners android:radius="@dimen/abc_floating_window_z" />
+</shape>

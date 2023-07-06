@@ -1,0 +1,578 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: com.instagram.barcelona_289.0.0.77.109_x86.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/InstagramBundle.js.hbc.spk.xz
+- assets/layouts.bin.sha256
+- assets/layouts.bin.xz
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- assets/dsp/p1000763609098242277.p
+- assets/dsp/p1012511946939739268.p
+- assets/dsp/p1022161602960010077.p
+- assets/dsp/p1032537422920888685.p
+- assets/dsp/p1044544574342066410.p
+- assets/dsp/p1059464780460616003.p
+- assets/dsp/p1062582597507241269.p
+- assets/dsp/p1065208338534746529.p
+- assets/dsp/p1100626886830850718.p
+- assets/dsp/p1175103171202519724.p
+- assets/dsp/p1197965492889384989.p
+- assets/dsp/p1201317069571025103.p
+- assets/dsp/p1206197593371118094.p
+- assets/dsp/p1207078627674869661.p
+- assets/dsp/p1207312301000198583.p
+- assets/dsp/p1231132012439761709.p
+- assets/dsp/p1233912291477944780.p
+- assets/dsp/p1268512890899997203.p
+- assets/dsp/p1279167063688093259.p
+- assets/dsp/p1279810860337854974.p
+- assets/dsp/p1288654451971865879.p
+- assets/dsp/p1299385770298687692.p
+- assets/dsp/p1302444142374559482.p
+- assets/dsp/p1305564187736884915.p
+- assets/dsp/p1317739321153308079.p
+- assets/dsp/p1347176402386455995.p
+- assets/dsp/p1380256935617537571.p
+- assets/dsp/p1400990213824868628.p
+- assets/dsp/p1406078059512103693.p
+- assets/dsp/p1448573648346064467.p
+- assets/dsp/p1462016416954077650.p
+- assets/dsp/p1474670733570749640.p
+- assets/dsp/p1490633806952788603.p
+- assets/dsp/p1561675689930620692.p
+- assets/dsp/p1562540718110664095.p
+- assets/dsp/p1616451438772989767.p
+- assets/dsp/p1624994100761260077.p
+- assets/dsp/p1630600609582566706.p
+- assets/dsp/p1645569099386862298.p
+- assets/dsp/p167763209657767363.p
+- assets/dsp/p167946343147887298.p
+- assets/dsp/p1681164110936102919.p
+- assets/dsp/p1708374793363947961.p
+- assets/dsp/p1742892597376713294.p
+- assets/dsp/p1790507776586400403.p
+- assets/dsp/p1800857332755790907.p
+- assets/dsp/p1836812620067630966.p
+- assets/dsp/p1847583401135617383.p
+- assets/dsp/p1853946183768097190.p
+- assets/dsp/p1856525924270773326.p
+- assets/dsp/p1858019144165151111.p
+- assets/dsp/p1885935880148525342.p
+- assets/dsp/p189565201825525560.p
+- assets/dsp/p1903235995045570186.p
+- assets/dsp/p1905411593163362794.p
+- assets/dsp/p1910306540797218195.p
+- assets/dsp/p1917387283340390546.p
+- assets/dsp/p1933771040962423445.p
+- assets/dsp/p1945647982420624983.p
+- assets/dsp/p1980213225436909246.p
+- assets/dsp/p1984804964154841559.p
+- assets/dsp/p1988078182766989726.p
+- assets/dsp/p2013872631919503313.p
+- assets/dsp/p2014582227871722928.p
+- assets/dsp/p205674777838561906.p
+- assets/dsp/p2062236004548784017.p
+- assets/dsp/p2082541209351820250.p
+- assets/dsp/p2097729813202958704.p
+- assets/dsp/p2125675014156364521.p
+- assets/dsp/p2145581929532007624.p
+- assets/dsp/p2159302048701425628.p
+- assets/dsp/p2172723729143985124.p
+- assets/dsp/p2177135129298935238.p
+- assets/dsp/p2184005423896242780.p
+- assets/dsp/p2201491720994234383.p
+- assets/dsp/p2215136975904916682.p
+- assets/dsp/p2256877685877046343.p
+- assets/dsp/p2285788720386903161.p
+- assets/dsp/p2339686576281874141.p
+- assets/dsp/p236767415415978075.p
+- assets/dsp/p2370347451253748328.p
+- assets/dsp/p2397107902966453737.p
+- assets/dsp/p2429892826581545654.p
+- assets/dsp/p2450812662071794795.p
+- assets/dsp/p2459562964066938317.p
+- assets/dsp/p2486006057437888909.p
+- assets/dsp/p2489992762849486958.p
+- assets/dsp/p2490633079479080832.p
+- assets/dsp/p249968875016683280.p
+- assets/dsp/p2516172407850164306.p
+- assets/dsp/p2519576467264966649.p
+- assets/dsp/p2520005080074779354.p
+- assets/dsp/p2544483912704491733.p
+- assets/dsp/p2556083453009326659.p
+- assets/dsp/p2564988499334667129.p
+- assets/dsp/p2570423846962739503.p
+- assets/dsp/p2580557896267647009.p
+- assets/dsp/p2587613669826858792.p
+- assets/dsp/p261046090513859877.p
+- assets/dsp/p2641042150261593093.p
+- assets/dsp/p2643159733233512072.p
+- assets/dsp/p2645678841302105916.p
+- assets/dsp/p2675040277890075866.p
+- assets/dsp/p2688573759786511877.p
+- assets/dsp/p2691313477876519513.p
+- assets/dsp/p270703254101275359.p
+- assets/dsp/p2708983320606047853.p
+- assets/dsp/p2722658122837568593.p
+- assets/dsp/p2742066069108443910.p
+- assets/dsp/p2749937017649665000.p
+- assets/dsp/p2778137949860499209.p
+- assets/dsp/p2789133062828318446.p
+- assets/dsp/p2829991018486986652.p
+- assets/dsp/p2843339088830295014.p
+- assets/dsp/p2853227606072739966.p
+- assets/dsp/p2856100410805902558.p
+- assets/dsp/p2856948175058870615.p
+- assets/dsp/p2869343788038245247.p
+- assets/dsp/p2889308142080977499.p
+- assets/dsp/p2902633436669528851.p
+- assets/dsp/p2930788275048676210.p
+- assets/dsp/p2938969057433751276.p
+- assets/dsp/p2973101627230916599.p
+- assets/dsp/p2994413702561472972.p
+- assets/dsp/p3013480372550653775.p
+- assets/dsp/p3045135056688871152.p
+- assets/dsp/p3055523263676569645.p
+- assets/dsp/p3059692141655389881.p
+- assets/dsp/p3066169405618871421.p
+- assets/dsp/p3085330588351692627.p
+- assets/dsp/p3093063618390609559.p
+- assets/dsp/p3105874401413314550.p
+- assets/dsp/p3106822818920764578.p
+- assets/dsp/p3126026727145604018.p
+- assets/dsp/p3130431137472030459.p
+- assets/dsp/p3130706187640306017.p
+- assets/dsp/p3150083980303161694.p
+- assets/dsp/p3160992391421714875.p
+- assets/dsp/p3161184323439920475.p
+- assets/dsp/p316479521351580019.p
+- assets/dsp/p3214207591470458794.p
+- assets/dsp/p3215939725869564500.p
+- assets/dsp/p3239150475377240944.p
+- assets/dsp/p3263541478881983185.p
+- assets/dsp/p3278296897315446397.p
+- assets/dsp/p3283932354151851066.p
+- assets/dsp/p3295794321330606950.p
+- assets/dsp/p3302169635147832100.p
+- assets/dsp/p3338201542037461551.p
+- assets/dsp/p3340028486155605883.p
+- assets/dsp/p335744135086185689.p
+- assets/dsp/p3367804213801923879.p
+- assets/dsp/p3381652152711149861.p
+- assets/dsp/p3407628968436602498.p
+- assets/dsp/p3452917444200449452.p
+- assets/dsp/p3455492421549147334.p
+- assets/dsp/p3463462817162143097.p
+- assets/dsp/p3470755465669248971.p
+- assets/dsp/p3495217631436924939.p
+- assets/dsp/p3497899655045980059.p
+- assets/dsp/p350686358018428503.p
+- assets/dsp/p3526402387130566799.p
+- assets/dsp/p3529904074424411094.p
+- assets/dsp/p355122090153299060.p
+- assets/dsp/p355160291884087042.p
+- assets/dsp/p3575218447711013666.p
+- assets/dsp/p3578746020859492793.p
+- assets/dsp/p3638321917085753570.p
+- assets/dsp/p3664328252179806641.p
+- assets/dsp/p3683872747262862345.p
+- assets/dsp/p3689353320807994112.p
+- assets/dsp/p3707680357386037675.p
+- assets/dsp/p3720376830157676015.p
+- assets/dsp/p3757887287304497980.p
+- assets/dsp/p3764761068908673411.p
+- assets/dsp/p3767771382075540076.p
+- assets/dsp/p3801998130888233985.p
+- assets/dsp/p3848348461568593858.p
+- assets/dsp/p3850205773258130903.p
+- assets/dsp/p385481616965956394.p
+- assets/dsp/p3865751026349341902.p
+- assets/dsp/p3893967057939444608.p
+- assets/dsp/p3895045734284807372.p
+- assets/dsp/p3896550153023095634.p
+- assets/dsp/p392499337281769127.p
+- assets/dsp/p3932338085880622287.p
+- assets/dsp/p394372431086658523.p
+- assets/dsp/p396602098806447853.p
+- assets/dsp/p397100385579705164.p
+- assets/dsp/p3980901860132065988.p
+- assets/dsp/p3982399139236610441.p
+- assets/dsp/p3984103504942392133.p
+- assets/dsp/p4036815761233142175.p
+- assets/dsp/p4084000874291612454.p
+- assets/dsp/p4089105331410870769.p
+- assets/dsp/p4149949271638171263.p
+- assets/dsp/p4163073882293684819.p
+- assets/dsp/p4176798489538723847.p
+- assets/dsp/p4200253998889960863.p
+- assets/dsp/p4201246405656219856.p
+- assets/dsp/p4230288402786761620.p
+- assets/dsp/p4242515058750712109.p
+- assets/dsp/p4269114672453110956.p
+- assets/dsp/p4292530182789358331.p
+- assets/dsp/p4305924047199510536.p
+- assets/dsp/p431301241557447133.p
+- assets/dsp/p4351406467224403873.p
+- assets/dsp/p4353365722626635319.p
+- assets/dsp/p4354052357551577784.p
+- assets/dsp/p4359260922367872971.p
+- assets/dsp/p4387561205783524937.p
+- assets/dsp/p4445415643294988500.p
+- assets/dsp/p4459156945076816054.p
+- assets/dsp/p4491069468177781886.p
+- assets/dsp/p4499663198014418652.p
+- assets/dsp/p4517559201287615111.p
+- assets/dsp/p4529754061195086465.p
+- assets/dsp/p4539187602451361980.p
+- assets/dsp/p4546768153383093919.p
+- assets/dsp/p4563753023077156961.p
+- assets/dsp/p4572662467903661545.p
+- assets/dsp/p4579678156198732586.p
+- assets/dsp/p4598905852752082999.p
+- assets/dsp/p4612666001324485724.p
+- assets/dsp/p4622476918705931292.p
+- assets/dsp/p4629699049947007772.p
+- assets/dsp/p4725610923232257464.p
+- assets/dsp/p4772419172153834837.p
+- assets/dsp/p480134524139002901.p
+- assets/dsp/p4819537083995605952.p
+- assets/dsp/p4838748284980355437.p
+- assets/dsp/p4849097374386182216.p
+- assets/dsp/p4857287678012310895.p
+- assets/dsp/p486755824130970065.p
+- assets/dsp/p4905573627772923557.p
+- assets/dsp/p4923551454998123173.p
+- assets/dsp/p5047488320456469523.p
+- assets/dsp/p5047791323076624622.p
+- assets/dsp/p5059188856519828013.p
+- assets/dsp/p50738335840710900.p
+- assets/dsp/p5085071124206094034.p
+- assets/dsp/p5098143038693580861.p
+- assets/dsp/p5109441530047478291.p
+- assets/dsp/p5113336084322944873.p
+- assets/dsp/p5133553678707207145.p
+- assets/dsp/p5144156843896351425.p
+- assets/dsp/p5152468913473553116.p
+- assets/dsp/p5193147241185823360.p
+- assets/dsp/p5207206958716671212.p
+- assets/dsp/p5212621944280315159.p
+- assets/dsp/p5214732365541683271.p
+- assets/dsp/p5224239619037696684.p
+- assets/dsp/p5328755025171307950.p
+- assets/dsp/p5344704872817268090.p
+- assets/dsp/p5351081161143370293.p
+- assets/dsp/p5361594616878292729.p
+- assets/dsp/p5371975007387661117.p
+- assets/dsp/p5380786324804121855.p
+- assets/dsp/p5411144251269234636.p
+- assets/dsp/p5472478074055021615.p
+- assets/dsp/p547251009953210688.p
+- assets/dsp/p54738774703248085.p
+- assets/dsp/p5482966106351921228.p
+- assets/dsp/p5486732956739541825.p
+- assets/dsp/p5502062331083604938.p
+- assets/dsp/p5510853116101575010.p
+- assets/dsp/p5523530722404875733.p
+- assets/dsp/p5534863213923923542.p
+- assets/dsp/p5546948745175373758.p
+- assets/dsp/p557592101632725813.p
+- assets/dsp/p5580888403836862963.p
+- assets/dsp/p5584099063876740269.p
+- assets/dsp/p5587342397026907676.p
+- assets/dsp/p560694567639440888.p
+- assets/dsp/p5608551550210665612.p
+- assets/dsp/p5618727848774792097.p
+- assets/dsp/p5638305765213265015.p
+- assets/dsp/p5650092436961726130.p
+- assets/dsp/p5689706295449409655.p
+- assets/dsp/p5699396598333957699.p
+- assets/dsp/p5702086706894251048.p
+- assets/dsp/p5716595993616418729.p
+- assets/dsp/p5732010879342639230.p
+- assets/dsp/p5741215903633759292.p
+- assets/dsp/p5777598790455242051.p
+- assets/dsp/p5793606607857340473.p
+- assets/dsp/p5798245231507709281.p
+- assets/dsp/p5812206791119320910.p
+- assets/dsp/p5818631663845747417.p
+- assets/dsp/p5819942728312899502.p
+- assets/dsp/p5823887881392799769.p
+- assets/dsp/p5839391437418721304.p
+- assets/dsp/p5856243544631769649.p
+- assets/dsp/p5942357129226359137.p
+- assets/dsp/p5948477853164352854.p
+- assets/dsp/p5953589419234945535.p
+- assets/dsp/p5975174974670382434.p
+- assets/dsp/p6017631509248820210.p
+- assets/dsp/p6030369217866947858.p
+- assets/dsp/p6039529360499205303.p
+- assets/dsp/p6045237551675791186.p
+- assets/dsp/p6065425929476990623.p
+- assets/dsp/p6067614566369822820.p
+- assets/dsp/p6075760055000360739.p
+- assets/dsp/p6077054483626502616.p
+- assets/dsp/p6089370706718652143.p
+- assets/dsp/p6098666724720898327.p
+- assets/dsp/p6117417055988872445.p
+- assets/dsp/p6222581415874627019.p
+- assets/dsp/p6238871104162407241.p
+- assets/dsp/p6275455085205637580.p
+- assets/dsp/p6279044319187074874.p
+- assets/dsp/p6285206611264034468.p
+- assets/dsp/p629720182346959058.p
+- assets/dsp/p6308720196464072627.p
+- assets/dsp/p6319011090349594617.p
+- assets/dsp/p6323267902863882392.p
+- assets/dsp/p6331440856505883048.p
+- assets/dsp/p6334942944517215230.p
+- assets/dsp/p635822613045058799.p
+- assets/dsp/p6377665724583998840.p
+- assets/dsp/p6389572316199680070.p
+- assets/dsp/p6444146171201560245.p
+- assets/dsp/p645296365945144055.p
+- assets/dsp/p6473790226412547524.p
+- assets/dsp/p6480889323904163734.p
+- assets/dsp/p6498037439020074052.p
+- assets/dsp/p6500637530648947697.p
+- assets/dsp/p6524211674227313189.p
+- assets/dsp/p6580602559645666288.p
+- assets/dsp/p659427080977904906.p
+- assets/dsp/p6623272518174486488.p
+- assets/dsp/p6630508013934934124.p
+- assets/dsp/p6637532342897130905.p
+- assets/dsp/p6639924097096004198.p
+- assets/dsp/p6642854654506341910.p
+- assets/dsp/p6643698048706579139.p
+- assets/dsp/p6658494506244757064.p
+- assets/dsp/p6702109999229215681.p
+- assets/dsp/p6715025940659451433.p
+- assets/dsp/p6738397302397414236.p
+- assets/dsp/p6739204018871779421.p
+- assets/dsp/p6793338316326205107.p
+- assets/dsp/p6844481733022581444.p
+- assets/dsp/p6848178575659879167.p
+- assets/dsp/p6868232357123971672.p
+- assets/dsp/p6889228983024833386.p
+- assets/dsp/p6897821763461651194.p
+- assets/dsp/p6912564336823952698.p
+- assets/dsp/p6955900572950191994.p
+- assets/dsp/p6956837731105974926.p
+- assets/dsp/p699722734757055218.p
+- assets/dsp/p700282846499798565.p
+- assets/dsp/p7003396994459461905.p
+- assets/dsp/p700748732725856550.p
+- assets/dsp/p701865467949718929.p
+- assets/dsp/p7021752989259809841.p
+- assets/dsp/p7033780533046982672.p
+- assets/dsp/p7048854620086579119.p
+- assets/dsp/p7049544291205079741.p
+- assets/dsp/p7082282369694001792.p
+- assets/dsp/p7082833474167933190.p
+- assets/dsp/p7105358439674213896.p
+- assets/dsp/p7106708232801084175.p
+- assets/dsp/p7118795685105063104.p
+- assets/dsp/p712111732548461471.p
+- assets/dsp/p7124490273771472850.p
+- assets/dsp/p7128040521997766205.p
+- assets/dsp/p7186090932780118570.p
+- assets/dsp/p7202764380680940507.p
+- assets/dsp/p7209049316494345917.p
+- assets/dsp/p7221765449968229465.p
+- assets/dsp/p7267369477702316346.p
+- assets/dsp/p7278982675919273808.p
+- assets/dsp/p7293319845872630307.p
+- assets/dsp/p7310917521234918563.p
+- assets/dsp/p7319234173507761096.p
+- assets/dsp/p7320747796156018992.p
+- assets/dsp/p7340947476265633994.p
+- assets/dsp/p7352504956145588140.p
+- assets/dsp/p7374762614054948696.p
+- assets/dsp/p7376518242415708400.p
+- assets/dsp/p7383818037566866577.p
+- assets/dsp/p7389267519874420925.p
+- assets/dsp/p7409149537507997341.p
+- assets/dsp/p7428708725414654275.p
+- assets/dsp/p7430110418343750667.p
+- assets/dsp/p7436337359629308020.p
+- assets/dsp/p7453546696014929201.p
+- assets/dsp/p7459024427168903235.p
+- assets/dsp/p7467568753599158042.p
+- assets/dsp/p7484299199325736258.p
+- assets/dsp/p7495455766025135463.p
+- assets/dsp/p7507989922761501838.p
+- assets/dsp/p7518331456665934705.p
+- assets/dsp/p7523633983805243918.p
+- assets/dsp/p7575392318433144598.p
+- assets/dsp/p7611821638936548455.p
+- assets/dsp/p7620860502382756403.p
+- assets/dsp/p7622392591340245696.p
+- assets/dsp/p7622595016219379766.p
+- assets/dsp/p7647143678079861345.p
+- assets/dsp/p7675884899670811972.p
+- assets/dsp/p7687766816824645254.p
+- assets/dsp/p7723740745935643893.p
+- assets/dsp/p7729395191204858973.p
+- assets/dsp/p7729876235660355243.p
+- assets/dsp/p7730721052557338131.p
+- assets/dsp/p7763191929634646525.p
+- assets/dsp/p7775291831962958003.p
+- assets/dsp/p77939926303514750.p
+- assets/dsp/p7803346485784592747.p
+- assets/dsp/p7827589404418924227.p
+- assets/dsp/p7857112513995334181.p
+- assets/dsp/p7867824215036670176.p
+- assets/dsp/p7868437346681980380.p
+- assets/dsp/p7874491185356305562.p
+- assets/dsp/p793153682209398264.p
+- assets/dsp/p7953680052976042672.p
+- assets/dsp/p7961338723637541057.p
+- assets/dsp/p7967379026637223037.p
+- assets/dsp/p7983596881536034188.p
+- assets/dsp/p7999663678099924893.p
+- assets/dsp/p8011601446876853677.p
+- assets/dsp/p8014411340662353678.p
+- assets/dsp/p8023073272834127159.p
+- assets/dsp/p8055657369570732750.p
+- assets/dsp/p8058255484787556240.p
+- assets/dsp/p8085025698383854392.p
+- assets/dsp/p8099769874431882114.p
+- assets/dsp/p8153320155007527593.p
+- assets/dsp/p8157946021023158124.p
+- assets/dsp/p8159521713200757727.p
+- assets/dsp/p8220363690232115485.p
+- assets/dsp/p8244122636770375884.p
+- assets/dsp/p8312577282268416529.p
+- assets/dsp/p8326390941200207815.p
+- assets/dsp/p8350753220694570515.p
+- assets/dsp/p8355730806029639854.p
+- assets/dsp/p8369463531758277310.p
+- assets/dsp/p8387999977470514616.p
+- assets/dsp/p8394303088017529421.p
+- assets/dsp/p8397407399827790268.p
+- assets/dsp/p8431180069780059755.p
+- assets/dsp/p8447901468941180855.p
+- assets/dsp/p8501163809808302958.p
+- assets/dsp/p8521393716393945279.p
+- assets/dsp/p8523448123916908083.p
+- assets/dsp/p8526163910069110617.p
+- assets/dsp/p8533491861017682442.p
+- assets/dsp/p8535327052168245220.p
+- assets/dsp/p8545051063134928940.p
+- assets/dsp/p8560348624565118309.p
+- assets/dsp/p8579454595206538401.p
+- assets/dsp/p8591040829711448852.p
+- assets/dsp/p8610690390846326448.p
+- assets/dsp/p8623757455677874209.p
+- assets/dsp/p8658604420505812489.p
+- assets/dsp/p8732005383879161706.p
+- assets/dsp/p8753615879591710250.p
+- assets/dsp/p8784593725020377582.p
+- assets/dsp/p883521893442141523.p
+- assets/dsp/p883839541654090939.p
+- assets/dsp/p8865168673892946624.p
+- assets/dsp/p8869805126322954860.p
+- assets/dsp/p8881193754368376406.p
+- assets/dsp/p8915876629082334615.p
+- assets/dsp/p8918268230806983799.p
+- assets/dsp/p892955365167306238.p
+- assets/dsp/p8966325768029606085.p
+- assets/dsp/p9001437399532082822.p
+- assets/dsp/p902083558925079624.p
+- assets/dsp/p9023387915425480161.p
+- assets/dsp/p9036739786012956108.p
+- assets/dsp/p9086016132332032277.p
+- assets/dsp/p9107230233590895660.p
+- assets/dsp/p9109902084914808756.p
+- assets/dsp/p9122543917304648195.p
+- assets/dsp/p9140503278757632403.p
+- assets/dsp/p9144470908710421300.p
+- assets/dsp/p9175279876946508664.p
+- assets/dsp/p9211147476642515013.p
+- assets/dsp/p937689006654942938.p
+- assets/dsp/p964608823395973122.p
+- assets/dsp/p971219988524725011.p
+- assets/dsp/p987782581700383103.p
+- assets/dsp/p989342505851061317.p
+- png
+- assets/lib/libs.spo
+- assets/strings/default.frsc.checksum
+- assets/strings/default.frsc.xz
+- webp
+- m4a
+- res/raw/clips_watermark.kf
+- res/raw/localizable.json
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '24'
+  targetSdkVersion: '33'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  LICENSE_OFL: '8'
+  LICENSE_UNICODE: '8'
+  androidsupportmultidexversion.txt: '0'
+  billing.properties: '0'
+  core-facebook.properties: '0'
+  firebase-annotations.properties: '0'
+  firebase-common.properties: '0'
+  firebase-components.properties: '0'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  integrity.properties: '0'
+  play-services-auth-api-phone.properties: '0'
+  play-services-auth-base.properties: '0'
+  play-services-auth-blockstore.properties: '0'
+  play-services-auth.properties: '0'
+  play-services-base.properties: '0'
+  play-services-basement.properties: '0'
+  play-services-clearcut.properties: '8'
+  play-services-fido.properties: '0'
+  play-services-flags.properties: '8'
+  play-services-location.properties: '0'
+  play-services-phenotype.properties: '8'
+  play-services-places-placereport.properties: '0'
+  play-services-safetynet.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '0'
+  play-services-vision-common.properties: '0'
+  play-services-vision.properties: '0'
+  ch/boye/httpclientandroidlib/impl/conn/tsccm/doc-files/tsccm-structure.png: '8'
+  kotlinx/coroutines/test/BackgroundWork.kotlin_metadata: '8'
+  kotlinx/coroutines/test/CancellableContinuationRunnable.kotlin_metadata: '8'
+  kotlinx/coroutines/test/RunningInRunTest.kotlin_metadata: '8'
+  kotlinx/coroutines/test/StandardTestDispatcherImpl.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestBuildersKt.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestCoroutineDispatchersKt.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestCoroutineScheduler.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestCoroutineSchedulerKt.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestDispatchEvent.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestDispatcher.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestDispatcherKt.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestDispatchersKt.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestResult.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestScope.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestScopeImpl.kotlin_metadata: '8'
+  kotlinx/coroutines/test/TestScopeKt.kotlin_metadata: '8'
+  kotlinx/coroutines/test/UncaughtExceptionsBeforeTest.kotlin_metadata: '8'
+  kotlinx/coroutines/test/UncompletedCoroutinesError.kotlin_metadata: '8'
+  kotlinx/coroutines/test/UnconfinedTestDispatcherImpl.kotlin_metadata: '8'
+  kotlinx/coroutines/test/internal/ReportingSupervisorJob.kotlin_metadata: '8'
+  kotlinx/coroutines/test/internal/TestMainDispatcher.kotlin_metadata: '8'
+  kotlinx/coroutines/test/internal/TestMainDispatcherKt.kotlin_metadata: '8'
+  org/assertj/core/internal/cglib/util/words.txt: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '489720150'
+  versionName: 289.0.0.77.109

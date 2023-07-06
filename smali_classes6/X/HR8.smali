@@ -1,0 +1,44 @@
+.class public final synthetic LX/HR8;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# instance fields
+.field public final synthetic A00:LX/GrZ;
+
+
+# direct methods
+.method public synthetic constructor <init>(LX/GrZ;)V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, LX/HR8;->A00:LX/GrZ;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final run()V
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/HR8;->A00:LX/GrZ;
+
+    .line 1
+    .line 2
+    iget-object v0, v0, LX/GrZ;->A09:Landroid/widget/FrameLayout;
+
+    .line 3
+    .line 4
+    invoke-virtual {v0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 5
+    .line 6
+    .line 7
+    return-void
+.end method

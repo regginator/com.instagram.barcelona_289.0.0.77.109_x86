@@ -1,0 +1,295 @@
+{
+  "id": 28283432637097,
+  "latest_reel_media": null,
+  "expiring_at": 1646771191,
+  "seen": null,
+  "can_reply": null,
+  "can_gif_quick_reply": true,
+  "can_reshare": null,
+  "reel_type": "netego_reel",
+  "ad_expiry_timestamp_in_millis": null,
+  "is_cta_sticker_available": null,
+  "shops_you_might_like_in_story": {
+    "icon": "shopping_bag",
+    "type": 104,
+    "netego_type": "shops_you_might_like_in_story",
+    "insertion_context": "bidding",
+    "is_unit_dismissable": true,
+    "id": "97049902729970",
+    "tracking_token": "eyJ1dWlkIjoiYTQxMjBhZmM4ZTAwNGFjN2IxODJjNWNkMzJmODYyZWIiLCJwYXlsb2FkIjp7InV1aWQiOjE2Nzk0ODc0MDUsIm5ldF9lZ29fdHlwZSI6OTksImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MS4wLCJmYl91c2VyX2lkIjoxMDAwMDY2OTI4MDc2NDksImdsb2JhbF9wb3NpdGlvbiI6MjEsImdhcF9ydWxlX3ZhbHVlIjoxLCJyaWdodF9nYXBfcnVsZV92YWx1ZSI6MywiaGlnaGVzdF9uZXRlZ29fcG9zaXRpb24iOjEsImVjcG1fcHJpY2UiOjIwODkuMCwicGFjaW5nX3FlX2luZm8iOiJkZWZhdWx0IiwidXNlcl9kb2xsYXJfdmFsdWUiOjIuNDA5NjQ0NTM4OCwiaXNfbmV3X2luc2VydGlvbiI6dHJ1ZSwiaXNfZnJvbV9uZWVkeV91c2VyIjpmYWxzZSwiYXVjdGlvbl9wcmljZV9vdXRjb21lIjozLCJxcF9pZCI6MTM2OTY0ODc4MzU1NTgzNn19",
+    "title": {
+      "rich_text": "Recommended shops"
+    },
+    "bottom_cta": {
+      "rich_text": "See more shops",
+      "destination": "instagram://shops_directory?prior_module=reel_feed_timeline&entry_point=shops_you_might_like_in_story&embedded_deep_link=true"
+    },
+    "duration": 15,
+    "suggestion_type": "shops",
+    "shops": [
+      {
+        "merchant": {
+          "pk": 48573497593,
+          "username": "pelotonapparel",
+          "full_name": "Peloton Apparel",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/241330573_2917141798534375_1636792623472191453_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=57KWcgpyKdwAX-_tKBA&edm=ANct6CgBAAAA&ccb=7-4&oh=00_AT-8PQkro4YXWZE9eq8GmxiiLbkDKxFA7thnzmMZ4FQtoQ&oe=623854D8&_nc_sid=e4e9cf",
+          "profile_pic_id": "2657561704504796596_48573497593",
+          "is_verified": true,
+          "follow_friction_type": -1,
+          "growth_friction_info": {
+            "has_active_interventions": false,
+            "interventions": {}
+          },
+          "seller_shoppable_feed_type": "mini_shop_wave_2"
+        },
+        "product_image_urls": [
+          "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/274184196_5044526858933350_6270120360097068533_n.jpg?stp=c0.114.1020.1020a_dst-jpg_s150x150&_nc_cat=106&ccb=1-5&_nc_sid=c48759&_nc_ohc=qqnOFaVvQpkAX-kSUHl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT_RWkcxUQfyaXEdUx8KO3QwvB6sOJYCBaU31U22jafq8w&oe=6235D38D"
+        ],
+        "merchant_details": "64.6K followers",
+        "cta": {
+          "rich_text": "View shop",
+          "destination": "instagram://profile_shop?merchant_id=48573497593&merchant_username=pelotonapparel&prior_module=reel_feed_timeline&entry_point=shops_you_might_like_in_story&seller_shoppable_feed_type=mini_shop_wave_2&embedded_deep_link=true"
+        }
+      },
+      {
+        "merchant": {
+          "pk": 602725764,
+          "username": "zara",
+          "full_name": "ZARA Official",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/105950367_289081092275749_7298170428236645519_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=3H-1NeLOPNEAX8pUmeL&edm=ANct6CgBAAAA&ccb=7-4&oh=00_AT-OkFNU_9IEVdcOrlb1ZMaIc1kq8DMgk5nvJF8632FhvQ&oe=62379BA5&_nc_sid=e4e9cf",
+          "profile_pic_id": "2342081410930089113_602725764",
+          "is_verified": true,
+          "follow_friction_type": -1,
+          "growth_friction_info": {
+            "has_active_interventions": false,
+            "interventions": {}
+          },
+          "seller_shoppable_feed_type": "mini_shop_wave_2"
+        },
+        "product_image_urls": [
+          "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/250440583_4466450810075899_3315510701456729257_n.jpg?stp=c0.261.563.563a_dst-jpg_s150x150&_nc_cat=106&ccb=1-5&_nc_sid=c48759&_nc_ohc=fT1Iie1w1FYAX8wmdL1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT8Y6c73SVLCINCYjeWAg2MV33vHvnVhZRVny-0uQwxs7Q&oe=6235C8DB",
+          "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/273917941_4938973222834849_6021156160022371904_n.jpg?stp=c0.231.563.563a_dst-jpg_s150x150&_nc_cat=101&ccb=1-5&_nc_sid=c48759&_nc_ohc=vy3OgEBa8p4AX-tdsNZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT_c0DwBoWLdW3XS5ooFxP3_QQ5ecTrm-7kvPLZ5rddUVg&oe=6235ED2A",
+          "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/239521155_4275817159170394_5782416994197252592_n.jpg?stp=c0.141.563.563a_dst-jpg_s150x150&_nc_cat=104&ccb=1-5&_nc_sid=c48759&_nc_ohc=IdZkyMEQkosAX_3eG1b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT9qc9AkH6f_gXPM2r6jjfV7QvzAiqKTlm1AU7OZEcZTCw&oe=623647C7"
+        ],
+        "merchant_details": "49.7M followers",
+        "cta": {
+          "rich_text": "View shop",
+          "destination": "instagram://profile_shop?merchant_id=602725764&merchant_username=zara&prior_module=reel_feed_timeline&entry_point=shops_you_might_like_in_story&seller_shoppable_feed_type=mini_shop_wave_2&embedded_deep_link=true"
+        }
+      },
+      {
+        "merchant": {
+          "pk": 48573497593,
+          "username": "pelotonapparel",
+          "full_name": "Peloton Apparel",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/241330573_2917141798534375_1636792623472191453_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=57KWcgpyKdwAX-_tKBA&edm=ANct6CgBAAAA&ccb=7-4&oh=00_AT-8PQkro4YXWZE9eq8GmxiiLbkDKxFA7thnzmMZ4FQtoQ&oe=623854D8&_nc_sid=e4e9cf",
+          "profile_pic_id": "2657561704504796596_48573497593",
+          "is_verified": true,
+          "follow_friction_type": -1,
+          "growth_friction_info": {
+            "has_active_interventions": false,
+            "interventions": {}
+          },
+          "seller_shoppable_feed_type": "mini_shop_wave_2"
+        },
+        "product_image_urls": [
+          "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/274184196_5044526858933350_6270120360097068533_n.jpg?stp=c0.114.1020.1020a_dst-jpg_s150x150&_nc_cat=106&ccb=1-5&_nc_sid=c48759&_nc_ohc=qqnOFaVvQpkAX-kSUHl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT_RWkcxUQfyaXEdUx8KO3QwvB6sOJYCBaU31U22jafq8w&oe=6235D38D"
+        ],
+        "merchant_details": "64.6K followers",
+        "cta": {
+          "rich_text": "View shop",
+          "destination": "instagram://profile_shop?merchant_id=48573497593&merchant_username=pelotonapparel&prior_module=reel_feed_timeline&entry_point=shops_you_might_like_in_story&seller_shoppable_feed_type=mini_shop_wave_2&embedded_deep_link=true"
+        }
+      },
+      {
+        "merchant": {
+          "pk": 602725764,
+          "username": "zara",
+          "full_name": "ZARA Official",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/105950367_289081092275749_7298170428236645519_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=3H-1NeLOPNEAX8pUmeL&edm=ANct6CgBAAAA&ccb=7-4&oh=00_AT-OkFNU_9IEVdcOrlb1ZMaIc1kq8DMgk5nvJF8632FhvQ&oe=62379BA5&_nc_sid=e4e9cf",
+          "profile_pic_id": "2342081410930089113_602725764",
+          "is_verified": true,
+          "follow_friction_type": -1,
+          "growth_friction_info": {
+            "has_active_interventions": false,
+            "interventions": {}
+          },
+          "seller_shoppable_feed_type": "mini_shop_wave_2"
+        },
+        "product_image_urls": [
+          "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/250440583_4466450810075899_3315510701456729257_n.jpg?stp=c0.261.563.563a_dst-jpg_s150x150&_nc_cat=106&ccb=1-5&_nc_sid=c48759&_nc_ohc=fT1Iie1w1FYAX8wmdL1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT8Y6c73SVLCINCYjeWAg2MV33vHvnVhZRVny-0uQwxs7Q&oe=6235C8DB",
+          "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/273917941_4938973222834849_6021156160022371904_n.jpg?stp=c0.231.563.563a_dst-jpg_s150x150&_nc_cat=101&ccb=1-5&_nc_sid=c48759&_nc_ohc=vy3OgEBa8p4AX-tdsNZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT_c0DwBoWLdW3XS5ooFxP3_QQ5ecTrm-7kvPLZ5rddUVg&oe=6235ED2A",
+          "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/239521155_4275817159170394_5782416994197252592_n.jpg?stp=c0.141.563.563a_dst-jpg_s150x150&_nc_cat=104&ccb=1-5&_nc_sid=c48759&_nc_ohc=IdZkyMEQkosAX_3eG1b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT9qc9AkH6f_gXPM2r6jjfV7QvzAiqKTlm1AU7OZEcZTCw&oe=623647C7"
+        ],
+        "merchant_details": "49.7M followers",
+        "cta": {
+          "rich_text": "View shop",
+          "destination": "instagram://profile_shop?merchant_id=602725764&merchant_username=zara&prior_module=reel_feed_timeline&entry_point=shops_you_might_like_in_story&seller_shoppable_feed_type=mini_shop_wave_2&embedded_deep_link=true"
+        }
+      }
+    ]
+  },
+  "netego_type": "shops_you_might_like_in_story",
+  "netego_background_media": {
+    "taken_at": 1646684574,
+    "pk": 2788914827404178242,
+    "id": "2788914827404178242_593046060",
+    "device_timestamp": 1646684574865790,
+    "media_type": 1,
+    "code": "Ca0N0JcPvNC",
+    "client_cache_key": "Mjc4ODkxNDgyNzQwNDE3ODI0Mg==.2",
+    "filter_type": 0,
+    "is_unified_video": false,
+    "user": {
+      "pk": 593046060,
+      "username": "larry_gao",
+      "full_name": "Larry Gao",
+      "is_private": false,
+      "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/255713989_4418379264876939_1833564662545297788_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=1\u0026_nc_ohc=nMLSAi1rXE8AX9trds7\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026oh=00_AT_IkHQKwSJ7ejBKEFhMr-WostcPlpblgyugIf1k5Hn-Tw\u0026oe=622D459C\u0026_nc_sid=e4e9cf",
+      "profile_pic_id": "2706304404075971762_593046060",
+      "friendship_status": {
+        "following": true,
+        "outgoing_request": false,
+        "is_bestie": false,
+        "is_restricted": false,
+        "is_feed_favorite": false
+      },
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "has_highlight_reels": false
+    },
+    "caption_is_edited": false,
+    "commerciality_status": "not_commercial",
+    "fundraiser_tag": {
+      "has_standalone_fundraiser": false
+    },
+    "is_paid_partnership": false,
+    "is_visual_reply_commenter_notice_enabled": true,
+    "original_media_has_visual_reply_media": false,
+    "comment_likes_enabled": false,
+    "comment_threading_enabled": false,
+    "has_more_comments": false,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 0,
+    "hide_view_all_comment_entrypoint": false,
+    "image_versions2": {
+      "candidates": [
+        {
+          "width": 1170,
+          "height": 2080,
+          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/275278225_138536448659347_5414105499412791226_n.jpg?se=7\u0026stp=dst-jpg_e35\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=EDitzp9xYRgAX_8ZUGU\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026ig_cache_key=Mjc4ODkxNDgyNzQwNDE3ODI0Mg%3D%3D.2-ccb7-4\u0026oh=00_AT_SzihTravhNrT3gAoFWoYJUuilmXFF5l8NDJziSKEHfQ\u0026oe=6228EBAA\u0026_nc_sid=e4e9cf",
+          "scans_profile": "e35",
+          "estimated_scans_sizes": [
+            32646,
+            65292,
+            97938,
+            130584,
+            163230,
+            182654,
+            232434,
+            264173,
+            293815
+          ]
+        },
+        {
+          "width": 360,
+          "height": 640,
+          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/275278225_138536448659347_5414105499412791226_n.jpg?stp=dst-jpg_e35_p360x360\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=EDitzp9xYRgAX_8ZUGU\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026ig_cache_key=Mjc4ODkxNDgyNzQwNDE3ODI0Mg%3D%3D.2-ccb7-4\u0026oh=00_AT_Mb9RXv0Tn68k-QKm0T9ytzt8modH-u41IuZ4h-1YR-w\u0026oe=6228EBAA\u0026_nc_sid=e4e9cf",
+          "scans_profile": "e35",
+          "estimated_scans_sizes": [
+            4915,
+            9831,
+            14746,
+            19662,
+            24577,
+            29590,
+            853930,
+            44240,
+            44240
+          ]
+        }
+      ]
+    },
+    "original_width": 1170,
+    "original_height": 2080,
+    "caption_position": 0.0,
+    "is_reel_media": true,
+    "like_count": 0,
+    "has_liked": false,
+    "likers": [],
+    "caption": {
+      "pk": 18129448195256294,
+      "user_id": 593046060,
+      "text": "$44 $35 $26 LARRY $26",
+      "type": 1,
+      "created_at": 1646684578,
+      "created_at_utc": 1646684578,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 593046060,
+        "username": "larry_gao",
+        "full_name": "Larry Gao",
+        "is_private": false,
+        "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/255713989_4418379264876939_1833564662545297788_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=1\u0026_nc_ohc=nMLSAi1rXE8AX9trds7\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026oh=00_AT_IkHQKwSJ7ejBKEFhMr-WostcPlpblgyugIf1k5Hn-Tw\u0026oe=622D459C\u0026_nc_sid=e4e9cf",
+        "profile_pic_id": "2706304404075971762_593046060",
+        "friendship_status": {
+          "following": true,
+          "outgoing_request": false,
+          "is_bestie": false,
+          "is_restricted": false,
+          "is_feed_favorite": false
+        },
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "has_highlight_reels": false
+      },
+      "is_covered": false,
+      "media_id": 2788914827404178242,
+      "private_reply_status": 0
+    },
+    "can_viewer_save": false,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYTk0ZjZjN2Y1MGM4NDlkN2IxMzEwMWFkMmU5ZDY3ZDcyNzg4OTE0ODI3NDA0MTc4MjQyIiwic2VydmVyX3Rva2VuIjoiMTY0NjY4NDc5MTAxNnwyNzg4OTE0ODI3NDA0MTc4MjQyfDE1ODE5NTk2OTJ8YzE1M2VkYjBjMmFmOGE4ODNiNDgzOTYyNTA4YmQ0NTZiZmNhOWIwMDViNjRjNDVjNjcxNjQ2ZDJkMmFhNTQyNiJ9LCJzaWduYXR1cmUiOiIifQ==",
+    "expiring_at": 1646770974,
+    "imported_taken_at": 1646669690,
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "comment_inform_treatment": {
+      "should_have_inform_treatment": false,
+      "text": ""
+    },
+    "product_type": "story",
+    "deleted_reason": 0,
+    "integrity_review_decision": "pending",
+    "music_metadata": null
+  },
+  "ranked_position": 9,
+  "seen_ranked_position": 9,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 3,
+    "consumed_media_gap_to_previous_netego": 3,
+    "max_reel_gap_to_previous_item": 4,
+    "highest_position_rule": 1,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 12.0,
+    "is_media_based_hp_enabled": true,
+    "carry_over_highest_position_rule": null
+  },
+  "priority_index": 41
+}

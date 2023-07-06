@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">వీక్షకులు ఈ లింక్‌ని సందర్శించడానికి పైకి స్వైప్ చేయగలరు. మీరు ఒక స్వైప్ అప్ లింక్‌ని మాత్రమే జోడించగలరు.</item>
+        <item quantity="one">వీక్షకులు ఈ లింక్‌ని సందర్శించేందుకు పైకి స్వైప్ చేయగలరు.</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">జోడించబడిన ప్రస్తావనలు.</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">%1$d మంది వ్యక్తులు</item>
+        <item quantity="one">1 వ్యక్తి</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">మీ ఫాలో అభ్యర్థనలు ప్రస్తుతం నిర్ధారించబడలేదు. తరువాత మళ్ళీ ప్రయత్నించండి.</item>
+        <item quantity="one">మీ ఫాలో అభ్యర్థన ప్రస్తుతం నిర్ధారించబడలేదు. తరువాత మళ్ళీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">మీరు ఫాలో అయ్యే అభ్యర్థనలను ప్రస్తుతం తొలగించడం సాధ్యం కాదు. తరువాత మళ్ళీ ప్రయత్నించండి.</item>
+        <item quantity="one">మీరు ఫాలో అభ్యర్థనలను ప్రస్తుతం తొలగించడం సాధ్యం కాదు. తరువాత మళ్ళీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">ఈ వినియోగదారులను తిరిగి ఫాలో అవ్వాలనే మీ అభ్యర్థన విఫలమైంది. తరువాత మళ్ళీ ప్రయత్నించండి.</item>
+        <item quantity="one">ఈ వినియోగదారుని తిరిగి ఫాలో అవ్వాలనే మీ అభ్యర్థన విఫలమైంది. తరువాత మళ్ళీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">ఈ ఫాలోవర్‌లను తీసివేయాలనే మీ అభ్యర్థన విఫలమైంది. తరువాత మళ్ళీ ప్రయత్నించండి.</item>
+        <item quantity="one">ఈ ఫాలోవర్‌ను తీసివేయాలనే మీ అభ్యర్థన విఫలమైంది. తరువాత మళ్ళీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">%1$s ఫాలోవర్‌లు తీసివేయబడ్డారు</item>
+        <item quantity="one">1 ఫాలోవర్ తీసివేయబడ్డారు</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">%1$d అభ్యర్థనలు</item>
+        <item quantity="one">%1$d అభ్యర్థన</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s మంది వ్యక్తులు</item>
+        <item quantity="one">1 వ్యక్తి</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">%1$d సంవత్సరాల క్రితం...</item>
+        <item quantity="one">1 సంవత్సరం క్రితం...</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">%1$s మంది సభ్యులు</item>
+        <item quantity="one">%1$s సభ్యుడు</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d ప్రతిస్పందనలు</item>
+        <item quantity="one">%1$d ప్రతిస్పందన</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">%1$d మంది Facebook సన్నిహిత స్నేహితులు</item>
+        <item quantity="one">1 Facebook సన్నిహిత స్నేహితుడు</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">%1$s, అలాగే &lt;b>%2$s మంది ఇతరులు&lt;/b> కామెంట్ చేశారు</item>
+        <item quantity="one">%1$s అలాగే &lt;b>మరో 1 వ్యక్తి&lt;/b> కామెంట్ చేశారు</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">%1$s మరియు ఇతరులు కామెంట్ చేసారు</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$sఅలాగే &lt;b>%4$s మంది ఇతరులు&lt;/b> కామెంట్ చేశారు</item>
+        <item quantity="one">%1$s, %2$s, %3$s, అలాగే &lt;b>మరో 1 వ్యక్తి&lt;/b> కామెంట్ చేశారు</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">%1$s, %2$s, %3$s మరియు ఇతరులు కామెంట్ చేసారు</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">%1$s ఫాలో చేసే అభ్యర్థనలను నిర్ధారించాలా?</item>
+        <item quantity="one">1 ఫాలో చేసే అభ్యర్థనను నిర్ధారించాలా?</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">రోజులు</item>
+        <item quantity="one">రోజు</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">గంటలు</item>
+        <item quantity="one">గంట</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">నిమిషాలు</item>
+        <item quantity="one">నిమిషం</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">నెలలు</item>
+        <item quantity="one">నెల</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">సెకన్లు</item>
+        <item quantity="one">సెకను</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">%1$s ఫాలో చేసే అభ్యర్థనలను తొలగించాలా?</item>
+        <item quantity="one">1 ఫాలో అభ్యర్థనను తొలగించాలా?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">మీరు పబ్లిక్ ఖాతాకు మారినప్పుడు ఈ అభ్యర్థనలు ఆమోదించబడవు.</item>
+        <item quantity="one">మీరు పబ్లిక్ ఖాతాకు మారినప్పుడు ఈ అభ్యర్థన ఆమోదించబడదు.</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">ఫాలో అభ్యర్థనలను తొలగించాలా?</item>
+        <item quantity="one">ఫాలో అభ్యర్థనను తొలగించాలా?</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">&lt;b>%2$sమంది స్నేహితులు &lt;/b> %1$sని ఉపయోగించారు</item>
+        <item quantity="one">&lt;b>1 స్నేహితుడు&lt;/b> %1$sని ఉపయోగించారు</item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">&lt;b>%2$s మంది&lt;/b> %1$sని ఉపయోగించారు</item>
+        <item quantity="one">&lt;b>1 వ్యక్తి&lt;/b> %1$sని ఉపయోగించారు</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">%1$d మంది సబ్‌స్క్రైబర్‌లను చూడండి</item>
+        <item quantity="one">%1$d సబ్‌స్క్రైబర్‌ని చూడండి</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$sలో %2$d ఐటమ్‌లు ఉన్నాయి, %3$s, %4$s</item>
+        <item quantity="one">%1$s, %2$d ఐటమ్ ఉంది, %3$s, %4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">%1$s వినియోగదారులను తిరిగి ఫాలో అవ్వాలా?</item>
+        <item quantity="one">1 వినియోగదారుని తిరిగి ఫాలో అవ్వాలా?</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">%1$s మంది వ్యక్తులు ఫాలో అవుతున్నారు</item>
+        <item quantity="one">1 వ్యక్తి ఫాలో అవుతున్నారు</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">%1$s, అలాగే &lt;font face=sans-serif-medium>%2$s మంది ఇతరులు&lt;/font> ఫాలో అవుతున్నారు</item>
+        <item quantity="one">%1$s, అలాగే &lt;font face=sans-serif-medium> మరో 1 వ్యక్తి&lt;/font> ఫాలో అవుతున్నారు</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">%1$s మరియు మరో %2$s మంది ఫాలో అవుతున్నారు</item>
+        <item quantity="one">%1$s మరియు మరో 1 వ్యక్తి ఫాలో అవుతున్నారు</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s, అలాగే &lt;font face=sans-serif-medium>%3$s మంది ఇతరులు&lt;/font> ఫాలో అవుతున్నారు</item>
+        <item quantity="one">%1$s, %2$s మరియు &lt;font face=sans-serif-medium> ఒక్కరు &lt;/font> ఫాలో అవుతున్నారు</item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s, అలాగే &lt;font face=sans-serif-medium> మరో %4$s మంది&lt;/font> ఫాలో అవుతున్నారు</item>
+        <item quantity="one">%1$s, %2$s, %3$s అలాగే &lt;font face=sans-serif-medium>మరో 1 వ్యక్తి&lt;/font> ఫాలో అవుతున్నారు</item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">%1$s మంది ఫాలోవర్‌లు</item>
+        <item quantity="one">%1$s ఫాలోవర్</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">అడ్డు వరుస %3$d, నిలువు వరుస %4$d వద్ద %2$s అందించిన %1$d ఫోటోలు మరియు 1 వీడియో</item>
+        <item quantity="one">అడ్డు వరుస %3$d, నిలువు వరుస %4$d వద్ద %2$s అందించిన %1$d ఫోటో మరియు 1 వీడియో</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">అడ్డు వరుస %3$d, నిలువు వరుస %4$d వద్ద %2$s అందించిన 1 ఫోటో మరియు %1$d వీడియోలు</item>
+        <item quantity="one">అడ్డు వరుస %3$d, నిలువు వరుస %4$d వద్ద %2$s అందించిన 1 ఫోటో మరియు %1$d వీడియో</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">%1$d మంది సబ్‌స్క్రైబర్‌లు</item>
+        <item quantity="one">%1$d సబ్‌స్క్రైబర్</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">జూదం, డేటింగ్ వంటి %1$s నుండి యాడ్‌లు డిఫాల్ట్‌గా పరిమితం చేయబడతాయి. మీరు మీ రీల్‌లో కనిపించకుండా నిరోధించాలనుకుంటున్న అదనపు యాడ్ వర్గాలను గరిష్ఠంగా %2$d ఎంచుకోవచ్చు.</item>
+        <item quantity="one">జూదం, డేటింగ్ వంటి %1$s నుండి యాడ్‌లు డిఫాల్ట్‌గా పరిమితం చేయబడతాయి. మీరు మీ రీల్‌లో కనిపించకుండా నిరోధించాలనుకుంటున్న అదనపు యాడ్ వర్గాలను గరిష్ఠంగా 1 ఎంచుకోవచ్చు.</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s, అలాగే %6$d ఇతర ఖాతాలు</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s మరియు మరో 1 ఇతర ఖాతా</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s, అలాగే %6$d ఇతర వర్గాలు</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s, అలాగే మరో 1 వర్గం</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">జూదం, డేటింగ్ వంటి %1$s నుండి యాడ్‌లు డిఫాల్ట్‌గా పరిమితం చేయబడతాయి. మీరు మీ ప్రొఫైల్ ఫీడ్‌లో కనిపించకుండా నిరోధించాలనుకుంటున్న అదనపు యాడ్ వర్గాలను గరిష్ఠంగా %2$d ఎంచుకోవచ్చు.</item>
+        <item quantity="one">జూదం, డేటింగ్ వంటి %1$s నుండి యాడ్‌లు డిఫాల్ట్‌గా పరిమితం చేయబడతాయి. మీరు మీ ప్రొఫైల్ ఫీడ్‌లో కనిపించకుండా నిరోధించాలనుకుంటున్న అదనపు యాడ్ వర్గాలను గరిష్ఠంగా 1 ఎంచుకోవచ్చు.</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d లైక్‌లు</item>
+        <item quantity="one">1 లైక్</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">%1$s, అలాగే &lt;font face=sans-serif-medium>%2$s మంది ఇతరులు&lt;/font> లైక్ చేశారు</item>
+        <item quantity="one">%1$s, అలాగే &lt;font face=sans-serif-medium>మరో 1 వ్యక్తి&lt;/font> లైక్ చేశారు</item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s, అలాగే &lt;font face=sans-serif-medium>%3$s మంది ఇతరులు&lt;/font> లైక్ చేశారు</item>
+        <item quantity="one">%1$s, %2$s, అలాగే &lt;font face=sans-serif-medium>మరో 1 వ్యక్తి&lt;/font> లైక్ చేశారు</item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s, అలాగే &lt;font face=sans-serif-medium>%4$s మంది ఇతరులు&lt;/font> లైక్ చేశారు</item>
+        <item quantity="one">%1$s, %2$s, %3$s, &lt;font face=sans-serif-medium>మరో 1 వ్యక్తి&lt;/font> లైక్ చేశారు</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">%1$s, %2$s ప్రత్యక్ష ప్రసారం చేశారు</item>
+        <item quantity="one">%1$s ప్రత్యక్ష ప్రసారం చేశారు</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">%1$d బ్యాడ్జ్‌లు</item>
+        <item quantity="one">1 బ్యాడ్జ్</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d బ్యాడ్జ్‌లు</item>
+        <item quantity="one">1 బ్యాడ్జ్</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">%1$s మరియు మరో %2$d మంది మీ ప్రత్యక్ష ప్రసార వీడియోలో పాల్గొనాలని కోరుతూ అభ్యర్థన పంపారు.</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">%1$d గంటలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">%1$d గంట మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">%1$d నిమిషాలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">%1$d నిమిషం సమయం మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">%1$s, %2$s, అలాగే మరో %3$d వ్యక్తులతో చాట్‌ను రిపోర్ట్ చేయాలా?</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">మీరు %1$s మరియు మరో %2$d మందిని గ్రూప్‌లో చేర్చారు.</item>
+        <item quantity="one">మీరు %1$s మరియు మరో %2$d వ్యక్తిని గ్రూప్‌లో చేర్చారు.</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">మీరు %1$s మరియు మరో %2$d మందిని గ్రూప్ నుంచి తీసివేశారు.</item>
+        <item quantity="one">మీరు %1$s మరియు మరో %2$d వ్యక్తిని గ్రూప్ నుంచి తీసివేశారు.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">%2$s నుండి %1$d పదం ప్రభావాలు జోడించబడ్డాయి %3$s</item>
+        <item quantity="one">%2$s నుండి %1$d పదం ప్రభావం జోడించబడింది %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">మీరు %1$d పదం ప్రభావాలను మార్చారు.</item>
+        <item quantity="one">మీరు %1$d పదం ప్రభావాన్ని మార్చారు.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">%1$s, %2$d పదం ప్రభావాలను మార్చారు.</item>
+        <item quantity="one">%1$s, %2$d పదం ప్రభావాన్ని మార్చారు.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">మీరు %1$d పదం ప్రభావాలు %2$sను సెట్ చేసారు</item>
+        <item quantity="one">మీరు %1$d పదం ప్రభావం %2$sని సెట్ చేసారు</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">%1$s, %2$d పదం ప్రభావాలు %3$sని సెట్ చేసారు</item>
+        <item quantity="one">%1$s, %2$d పదం ప్రభావం %3$sని సెట్ చేసారు</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">మీరు %1$d పదం ప్రభావాలను తీసివేసారు.</item>
+        <item quantity="one">మీరు %1$d పదం ప్రభావాన్ని తీసివేసారు.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">%1$s, %2$d పదం ప్రభావాలను తీసివేసారు.</item>
+        <item quantity="one">%1$s %2$d పదం ప్రభావాన్ని తీసివేసారు.</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d రోజులు</item>
+        <item quantity="one">%1$d రోజు</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d గంటలు</item>
+        <item quantity="one">%1$d గంట</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d నిమిషాలు</item>
+        <item quantity="one">%1$d నిమిషం</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d సెకన్‌లు</item>
+        <item quantity="one">%1$d సెకన్</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">%1$s మిమ్మల్ని మరియు మరో %2$d మందిని గ్రూప్‌లో చేర్చారు.</item>
+        <item quantity="one">%1$s మిమ్మల్ని మరియు మరో %2$d వ్యక్తిని గ్రూప్‌లో చేర్చారు.</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">%1$s గ్రూప్‌లో %2$s మరియు మరో %3$d మందిని జోడించారు.</item>
+        <item quantity="one">%1$s గ్రూప్‌లో %2$s మరియు మరో %3$d వ్యక్తిని చేర్చారు.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">%1$s మిమ్మల్ని మరియు మరో %2$d మందిని గ్రూప్ నుంచి తీసివేశారు.</item>
+        <item quantity="one">%1$s మిమ్మల్ని మరియు మరో %2$d వ్యక్తిని గ్రూప్ నుంచి తీసివేశారు.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">%1$s గ్రూప్ నుంచి %2$s మరియు మరో %3$d మందిని గ్రూప్ నుంచి తీసివేశారు.</item>
+        <item quantity="one">%1$s గ్రూప్ నుంచి %2$s మరియు మరో %3$d వ్యక్తిని తీసివేశారు.</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">ఈ వ్యక్తులు చాట్ చరిత్రను చూడగలరు</item>
+        <item quantity="one">ఈ వ్యక్తి చాట్ చరిత్రను చూడగలరు</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">మిమ్మల్ని, మరో %1$d మందిని గ్రూప్‌లో చేర్చారు.</item>
+        <item quantity="one">మిమ్మల్ని, మరో %1$d వ్యక్తిని గ్రూప్‌లో చేర్చారు.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">%1$s మరియు మరో %2$d మందిని గ్రూప్‌లో చేర్చారు.</item>
+        <item quantity="one">%1$s మరియు మరో %2$d వ్యక్తిని గ్రూప్‌లో చేర్చారు.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">మిమ్మల్ని, మరో %1$d మందిని గ్రూప్‌ నుంచి తీసివేశారు.</item>
+        <item quantity="one">మిమ్మల్ని, మరో %1$d వ్యక్తిని గ్రూప్ నుంచి తీసివేశారు.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">%1$s మరియు మరో %2$d మందిని గ్రూప్ నుంచి తీసివేశారు.</item>
+        <item quantity="one">%1$s, మరో %2$d వ్యక్తిని గ్రూప్ నుంచి తీసివేశారు.</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">మీరు %1$d వ్యక్తులను చేర్చారు</item>
+        <item quantity="one">మీరు %1$d వ్యక్తిని జోడించారు</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">మీరు %1$s, %2$s మరియు %3$d ఎక్కువ మంది వ్యక్తులను జోడించారు</item>
+        <item quantity="one">మీరు %1$s, %2$s మరియు మరొక వ్యక్తిని జోడించారు</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">మీరు %1$d ఫోటోలను పంపారు.</item>
+        <item quantity="one">మీరు ఫోటోను పంపారు.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">మీ ఫోటో %1$s స్టోరీ మరియు మరో %2$sలో ఉంది.</item>
+        <item quantity="one">మీ ఫోటో %1$s స్టోరీతో పాటు, మరొక దాంట్లో ఉంది.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">మీ వీడియో %1$s స్టోరీతో పాటు, మరో %2$s చోట్లలో ఉంది.</item>
+        <item quantity="one">మీ వీడియో %1$s కథనం మరియు మరొక దానిలో చూపబడుతోంది.</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">మీ ఫోటో %1$s హ్యాష్‌ట్యాగ్ స్టోరీలలో యాడ్ చేయబడింది</item>
+        <item quantity="one">మీ ఫోటో హ్యాష్‌ట్యాగ్ కథనానికి జోడించబడింది</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">మీ ఫోటో %1$s లొకేషన్ స్టోరీలలో యాడ్ చేయబడింది</item>
+        <item quantity="one">మీ ఫోటో స్థాన కథనానికి జోడించబడింది</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">మీ వీడియో %1$s హ్యాష్‌ట్యాగ్ స్టోరీలలో యాడ్ చేయబడింది</item>
+        <item quantity="one">మీ వీడియో హ్యాష్‌ట్యాగ్ కథనానికి జోడించబడింది</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">మీ వీడియో %1$s లొకేషన్ స్టోరీలలో యాడ్ చేయబడింది</item>
+        <item quantity="one">మీ వీడియో స్థాన కథనానికి జోడించబడింది</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">%2$s యొక్క &lt;b>%1$s&lt;/b> మరియు మరో %3$s ఎఫెక్ట్‌లు</item>
+        <item quantity="one">%2$s యొక్క &lt;b>%1$s&lt;/b> మరియు మరో %3$s ఎఫెక్ట్</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">మీరు %1$d కొత్త లీడ్‌లను పొందారు.</item>
+        <item quantity="one">మీరు 1 కొత్త లీడ్‌ను పొందారు.</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">%1$d లేదా మరిన్ని చదవని సందేశాలు</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d చదవని సందేశాలు</item>
+        <item quantity="one">%1$d చదవని సందేశం</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">%1$d ఉత్పత్తి సేకరణలు</item>
+        <item quantity="one">1 ఉత్పత్తి సేకరణ</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">%1$d ఉత్పత్తులు</item>
+        <item quantity="one">1 ఉత్పత్తి</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">%1$s వ్యాఖ్యలు</item>
+        <item quantity="one">%1$s వ్యాఖ్య</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">%1$s ఇష్టాలు</item>
+        <item quantity="one">%1$s ఇష్టం</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">%1$s సార్లు ప్లే అయ్యింది</item>
+        <item quantity="one">%1$s సారి ప్లే అయింది</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s పోస్ట్‌లు</item>
+        <item quantity="one">%1$s పోస్ట్</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">%1$s పబ్లిక్ పోస్ట్‌లు</item>
+        <item quantity="one">%1$s పబ్లిక్ పోస్ట్</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">%1$s లైక్‌లు లేదా ప్రతిస్పందనలు</item>
+        <item quantity="one">%1$s లైక్ లేదా ప్రతిస్పందన</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">%1$s షేర్‌లు</item>
+        <item quantity="one">%1$s షేర్</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">%1$s మంది వీక్షకులు</item>
+        <item quantity="one">1 వీక్షకుడు</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">%1$s వీక్షణలు</item>
+        <item quantity="one">%1$s వీక్షణ</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">%1$d సంవత్సరాల క్రితం ఇదే రోజున.</item>
+        <item quantity="one">1 సంవత్సరం క్రితం ఇదే రోజున</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">మీకు %1$d పెండింగ్‌లో ఉన్న యాడ్‌లు ఉన్నాయి.</item>
+        <item quantity="one">మీకు 1 పెండింగ్‌లో ఉన్న యాడ్ ఉంది.</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">ప్రచారం నుంచి %1$s ఓటర్లు</item>
+        <item quantity="one">ప్రచారం నుంచి 1 ఓటరు</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">సూచనలు అందుబాటులో ఉన్నాయి</item>
+        <item quantity="one">సూచన అందుబాటులో ఉంది</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">&lt;b>%1$s&lt;/b>, అలాగే &lt;b>%2$s మంది ఇతరులు&lt;/b> దీనికి జోడించబడ్డారు</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b>, అలాగే &lt;b> మరో 1 వ్యక్తి&lt;/b> దీనికి జోడించబడ్డారు</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">మరో %1$s మంది ఈ స్టోరీని Facebookలో చూశారు. మీరు దీన్ని Facebookలో పబ్లిక్‌గా షేర్ చేసినందున, మీకు స్నేహితులు కాని వ్యక్తులు దీన్ని చూశారు.</item>
+        <item quantity="one">ఒక వేరే వ్యక్తి ఈ స్టోరీని Facebookలో చూశారు. మీరు దీన్ని Facebookలో పబ్లిక్‌గా షేర్ చేసినందున, మీకు స్నేహితులు కాని వ్యక్తి ఒకరు దీన్ని చూశారు.</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">Facebookలో %1$s ఇతర వీక్షణలు</item>
+        <item quantity="one">Facebookలో 1 ఇతర వీక్షణ</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">%1$sకు వచ్చిన ఓట్లు</item>
+        <item quantity="one">%1$sకి ఓటు వేయండి</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">%1$d మంది వ్యక్తులు సమాధానమిచ్చారు. సగటు సమాధానం ఈ విధంగా ఉంది.</item>
+        <item quantity="one">1 వ్యక్తి సమాధానమిచ్చారు. సగటు సమాధానం ఈ విధంగా ఉంది.</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">&lt;b>%1$s మంది స్నేహితులు&lt;/b> రీమిక్స్ చేసారు</item>
+        <item quantity="one">&lt;b>1 స్నేహితుడు&lt;/b> రీమిక్స్ చేసారు</item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">&lt;b>%1$s మంది&lt;/b> రీమిక్స్ చేసారు</item>
+        <item quantity="one">&lt;b>1 వ్యక్తి&lt;/b> రీమిక్స్ చేసారు</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">%1$s ఫాలోవర్‌లను తీసివేయాలా?</item>
+        <item quantity="one">1 ఫాలోవర్‌ను తీసివేయాలా?</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">%1$d ఉత్పత్తులు తీసివేయబడ్డాయి</item>
+        <item quantity="one">1 ఉత్పత్తి తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">%1$s సేవ్ చేసిన పోస్ట్‌లు ఉన్నాయి</item>
+        <item quantity="one">%1$s సేవ్ చేసిన పోస్ట్ ఉంది</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">పోస్ట్‌లను జోడించడం సాధ్యపడలేదు</item>
+        <item quantity="one">పోస్ట్‌ను జోడించడం సాధ్యపడలేదు</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">%2$s పోస్ట్‌లు %1$sకి జోడించబడ్డాయి</item>
+        <item quantity="one">%1$sకి పోస్ట్ జోడించబడింది</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">పోస్ట్‌లను తరలించడం సాధ్యపడలేదు</item>
+        <item quantity="one">పోస్ట్‌ను తరలించడం సాధ్యపడలేదు</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">%2$s పోస్ట్‌లు %1$sకి తరలించబడ్డాయి</item>
+        <item quantity="one">%1$sకి పోస్ట్ తరలించబడింది</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">దీని వలన ఈ సేకరణ నుండి పోస్ట్‌లు తీసివేయబడతాయి, అలాగే %1$sకి తరలించబడతాయి. సేవ్ చేయబడిన మొత్తం విభాగంలో పోస్ట్‌లు ఇప్పటికీ సేవ్ అయ్యి ఉంటాయి.</item>
+        <item quantity="one">దీని వలన ఈ సేకరణ నుండి పోస్ట్ తీసివేయబడుతుంది, అలాగే %1$sకి తరలించబడుతుంది. సేవ్ చేయబడిన మొత్తం విభాగంలో పోస్ట్ ఇప్పటికీ సేవ్ అయ్యి ఉంటుంది.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">పోస్ట్‌లను సేవ్ చేయడం నుండి తీసివేస్తే, సేకరణల నుండి కూడా ఇవి తీసివేయబడతాయి.</item>
+        <item quantity="one">దీనిని సేవ్ చేయడం నుండి తీసివేస్తే, సేకరణల నుండి కూడా ఇది తీసివేయబడుతుంది.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">పోస్ట్‌లను సేవ్ చేసినవి నుండి తీసివేయాలా?</item>
+        <item quantity="one">పోస్ట్‌ను సేవ్ చేయవద్దా?</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">పోస్ట్‌లను తీసివేయడం సాధ్యం కాదు</item>
+        <item quantity="one">పోస్ట్‌ను తీసివేయడం సాధ్యం కాలేదు</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">%1$s నుండి %2$s పోస్ట్‌లు తీసివేయబడ్డాయి</item>
+        <item quantity="one">%1$s నుండి పోస్ట్ తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">పోస్ట్‌లను సేవ్ చేసినవి నుండి తీసివేయడం సాధ్యం కాలేదు</item>
+        <item quantity="one">పోస్ట్‌ను సేవ్ చేసినవి తీసివేయడం సాధ్యం కాలేదు</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">సేవ్ చేసినవి నుండి %1$s పోస్ట్‌లు తీసివేయబడ్డాయి</item>
+        <item quantity="one">సేవ్ చేసినవి నుండి పోస్ట్ సేవ్ చేయబడింది</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">%1$d ఎంచుకున్నారు</item>
+        <item quantity="one">1 ఎంచుకున్నారు</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">%1$d ఐటమ్‌లు</item>
+        <item quantity="one">1 ఐటమ్</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">కొత్త పోస్ట్‌లు</item>
+        <item quantity="one">కొత్త పోస్ట్</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s కొత్త పోస్ట్‌లు</item>
+        <item quantity="one">1 కొత్త పోస్ట్</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">మీరు ఇప్పుడు పెండింగ్‌లో ఉన్న అన్ని అభ్యర్థలను తొలగిస్తే మినహా అవి ఆటోమేటిక్‌గా ఆమోదించబడతాయి. పెండింగ్‌లో ఉన్న %1$s ఫాలో అభ్యర్థనలను సమీక్షించండి.</item>
+        <item quantity="one">మీరు ఇప్పుడు పెండింగ్‌లో ఉన్న అన్ని అభ్యర్థనలను తొలగిస్తే మినహా అవి ఆటోమేటిక్‌గా ఆమోదించబడతాయి., పెండింగ్‌లో ఉన్న %1$s ఫాలో అభ్యర్థనను సమీక్షించండి.</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">%1$s ప్రోడక్ట్‌లు</item>
+        <item quantity="one">%1$s ప్రోడక్ట్</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">%1$s, మరో &lt;b>%2$s మంది&lt;/b> సభ్యులుగా ఉన్నారు</item>
+        <item quantity="one">%1$s అలాగే మరో &lt;b>1 వ్యక్తి&lt;/b> సభ్యునిగా ఉన్నారు</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s మరో &lt;b>%3$s మంది&lt;/b> సభ్యులుగా ఉన్నారు</item>
+        <item quantity="one">%1$s, %2$s మరియు &lt;b>1 ఇతరులు&lt;/b> are members</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s మరో &lt;b>%4$s మంది&lt;/b> సభ్యులుగా ఉన్నారు</item>
+        <item quantity="one">%1$s, %2$s, %3$s, అలాగే మరో &lt;b>1 వ్యక్తి&lt;/b> సభ్యులుగా ఉన్నారు</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">&lt;b>%1$s మంది స్నేహితులు&lt;/b> టెంప్లేట్‌ని ఉపయోగించారు</item>
+        <item quantity="one">&lt;b>1 స్నేహితుడు&lt;/b> టెంప్లేట్‌ని ఉపయోగించారు</item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">&lt;b>%1$s మంది వ్యక్తులు&lt;/b> టెంప్లేట్‌ని ఉపయోగించారు</item>
+        <item quantity="one">&lt;b>1 వ్యక్తి&lt;/b> టెంప్లేట్‌ని ఉపయోగించారు</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">%1$d మంది మద్దతుదారులు కార్యకలాపంలో నోటిఫికేషన్‌ను పొందుతారు</item>
+        <item quantity="one">1 మద్దతుదారు కార్యాకలాపంలో నోటిఫికేషన్‌ను పొందుతారు</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d వీక్షణలు</item>
+        <item quantity="one">1 వీక్షణ</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">%1$d వ్యాఖ్యలు తొలగించబడ్డాయి.</item>
+        <item quantity="one">వ్యాఖ్య తొలగించబడింది.</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$s రోజులు</item>
+        <item quantity="one">%1$s రోజు</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">%1$s రోజుల క్రితం</item>
+        <item quantity="one">%1$s రోజు క్రితం</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s గంటలు</item>
+        <item quantity="one">%1$s గంట</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">%1$s గంటల క్రితం</item>
+        <item quantity="one">%1$s గంట క్రితం</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s నిమిషాలు</item>
+        <item quantity="one">%1$s నిమిషం</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">%1$s నిమిషాల క్రితం</item>
+        <item quantity="one">%1$s నిమిషం క్రితం</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d మంది వ్యక్తులు</item>
+        <item quantity="one">1 వ్యక్తి</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s సెకన్లు</item>
+        <item quantity="one">%1$s సెకను</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">%1$s సెకన్ల క్రితం</item>
+        <item quantity="one">%1$s సెకను క్రితం</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s వారాలు</item>
+        <item quantity="one">%1$s వారం</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">%1$s వారాల క్రితం</item>
+        <item quantity="one">%1$s వారం క్రితం</item>
+    </plurals>
+</resources>

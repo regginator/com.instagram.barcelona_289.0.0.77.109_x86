@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="IgPanorama.BarcelonaSplashScreen" parent="@style/IgPanorama">
+        <item name="android:windowSplashScreenBackground">@color/splash_screen_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/barcelona_splash_screen_icon</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/barcelona_splash_screen_brand</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/splash_screen_background</item>
+    </style>
+</resources>

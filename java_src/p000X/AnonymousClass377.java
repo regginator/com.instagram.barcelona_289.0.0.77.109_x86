@@ -1,0 +1,12 @@
+package p000X;
+
+import com.instagram.service.session.UserSession;
+/* renamed from: X.377  reason: invalid class name */
+/* loaded from: classes2.dex */
+public final class AnonymousClass377 {
+    public final UserSession A00;
+
+    public AnonymousClass377(UserSession userSession) {
+        this.A00 = userSession;
+    }
+}

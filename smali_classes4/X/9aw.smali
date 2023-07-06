@@ -1,0 +1,93 @@
+.class public final LX/9aw;
+.super LX/BHg;
+.source ""
+
+# interfaces
+.implements LX/BqI;
+
+
+# instance fields
+.field public final A00:LX/9OF;
+
+.field public final A01:Ljava/lang/Integer;
+
+.field public final A02:Ljava/lang/String;
+
+
+# direct methods
+.method public constructor <init>(LX/9OF;)V
+    .locals 1
+
+    .line 0
+    invoke-direct {p0}, LX/BHg;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    iput-object p1, p0, LX/9aw;->A00:LX/9OF;
+
+    .line 4
+    .line 5
+    iget-object v0, p1, LX/B7O;->A0L:Ljava/lang/String;
+
+    .line 6
+    .line 7
+    iput-object v0, p0, LX/9aw;->A02:Ljava/lang/String;
+
+    .line 8
+    .line 9
+    sget-object v0, LX/006;->A0C:Ljava/lang/Integer;
+
+    .line 10
+    .line 11
+    iput-object v0, p0, LX/9aw;->A01:Ljava/lang/Integer;
+
+    .line 12
+    .line 13
+    return-void
+.end method
+
+
+# virtual methods
+.method public final APG()Ljava/lang/String;
+    .locals 1
+
+    .line 0
+    const-string v0, ""
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final Aqd()Ljava/lang/Integer;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/9aw;->A01:Ljava/lang/Integer;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final B3e()I
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x0
+
+    .line 1
+    return v0
+.end method
+
+.method public final getId()Ljava/lang/String;
+    .locals 1
+
+    .line 0
+    iget-object v0, p0, LX/9aw;->A02:Ljava/lang/String;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method

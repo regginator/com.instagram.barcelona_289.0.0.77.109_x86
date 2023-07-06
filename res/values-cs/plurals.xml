@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">Divák bude moct odkaz navštívit přejetím prstem nahoru. Takovýhle odkaz můžete přidat jen jeden.</item>
+        <item quantity="one">Diváci budou moct potáhnout prstem nahoru a navštívit tento odkaz.</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">Přidané zmínky.</item>
+    </plurals>
+    <plurals name="alt_text_popup_description">
+        <item quantity="other">Popište své fotky lidem se zrakovým postižením.</item>
+        <item quantity="one">Popište svou fotku lidem se zrakovým postižením.</item>
+    </plurals>
+    <plurals name="anonymous_comments_message">
+        <item quantity="other">Podívejte se na %1$d komentářů k {original_post}</item>
+        <item quantity="one">Podívejte se na %1$d komentář k {original_post}</item>
+        <item quantity="few">Podívejte se na %1$d komentáře k {original_post}</item>
+    </plurals>
+    <plurals name="anonymous_likers_message">
+        <item quantity="other">Podívejte se na %1$d To se mi líbí k {original_post}.</item>
+        <item quantity="one">Podívejte se na 1 To se mi líbí k {original_post}.</item>
+    </plurals>
+    <plurals name="appended_poll_vote_count_label_on_feed">
+        <item quantity="other">%1$s výsledků ankety</item>
+        <item quantity="one">%1$s výsledek ankety</item>
+        <item quantity="few">%1$s výsledky ankety</item>
+    </plurals>
+    <plurals name="appreciation_funding_a11y_star_balance">
+        <item quantity="other">Máte ještě %1$d hvězdiček</item>
+        <item quantity="one">Máte ještě %1$d hvězdičku</item>
+        <item quantity="few">Máte ještě %1$d hvězdičky</item>
+    </plurals>
+    <plurals name="appreciation_gifting_a11y_balance">
+        <item quantity="other">Zůstatek: %1$d hvězdiček</item>
+        <item quantity="one">Zůstatek: %1$d hvězdička</item>
+        <item quantity="few">Zůstatek: %1$d hvězdičky</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_body">
+        <item quantity="other">Je vybráno %1$d komentářů. Pokud schválíte odpověď, schválí se i původní komentář.</item>
+        <item quantity="one">Je vybrán %1$d komentář. Pokud schválíte odpověď, schválí se i původní komentář.</item>
+        <item quantity="few">Jsou vybrány %1$d komentáře. Pokud schválíte odpověď, schválí se i původní komentář.</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_primary_button">
+        <item quantity="other">Schválit komentáře</item>
+        <item quantity="one">Schválit komentář</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_title">
+        <item quantity="other">Schválit %1$d komentářů?</item>
+        <item quantity="one">Schválit %1$d komentář?</item>
+        <item quantity="few">Schválit %1$d komentáře?</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">Počet uživatelů: %1$d</item>
+        <item quantity="one">1 člověk</item>
+    </plurals>
+    <plurals name="average_time_spent_hours">
+        <item quantity="other">%1$d hodin</item>
+        <item quantity="one">%1$d hodina</item>
+        <item quantity="few">%1$d hodiny</item>
+    </plurals>
+    <plurals name="average_time_spent_minutes">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+    </plurals>
+    <plurals name="barcelona_expand_replies">
+        <item quantity="other">%1$s odpovědí</item>
+        <item quantity="one">%1$s odpověď</item>
+        <item quantity="few">%1$s odpovědi</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_follower_tab_count">
+        <item quantity="other">%1$s sledujících</item>
+        <item quantity="one">%1$s sledující</item>
+        <item quantity="few">%1$s sledující</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_following_tab_count">
+        <item quantity="other">%1$s sledování</item>
+        <item quantity="one">1 sledování</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_pending_tab_count">
+        <item quantity="other">%1$s se očekává • Jakmile se uvedené účty do %2$s přidají, začnete je sledovat. %3$s</item>
+        <item quantity="one">1 se očekává • Jakmile se uvedené účty do %2$s přidají, začnete je sledovat. %3$s</item>
+    </plurals>
+    <plurals name="barcelona_onboarding_following_screen__pending_tab_subtitle">
+        <item quantity="other">%1$s účtů se do aplikace %2$s ještě nepřidalo nebo čekají na schválení vaší žádosti o sledování.</item>
+        <item quantity="one">%1$s účet se do aplikace %2$s ještě nepřidal nebo čeká na schválení vaší žádosti o sledování.</item>
+        <item quantity="few">%1$s účty se do aplikace %2$s ještě nepřidaly nebo čekají na schválení vaší žádosti o sledování.</item>
+    </plurals>
+    <plurals name="barcelona_post_like_count">
+        <item quantity="other">%1$s To se mi líbí</item>
+    </plurals>
+    <plurals name="barcelona_profile_follower_count">
+        <item quantity="other">%1$s sledujících</item>
+        <item quantity="one">%1$s sledující</item>
+        <item quantity="few">%1$s sledující</item>
+    </plurals>
+    <plurals name="barcelona_search_follower_count">
+        <item quantity="other">%1$s sledujících</item>
+        <item quantity="one">%1$s sledující</item>
+        <item quantity="few">%1$s sledující</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">Vaše žádosti o sledování se nepodařilo potvrdit. Zkuste to později.</item>
+        <item quantity="one">Vaši žádost o sledování se nepodařilo potvrdit. Zkuste to později.</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">Vaše žádosti o sledování se nepodařilo odstranit. Zkuste to později.</item>
+        <item quantity="one">Vaši žádost o sledování se nepodařilo odstranit. Zkuste to později.</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">Vaše žádost taky sledovat tyto uživatele nebyla úspěšná. Zkuste to znovu později.</item>
+        <item quantity="one">Vaše žádost taky sledovat tohoto uživatele nebyla úspěšná. Zkuste to znovu později.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">Vaše žádost odebrat tyto sledující nebyla úspěšná. Zkuste to znovu později.</item>
+        <item quantity="one">Vaše žádost odebrat tohoto sledujícího nebyla úspěšná. Zkuste to znovu později.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">Odebráno %1$s sledujících</item>
+        <item quantity="one">Odebrán %1$s sledující</item>
+        <item quantity="few">Odebráni %1$s sledující</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">%1$d žádostí</item>
+        <item quantity="one">%1$d žádost</item>
+        <item quantity="few">%1$d žádosti</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s lidí</item>
+        <item quantity="one">%1$s člověk</item>
+        <item quantity="few">%1$s lidé</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_body">
+        <item quantity="other">Máte vybraných %1$d účtů. Daní uživatelé neuvidí váš profil, příspěvky ani příběhy na Instagramu.</item>
+        <item quantity="one">Máte vybraný %1$d účet. Daný uživatel neuvidí váš profil, příspěvky ani příběhy na Instagramu.</item>
+        <item quantity="few">Máte vybrané %1$d účty. Daní uživatelé neuvidí váš profil, příspěvky ani příběhy na Instagramu.</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_primary_button">
+        <item quantity="other">Zablokovat účty</item>
+        <item quantity="one">Zablokovat účet</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_title">
+        <item quantity="other">Zablokovat %1$d účtů?</item>
+        <item quantity="one">Zablokovat %1$d účet?</item>
+        <item quantity="few">Zablokovat %1$d účty?</item>
+    </plurals>
+    <plurals name="blocked_story_photos_delete_button_text">
+        <item quantity="other">Odstranit %1$d fotek</item>
+        <item quantity="one">Odstranit %1$d fotku</item>
+        <item quantity="few">Odstranit %1$d fotky</item>
+    </plurals>
+    <plurals name="blocked_story_videos_delete_button_text">
+        <item quantity="other">Odstranit %1$d videí</item>
+        <item quantity="one">Odstranit %1$d video</item>
+        <item quantity="few">Odstranit %1$d videa</item>
+    </plurals>
+    <plurals name="bonuses_tagging_reels_welcome_bonus_reels_left">
+        <item quantity="other">K tomuto bonusu se může započítat ještě %1$d reelů</item>
+        <item quantity="one">K tomuto bonusu se může započítat ještě %1$d reel</item>
+        <item quantity="few">K tomuto bonusu se může započítat ještě %1$d reely</item>
+    </plurals>
+    <plurals name="bulk_block_confirmation_toast">
+        <item quantity="other">Účty zablokovány</item>
+        <item quantity="one">Účet zablokován</item>
+    </plurals>
+    <plurals name="bulk_restrict_confirmation_toast">
+        <item quantity="other">Účty omezeny</item>
+        <item quantity="one">Účet omezen</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">Před %1$d lety...</item>
+        <item quantity="one">Před 1 rokem...</item>
+    </plurals>
+    <plurals name="cart_sold_out_and_unavailable_items_status_message">
+        <item quantity="other">%1$d položek ve vašem košíku už není k dispozici.</item>
+        <item quantity="one">%1$d položka ve vašem košíku už není k dispozici.</item>
+        <item quantity="few">%1$d položky ve vašem košíku už nejsou k dispozici.</item>
+    </plurals>
+    <plurals name="chat_badge">
+        <item quantity="other">%1$d chatů</item>
+        <item quantity="one">%1$d chat</item>
+        <item quantity="few">%1$d chaty</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">%1$s členů</item>
+        <item quantity="one">%1$s člen</item>
+        <item quantity="few">%1$s členové</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d reakcí</item>
+        <item quantity="one">%1$d reakce</item>
+        <item quantity="few">%1$d reakce</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">%1$d blízkých přátel na Facebooku</item>
+        <item quantity="one">%1$d blízký přítel na Facebooku</item>
+        <item quantity="few">%1$d blízcí přátelé na Facebooku</item>
+    </plurals>
+    <plurals name="comment_badge">
+        <item quantity="other">%1$d komentářů</item>
+        <item quantity="one">%1$d komentář</item>
+        <item quantity="few">%1$d komentáře</item>
+    </plurals>
+    <plurals name="comment_count_label_on_feed">
+        <item quantity="other">%1$s komentářů</item>
+        <item quantity="one">%1$s komentář</item>
+        <item quantity="few">%1$s komentáře</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">%1$s a &lt;b>%2$s dalších&lt;/b> to komentuje</item>
+        <item quantity="one">%1$s a &lt;b>%2$s další&lt;/b> to komentují</item>
+        <item quantity="few">%1$s a &lt;b>%2$s další&lt;/b> to komentují</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">%1$s s dalšími přidali komentář</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s a &lt;b>%4$s dalších&lt;/b> to komentuje</item>
+        <item quantity="one">%1$s, %2$s, %3$s a &lt;b>%4$s další&lt;/b> to komentují</item>
+        <item quantity="few">%1$s, %2$s, %3$s a &lt;b>%4$s další&lt;/b> to komentují</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">%1$s, %2$s a %3$s s dalšími přidali komentář</item>
+    </plurals>
+    <plurals name="comments_from_facebook_title">
+        <item quantity="other">Zobrazit %1$d komentářů z Facebooku</item>
+        <item quantity="one">Zobrazit %1$d komentář z Facebooku</item>
+        <item quantity="few">Zobrazit %1$d komentáře z Facebooku</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">Potvrdit %1$s žádostí o sledování?</item>
+        <item quantity="one">Potvrdit %1$s žádost o sledování?</item>
+        <item quantity="few">Potvrdit %1$s žádosti o sledování?</item>
+    </plurals>
+    <plurals name="connect_page_num_like">
+        <item quantity="other">%1$d To se mi líbí</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">dny</item>
+        <item quantity="one">den</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">hodiny</item>
+        <item quantity="one">hodina</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">minuty</item>
+        <item quantity="one">minuta</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">měsíce</item>
+        <item quantity="one">měsíc</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">sekundy</item>
+        <item quantity="one">sekunda</item>
+    </plurals>
+    <plurals name="custom_comment_filter_upsell_toast_message">
+        <item quantity="other">Do seznamu skrytých slov bylo přidáno %1$d položek.</item>
+        <item quantity="one">Do seznamu skrytých slov byla přidána %1$d položka.</item>
+        <item quantity="few">Do seznamu skrytých slov byly přidány %1$d položky.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_message">
+        <item quantity="other">Tato videa už neuvidíte.</item>
+        <item quantity="one">Toto video už neuvidíte.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_title">
+        <item quantity="other">Odstranit %1$d videí?</item>
+        <item quantity="one">Odstranit %1$d video?</item>
+        <item quantity="few">Odstranit %1$d videa?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">Odstranit %1$s žádostí o sledování?</item>
+        <item quantity="one">Odstranit %1$s žádost o sledování?</item>
+        <item quantity="few">Odstranit %1$s žádosti o sledování?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">Když přepnete na veřejný účet, žádosti nebudou schváleny.</item>
+        <item quantity="one">Když přepnete na veřejný účet, žádost nebude schválena.</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">Odstranit žádost o sledování?</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">Uvidí všechny předchozí zprávy v této konverzaci.</item>
+        <item quantity="one">%1$s uvidí předchozí zprávy v této konverzaci.</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message_without_all">
+        <item quantity="other">Uvidí všechny předchozí zprávy v této konverzaci.</item>
+        <item quantity="one">%1$s uvidí předchozí zprávy v této konverzaci.</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_hours_ago">
+        <item quantity="other">Aktivní před %1$d hod</item>
+        <item quantity="one">Aktivní před 1 hod</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_mins_ago">
+        <item quantity="other">Aktivní před %1$d min</item>
+        <item quantity="one">Aktivní před 1 min</item>
+    </plurals>
+    <plurals name="direct_faq_import_bottom_button_footer">
+        <item quantity="other">Vyberte až %1$d otázek</item>
+        <item quantity="one">Vyberte až %1$d otázku</item>
+        <item quantity="few">Vyberte až %1$d otázky</item>
+    </plurals>
+    <plurals name="direct_faq_import_max_limit_reached_message">
+        <item quantity="other">Nejde importovat víc jak %1$d otázek</item>
+        <item quantity="one">Nejde importovat víc jak %1$d otázku</item>
+        <item quantity="few">Nejde importovat víc jak %1$d otázky</item>
+    </plurals>
+    <plurals name="direct_max_recipients_in_chat_reached_body">
+        <item quantity="other">V chatu může být maximálně %1$s lidí. Pokud chcete chat vytvořit, tak včetně vás omezte počet lidí na %1$s.</item>
+    </plurals>
+    <plurals name="direct_max_recipients_reached_body">
+        <item quantity="other">Ve skupině může být maximálně %1$s lidí. Pokud chcete skupinu vytvořit, tak včetně vás omezte počet lidí na %1$s.</item>
+    </plurals>
+    <plurals name="direct_media_composer_send_button_description">
+        <item quantity="other">Poslat %1$s</item>
+        <item quantity="one">Odeslat</item>
+    </plurals>
+    <plurals name="direct_welcome_message_edit_character_limit_reached_error">
+        <item quantity="other">Uvítací zpráva může mít maximálně %1$d znaků.</item>
+        <item quantity="one">Uvítací zpráva může mít maximálně %1$d znak.</item>
+        <item quantity="few">Uvítací zpráva může mít maximálně %1$d znaky.</item>
+    </plurals>
+    <plurals name="discard_x_drafts">
+        <item quantity="other">Zahodit %1$d konceptů?</item>
+        <item quantity="one">Zahodit %1$d koncept?</item>
+        <item quantity="few">Zahodit %1$d koncepty?</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">%1$s použitý &lt;b>%2$spřáteli&lt;/b></item>
+        <item quantity="one">Efekt %1$s použitý &lt;b>1 přítelem&lt;/b></item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">Efekt %1$s používaný &lt;b>%2$s lidmi&lt;/b></item>
+        <item quantity="one">Efekt %1$s používaný &lt;b>1 člověkem&lt;/b></item>
+    </plurals>
+    <plurals name="fan_club_content_preview_settings_detail">
+        <item quantity="other">%1$d příspěvků</item>
+        <item quantity="one">%1$d příspěvek</item>
+        <item quantity="few">%1$d příspěvky</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">Zobrazit odběratele (%1$d)</item>
+        <item quantity="one">Zobrazit %1$d odběratele</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_subtitle">
+        <item quantity="other">Tlačítko Předplatné už funguje na vašem profilu. Za %1$d dnů vaše sledující automaticky upozorníme na vaše předplatné.</item>
+        <item quantity="one">Tlačítko Předplatné už funguje na vašem profilu. Za %1$d den vaše sledující automaticky upozorníme na vaše předplatné.</item>
+        <item quantity="few">Tlačítko Předplatné už funguje na vašem profilu. Za %1$d dny vaše sledující automaticky upozorníme na vaše předplatné.</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_title">
+        <item quantity="other">Vaše sledující upozorníme za %1$d dnů</item>
+        <item quantity="one">Vaše sledující upozorníme za %1$d den</item>
+        <item quantity="few">Vaše sledující upozorníme za %1$d dny</item>
+    </plurals>
+    <plurals name="fb_page_num_like_label">
+        <item quantity="other">%1$s To se mí líbí</item>
+        <item quantity="one">%1$s To se mi líbí</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s má %2$d položek, %3$s, %4$s</item>
+        <item quantity="one">%1$s má %2$d položku, %3$s, %4$s</item>
+        <item quantity="few">%1$s má %2$d položky, %3$s, %4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">Taky sledovat %1$s uživatelů?</item>
+        <item quantity="one">Taky sledovat %1$s uživatele?</item>
+        <item quantity="few">Taky sledovat %1$s uživatele?</item>
+    </plurals>
+    <plurals name="follow_badge">
+        <item quantity="other">%1$d sledujících</item>
+        <item quantity="one">%1$d sledující</item>
+        <item quantity="few">%1$d sledující</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$d sledujících</item>
+        <item quantity="one">%1$d sledující</item>
+        <item quantity="few">%1$d sledující</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">Sledováno %1$s lidmi</item>
+        <item quantity="one">Sleduje to 1 člověk</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">Sledují to %1$s s &lt;font face=sans-serif-medium>%2$s dalšími&lt;/font></item>
+        <item quantity="one">Sledováno %1$s a &lt;font face=sans-serif-medium>1 dalším&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">Sledují to %1$s s %2$s dalšími</item>
+        <item quantity="one">Sledují to %1$s s 1 dalším</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">Sledováno %1$s, %2$s a &lt;font face=sans-serif-medium>%3$s dalšími&lt;/font></item>
+        <item quantity="one">Sledováno %1$s, %2$s a &lt;font face=sans-serif-medium>1 dalším&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">Sledováno %1$s, %2$s, %3$s a &lt;font face=sans-serif-medium>%4$s dalšími&lt;/font></item>
+        <item quantity="one">Sledováno %1$s, %2$s, %3$s a &lt;font face=sans-serif-medium>1 dalším&lt;/font></item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">Sledující %1$s</item>
+        <item quantity="one">%1$s sledující</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos">
+        <item quantity="other">%1$d fotek</item>
+        <item quantity="one">%1$d fotka</item>
+        <item quantity="few">%1$d fotky</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos_one_video">
+        <item quantity="other">%1$d fotek a 1 video</item>
+        <item quantity="one">%1$d fotka a 1 video</item>
+        <item quantity="few">%1$d fotky a 1 video</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_videos">
+        <item quantity="other">%1$d videí</item>
+        <item quantity="one">%1$d video</item>
+        <item quantity="few">%1$d videa</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_one_photo_n_videos">
+        <item quantity="other">1 fotka a %1$d videí</item>
+        <item quantity="one">1 fotka a %1$d video</item>
+        <item quantity="few">1 fotka a %1$d videa</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_months_ago">
+        <item quantity="other">Před %1$d měsíci</item>
+        <item quantity="one">Minulý měsíc</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_weeks_ago">
+        <item quantity="other">před %1$d týdny</item>
+        <item quantity="one">Minulý týden</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_years_ago">
+        <item quantity="other">Před %1$d lety</item>
+        <item quantity="one">Minulý rok</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_day">
+        <item quantity="other">%1$d d</item>
+        <item quantity="one">1 den</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_minute">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">1 minuta</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_month">
+        <item quantity="other">%1$d měsíců</item>
+        <item quantity="one">%1$d měsíc</item>
+        <item quantity="few">%1$d měsíce</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_week">
+        <item quantity="other">%1$d týdnů</item>
+        <item quantity="one">%1$d týden</item>
+        <item quantity="few">%1$d týdny</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_year">
+        <item quantity="other">%1$d let</item>
+        <item quantity="one">%1$d rok</item>
+        <item quantity="few">%1$d roky</item>
+    </plurals>
+    <plurals name="granted_extension_time_hours">
+        <item quantity="other">%1$d h navíc</item>
+    </plurals>
+    <plurals name="granted_extension_time_minutes">
+        <item quantity="other">%1$d dalších minut</item>
+        <item quantity="one">%1$d další minuta</item>
+        <item quantity="few">%1$d další minuty</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">%1$d fotek a 1 video od %2$s na řádku %3$d, ve sloupci %4$d</item>
+        <item quantity="one">%1$d fotka a 1 video od %2$s na řádku %3$d, ve sloupci %4$d</item>
+        <item quantity="few">%1$d fotky a 1 video od %2$s na řádku %3$d, ve sloupci %4$d</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">1 fotka a %1$d videí od %2$s na řádku %3$d, ve sloupci %4$d</item>
+        <item quantity="one">1 fotka a %1$d video od %2$s na řádku %3$d, ve sloupci %4$d</item>
+        <item quantity="few">1 fotka a %1$d videa od %2$s na řádku %3$d, ve sloupci %4$d</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">%1$d odběratelů</item>
+        <item quantity="one">%1$d odběratel</item>
+        <item quantity="few">%1$d odběratelé</item>
+    </plurals>
+    <plurals name="guide_detail_text_accounts">
+        <item quantity="other">%1$s ÚČTŮ</item>
+        <item quantity="one">%1$s ÚČET</item>
+        <item quantity="few">%1$s ÚČTY</item>
+    </plurals>
+    <plurals name="guide_detail_text_locations">
+        <item quantity="other">%1$s MÍST</item>
+        <item quantity="one">%1$s MÍSTO</item>
+        <item quantity="few">%1$s MÍSTA</item>
+    </plurals>
+    <plurals name="guide_detail_text_media">
+        <item quantity="other">Příspěvky (%1$s)</item>
+        <item quantity="one">%1$s PŘÍSPĚVKŮ</item>
+    </plurals>
+    <plurals name="guide_detail_text_products">
+        <item quantity="other">%1$s PRODUKTŮ</item>
+        <item quantity="one">%1$s PRODUKT</item>
+        <item quantity="few">%1$s PRODUKTY</item>
+    </plurals>
+    <plurals name="guide_drafts_count">
+        <item quantity="other">%1$s konceptů průvodce</item>
+        <item quantity="one">%1$s koncept průvodce</item>
+        <item quantity="few">%1$s koncepty průvodce</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_attempts_left_error">
+        <item quantity="other">Zbývá vám %1$d pokusů na zadání PINu. Potom už nebude fungovat.</item>
+        <item quantity="one">Zbývá vám %1$d pokus na zadání PINu. Potom už nebude fungovat.</item>
+        <item quantity="few">Zbývají vám %1$d pokusy na zadání PINu. Potom už nebude fungovat.</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_hours_popup_title_text">
+        <item quantity="other">%1$d hod</item>
+        <item quantity="one">1 hod</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_minutes_popup_title_text">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_seconds_popup_title_text">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">1 s</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">Reklamy z %1$s, jako je hazard a seznamka, jsou ve výchozím nastavení omezené. Můžete vybrat až %2$d dalších kategorií reklam, které nechcete, aby se zobrazovaly ve vašich reels.</item>
+        <item quantity="one">Reklamy z %1$s, jako je hazard a seznamka, jsou ve výchozím nastavení omezené. Můžete vybrat až %2$d další kategorii reklam, kterou nechcete, aby se zobrazovala ve vašich reels.</item>
+        <item quantity="few">Reklamy z %1$s, jako je hazard a seznamka, jsou ve výchozím nastavení omezené. Můžete vybrat až %2$d další kategorie reklam, které nechcete, aby se zobrazovaly ve vašich reels.</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s a %6$d dalších účtů</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s a %6$d další účet</item>
+        <item quantity="few">%1$s, %2$s, %3$s, %4$s, %5$s a %6$d další účty</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s a %6$d dalších kategorií</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s a %6$d další kategorie</item>
+        <item quantity="few">%1$s, %2$s, %3$s, %4$s, %5$s a %6$d další kategorie</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">Reklamy z %1$s, jako je hazard a seznamka, jsou ve výchozím nastavení omezené. Můžete vybrat až %2$d dalších kategorií reklam, u kterých nechcete, aby se zobrazovaly ve vašem kanálu příspěvků profilu.</item>
+        <item quantity="one">Reklamy z %1$s, jako je hazard a seznamka, jsou ve výchozím nastavení omezené. Můžete vybrat až %2$d další kategorii reklam, u které nechcete, aby se zobrazovala ve vašem kanálu příspěvků profilu.</item>
+        <item quantity="few">Reklamy z %1$s, jako je hazard a seznamka, jsou ve výchozím nastavení omezené. Můžete vybrat až %2$d další kategorie reklam, u kterých nechcete, aby se zobrazovaly ve vašem kanálu příspěvků profilu.</item>
+    </plurals>
+    <plurals name="iglive_audience_mode_close_friends_edit_option_close_friends_added">
+        <item quantity="other">%1$d lidí</item>
+        <item quantity="one">%1$d člověk</item>
+        <item quantity="few">%1$d lidé</item>
+    </plurals>
+    <plurals name="iglive_presence_text">
+        <item quantity="other">%1$d sledujících je právě aktivních</item>
+        <item quantity="one">%1$d sledující je právě aktivní</item>
+        <item quantity="few">%1$d sledující jsou právě aktivní</item>
+    </plurals>
+    <plurals name="igtv_series_episode">
+        <item quantity="other">%1$s epizod</item>
+        <item quantity="one">%1$s epizoda</item>
+        <item quantity="few">%1$s epizody</item>
+    </plurals>
+    <plurals name="igtv_video_minute_duration_description">
+        <item quantity="other">%1$s min a %2$s s</item>
+        <item quantity="one">%1$s min a 1 s</item>
+    </plurals>
+    <plurals name="igtv_video_seconds_duration_description_one_min">
+        <item quantity="other">1 min a %1$s s</item>
+        <item quantity="one">1 min a 1 s</item>
+    </plurals>
+    <plurals name="lead_gen_available_forms_number_of_custom_questions">
+        <item quantity="other">%1$d otázek</item>
+        <item quantity="one">%1$d otázka</item>
+        <item quantity="few">%1$d otázky</item>
+    </plurals>
+    <plurals name="lead_gen_form_num_questions">
+        <item quantity="other">%1$d otázek</item>
+        <item quantity="one">%1$d otázka</item>
+        <item quantity="few">%1$d otázky</item>
+    </plurals>
+    <plurals name="like_badge">
+        <item quantity="other">%1$d To se mi líbí</item>
+        <item quantity="one">1 To se mi líbí</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d To se mi líbí</item>
+        <item quantity="one">1 To se mi líbí</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">Líbí se to %1$s a &lt;font face=sans-serif-medium>%2$s dalším&lt;/font></item>
+        <item quantity="one">Líbí se to %1$s a &lt;font face=sans-serif-medium>1 dalšímu&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">Líbí se to %1$s, %2$s a &lt;font face=sans-serif-medium>%3$s dalším&lt;/font></item>
+        <item quantity="one">Líbí se to %1$s a %2$s a &lt;font face=sans-serif-medium>1 dalšímu&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">Líbí se to %1$s, %2$s, %3$s a &lt;font face=sans-serif-medium>%4$s dalším&lt;/font></item>
+        <item quantity="one">Líbí se to %1$s, %2$s, %3$s a &lt;font face=sans-serif-medium>1 dalšímu&lt;/font></item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_day">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d den</item>
+        <item quantity="few">%1$d dny</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_week">
+        <item quantity="other">%1$d týdnů</item>
+        <item quantity="one">%1$d týden</item>
+        <item quantity="few">%1$d týdny</item>
+    </plurals>
+    <plurals name="live_question_like_count">
+        <item quantity="other">%1$d To se mi líbí</item>
+        <item quantity="one">1 To se mi líbí</item>
+    </plurals>
+    <plurals name="live_streak_subtitle_post_live_streak_increased">
+        <item quantity="other">Už živě vysíláte %1$d týdnů! Sledujte, kolik po sobě jdoucích týdnů zvládnete vysílat živě.</item>
+        <item quantity="one">Už živě vysíláte %1$d týden! Sledujte, kolik po sobě jdoucích týdnů zvládnete vysílat živě.</item>
+        <item quantity="few">Už živě vysíláte %1$d týdny! Sledujte, kolik po sobě jdoucích týdnů zvládnete vysílat živě.</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">Uživatelé %1$s a %2$s vysílali živě</item>
+        <item quantity="one">%1$s vysílal(a) živě</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">%1$d štítků</item>
+        <item quantity="one">%1$d štítek</item>
+        <item quantity="few">%1$d štítky</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d štítků</item>
+        <item quantity="one">%1$d štítek</item>
+        <item quantity="few">%1$d štítky</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">%1$s a %2$d dalších žádají, aby mohli být ve vašem živém vysílání.</item>
+        <item quantity="one">%1$s a %2$d další žádají, aby mohli být ve vašem živém vysílání.</item>
+        <item quantity="few">%1$s a %2$d další žádají, aby mohli být ve vašem živém vysílání.</item>
+    </plurals>
+    <plurals name="location_list_title">
+        <item quantity="other">%1$d míst</item>
+        <item quantity="one">%1$d místo</item>
+        <item quantity="few">%1$d místa</item>
+    </plurals>
+    <plurals name="member_count_text">
+        <item quantity="other">%1$s členů</item>
+        <item quantity="one">%1$s člen</item>
+        <item quantity="few">%1$s členové</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">Už jen %1$d h</item>
+        <item quantity="one">Zbývá %1$d h</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">Zbývá %1$d min</item>
+    </plurals>
+    <plurals name="msys_ds_4xu0wn">
+        <item quantity="other">Posílá %1$d fotek</item>
+        <item quantity="one">Posílá %1$d fotku</item>
+        <item quantity="few">Posílá %1$d fotky</item>
+    </plurals>
+    <plurals name="msys_ds_Tey2G">
+        <item quantity="other">%1$s posílá %2$d fotek</item>
+        <item quantity="one">%1$s posílá %2$d fotku</item>
+        <item quantity="few">%1$s posílá %2$d fotky</item>
+    </plurals>
+    <plurals name="msys_ds_l81ip">
+        <item quantity="other">Posíláte %1$d fotek</item>
+        <item quantity="one">Posíláte %1$d fotku</item>
+        <item quantity="few">Posíláte %1$d fotky</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">Nahlásit chat s %1$s a %2$s s %3$d dalšími?</item>
+        <item quantity="one">Nahlásit chat s %1$s, %2$s a %3$d dalším?</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">Přidáváte %1$s a další (%2$d) do skupiny.</item>
+        <item quantity="one">Přidáváte %1$s a %2$d dalšího do skupiny.</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">Odebíráte %1$s a další (%2$d) ze skupiny.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">Došlo k přidání %1$d slovních efektů z %2$s %3$s</item>
+        <item quantity="one">Došlo k přidání %1$d slovního efektu z %2$s %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">Máte změněných %1$d slovních efektů.</item>
+        <item quantity="one">Máte změněný %1$d slovní efekt.</item>
+        <item quantity="few">Máte změněné %1$d slovní efekty.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">%1$s změnil(a) %2$d slovních efektů.</item>
+        <item quantity="one">%1$s změnil(a) %2$d slovní efekt.</item>
+        <item quantity="few">%1$s změnil(a) %2$d slovní efekty.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">Máte nastavených %1$d slovních efektů %2$s</item>
+        <item quantity="one">Máte nastavený %1$d slovní efekt %2$s</item>
+        <item quantity="few">Máte nastavené %1$d slovní efekty %2$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">%1$s přidal(a) %2$d slovních efektů %3$s</item>
+        <item quantity="one">%1$s přidal(a) %2$d slovní efekt %3$s</item>
+        <item quantity="few">%1$s přidal(a) %2$d slovní efekty %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">Máte odebraných %1$d slovních efektů.</item>
+        <item quantity="one">Máte odebraný %1$d slovní efekt.</item>
+        <item quantity="few">Máte odebrané %1$d slovní efekty.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">%1$s odebral(a) %2$d slovních efektů.</item>
+        <item quantity="one">%1$s odebral(a) %2$d slovní efekt.</item>
+        <item quantity="few">%1$s odebral(a) %2$d slovní efekty.</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d d</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d hodinu</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d minutu</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d sekundu</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">%1$s přidává vás a další (%2$d) do skupiny.</item>
+        <item quantity="one">%1$s přidává do skupiny vás a další (%2$d).</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">%1$s přidává %2$s a další (%3$d) do skupiny.</item>
+        <item quantity="one">%1$s přidává do skupiny %2$s a %3$d dalšího.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">%1$s odebírá vás a další (%2$d) ze skupiny.</item>
+        <item quantity="one">%1$s odebral(a) ze skupiny vás a %2$d dalšího uživatele.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">%1$s odebral(a) ze skupiny %2$s a %3$d dalších.</item>
+        <item quantity="one">%1$s odebral(a) ze skupiny %2$s a %3$d dalšího uživatele.</item>
+        <item quantity="few">%1$s odebral(a) ze skupiny %2$s a %3$d další.</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">Tito lidé uvidí historii chatu</item>
+        <item quantity="one">Tento člověk uvidí historii chatu</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">Do skupiny jste byli přidáni vy a další (%1$d).</item>
+        <item quantity="one">Vy a %1$d další jste byli přidáni do skupiny.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">%1$s a další (%2$d) byli přidáni do skupiny.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">Vy a %1$d dalších už nejste ve skupině.</item>
+        <item quantity="one">Vy a %1$d další už nejste ve skupině.</item>
+        <item quantity="few">Vy a %1$d další už nejste ve skupině.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">%1$s a další (%2$d) byli odebráni ze skupiny.</item>
+        <item quantity="one">%1$s a %2$d další byli odebráni ze skupiny.</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">Je přidáno %1$d lidí</item>
+        <item quantity="one">Je přidán %1$d člověk</item>
+        <item quantity="few">Jsou přidáni %1$d lidé</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">Přidal(a) jste %1$s, %2$s s dalšími %3$d</item>
+        <item quantity="one">Přidal(a) jste %1$s, %2$s a dalšího člověka</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">Posíláte fotky (%1$d).</item>
+        <item quantity="one">Posíláte fotku.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">Vaše fotka se objevila v příspěvku %1$s a dalších (%2$s).</item>
+        <item quantity="one">Vaše fotka se objevila v příspěvku %1$s a 1 dalším.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">Vaše video se objevilo v příspěvku %1$s a dalších (%2$s).</item>
+        <item quantity="one">Vaše video se objevilo v příspěvku %1$s a 1 dalším.</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">Vaše fotka byla přidána do %1$s příběhů podle hashtagů</item>
+        <item quantity="one">Vaše fotka byla přidána do příběhu podle hashtagů</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">Vaše fotka byla přidána do %1$s příběhů podle lokalit</item>
+        <item quantity="one">Vaše fotka byla přidána do příběhů podle lokality</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">Vaše video bylo přidáno do %1$s příběhů podle hashtagů</item>
+        <item quantity="one">Vaše video bylo přidáno do příběhu podle hashtagů</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">Vaše video bylo přidáno do %1$s příběhů podle lokalit</item>
+        <item quantity="one">Vaše video bylo přidáno do příběhu podle lokalit</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">&lt;b>%1$s&lt;/b> od %2$s s %3$s dalšími efekty</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> od %2$s s %3$s dalším efektem</item>
+    </plurals>
+    <plurals name="n_additionalDiscounts">
+        <item quantity="other">%1$d dalších propagací</item>
+        <item quantity="one">%1$d další propagace</item>
+        <item quantity="few">%1$d další propagace</item>
+    </plurals>
+    <plurals name="n_additionalDiscountsOffers">
+        <item quantity="other">%1$d dalších nabídek</item>
+        <item quantity="one">%1$d další nabídka</item>
+        <item quantity="few">%1$d další nabídky</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">Máte %1$d nových potenciálních zákazníků.</item>
+        <item quantity="one">Máte %1$d nového potenciálního zákazníka.</item>
+        <item quantity="few">Máte %1$d nové potenciální zákazníky.</item>
+    </plurals>
+    <plurals name="new_post_badge">
+        <item quantity="other">Nové příspěvky</item>
+        <item quantity="one">1 nový příspěvek</item>
+    </plurals>
+    <plurals name="notification_badge">
+        <item quantity="other">%1$d upozornění</item>
+        <item quantity="one">1 upozornění</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">+%1$d nepřečtených zpráv</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d nepřečtených zpráv</item>
+        <item quantity="one">%1$d nepřečtená zpráva</item>
+        <item quantity="few">%1$d nepřečtené zprávy</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">%1$d kolekcí produktů</item>
+        <item quantity="one">%1$d kolekce produktů</item>
+        <item quantity="few">%1$d kolekce produktů</item>
+    </plurals>
+    <plurals name="num_pdp_attributes_discounts_formatted">
+        <item quantity="other">%1$s s %2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">%1$d produktů</item>
+        <item quantity="one">%1$d produkt</item>
+        <item quantity="few">%1$d produkty</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">%1$s komentářů</item>
+        <item quantity="one">%1$s komentář</item>
+        <item quantity="few">%1$s komentáře</item>
+    </plurals>
+    <plurals name="number_of_comments_with_specific_emoji">
+        <item quantity="other">%1$s komentářů s %2$s</item>
+        <item quantity="one">%1$s komentář s %2$s</item>
+        <item quantity="few">%1$s komentáře s %2$s</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">%1$s To se mi líbí</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">Přehráno %1$s×</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s příspěvků</item>
+        <item quantity="one">%1$s příspěvek</item>
+        <item quantity="few">%1$s příspěvky</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">%1$s veřejných příspěvků</item>
+        <item quantity="one">%1$s veřejný příspěvek</item>
+        <item quantity="few">%1$s veřejné příspěvky</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">To se mi líbí a reakce od %1$s</item>
+        <item quantity="one">To se mi líbí nebo reakce od %1$s</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">%1$s sdílení</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">%1$s diváků</item>
+        <item quantity="one">%1$s divák</item>
+        <item quantity="few">%1$s diváci</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">%1$s zobrazení</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">Před %1$d lety tento den.</item>
+        <item quantity="one">Vloni v tento den.</item>
+    </plurals>
+    <plurals name="on_x_countries">
+        <item quantity="other">Zapnuto (%1$d zemí)</item>
+        <item quantity="one">Zapnuto (%1$d země)</item>
+        <item quantity="few">Zapnuto (%1$d země)</item>
+    </plurals>
+    <plurals name="other_badges">
+        <item quantity="other">%1$d dalších</item>
+        <item quantity="one">%1$d další</item>
+        <item quantity="few">%1$d další</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">Máte %1$d čekajících reklam.</item>
+        <item quantity="one">Máte %1$d čekající reklamu.</item>
+        <item quantity="few">Máte %1$d čekající reklamy.</item>
+    </plurals>
+    <plurals name="people_tagging_x_people_plurals">
+        <item quantity="other">%2$d lidí</item>
+        <item quantity="one">%2$d člověk</item>
+        <item quantity="few">%2$d lidé</item>
+    </plurals>
+    <plurals name="plays_user_list_title">
+        <item quantity="other">%1$d přehrání</item>
+        <item quantity="one">1 přehrání</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">%1$s hlasujících z propagace</item>
+        <item quantity="one">%1$s hlasující z propagace</item>
+        <item quantity="few">%1$s hlasující z propagace</item>
+    </plurals>
+    <plurals name="post_live_broadcaster_user_pay_summary_info">
+        <item quantity="other">Z %2$s štítků získáváte přibližně %1$s.</item>
+        <item quantity="one">Z %2$s štítku získáváte přibližně %1$s.</item>
+    </plurals>
+    <plurals name="post_live_viewer_count">
+        <item quantity="other">Vaše živé vysílání viděli %1$s a %2$s s %3$d dalšími.</item>
+        <item quantity="one">Vaše živé vysílání viděl(a) %1$s.</item>
+    </plurals>
+    <plurals name="post_live_viewer_user_pay_summary_info">
+        <item quantity="other">Koupili jste si %2$d štítků. %1$s uvidí seznam všech lidí, kteří si koupili štítek.</item>
+        <item quantity="one">Koupili jste si %2$d štítek. %1$s uvidí seznam všech lidí, kteří si koupili štítek.</item>
+        <item quantity="few">Koupili jste si %2$d štítky. %1$s uvidí seznam všech lidí, kteří si koupili štítek.</item>
+    </plurals>
+    <plurals name="product_guide_shop_row_subtitle">
+        <item quantity="other">%1$d produktů</item>
+        <item quantity="one">%1$d produkt</item>
+        <item quantity="few">%1$d produkty</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">Jsou dostupné návrhy</item>
+        <item quantity="one">Dostupný návrh</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_facebook_others">
+        <item quantity="other">%1$s a %2$d dalších odkazů</item>
+        <item quantity="one">%1$s a %2$d další odkaz</item>
+        <item quantity="few">%1$s a %2$d další odkazy</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_others">
+        <item quantity="other">%1$s a %2$d dalších</item>
+        <item quantity="one">%1$s a %2$d další</item>
+        <item quantity="few">%1$s a %2$d další</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_admins_with_count">
+        <item quantity="other">%1$s správců</item>
+        <item quantity="one">%1$s správce</item>
+        <item quantity="few">%1$s správci</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_blocked_with_count">
+        <item quantity="other">%1$s zablokovaných</item>
+        <item quantity="one">%1$s zablokovaný</item>
+        <item quantity="few">%1$s zablokovaní</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_members_with_count">
+        <item quantity="other">%1$s členů</item>
+        <item quantity="one">%1$s člen</item>
+        <item quantity="few">%1$s členové</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">&lt;b>%1$s&lt;/b> s &lt;b>%2$s dalšími &lt;/b> něco přidali</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> s &lt;b>1 dalším &lt;/b> něco přidali</item>
+    </plurals>
+    <plurals name="quickshare_add_topics_pill_text">
+        <item quantity="other">%1$d témat</item>
+        <item quantity="one">%1$d téma</item>
+        <item quantity="few">%1$d témata</item>
+    </plurals>
+    <plurals name="recipient_picker_close_friends_count">
+        <item quantity="other">%1$s lidí</item>
+        <item quantity="one">%1$s člověk</item>
+        <item quantity="few">%1$s lidé</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">%1$s dalších lidí vidělo tento příběh na Facebooku. Protože je příběh sdílený s nastavením soukromí Veřejný, viděli ho i lidé, které nemáte v přátelích.</item>
+        <item quantity="one">%1$s další člověk viděl tento příběh na Facebooku. Protože je příběh sdílený s nastavením soukromí Veřejný, viděli ho i lidé, které nemáte v přátelích.</item>
+        <item quantity="few">%1$s další lidé viděli tento příběh na Facebooku. Protože je příběh sdílený s nastavením soukromí Veřejný, viděli ho i lidé, které nemáte v přátelích.</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">%1$s dalších zhlédnutí na Facebooku</item>
+        <item quantity="one">%1$s další zhlédnutí na Facebooku</item>
+        <item quantity="few">%1$s další zhlédnutí na Facebooku</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">hlasy pro %1$s</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">%1$d lidí odpovědělo. Tohle je obvyklá odpověď.</item>
+        <item quantity="one">%1$d člověk odpověděl. Tohle je obvyklá odpověď.</item>
+        <item quantity="few">%1$d lidé odpověděli. Tohle je obvyklá odpověď.</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">Remixováno &lt;b>%1$spřáteli&lt;/b></item>
+        <item quantity="one">Remixováno &lt;b>1 přítelem&lt;/b></item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">Remixováno &lt;b>%1$slidmi&lt;/b></item>
+        <item quantity="one">Remixováno &lt;b>1 člověkem&lt;/b></item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_message">
+        <item quantity="other">Chystáte se odebrat %1$d videí z výběru.</item>
+        <item quantity="one">Chystáte se odebrat %1$d video z výběru.</item>
+        <item quantity="few">Chystáte se odebrat %1$d videa z výběru.</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_title">
+        <item quantity="other">Odebrat %1$d videí z výběru?</item>
+        <item quantity="one">Odebrat %1$d video z výběru?</item>
+        <item quantity="few">Odebrat %1$d videa z výběru?</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">Odebrat %1$s sledujících?</item>
+        <item quantity="one">Odebrat %1$s sledujícího?</item>
+        <item quantity="few">Odebrat %1$s sledující?</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">%1$d odebraných produktů</item>
+        <item quantity="one">%1$d odebraný produkt</item>
+        <item quantity="few">%1$d odebrané produkty</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_body">
+        <item quantity="other">Máte vybraných %1$d účtů. Nové komentáře člověka, kterého omezíte, u vašich příspěvků uvidíte jen vy a on.</item>
+        <item quantity="one">Máte vybraný %1$d účet. Nové komentáře člověka, kterého omezíte, u vašich příspěvků uvidíte jen vy a on.</item>
+        <item quantity="few">Máte vybrané %1$d účty. Nové komentáře člověka, kterého omezíte, u vašich příspěvků uvidíte jen vy a on.</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_primary_button">
+        <item quantity="other">Omezit účty</item>
+        <item quantity="one">Omezit účet</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_title">
+        <item quantity="other">Omezit %1$d účtů?</item>
+        <item quantity="one">Omezit %1$d účet?</item>
+        <item quantity="few">Omezit %1$d účty?</item>
+    </plurals>
+    <plurals name="rolodex_hour">
+        <item quantity="other">%1$d hodin</item>
+        <item quantity="one">%1$d hodina</item>
+        <item quantity="few">%1$d hodiny</item>
+    </plurals>
+    <plurals name="rolodex_minute">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+    </plurals>
+    <plurals name="rolodex_second">
+        <item quantity="other">%1$d s</item>
+    </plurals>
+    <plurals name="rtc_effects_removed_multipeer_effect_max_participant_exceed">
+        <item quantity="other">Prostředí %1$s podporuje maximálně %2$d lidí.</item>
+        <item quantity="one">Prostředí %1$s podporuje maximálně %2$d člověka.</item>
+        <item quantity="few">Prostředí %1$s podporuje maximálně %2$d lidi.</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">Uložené příspěvky: %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">Příspěvky se nedají přidat</item>
+        <item quantity="one">Příspěvek se nedá přidat</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">%2$s příspěvků přidáno do sbírky %1$s</item>
+        <item quantity="one">%2$s příspěvek přidán do sbírky %1$s</item>
+        <item quantity="few">%2$s příspěvky přidány do sbírky %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">Příspěvky se nedají přesunout</item>
+        <item quantity="one">Příspěvek se nedá přesunout</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">%2$s příspěvků přesunutých do sbírky %1$s</item>
+        <item quantity="one">%2$s příspěvek přesunutý do sbírky %1$s</item>
+        <item quantity="few">%2$s příspěvky přesunuté do sbírky %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">Příspěvky se odeberou ze sbírky a přesunou se do sbírky %1$s. Budou stále uložené mezi všemi uloženými.</item>
+        <item quantity="one">Příspěvek se odebere ze sbírky a přesune se do sbírky %1$s. Bude stále uložený mezi všemi uloženými.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">Když zrušíte uložení příspěvků, odeberou se i z kolekcí.</item>
+        <item quantity="one">Když to odeberete, odebere se to i z kolekcí.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">Zrušit uložení příspěvků?</item>
+        <item quantity="one">Zrušit uložení příspěvku?</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">Příspěvky se nedají odebrat</item>
+        <item quantity="one">Příspěvek se nedá odebrat</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">%2$s příspěvků odebráno ze sbírky %1$s</item>
+        <item quantity="one">%2$s příspěvek odebrán ze sbírky %1$s</item>
+        <item quantity="few">%2$s příspěvky odebrány ze sbírky %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">Nedá se zrušit uložení příspěvků</item>
+        <item quantity="one">Nedá se zrušit uložení příspěvku</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">Uložení %1$s příspěvků zrušeno</item>
+        <item quantity="one">Uložení příspěvku zrušeno</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">%1$d vybraných položek</item>
+        <item quantity="one">%1$d vybraná položka</item>
+        <item quantity="few">%1$d vybrané položky</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">%1$d položek</item>
+        <item quantity="one">%1$d položka</item>
+        <item quantity="few">%1$d položky</item>
+    </plurals>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">Zbývá %1$d sekund</item>
+        <item quantity="one">Zbývá %1$d sekunda</item>
+        <item quantity="few">Zbývají %1$d sekundy</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">Nové příspěvky</item>
+        <item quantity="one">Nový příspěvek</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s nových příspěvků</item>
+        <item quantity="one">%1$s nový příspěvek</item>
+        <item quantity="few">%1$s nové příspěvky</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_subtitle">
+        <item quantity="other">%1$d videí bylo v některých zemích zablokováno.</item>
+        <item quantity="one">%1$d video bylo v některých zemích zablokováno.</item>
+        <item quantity="few">%1$d videa byla v některých zemích zablokována.</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_title">
+        <item quantity="other">%1$d videí bylo v některých zemích zablokováno</item>
+        <item quantity="one">%1$d video bylo v některých zemích zablokováno</item>
+        <item quantity="few">%1$d videa byla v některých zemích zablokována</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_subtitle">
+        <item quantity="other">%1$d videí bylo zablokováno</item>
+        <item quantity="one">%1$d video bylo zablokováno</item>
+        <item quantity="few">%1$d videa byla zablokována</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_title">
+        <item quantity="other">%1$d videí bylo zablokováno</item>
+        <item quantity="one">%1$d video bylo zablokováno</item>
+        <item quantity="few">%1$d videa byla zablokována</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_subtitle">
+        <item quantity="other">%1$d videí bylo v některých zemích zablokováno.</item>
+        <item quantity="one">%1$d video bylo v některých zemích zablokováno.</item>
+        <item quantity="few">%1$d videa byla v některých zemích zablokována.</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_title">
+        <item quantity="other">%1$d videí je dostupných jen v některých zemích</item>
+        <item quantity="one">%1$d video je dostupné jen v některých zemích</item>
+        <item quantity="few">%1$d videa jsou dostupná jen v některých zemích</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">Současně můžete zvolit víc komentářů (%1$d).</item>
+        <item quantity="one">Najednou můžete vybrat jen 1 komentář.</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">Všechny nevyřízené žádosti o sledování se automaticky schválí, pokud je teď neodstraníte. Zkontrolujte %1$s žádostí o sledování čekajících na vyřízení.</item>
+        <item quantity="one">Všechny nevyřízené žádosti o sledování se automaticky schválí, pokud je teď neodstraníte. Zkontrolujte %1$s žádost o sledování čekající na vyřízení.</item>
+        <item quantity="few">Všechny nevyřízené žádosti o sledování se automaticky schválí, pokud je teď neodstraníte. Zkontrolujte %1$s žádosti o sledování čekající na vyřízení.</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">%1$s produktů</item>
+        <item quantity="one">%1$s produkt</item>
+        <item quantity="few">%1$s produkty</item>
+    </plurals>
+    <plurals name="shopping_cart_count_content_description">
+        <item quantity="other">%1$d položek v košíku</item>
+        <item quantity="one">%1$d položka v košíku</item>
+        <item quantity="few">%1$d položky v košíku</item>
+    </plurals>
+    <plurals name="shopping_cart_num_items">
+        <item quantity="other">%1$d položek</item>
+        <item quantity="one">%1$d položka</item>
+        <item quantity="few">%1$d položky</item>
+    </plurals>
+    <plurals name="shopping_cart_subtotal_title_text">
+        <item quantity="other">Mezisoučet (%1$d položek)</item>
+        <item quantity="one">Mezisoučet (%1$d položka)</item>
+        <item quantity="few">Mezisoučet (%1$d položky)</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">%1$s a &lt;b>%2$sdalších&lt;/b> jsou členy</item>
+        <item quantity="one">%1$s a &lt;b>%2$sdalší&lt;/b> jsou členy</item>
+        <item quantity="few">%1$s a &lt;b>%2$sdalší&lt;/b> jsou členy</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s a &lt;b>%3$sdalších&lt;/b> jsou členy</item>
+        <item quantity="one">%1$s, %2$s a &lt;b>%3$sdalší&lt;/b> jsou členy</item>
+        <item quantity="few">%1$s, %2$s a &lt;b>%3$sdalší&lt;/b> jsou členy</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s a &lt;b>%4$s dalších&lt;/b> jsou členy</item>
+        <item quantity="one">%1$s, %2$s, %3$s a &lt;b>%4$s další&lt;/b> jsou členy</item>
+        <item quantity="few">%1$s, %2$s, %3$s a &lt;b>%4$s další&lt;/b> jsou členy</item>
+    </plurals>
+    <plurals name="standalone_fundraiser_with_cohost_label">
+        <item quantity="other">&lt;b>%1$s&lt;/b> a &lt;b>%2$s others&lt;/b></item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> a &lt;b>1 other&lt;/b></item>
+    </plurals>
+    <plurals name="sticker_count_limit">
+        <item quantity="other">Samolepku můžete do příběhu přidat jen %1$dkrát.</item>
+        <item quantity="one">Samolepku můžete do příběhu přidat jen jednou</item>
+    </plurals>
+    <plurals name="story_drafts_confirmation_title">
+        <item quantity="other">Odstranit koncepty?</item>
+        <item quantity="one">Odstranit koncept?</item>
+    </plurals>
+    <plurals name="subscriptions_shoutout_bottom_sheet_title">
+        <item quantity="other">Zmiňuje %1$d předplatitelů</item>
+        <item quantity="one">Zmiňuje %1$d předplatitele</item>
+        <item quantity="few">Zmiňuje %1$d předplatitele</item>
+    </plurals>
+    <plurals name="suggested_hidden_words_toast_text">
+        <item quantity="other">Na seznam skrytých slov bylo přidáno %1$d slov</item>
+        <item quantity="one">Na seznam skrytých slov bylo přidáno %1$d slovo</item>
+        <item quantity="few">Na seznam skrytých slov byly přidány %1$d slova</item>
+    </plurals>
+    <plurals name="suggested_products_count">
+        <item quantity="other">%1$d navrhovaných produktů</item>
+        <item quantity="one">%1$d navrhovaný produkt</item>
+        <item quantity="few">%1$d navrhované produkty</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos">
+        <item quantity="other">Skupinové fotky z minulého víkendu</item>
+        <item quantity="one">Skupinová fotka z minulého víkendu</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos_with_location">
+        <item quantity="other">Skupinové fotky z minulého víkendu v %1$s</item>
+        <item quantity="one">Skupinová fotka z minulého víkendu v %1$s</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos">
+        <item quantity="other">Dnešní skupinové fotky</item>
+        <item quantity="one">Dnešní skupinová fotka</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos_with_location">
+        <item quantity="other">Dnešní skupinové fotky z %1$s</item>
+        <item quantity="one">Dnešní skupinová fotka z %1$s</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos">
+        <item quantity="other">Včerejší skupinové fotky</item>
+        <item quantity="one">Včerejší skupinová fotka</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos_with_location">
+        <item quantity="other">Včerejší skupinová fotka z %1$s</item>
+    </plurals>
+    <plurals name="suggestion_your_recent_favorites">
+        <item quantity="other">Oblíbené z minulého týdne</item>
+    </plurals>
+    <plurals name="tagged_accounts_plural">
+        <item quantity="other">označené účty:</item>
+        <item quantity="one">označený účet:</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">Šablona použita &lt;b>%1$spřáteli&lt;/b></item>
+        <item quantity="one">Šablona používaná &lt;b>1 přítelem&lt;/b></item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">Šablona používaná &lt;b>%1$slidmi&lt;/b></item>
+        <item quantity="one">Šablona používaná &lt;b>%1$sčlověkem&lt;/b></item>
+        <item quantity="few">Šablona používaná &lt;b>%1$slidmi &lt;/b></item>
+    </plurals>
+    <plurals name="thread_title_suffix_n_others">
+        <item quantity="other">... a %1$d dalších</item>
+        <item quantity="one">... a %1$d další</item>
+        <item quantity="few">... a %1$d další</item>
+    </plurals>
+    <plurals name="thread_title_x_and_n_others">
+        <item quantity="other">%1$s a %2$d dalších</item>
+        <item quantity="one">%1$s a %2$d další</item>
+        <item quantity="few">%1$s a %2$d další</item>
+    </plurals>
+    <plurals name="thread_title_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s a %3$s dalších</item>
+        <item quantity="one">%1$s, %2$s a %3$s další</item>
+        <item quantity="few">%1$s, %2$s a %3$s další</item>
+    </plurals>
+    <plurals name="unseen_like_notification">
+        <item quantity="other">Máte %1$d nových To se mi líbí</item>
+        <item quantity="one">Máte %1$d nové To se mi líbí</item>
+        <item quantity="few">Máte %1$d nová To se mi líbí</item>
+    </plurals>
+    <plurals name="upcoming_event_subtitle_template">
+        <item quantity="other">%1$d produktů · %2$s</item>
+        <item quantity="one">%1$d produkt · %2$s</item>
+        <item quantity="few">%1$d produkty · %2$s</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_list_supporters_title">
+        <item quantity="other">%1$d příznivců</item>
+        <item quantity="one">%1$d příznivec</item>
+        <item quantity="few">%1$d příznivci</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">Upozornění v Aktivitách se zobrazí %1$d příznivcům</item>
+        <item quantity="one">Upozornění v Aktivitách se zobrazí 1 příznivci</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notified_supporters_number">
+        <item quantity="other">%1$d příznivců se štítky z vašeho posledního živého vysílání dostane upozornění, když budete tento příběh sdílet. Zobrazit</item>
+        <item quantity="one">%1$d příznivec se štítky z vašeho posledního živého vysílání dostane upozornění, když budete tento příběh sdílet. Zobrazit</item>
+        <item quantity="few">%1$d příznivci se štítky z vašeho posledního živého vysílání dostane upozornění, když budete tento příběh sdílet. Zobrazit</item>
+    </plurals>
+    <plurals name="user_pay_fanclub_all_subscribers_header">
+        <item quantity="other">Všichni předplatitelé (%1$d)</item>
+        <item quantity="one">Všichni odběratelé</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d zhlédnutí</item>
+        <item quantity="one">1 zhlédnutí</item>
+    </plurals>
+    <plurals name="view_x_more_replies">
+        <item quantity="other">Zobrazit %1$d dalších odpovědí</item>
+        <item quantity="one">Zobrazit %1$d další odpověď</item>
+        <item quantity="few">Zobrazit %1$d další odpovědi</item>
+    </plurals>
+    <plurals name="view_x_previous_replies">
+        <item quantity="other">Zobrazit %1$d předchozích odpovědí</item>
+        <item quantity="one">Zobrazit %1$d předchozí odpověď</item>
+        <item quantity="few">Zobrazit %1$d předchozí odpovědi</item>
+    </plurals>
+    <plurals name="view_x_replies">
+        <item quantity="other">Zobrazit %1$d dalších odpovědí</item>
+        <item quantity="one">Zobrazit %1$d další odpověď</item>
+        <item quantity="few">Zobrazit %1$d další odpovědi</item>
+    </plurals>
+    <plurals name="voter_count_on_surfaces">
+        <item quantity="other">Hlas · %1$s výsledků hlasování</item>
+        <item quantity="one">Hlas · %1$s výsledek hlasování</item>
+        <item quantity="few">Hlas · %1$s výsledky hlasování</item>
+    </plurals>
+    <plurals name="voters_count">
+        <item quantity="other">%1$s hlasů</item>
+        <item quantity="one">%1$s hlas</item>
+        <item quantity="few">%1$s hlasy</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">%1$d odstraněných komentářů.</item>
+        <item quantity="one">%1$d odstraněný komentář.</item>
+        <item quantity="few">%1$d odstraněné komentáře.</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$s dnů</item>
+        <item quantity="one">%1$s den</item>
+        <item quantity="few">%1$s dny</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">před %1$s dny</item>
+        <item quantity="one">před %1$s dnem</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s hodin</item>
+        <item quantity="one">%1$s hodina</item>
+        <item quantity="few">%1$s hodiny</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">před %1$s hodinami</item>
+        <item quantity="one">Před %1$s hodinou</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s minut</item>
+        <item quantity="one">%1$s minuta</item>
+        <item quantity="few">%1$s minuty</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">před %1$s min</item>
+        <item quantity="one">před %1$s minutou</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d lidí</item>
+        <item quantity="one">%1$d člověk</item>
+        <item quantity="few">%1$d lidé</item>
+    </plurals>
+    <plurals name="x_reactions">
+        <item quantity="other">%1$s reakcí</item>
+        <item quantity="one">%1$s reakce</item>
+        <item quantity="few">%1$s reakce</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s sekund</item>
+        <item quantity="one">%1$s sekunda</item>
+        <item quantity="few">%1$s sekundy</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">před %1$s sekundami</item>
+        <item quantity="one">před %1$s sekundou</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">Vybráno: %1$d</item>
+        <item quantity="one">1 vybraný</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">Uživatelé (%1$d) odpověděli.</item>
+        <item quantity="one">Odpověděla 1 osoba.</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s týdnů</item>
+        <item quantity="one">%1$s týden</item>
+        <item quantity="few">%1$s týdny</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">Před %1$s týdny</item>
+        <item quantity="one">před %1$s týdnem</item>
+    </plurals>
+</resources>

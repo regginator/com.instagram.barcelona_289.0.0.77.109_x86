@@ -1,0 +1,37 @@
+package p000X;
+
+import java.util.Iterator;
+import java.util.concurrent.CopyOnWriteArraySet;
+/* renamed from: X.HXQ */
+/* loaded from: classes6.dex */
+public final class HXQ implements Runnable {
+    public final /* synthetic */ InterfaceC148738aA A00;
+    public final /* synthetic */ C32942GzD A01;
+    public final /* synthetic */ C29083FFu A02;
+
+    public HXQ(InterfaceC148738aA interfaceC148738aA, C32942GzD c32942GzD, C29083FFu c29083FFu) {
+        this.A01 = c32942GzD;
+        this.A02 = c29083FFu;
+        this.A00 = interfaceC148738aA;
+    }
+
+    @Override // java.lang.Runnable
+    public final void run() {
+        C32942GzD c32942GzD = this.A01;
+        if (!c32942GzD.A08) {
+            CopyOnWriteArraySet copyOnWriteArraySet = c32942GzD.A07;
+            C29083FFu c29083FFu = this.A02;
+            InterfaceC148738aA interfaceC148738aA = this.A00;
+            Iterator it = copyOnWriteArraySet.iterator();
+            while (it.hasNext()) {
+                InterfaceC34717HsK interfaceC34717HsK = (InterfaceC34717HsK) it.next();
+                InterfaceC21193Bbg interfaceC21193Bbg = c32942GzD.A00;
+                if (interfaceC21193Bbg == null) {
+                    C0OR.A0E("action");
+                    throw null;
+                }
+                interfaceC34717HsK.C9E(interfaceC148738aA, interfaceC21193Bbg, c29083FFu);
+            }
+        }
+    }
+}

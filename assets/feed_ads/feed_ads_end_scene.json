@@ -1,0 +1,234 @@
+{
+  "media_or_ad": {
+    "taken_at": 1486092028,
+    "pk": 1441766888928632000,
+    "id": "1441766888928632150_2888882707",
+    "device_timestamp": 1486092028,
+    "media_type": 2,
+    "code": "BQCL1i_gt1W",
+    "client_cache_key": "MTQ0MTc2Njg4ODkyODYzMjE1MA==.2",
+    "filter_type": 0,
+    "feed_end_scene_data": {
+      "end_scene_length": 20,
+      "follower_count": 199000000,
+      "is_end_scene_permanent": true,
+      "page_name": "Rohan's Test Page",
+      "subtitle": "example.org"
+    },
+    "image_versions2":{
+      "candidates":[
+        {
+          "width":1285,
+          "height":722,
+          "url":"https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png"
+        }
+      ]
+    },
+    "is_dash_eligible": 1,
+    "original_width":1280,
+    "original_height":720,
+    "video_versions":[
+      {
+        "type":101,
+        "width":1280,
+        "height":720,
+        "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "id":"18053562115157882"
+      }
+    ],
+    "has_audio": true,
+    "video_duration": 15.315,
+    "view_count": 746855,
+    "user": {
+      "pk": 2888882707,
+      "username": "ro.hansolo.test.account",
+      "full_name": "Rohan's test account",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/VxctHNM/standard-video-3.jpg",
+      "profile_pic_id": "1814704917764661704_2888882707",
+      "friendship_status": {
+        "following": false,
+        "outgoing_request": false,
+        "is_muting_reel": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": false,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": true,
+      "is_favorite": false,
+      "latest_reel_media": 0
+    },
+    "caption_is_edited": false,
+    "liker_config": {
+      "is_daisy": true,
+      "hide_view_count": true,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 1,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false
+    },
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": true,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 26,
+    "like_count": 1925,
+    "bucketed_like_count": null,
+    "ads_bucketed_like_count": 1,
+    "has_liked": false,
+    "top_likers": [],
+    "photo_of_you": false,
+    "caption": {
+      "pk": 17848215370174728,
+      "user_id": 2888882707,
+      "text": "A test video for feed end scene",
+      "type": 1,
+      "created_at": 1486092029,
+      "created_at_utc": 1486092029,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 2888882707,
+        "username": "ro.hansolo.test.account",
+        "full_name": "Rohan's Test Account",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/VxctHNM/standard-video-3.jpg",
+        "profile_pic_id": "1814704917764661704_2888882707",
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_muting_reel": false,
+          "is_bestie": false,
+          "is_restricted": false
+        },
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": true,
+        "is_favorite": false,
+        "latest_reel_media": 0
+      },
+      "media_id": 1441766888928632000
+    },
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQKQuQ8iplGj7Q7iIFMMUR3g4TtyZbNKvLJ1HRmqC6CLgFXk75LFiWJhp7yV9Nm7-qvo1q3QV0O4aKFBu6Leuri-",
+      "show_ad_choices": false,
+      "ad_title": "Banana Republic",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 23842540042810104,
+      "display_viewability_eligible": false,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": "{}",
+            "serializedImpOrganicScoreMap": "{}"
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=1DOBiZOfp1HigNAtk.AWW6qWKYuZov5IZXEsqfdf3UsjI.Beaqxe..AAA.0.0.Beaqxe.AWVIPzY9; expires=Wed, 10 Jun 2020 21:40:46 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ]
+    },
+    "collapse_comments": true,
+    "ad_metadata": [
+      {
+        "value": "bananarepublic.com",
+        "type": 1
+      }
+    ],
+    "link": "http://bananarepublic.gap.com/browse/category.do?cid=99915&sop=true&tid=brsm001135",
+    "link_text": "Learn More",
+    "ad_action": "webclick",
+    "link_hint_text": "Tap Photo to Open Page",
+    "iTunesItem": null,
+    "ad_link_type": 0,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "android_links": [
+      {
+        "linkType": 1,
+        "webUri": "http://bananarepublic.gap.com/browse/category.do?cid=99915&sop=true&tid=brsm001135",
+        "androidClass": "",
+        "package": "",
+        "deeplinkUri": "",
+        "callToActionTitle": "",
+        "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad831JDFW3i4hEWJ2qs0ZkHZvhLWW_ZujXLdOPLPpbjvxfADfKhLtE9leIVrtf8tpNxcqP6eQOJpzrfNiimwJLwxIJ2fljwSNwqfgVQs8DIPz4AWjLhjcf36ibwjbmhkC-11FX4n1hRGzLaCM8M7Z04z7QvH773wmJC8GHhaLvp1MYlKYbXtUZ08kqO4LIssITEKDjMNaPcRxpm9-1LKGCGWTMsYUWDc3czR8PnJ1WYOY1nsbth1Ta_mmZ-67SD_-Qx2ajajklvzUN15dwEBtYEA&a=1&hash=Ad8Ep4ML-87cKIP7",
+        "leadGenFormId": null,
+        "igUserId": null,
+        "appInstallObjectiveInvalidationBehavior": null
+      }
+    ],
+    "iab_autofill_optout_info": {
+      "domain": "bananarepublic.gap.com",
+      "is_iab_autofill_optout": false
+    },
+    "force_overlay": false,
+    "hide_nux_text": true,
+    "overlay_text": "Go to Website",
+    "overlay_title": "Banana Republic",
+    "overlay_subtitle": "Go to bananarepublic.com",
+    "dominant_color": "#655D32",
+    "follower_count": 0,
+    "post_count": 0,
+    "fb_page_url": "https://www.facebook.com/BananaRepublic/",
+    "can_viewer_save": true,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjIwNjA4ZTk4ZWFlMTRiOWJhOTY1N2M1YzM1ODliYzU1MTQ0MTc2Njg4ODkyODYzMjE1MCIsInNlcnZlcl90b2tlbiI6IjE1ODQwNDkyNDc2MzR8MTQ0MTc2Njg4ODkyODYzMjE1MHw0MzYxMTc5NjZ8ZTliOTM3ZDAzOGM0ZTA3NmRmOWVkZGU4MzM4YWMyY2NiNWQ0OTc5OTk5MGQwZTM3OTQ0NDA3YTcyZWE1MmI4MyJ9LCJzaWduYXR1cmUiOiIifQ==",
+    "expiring_at": 9999999999,
+    "preview": "ACoXuQsCuAf/ANf0/rTi2OD90ck+grPikwTg9MdACfpnpj6mrY2y5jJxvGPp37ce9ZFiLcCU4XqBnaeDTXbacN1P9ah+zlPnBywGPYj/ABoji3jnqDnj0/x46UNASqHJ56Hof/r1ZA9f6VWE6l85OOmPT8B/nvVkOp7H/wAdqRgIInGI8gD265pBbImXHJUYHXvx60UUk/ft0BqzIGkCHHc8j8KYbhIzgAknqRx/9f8Axooq2IrFE3BxkL39vTFWQR6n8zRRSA//2Q==",
+    "inventory_source": "media_or_ad",
+    "is_seen": false,
+    "is_eof": false
+  }
+}

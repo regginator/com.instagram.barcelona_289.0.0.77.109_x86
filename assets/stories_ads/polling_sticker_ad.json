@@ -1,0 +1,271 @@
+{
+  "id":"polling_sticker_ad",
+  "latest_reel_media":null,
+  "expiring_at":9564176705,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":true,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk":327282068,
+    "username":"mazdaaus",
+    "full_name":"Mazda Australia",
+    "is_private":false,
+    "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id":"1982485687404243161_327282068",
+    "is_verified":false
+  },
+  "items":[
+    {
+      "taken_at":1560238561,
+      "pk":2063753091190175000,
+      "id":"polling_sticker_ad",
+      "device_timestamp":1560238561,
+      "media_type":1,
+      "code":"Byj7ICQgTSj",
+      "client_cache_key":"MjA2Mzc1MzA5MTE5MDE3NDg4Mw==.2",
+      "filter_type":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png"
+          }
+        ]
+      },
+      "original_width":900,
+      "original_height":1600,
+      "user":{
+        "pk":327282068,
+        "username":"mazdaaus",
+        "full_name":"Mazda Australia",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id":"1982485687404243161_327282068",
+        "is_verified":false,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":false,
+        "is_favorite":false,
+        "latest_reel_media":null
+      },
+      "caption":null,
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":0,
+      "has_liked":false,
+      "likers":[
+
+      ],
+      "photo_of_you":false,
+      "fb_page_url":"https://www.facebook.com/mazdaaus/",
+      "collapse_comments":false,
+      "top_followers":[
+        "placeholder"
+      ],
+      "top_followers_count":1,
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMTcxNjg1MTcwMTUyNDczYzg3NDkzMmE1MmY1ZDE0NzYyMDYzNzUzMDkxMTkwMTc0ODgzIiwic2VydmVyX3Rva2VuIjoiMTU2NDA5MDMwNTY3MHwyMDYzNzUzMDkxMTkwMTc0ODgzfDU0ODU2MTAyMTl8ODdlZjMyOWQ0NDU5ZmY0ZmYxN2YxZDgzYTZlOTNmNGQwNThlOThlZWMzNDEzYzZmYWY0NGE4MzAyNzFiNTcyYSJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at":9564176705,
+      "can_reshare":true,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQIWlDmlfPi6XMIuNczRfvuJr14WRKYp4UIyj4sCf0BvH-MvhnVg3oByX9caTExOMWVIAnvwfwQyF_nUtDBM2Gkx",
+        "show_ad_choices":false,
+        "ad_title":"Mazda Australia",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":6116993149249,
+        "direct_share":true,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":"{}",
+              "serializedImpOrganicScoreMap":"{}"
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=1rMuthwUuATV6H9Oj.AWVTcIyOY_Xe_uWiQyq6lNlYAA0.BdOh_B..AAA.0.0.BdOh_B.AWUUNnbv; expires=Fri, 24 Jul 2020 21:31:45 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links":[
+        {
+          "linkType":1,
+          "webUri":"https://www.mazda.com.au/cars/mazda3/?fbclid=IwAR0qifkXBI_L5-3doRLOHI-TO-60zTpbqLfKPtMSj0EDF-aDJODaInA4ibs",
+          "androidClass":"",
+          "package":"",
+          "deeplinkUri":"",
+          "callToActionTitle":"",
+          "redirectUri":"https://www.facebook.com/ads/ig_redirect/?d=Ad8118Nc5ohxbzJiW4aHp6O5S-cnBdiZEzNGaRrA5ve8tQ_Fdwkhu09KpLlCbitNsPF-YPnQQphCzL0clnMHBIdPMxLv2axCGQ4LK5gBDK_MbtoN2mN4kU7Rg0Q-6NuRGttHWuiVS_p8SprWVad0dfUw8JIs7nrlNSTFTQOoOfzeA7Y5Y2o4yi-qefulSXQB3GEKnys3vYmrbUBmJdo6oEnAZfu5kXSBiGhaGMLFJhVml-A4RsNkvgJR8hv7VoyXv5jgTNxpeFIvc9HKr653bblwgSdt0-XbhrenNN8NW6i0gA&a=1&hash=Ad_de66Nz0hOcI7J",
+          "leadGenFormId":null,
+          "igUserId":null,
+          "appInstallObjectiveInvalidationBehavior":null,
+          "destinationContext":"View website on Instagram",
+          "tapAndHoldContext":"Swipe up to view website"
+        }
+      ],
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.mazda.com.au/cars/mazda3/?fbclid=IwAR0qifkXBI_L5-3doRLOHI-TO-60zTpbqLfKPtMSj0EDF-aDJODaInA4ibs",
+              "androidClass":"",
+              "package":"",
+              "deeplinkUri":"",
+              "callToActionTitle":"",
+              "redirectUri":"https://www.facebook.com/ads/ig_redirect/?d=Ad8118Nc5ohxbzJiW4aHp6O5S-cnBdiZEzNGaRrA5ve8tQ_Fdwkhu09KpLlCbitNsPF-YPnQQphCzL0clnMHBIdPMxLv2axCGQ4LK5gBDK_MbtoN2mN4kU7Rg0Q-6NuRGttHWuiVS_p8SprWVad0dfUw8JIs7nrlNSTFTQOoOfzeA7Y5Y2o4yi-qefulSXQB3GEKnys3vYmrbUBmJdo6oEnAZfu5kXSBiGhaGMLFJhVml-A4RsNkvgJR8hv7VoyXv5jgTNxpeFIvc9HKr653bblwgSdt0-XbhrenNN8NW6i0gA&a=1&hash=Ad_de66Nz0hOcI7J",
+              "leadGenFormId":null,
+              "igUserId":null,
+              "appInstallObjectiveInvalidationBehavior":null,
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "overlay_text":"Go to Website",
+      "overlay_title":"Mazda Australia",
+      "overlay_subtitle":"Go to Website",
+      "dominant_color":"#5A2323",
+      "iab_autofill_optout_info":{
+        "domain":"mazda.com.au",
+        "is_iab_autofill_optout":false
+      },
+      "click_id":"IwAR0qifkXBI_L5-3doRLOHI-TO-60zTpbqLfKPtMSj0EDF-aDJODaInA4ibs",
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "ad_metadata":[
+        {
+          "value":"www.mazda.com.au",
+          "type":1
+        }
+      ],
+      "is_reel_media":true,
+      "story_polls":[
+        {
+          "x":0.5,
+          "y":0.47999998927116394,
+          "z":0,
+          "width":0.4000000059604645,
+          "height":0.0703125,
+          "rotation":0,
+          "is_pinned":0,
+          "is_hidden":0,
+          "is_sticker":1,
+          "poll_sticker":{
+            "id":"polling_sticker_vibrant",
+            "poll_id":18056622571111510,
+            "question":"WHAT DO YOU BELIEVE IN?",
+            "tallies":[
+              {
+                "text":"HATCH",
+                "font_size":35,
+                "count":2
+              },
+              {
+                "text":"SEDAN",
+                "font_size":35,
+                "count":1
+              }
+            ],
+            "promotion_tallies":null,
+            "viewer_can_vote":true,
+            "is_shared_result":false,
+            "finished":true
+          }
+        }
+      ]
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item android:gravity="center" android:height="@dimen/account_group_management_clickable_width" android:width="@dimen/account_group_management_clickable_width" android:drawable="@drawable/feed_row_button_pressed_solid" />
+        </layer-list>
+    </item>
+</selector>

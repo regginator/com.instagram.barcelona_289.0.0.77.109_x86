@@ -1,0 +1,333 @@
+{
+  "media_or_ad": {
+    "taken_at": 1629263565,
+    "pk": 2642776792381694500,
+    "id": "2642776792381694566_1920040368",
+    "device_timestamp": 1629263565,
+    "media_type": 10,
+    "code": "CStB32ajqJm",
+    "client_cache_key": "MjY0Mjc3Njc5MjM4MTY5NDU2Ng==.2",
+    "filter_type": 0,
+    "is_unified_video": false,
+    "user": {
+      "pk": 1920040368,
+      "username": "sahabatmarina",
+      "full_name": "Marina",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+      "profile_pic_id": "2570336995531035394_1920040368",
+      "friendship_status": {
+        "following": false,
+        "outgoing_request": false,
+        "is_muting_reel": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": true,
+      "follow_friction_type": 0,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "latest_reel_media": 1629796494,
+      "account_badges": []
+    },
+    "caption_is_edited": false,
+    "like_and_view_counts_disabled": false,
+    "liker_config": {
+      "is_daisy": false,
+      "hide_view_count": false,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 4,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false,
+      "is_in_daisy_controls": true
+    },
+    "is_commercial": true,
+    "commerciality_status": "commercial",
+    "fundraiser_tag": {
+      "has_standalone_fundraiser": false
+    },
+    "is_paid_partnership": false,
+    "playlist_eligibility": false,
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": false,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 0,
+    "hide_view_all_comment_entrypoint": false,
+    "like_count": 233,
+    "has_liked": false,
+    "top_likers": [],
+    "photo_of_you": false,
+    "can_see_insights_as_brand": false,
+    "caption": {
+      "pk": 17926484767692380,
+      "user_id": 1920040368,
+      "text": "BARU! Marina Glow Ready Moisturizing Lipstick dengan Jelly Soft Tinted Formula dengan pigmentasi buildable di bibir dan kandungan Animo Ceramide, Sweet Almond Oil, & Vitamin E yang  melembapkan. Dapatkan sekarang dalam penawaran eksklusif di Lazada!",
+      "type": 1,
+      "created_at": 1629263566,
+      "created_at_utc": 1629263566,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 1920040368,
+        "username": "sahabatmarina",
+        "full_name": "Marina",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "2570336995531035394_1920040368",
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_muting_reel": false,
+          "is_bestie": false,
+          "is_restricted": false
+        },
+        "is_verified": true,
+        "follow_friction_type": 0,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": 1629796494,
+        "account_badges": []
+      },
+      "is_covered": false,
+      "media_id": 2642776792381694500,
+      "has_translation": true,
+      "private_reply_status": 0,
+      "hide_username": false
+    },
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQK3Zi-MAt4VFzBaVBZ3sVQBuHrsUCz1TBHPLiJihzZFbjerhGyvb6T1usa91xUc6DHxEK3PqjBWFlqX4xnZJ9Db",
+      "show_ad_choices": false,
+      "ad_title": "Sahabat Marina",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 23848437549830064,
+      "display_viewability_eligible": true,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": null,
+            "serializedImpOrganicScoreMap": null
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "should_show_secondary_cta_on_profile": false,
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=1ZVbUY0m5VPyaAT4J.AWX-xhx40sy3AERDdrqnrHhS6CI.BhJXkc..AAA.0.0.BhJXkc.AWX5c-9CPV8; expires=Mon, 22 Nov 2021 22:56:28 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ],
+      "cta_style": 1,
+      "ctd_ads_info": {
+        "business_responsiveness_time_text": null,
+        "welcome_message_text": null,
+        "business_response_time_in_sec": null
+      },
+      "is_multi_ads_eligible": true,
+      "cop_render_output": null
+    },
+    "is_sensitive_vertical_ad": false,
+    "collapse_comments": false,
+    "ad_metadata": [
+      {
+        "value": "fb.com",
+        "type": 1
+      }
+    ],
+    "link": "https://fb.com/canvas_doc/528811984885235?exlaz=d_2%3Amm_150050286_51250730_2010300772%3A%3A20%3Aid2137975&fbclid=PAAabPpZRSRtREpzaNu0VDWTMtITaxpUxZgo2KmOkkNcSyOLJXFCzNV2n8X-I",
+    "link_text": "Learn More",
+    "ad_action": "canvas",
+    "link_hint_text": "Tap Photo to Open Page",
+    "iTunesItem": null,
+    "ad_link_type": 0,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "android_links": [
+      {
+        "linkType": 6,
+        "canvasDocId": "bmF0aXZlZG9jdW1lbnQ6NTI4ODExOTg0ODg1MjM1XzIzODQ4NDM3NTQ5ODMwMDYyX18yMzg0ODQzNzU0NTM5MDA2Ml9bMzExMzQxMTAxODc1MzcwNCwzNzE5MjY4ODU4MTU1MjMwLDMwNTkyNTc3MjA4MzA1NTAsMzI2ODMzMjQzMzIxMzEyNCwzMjMxMjA0OTMzNjEyNjIxLDMwMjYwNjUwODc1MTkyMDIsMzQwODM0MjE5MjU0MjcwOCwzMTIxNTgzNDc0NTg4Mzk4LDM4NTU0MjYzNDQ0OTAxNjIsMjg3MzIzMjkxNjEzNTk5MCwzMTIwMTMyMzMxNDA1ODkzLDM5NjYwMzA2NjY3NDM0MDEsNDI5NjQzMTc4NzA2NDA5OCwzMDU5NjI5MjE3NDgyODIzLDI5NjMxOTM1NzAzOTU5NTIsMjk4ODM1OTc1MTI2MzA2OCwzNDk4MTM1NDg2OTQ5MTE3LDMyMjc4MjA4MDM5NjAyMjksMzYxNjQzNTM2MTc1Nzk5NiwzNjE3OTkwNTQxNTg1NzUxLDM0NDIwNDkwMDkyMzk5NDIsNDEzNjM2OTAwMzA0NDY2MCw0MjYzNzAwODAzNjUyMDU2LDMxNjc3ODMzOTMzMDc5MDUsMzYwNjU4ODY5OTQ1OTU0OSwzMzk2NjA4MDY3MTE2MDMyLDMxNTAxMzcyNjUwNTM3MDcsMzM4MDEzNzc2NTM5ODYyNywzNTQ1Mzc3MjQ4ODgzODAxLDUyNDI1MjUxMDU4MTg1MTMsMzAzNjU4Mjk2NjQ2OTY5MCwyNzU3NTk5MTI3NjczOTIzLDQwNDM3MDM2NzkwMzgwMzMsNDA4Mzk2NzUwODM0NTQ4NSwyNzcxMzk1NjkyOTY0OTQ3LDM3Njg3MjgyMjMxNDE2ODgsMzM5MTA1NDU5NzYzNzQwOCwzMDc2NTM1ODU5MTEyMTQ3LDM1OTAyNjQ0MzQzNDQ3MjAsMzk3ODk3NDExMjExNDIxOSwzNjU2NzU1Mjg3NjkxMTYxLDQzMDczMTQxNDI2NzY2OTQsMzQ1Mzg5NTI3MTM3NDkwMCwzMDI0ODY1Mzk3NTgxNjA0LDMyMTg4MTc5NzE0NzQ5NjYsMjk5MTg4MDA3NzU4NjQzNSwyNzc1MjMxOTQyNTgxODQwLDMxMDkwMTQzMzkxMzQ3MTIsMjA1OTYzOTgyNzQ5MzI4NywzMTE2MDM4MjkxODM2NTk2LDUzMzk4ODQxNTI3MDM1MzEsMzIyODU2OTkzMDUxNTUyMiwzNjI4NDgwODEwNTE1MjQ1LDQ4MzcxODc5NTk2ODk5NTAsMzUxMjMzODU4NTQ4NTkxMSwzMTY4NDg0MTAzMjMyMzYzLDI5MzUzMjI2OTY1OTM2NzgsMzYyMjMzMjQ4Nzg4MTYwNiwzNDQ2Mzg5ODM4ODIzNDM5LDM1NTIwNzYxNzE0OTQyMjEsMzkwMDg0MTY0NjYzNDQ4MiwzNDA3OTgyNjI1ODgwNTg1LDMxMjk2NzIyMzA0MDUwNjNdX18xX3sicGFnZVR5cGVDb2RlIjozNSwiYWRJRCI6MjM4NDg0Mzc1NDgwMjAwNjIsImFkc2V0SUQiOjIzODQ4NDM3NTQ4MDUwMDYyLCJjYW1wYWlnbklEIjoyMzg0ODM0NDM2NDE0MDA2MiwiYWROYW1lIjoiTWFyaW5hK1VWK1doaXRlKy0rRkJJRytDUEFTKy0rQVVHKzIwMjErLStNYXRlcmkrMistK0NvbGxlY3Rpb24iLCJhZHNldE5hbWUiOiJNYXJpbmErVVYrV2hpdGUrLStGQklHK0NQQVMrLSsrQVVHKzIwMjErLStQcm9zcGVjdGluZysrXHUwMDI1RTJcdTAwMjU4MFx1MDAyNTkzK1NCRCIsImNhbXBhaWduTmFtZSI6Ik1hcmluYStVVitXaGl0ZSstK0ZCSUcrQ1BBUystK1BJKy0rTUMuTVVWMjEwNjArLStBVUcrMjAyMSstK0xhemFkYSJ9X19fX1FVbEFRVkZMTTFwcExVMUJkRFJXUm5wQ1lWWkNXak56VmxGQ2RVaHljMVZEZWpGVVFraFFUR2xLYVdoNldrWmlhbVZ5YUVkNWRtSTJWREYxYzJFNU1YaFZZelpFU0hoRlN6TlFjV3BDVjBac2NWZzBlRzVhU2psRVlnPT0="
+      }
+    ],
+    "iab_autofill_optout_info": {
+      "domain": "m.facebook.com",
+      "is_iab_autofill_optout": false
+    },
+    "click_id": "PAAabPpZRSRtREpzaNu0VDWTMtITaxpUxZgo2KmOkkNcSyOLJXFCzNV2n8X-I",
+    "force_overlay": true,
+    "hide_nux_text": true,
+    "overlay_text": "Tap to Open",
+    "overlay_title": "Sahabat Marina",
+    "overlay_subtitle": "Tap to Open",
+    "dominant_color": "#4D2A6D",
+    "follower_count": 86724,
+    "post_count": 757,
+    "collection_media_type": 1,
+    "collection_canvas_template": "grid_template",
+    "link_secondary_texts": ["Free shipping"],
+    "collection_media": [
+      {
+        "image_versions2": {
+          "candidates": [
+            {
+              "width": 1080,
+              "height": 1080,
+              "url": "https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png",
+              "scans_profile": "e15",
+              "estimated_scans_sizes": [
+                14997,
+                29995,
+                44992,
+                59990,
+                74987,
+                134978,
+                134978,
+                134978,
+                134978
+              ]
+            },
+            {
+              "width": 360,
+              "height": 360,
+              "url": "https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png",
+              "scans_profile": "e15",
+              "estimated_scans_sizes": [
+                2637,
+                5275,
+                7913,
+                10551,
+                13189,
+                23741,
+                23741,
+                23741,
+                23741
+              ]
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "media_type": 1,
+        "id": "2642776792381694566_1920040368_main",
+        "pk": 2642776792381694500,
+        "collection_parent_id": "2642776792381694566_1920040368",
+        "collection_media_role": 1
+      },
+      {
+        "collection_parent_id": "2642776792381694566_1920040368",
+        "collection_media_role": 2,
+        "id": "3113411018753704_1920040368",
+        "pk": 3113411018753704,
+        "media_type": 1,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      },
+      {
+        "collection_parent_id": "2642776792381694566_1920040368",
+        "collection_media_role": 2,
+        "id": "3719268858155230_1920040368",
+        "pk": 3719268858155230,
+        "media_type": 1,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      },
+      {
+        "collection_parent_id": "2642776792381694566_1920040368",
+        "collection_media_role": 2,
+        "id": "3059257720830550_1920040368",
+        "pk": 3059257720830550,
+        "media_type": 1,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    ],
+    "fb_page_url": "https://www.facebook.com/sahabatmarina/",
+    "can_viewer_save": true,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjQ4YTVkZDVlYjJjNDU3ZGExN2EwOTYyZGRjOTRiM2IyNjQyNzc2NzkyMzgxNjk0NTY2Iiwic2VydmVyX3Rva2VuIjoiMTYyOTg0NTc4OTM2MnwyNjQyNzc2NzkyMzgxNjk0NTY2fDE0MDg1OTk1NDZ8MzUwMWM4NjM3NDM4OWRmMzk4ZjQxNzIzOTRjZWM0MmVmZDU0YWJhYzcwNzhmYWUyNTM1NTM5MGE3YTEzY2VkOSJ9LCJzaWduYXR1cmUiOiIifQ==",
+    "expiring_at": 1629932189,
+    "preview": "ACoqui/jY7RnPb3qWOdJMheq9QeCPw/rWfYRiJPNf7zdPYe1XXmTKs3BPAPf3H0//XWbsaK5MTSFiP4Sc/Sincnsf1qSxu71GKbmnN05z+OaizSY0KYUdArAEADH4U1nRCE+XI+76ip3Qp9PWoCik7sDPrVXtuSrMHkKBj7f5/nQszqmRg8knr6+xp/B47d/8/SlazjbIPfPf1OTQirrb+vIRJncMGAA2k9/61Dmn7XTPXbgj8KgzUsaNZ3Xoe/rUQhBJUjg8qf5g/09R9KrPV2A5jGa033MdtjPkYxZz2qv/aBcZ6Z5+8ePbp71fuvvflULKPQUJqN9Ll72K7X7AYI3buMZ9e/Sm5qYqB2ptTJp7KxpFWP/2Q==",
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "product_type": "ad",
+    "is_in_profile_grid": false,
+    "profile_grid_control_enabled": false,
+    "deleted_reason": 0,
+    "integrity_review_decision": "pending",
+    "inventory_source": "media_or_ad",
+    "is_seen": true,
+    "is_eof": false,
+    "enable_feed_waist_in_menu": false
+  }
+}

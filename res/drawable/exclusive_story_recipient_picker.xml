@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/clips_gradient_redesign_color_4" />
+        </shape>
+    </item>
+    <item android:left="12.0dip" android:top="12.0dip" android:right="12.0dip" android:bottom="12.0dip">
+        <bitmap android:src="@drawable/instagram_crown_pano_filled_16" android:tint="@color/canvas_bottom_sheet_description_text_color" />
+    </item>
+</layer-list>

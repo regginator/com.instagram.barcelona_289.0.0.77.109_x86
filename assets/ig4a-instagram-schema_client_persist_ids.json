@@ -1,0 +1,1297 @@
+{
+  "ARClassBenchmarkCountQuery": {
+    "operation_name": "ARClassBenchmarkCountQuery",
+    "operation_name_hash": "1187638160",
+    "operation_text_hash": "8019750422122850199",
+    "client_doc_id": "11876381608019750422122850199",
+    "schema": "instagram"
+  },
+  "AdActivityRemoveMutation": {
+    "operation_name": "AdActivityRemoveMutation",
+    "operation_name_hash": "1844945841",
+    "operation_text_hash": "2129969521488123154",
+    "client_doc_id": "18449458412129969521488123154",
+    "schema": "instagram"
+  },
+  "AdActivityRemoveUndoMutation": {
+    "operation_name": "AdActivityRemoveUndoMutation",
+    "operation_name_hash": "1534204274",
+    "operation_text_hash": "5681848676237897178",
+    "client_doc_id": "15342042745681848676237897178",
+    "schema": "instagram"
+  },
+  "AdToolsHighlightsHubQuery": {
+    "operation_name": "AdToolsHighlightsHubQuery",
+    "operation_name_hash": "3369347802",
+    "operation_text_hash": "1618813128206209510",
+    "client_doc_id": "33693478021618813128206209510",
+    "schema": "instagram"
+  },
+  "AuditToolPreview": {
+    "operation_name": "AuditToolPreview",
+    "operation_name_hash": "2413814283",
+    "operation_text_hash": "2535394173768946530",
+    "client_doc_id": "24138142832535394173768946530",
+    "schema": "instagram"
+  },
+  "BasicAdsOptInQuery": {
+    "operation_name": "BasicAdsOptInQuery",
+    "operation_name_hash": "3305291947",
+    "operation_text_hash": "2135518510885263591",
+    "client_doc_id": "33052919472135518510885263591",
+    "schema": "instagram"
+  },
+  "CTDAutomatedResponsesStateMutation": {
+    "operation_name": "CTDAutomatedResponsesStateMutation",
+    "operation_name_hash": "3140815206",
+    "operation_text_hash": "3072866282744644212",
+    "client_doc_id": "31408152063072866282744644212",
+    "schema": "instagram"
+  },
+  "CTDAutomatedResponsesStateV2Mutation": {
+    "operation_name": "CTDAutomatedResponsesStateV2Mutation",
+    "operation_name_hash": "2438345077",
+    "operation_text_hash": "15649527297104401441",
+    "client_doc_id": "243834507715649527297104401441",
+    "schema": "instagram"
+  },
+  "CategoryTypeaheadQuery": {
+    "operation_name": "CategoryTypeaheadQuery",
+    "operation_name_hash": "790092726",
+    "operation_text_hash": "12739300194343542487",
+    "client_doc_id": "79009272612739300194343542487",
+    "schema": "instagram"
+  },
+  "CoWatchCatalogQuery": {
+    "operation_name": "CoWatchCatalogQuery",
+    "operation_name_hash": "2572711231",
+    "operation_text_hash": "8917863698557512425",
+    "client_doc_id": "25727112318917863698557512425",
+    "schema": "instagram"
+  },
+  "CoWatchMediaSyncContentQuery": {
+    "operation_name": "CoWatchMediaSyncContentQuery",
+    "operation_name_hash": "4113049914",
+    "operation_text_hash": "5722783067807156216",
+    "client_doc_id": "41130499145722783067807156216",
+    "schema": "instagram"
+  },
+  "CommonAREffectSearchQuery": {
+    "operation_name": "CommonAREffectSearchQuery",
+    "operation_name_hash": "3090072435",
+    "operation_text_hash": "12993165880499474862",
+    "client_doc_id": "309007243512993165880499474862",
+    "schema": "instagram"
+  },
+  "ContentSchedulingDeleteMutation": {
+    "operation_name": "ContentSchedulingDeleteMutation",
+    "operation_name_hash": "4271634890",
+    "operation_text_hash": "7844147629074953732",
+    "client_doc_id": "42716348907844147629074953732",
+    "schema": "instagram"
+  },
+  "ContentSchedulingPublishMutation": {
+    "operation_name": "ContentSchedulingPublishMutation",
+    "operation_name_hash": "3822207446",
+    "operation_text_hash": "15928402155111263318",
+    "client_doc_id": "382220744615928402155111263318",
+    "schema": "instagram"
+  },
+  "ContentSchedulingRescheduleMutation": {
+    "operation_name": "ContentSchedulingRescheduleMutation",
+    "operation_name_hash": "24989981",
+    "operation_text_hash": "18272824640494641166",
+    "client_doc_id": "2498998118272824640494641166",
+    "schema": "instagram"
+  },
+  "CreateDigitalContentPurchasedMutation": {
+    "operation_name": "CreateDigitalContentPurchasedMutation",
+    "operation_name_hash": "2724805308",
+    "operation_text_hash": "18086325983613700828",
+    "client_doc_id": "272480530818086325983613700828",
+    "schema": "instagram"
+  },
+  "CreateRoomMutation": {
+    "operation_name": "CreateRoomMutation",
+    "operation_name_hash": "1103921893",
+    "operation_text_hash": "11961310546414373305",
+    "client_doc_id": "110392189311961310546414373305",
+    "schema": "instagram"
+  },
+  "CreatorAndBusinessSuggestedCategoriesQuery": {
+    "operation_name": "CreatorAndBusinessSuggestedCategoriesQuery",
+    "operation_name_hash": "1871027857",
+    "operation_text_hash": "1199732322371843058",
+    "client_doc_id": "18710278571199732322371843058",
+    "schema": "instagram"
+  },
+  "DistilleryTestGraphQLSubscription": {
+    "operation_name": "DistilleryTestGraphQLSubscription",
+    "operation_name_hash": "4051025991",
+    "operation_text_hash": "15584282879023757096",
+    "client_doc_id": "405102599115584282879023757096",
+    "schema": "distillery"
+  },
+  "DiverseOwnedBusiness": {
+    "operation_name": "DiverseOwnedBusiness",
+    "operation_name_hash": "532063203",
+    "operation_text_hash": "7626204467250158698",
+    "client_doc_id": "5320632037626204467250158698",
+    "schema": "instagram"
+  },
+  "DiverseOwnedBusinessDelete": {
+    "operation_name": "DiverseOwnedBusinessDelete",
+    "operation_name_hash": "2739792868",
+    "operation_text_hash": "2002846528462249775",
+    "client_doc_id": "27397928682002846528462249775",
+    "schema": "instagram"
+  },
+  "DiverseOwnedBusinessMutate": {
+    "operation_name": "DiverseOwnedBusinessMutate",
+    "operation_name_hash": "4205841900",
+    "operation_text_hash": "16016833709217831414",
+    "client_doc_id": "420584190016016833709217831414",
+    "schema": "instagram"
+  },
+  "EnableBenefitOnPackage": {
+    "operation_name": "EnableBenefitOnPackage",
+    "operation_name_hash": "2463656665",
+    "operation_text_hash": "8634367337659522457",
+    "client_doc_id": "24636566658634367337659522457",
+    "schema": "instagram"
+  },
+  "EndRoomMutation": {
+    "operation_name": "EndRoomMutation",
+    "operation_name_hash": "4262616320",
+    "operation_text_hash": "13404471844471665803",
+    "client_doc_id": "426261632013404471844471665803",
+    "schema": "instagram"
+  },
+  "EnterRoomMutation": {
+    "operation_name": "EnterRoomMutation",
+    "operation_name_hash": "1126503315",
+    "operation_text_hash": "6524371769268301943",
+    "client_doc_id": "11265033156524371769268301943",
+    "schema": "instagram"
+  },
+  "FBProductAndShopCrossTaggingEligibility": {
+    "operation_name": "FBProductAndShopCrossTaggingEligibility",
+    "operation_name_hash": "416855278",
+    "operation_text_hash": "12276162695046247227",
+    "client_doc_id": "41685527812276162695046247227",
+    "schema": "instagram"
+  },
+  "FBProductCrossTaggingEligibility": {
+    "operation_name": "FBProductCrossTaggingEligibility",
+    "operation_name_hash": "3765117475",
+    "operation_text_hash": "17739715580447376033",
+    "client_doc_id": "376511747517739715580447376033",
+    "schema": "instagram"
+  },
+  "FBShopCrossTaggingEligibility": {
+    "operation_name": "FBShopCrossTaggingEligibility",
+    "operation_name_hash": "1161141911",
+    "operation_text_hash": "2013283763539653861",
+    "client_doc_id": "11611419112013283763539653861",
+    "schema": "instagram"
+  },
+  "FXGrowthClearImpressionsForISUpsell": {
+    "operation_name": "FXGrowthClearImpressionsForISUpsell",
+    "operation_name_hash": "2708008634",
+    "operation_text_hash": "5155440989183681023",
+    "client_doc_id": "27080086345155440989183681023",
+    "schema": "instagram"
+  },
+  "FXGrowthLogImpressionForISUpsell": {
+    "operation_name": "FXGrowthLogImpressionForISUpsell",
+    "operation_name_hash": "179036080",
+    "operation_text_hash": "9076790842585493641",
+    "client_doc_id": "1790360809076790842585493641",
+    "schema": "instagram"
+  },
+  "FanClubBlockMember": {
+    "operation_name": "FanClubBlockMember",
+    "operation_name_hash": "680037071",
+    "operation_text_hash": "13544256684393969168",
+    "client_doc_id": "68003707113544256684393969168",
+    "schema": "instagram"
+  },
+  "FanClubUnBlockMember": {
+    "operation_name": "FanClubUnBlockMember",
+    "operation_name_hash": "3592623610",
+    "operation_text_hash": "5215474192219672566",
+    "client_doc_id": "35926236105215474192219672566",
+    "schema": "instagram"
+  },
+  "FetchCapabilityLatestAimVersionQuery": {
+    "operation_name": "FetchCapabilityLatestAimVersionQuery",
+    "operation_name_hash": "874212348",
+    "operation_text_hash": "13744425537709753162",
+    "client_doc_id": "87421234813744425537709753162",
+    "schema": "instagram"
+  },
+  "FetchCapabilityLatestVersionQuery": {
+    "operation_name": "FetchCapabilityLatestVersionQuery",
+    "operation_name_hash": "4061145890",
+    "operation_text_hash": "12163021380247745807",
+    "client_doc_id": "406114589012163021380247745807",
+    "schema": "instagram"
+  },
+  "FetchCapabilityMetadataQuery": {
+    "operation_name": "FetchCapabilityMetadataQuery",
+    "operation_name_hash": "3619254108",
+    "operation_text_hash": "6722597837618335665",
+    "client_doc_id": "36192541086722597837618335665",
+    "schema": "instagram"
+  },
+  "FetchFanClubMembershipsFromUser": {
+    "operation_name": "FetchFanClubMembershipsFromUser",
+    "operation_name_hash": "454188176",
+    "operation_text_hash": "13169073083579334578",
+    "client_doc_id": "45418817613169073083579334578",
+    "schema": "instagram"
+  },
+  "FxIGMasterAccountQuery": {
+    "operation_name": "FxIGMasterAccountQuery",
+    "operation_name_hash": "236059517",
+    "operation_text_hash": "8779351530479091981",
+    "client_doc_id": "2360595178779351530479091981",
+    "schema": "instagram"
+  },
+  "FxIgCanUserSeeACUpsellMultiNativeAuthQuery": {
+    "operation_name": "FxIgCanUserSeeACUpsellMultiNativeAuthQuery",
+    "operation_name_hash": "3621582609",
+    "operation_text_hash": "2447065154752197755",
+    "client_doc_id": "36215826092447065154752197755",
+    "schema": "instagram"
+  },
+  "FxSettingsAccountsCenterTransitionQuery": {
+    "operation_name": "FxSettingsAccountsCenterTransitionQuery",
+    "operation_name_hash": "2545993347",
+    "operation_text_hash": "14471177384515656580",
+    "client_doc_id": "254599334714471177384515656580",
+    "schema": "instagram"
+  },
+  "FxSettingsAdsTransition": {
+    "operation_name": "FxSettingsAdsTransition",
+    "operation_name_hash": "2736083972",
+    "operation_text_hash": "13270659248738642300",
+    "client_doc_id": "273608397213270659248738642300",
+    "schema": "instagram"
+  },
+  "FxSettingsCookiesSubtitle": {
+    "operation_name": "FxSettingsCookiesSubtitle",
+    "operation_name_hash": "548979154",
+    "operation_text_hash": "5363141929935959696",
+    "client_doc_id": "5489791545363141929935959696",
+    "schema": "instagram"
+  },
+  "FxSettingsPersonalDetailsShouldShowInAc": {
+    "operation_name": "FxSettingsPersonalDetailsShouldShowInAc",
+    "operation_name_hash": "3378317245",
+    "operation_text_hash": "17482717954474125180",
+    "client_doc_id": "337831724517482717954474125180",
+    "schema": "instagram"
+  },
+  "FxSettingsPersonalInformationTransition": {
+    "operation_name": "FxSettingsPersonalInformationTransition",
+    "operation_name_hash": "1851084528",
+    "operation_text_hash": "16485858247770126",
+    "client_doc_id": "185108452816485858247770126",
+    "schema": "instagram"
+  },
+  "FxSettingsSearchQuery": {
+    "operation_name": "FxSettingsSearchQuery",
+    "operation_name_hash": "3636174534",
+    "operation_text_hash": "574227129350762345",
+    "client_doc_id": "3636174534574227129350762345",
+    "schema": "instagram"
+  },
+  "FxSettingsSecurityTransition": {
+    "operation_name": "FxSettingsSecurityTransition",
+    "operation_name_hash": "2149772101",
+    "operation_text_hash": "13380944647748539960",
+    "client_doc_id": "214977210113380944647748539960",
+    "schema": "instagram"
+  },
+  "FxUpSellTargeting": {
+    "operation_name": "FxUpSellTargeting",
+    "operation_name_hash": "4228120471",
+    "operation_text_hash": "11707270616379560253",
+    "client_doc_id": "422812047111707270616379560253",
+    "schema": "instagram"
+  },
+  "HasAvatarQuery": {
+    "operation_name": "HasAvatarQuery",
+    "operation_name_hash": "1765753391",
+    "operation_text_hash": "18291536801493724773",
+    "client_doc_id": "176575339118291536801493724773",
+    "schema": "instagram"
+  },
+  "HorizonNegotiateSDPMutation": {
+    "operation_name": "HorizonNegotiateSDPMutation",
+    "operation_name_hash": "1445841912",
+    "operation_text_hash": "6625550323123122240",
+    "client_doc_id": "14458419126625550323123122240",
+    "schema": "instagram"
+  },
+  "IABAutofillData": {
+    "operation_name": "IABAutofillData",
+    "operation_name_hash": "513309857",
+    "operation_text_hash": "6778310536575666503",
+    "client_doc_id": "5133098576778310536575666503",
+    "schema": "instagram"
+  },
+  "IABAutofillDeleteData": {
+    "operation_name": "IABAutofillDeleteData",
+    "operation_name_hash": "3183749858",
+    "operation_text_hash": "6886037900085175206",
+    "client_doc_id": "31837498586886037900085175206",
+    "schema": "instagram"
+  },
+  "IABAutofillDeleteDataMultiEntries": {
+    "operation_name": "IABAutofillDeleteDataMultiEntries",
+    "operation_name_hash": "890137023",
+    "operation_text_hash": "57849826717734458",
+    "client_doc_id": "89013702357849826717734458",
+    "schema": "instagram"
+  },
+  "IABAutofillMultiData": {
+    "operation_name": "IABAutofillMultiData",
+    "operation_name_hash": "1220628865",
+    "operation_text_hash": "6865740183936569087",
+    "client_doc_id": "12206288656865740183936569087",
+    "schema": "instagram"
+  },
+  "IABAutofillSaveData": {
+    "operation_name": "IABAutofillSaveData",
+    "operation_name_hash": "352533107",
+    "operation_text_hash": "15398460281581290038",
+    "client_doc_id": "35253310715398460281581290038",
+    "schema": "instagram"
+  },
+  "IABAutofillSaveDataEntries": {
+    "operation_name": "IABAutofillSaveDataEntries",
+    "operation_name_hash": "3908840038",
+    "operation_text_hash": "11689049357435302697",
+    "client_doc_id": "390884003811689049357435302697",
+    "schema": "instagram"
+  },
+  "IABLinkHistorySettingsQuery": {
+    "operation_name": "IABLinkHistorySettingsQuery",
+    "operation_name_hash": "3070091620",
+    "operation_text_hash": "15778944199466646913",
+    "client_doc_id": "307009162015778944199466646913",
+    "schema": "instagram"
+  },
+  "IGAPIFriendshipsUserFollowers": {
+    "operation_name": "IGAPIFriendshipsUserFollowers",
+    "operation_name_hash": "1599490858",
+    "operation_text_hash": "17788229289144205621",
+    "client_doc_id": "159949085817788229289144205621",
+    "schema": "distillery"
+  },
+  "IGAPIFriendshipsUserFollowing": {
+    "operation_name": "IGAPIFriendshipsUserFollowing",
+    "operation_name_hash": "782983586",
+    "operation_text_hash": "2541895931279665054",
+    "client_doc_id": "7829835862541895931279665054",
+    "schema": "distillery"
+  },
+  "IGAREffectCollectionQuery": {
+    "operation_name": "IGAREffectCollectionQuery",
+    "operation_name_hash": "2241967928",
+    "operation_text_hash": "12057265915738610363",
+    "client_doc_id": "224196792812057265915738610363",
+    "schema": "instagram"
+  },
+  "IGAREffectPreviewByIdQuery": {
+    "operation_name": "IGAREffectPreviewByIdQuery",
+    "operation_name_hash": "1176353231",
+    "operation_text_hash": "281967250556559635",
+    "client_doc_id": "1176353231281967250556559635",
+    "schema": "instagram"
+  },
+  "IGAREffectSaveMutation": {
+    "operation_name": "IGAREffectSaveMutation",
+    "operation_name_hash": "135874465",
+    "operation_text_hash": "918630035911643279",
+    "client_doc_id": "135874465918630035911643279",
+    "schema": "instagram"
+  },
+  "IGAREffectUnsaveMutation": {
+    "operation_name": "IGAREffectUnsaveMutation",
+    "operation_name_hash": "1886073161",
+    "operation_text_hash": "10959750829953608970",
+    "client_doc_id": "188607316110959750829953608970",
+    "schema": "instagram"
+  },
+  "IGAREffectsByIdQuery": {
+    "operation_name": "IGAREffectsByIdQuery",
+    "operation_name_hash": "2213008372",
+    "operation_text_hash": "6623702635936095652",
+    "client_doc_id": "22130083726623702635936095652",
+    "schema": "instagram"
+  },
+  "IGAREffectsForProfileQuery": {
+    "operation_name": "IGAREffectsForProfileQuery",
+    "operation_name_hash": "1362156368",
+    "operation_text_hash": "10026107146940599569",
+    "client_doc_id": "136215636810026107146940599569",
+    "schema": "instagram"
+  },
+  "IGAREffectsGalleryCategoriesQuery": {
+    "operation_name": "IGAREffectsGalleryCategoriesQuery",
+    "operation_name_hash": "3362397858",
+    "operation_text_hash": "2662671205296921924",
+    "client_doc_id": "33623978582662671205296921924",
+    "schema": "instagram"
+  },
+  "IGAvatarCoinFlipOptions": {
+    "operation_name": "IGAvatarCoinFlipOptions",
+    "operation_name_hash": "1017542709",
+    "operation_text_hash": "7848889557364176060",
+    "client_doc_id": "10175427097848889557364176060",
+    "schema": "instagram"
+  },
+  "IGAvatarInfoQuery": {
+    "operation_name": "IGAvatarInfoQuery",
+    "operation_name_hash": "674627522",
+    "operation_text_hash": "12267950925794552766",
+    "client_doc_id": "67462752212267950925794552766",
+    "schema": "instagram"
+  },
+  "IGAvatarPrivacySettingsGetUsability": {
+    "operation_name": "IGAvatarPrivacySettingsGetUsability",
+    "operation_name_hash": "3778406194",
+    "operation_text_hash": "12845006157635522212",
+    "client_doc_id": "377840619412845006157635522212",
+    "schema": "instagram"
+  },
+  "IGAvatarPrivacySettingsIsPublic": {
+    "operation_name": "IGAvatarPrivacySettingsIsPublic",
+    "operation_name_hash": "4234236196",
+    "operation_text_hash": "6098841650502848880",
+    "client_doc_id": "42342361966098841650502848880",
+    "schema": "instagram"
+  },
+  "IGAvatarPrivacySettingsUpdateSettings": {
+    "operation_name": "IGAvatarPrivacySettingsUpdateSettings",
+    "operation_name_hash": "2002205390",
+    "operation_text_hash": "16245631625887354352",
+    "client_doc_id": "200220539016245631625887354352",
+    "schema": "instagram"
+  },
+  "IGAvatarProfilePicInfoQuery": {
+    "operation_name": "IGAvatarProfilePicInfoQuery",
+    "operation_name_hash": "3111317732",
+    "operation_text_hash": "16406807086133781729",
+    "client_doc_id": "311131773216406807086133781729",
+    "schema": "instagram"
+  },
+  "IGAvatarProfilePictureQuery": {
+    "operation_name": "IGAvatarProfilePictureQuery",
+    "operation_name_hash": "2671168863",
+    "operation_text_hash": "6882331342970571716",
+    "client_doc_id": "26711688636882331342970571716",
+    "schema": "instagram"
+  },
+  "IGAvatarStickersForKeysQuery": {
+    "operation_name": "IGAvatarStickersForKeysQuery",
+    "operation_name_hash": "2158178041",
+    "operation_text_hash": "15327440933115577895",
+    "client_doc_id": "215817804115327440933115577895",
+    "schema": "instagram"
+  },
+  "IGBoostPlacementWebviewPreviewInfoQuery": {
+    "operation_name": "IGBoostPlacementWebviewPreviewInfoQuery",
+    "operation_name_hash": "814289682",
+    "operation_text_hash": "6641299565503588845",
+    "client_doc_id": "8142896826641299565503588845",
+    "schema": "instagram"
+  },
+  "IGBugReportSubmitMutation": {
+    "operation_name": "IGBugReportSubmitMutation",
+    "operation_name_hash": "2938391760",
+    "operation_text_hash": "13550553288378882913",
+    "client_doc_id": "293839176013550553288378882913",
+    "schema": "instagram"
+  },
+  "IGCoPresenceRankingModel": {
+    "operation_name": "IGCoPresenceRankingModel",
+    "operation_name_hash": "3853482964",
+    "operation_text_hash": "10913079816289499836",
+    "client_doc_id": "385348296410913079816289499836",
+    "schema": "instagram"
+  },
+  "IGContentFilterDictionaryGetQuery": {
+    "operation_name": "IGContentFilterDictionaryGetQuery",
+    "operation_name_hash": "1076842946",
+    "operation_text_hash": "6205527297505158341",
+    "client_doc_id": "10768429466205527297505158341",
+    "schema": "instagram"
+  },
+  "IGContentFilterDictionaryLookupQuery": {
+    "operation_name": "IGContentFilterDictionaryLookupQuery",
+    "operation_name_hash": "2052788928",
+    "operation_text_hash": "6411119358419418429",
+    "client_doc_id": "20527889286411119358419418429",
+    "schema": "instagram"
+  },
+  "IGCreateDigitalContentQuoteMutation": {
+    "operation_name": "IGCreateDigitalContentQuoteMutation",
+    "operation_name_hash": "3252858514",
+    "operation_text_hash": "17979852546880776925",
+    "client_doc_id": "325285851417979852546880776925",
+    "schema": "instagram"
+  },
+  "IGDirectDebigPayoutACHCompletion": {
+    "operation_name": "IGDirectDebigPayoutACHCompletion",
+    "operation_name_hash": "3924945827",
+    "operation_text_hash": "2894306813210365510",
+    "client_doc_id": "39249458272894306813210365510",
+    "schema": "instagram"
+  },
+  "IGDirectDebitPayoutACHInitialization": {
+    "operation_name": "IGDirectDebitPayoutACHInitialization",
+    "operation_name_hash": "734357872",
+    "operation_text_hash": "16999043343095099963",
+    "client_doc_id": "73435787216999043343095099963",
+    "schema": "instagram"
+  },
+  "IGDogfoodingAssistantAddDogfooderMutation": {
+    "operation_name": "IGDogfoodingAssistantAddDogfooderMutation",
+    "operation_name_hash": "1903466328",
+    "operation_text_hash": "1849269246071913537",
+    "client_doc_id": "19034663281849269246071913537",
+    "schema": "instagram"
+  },
+  "IGDogfoodingAssistantDiscoveryQuery": {
+    "operation_name": "IGDogfoodingAssistantDiscoveryQuery",
+    "operation_name_hash": "1770350628",
+    "operation_text_hash": "9562268464095812795",
+    "client_doc_id": "17703506289562268464095812795",
+    "schema": "instagram"
+  },
+  "IGDogfoodingAssistantSessionQuery": {
+    "operation_name": "IGDogfoodingAssistantSessionQuery",
+    "operation_name_hash": "3481592337",
+    "operation_text_hash": "11892025831485209091",
+    "client_doc_id": "348159233711892025831485209091",
+    "schema": "instagram"
+  },
+  "IGExampleQuery": {
+    "operation_name": "IGExampleQuery",
+    "operation_name_hash": "3080350499",
+    "operation_text_hash": "4569607929513798830",
+    "client_doc_id": "30803504994569607929513798830",
+    "schema": "instagram"
+  },
+  "IGFBPayExperienceEnabled": {
+    "operation_name": "IGFBPayExperienceEnabled",
+    "operation_name_hash": "2406846222",
+    "operation_text_hash": "11532875661147227896",
+    "client_doc_id": "240684622211532875661147227896",
+    "schema": "instagram"
+  },
+  "IGFXGrowthACUpsellEligibilityConfigQuery": {
+    "operation_name": "IGFXGrowthACUpsellEligibilityConfigQuery",
+    "operation_name_hash": "2096510991",
+    "operation_text_hash": "3725753612934112776",
+    "client_doc_id": "20965109913725753612934112776",
+    "schema": "instagram"
+  },
+  "IGFXGrowthLogExposureQEBoolParamMutation": {
+    "operation_name": "IGFXGrowthLogExposureQEBoolParamMutation",
+    "operation_name_hash": "3643780866",
+    "operation_text_hash": "3369137263900926703",
+    "client_doc_id": "36437808663369137263900926703",
+    "schema": "instagram"
+  },
+  "IGFXIMNUXConfigQuery": {
+    "operation_name": "IGFXIMNUXConfigQuery",
+    "operation_name_hash": "2536264334",
+    "operation_text_hash": "17084001313031742571",
+    "client_doc_id": "253626433417084001313031742571",
+    "schema": "instagram"
+  },
+  "IGFetchLDPTransactionToolSelectorApps": {
+    "operation_name": "IGFetchLDPTransactionToolSelectorApps",
+    "operation_name_hash": "2977764961",
+    "operation_text_hash": "6480096928702136342",
+    "client_doc_id": "29777649616480096928702136342",
+    "schema": "instagram"
+  },
+  "IGFilteredAvatarStickersQuery": {
+    "operation_name": "IGFilteredAvatarStickersQuery",
+    "operation_name_hash": "2778729021",
+    "operation_text_hash": "1329510158452499920",
+    "client_doc_id": "27787290211329510158452499920",
+    "schema": "instagram"
+  },
+  "IGFullyDisconnectFbPagesMutation": {
+    "operation_name": "IGFullyDisconnectFbPagesMutation",
+    "operation_name_hash": "65279977",
+    "operation_text_hash": "7107301466248116514",
+    "client_doc_id": "652799777107301466248116514",
+    "schema": "instagram"
+  },
+  "IGFxCanUserSeeISUpsellQuery": {
+    "operation_name": "IGFxCanUserSeeISUpsellQuery",
+    "operation_name_hash": "2124744948",
+    "operation_text_hash": "12259236178665893953",
+    "client_doc_id": "212474494812259236178665893953",
+    "schema": "instagram"
+  },
+  "IGFxFbProfilePicIsSilhouetteQuery": {
+    "operation_name": "IGFxFbProfilePicIsSilhouetteQuery",
+    "operation_name_hash": "247477846",
+    "operation_text_hash": "6057288950879995727",
+    "client_doc_id": "2474778466057288950879995727",
+    "schema": "instagram"
+  },
+  "IGFxGenEligibleIgIgCrosspostingAccounts": {
+    "operation_name": "IGFxGenEligibleIgIgCrosspostingAccounts",
+    "operation_name_hash": "4151669213",
+    "operation_text_hash": "1884059349378513782",
+    "client_doc_id": "41516692131884059349378513782",
+    "schema": "instagram"
+  },
+  "IGFxIdentityManagementMutation": {
+    "operation_name": "IGFxIdentityManagementMutation",
+    "operation_name_hash": "853260102",
+    "operation_text_hash": "9944843664847802293",
+    "client_doc_id": "8532601029944843664847802293",
+    "schema": "instagram"
+  },
+  "IGFxIdentityManagementQuery": {
+    "operation_name": "IGFxIdentityManagementQuery",
+    "operation_name_hash": "849862570",
+    "operation_text_hash": "17882773238482111676",
+    "client_doc_id": "84986257017882773238482111676",
+    "schema": "instagram"
+  },
+  "IGFxImBusinessReminderQuery": {
+    "operation_name": "IGFxImBusinessReminderQuery",
+    "operation_name_hash": "2139564022",
+    "operation_text_hash": "14066474017102919733",
+    "client_doc_id": "213956402214066474017102919733",
+    "schema": "instagram"
+  },
+  "IGFxImSyncResourcesMutation": {
+    "operation_name": "IGFxImSyncResourcesMutation",
+    "operation_name_hash": "4273348945",
+    "operation_text_hash": "1821967123556605424",
+    "client_doc_id": "42733489451821967123556605424",
+    "schema": "instagram"
+  },
+  "IGFxLinkedAccountsQuery": {
+    "operation_name": "IGFxLinkedAccountsQuery",
+    "operation_name_hash": "432308210",
+    "operation_text_hash": "13683556483393399494",
+    "client_doc_id": "43230821013683556483393399494",
+    "schema": "instagram"
+  },
+  "IGFxNativeAuthTokenVerificationQuery": {
+    "operation_name": "IGFxNativeAuthTokenVerificationQuery",
+    "operation_name_hash": "160339262",
+    "operation_text_hash": "12489582276338367508",
+    "client_doc_id": "16033926212489582276338367508",
+    "schema": "instagram"
+  },
+  "IGGetPayoutMethdodWithLinkedProductsQuery": {
+    "operation_name": "IGGetPayoutMethdodWithLinkedProductsQuery",
+    "operation_name_hash": "501778433",
+    "operation_text_hash": "4969237059263797594",
+    "client_doc_id": "5017784334969237059263797594",
+    "schema": "instagram"
+  },
+  "IGGraphQLNonprofitFundraiserCreateMutation": {
+    "operation_name": "IGGraphQLNonprofitFundraiserCreateMutation",
+    "operation_name_hash": "646477927",
+    "operation_text_hash": "15540686651254518486",
+    "client_doc_id": "64647792715540686651254518486",
+    "schema": "instagram"
+  },
+  "IGIABAutofillSettings": {
+    "operation_name": "IGIABAutofillSettings",
+    "operation_name_hash": "3533259597",
+    "operation_text_hash": "5923756438431021453",
+    "client_doc_id": "35332595975923756438431021453",
+    "schema": "instagram"
+  },
+  "IGIABAutofillUpdateSettingsMutation": {
+    "operation_name": "IGIABAutofillUpdateSettingsMutation",
+    "operation_name_hash": "1730872598",
+    "operation_text_hash": "10593097167872907014",
+    "client_doc_id": "173087259810593097167872907014",
+    "schema": "instagram"
+  },
+  "IGIXTValidateTypes": {
+    "operation_name": "IGIXTValidateTypes",
+    "operation_name_hash": "3625225881",
+    "operation_text_hash": "16008578525006207268",
+    "client_doc_id": "362522588116008578525006207268",
+    "schema": "instagram"
+  },
+  "IGLocationBusinessUserInfoQuery": {
+    "operation_name": "IGLocationBusinessUserInfoQuery",
+    "operation_name_hash": "1236187479",
+    "operation_text_hash": "10617966045517488164",
+    "client_doc_id": "123618747910617966045517488164",
+    "schema": "instagram"
+  },
+  "IGMultiRelayDiscovery": {
+    "operation_name": "IGMultiRelayDiscovery",
+    "operation_name_hash": "1820159317",
+    "operation_text_hash": "2315962671154781414",
+    "client_doc_id": "18201593172315962671154781414",
+    "schema": "instagram"
+  },
+  "IGNotificationMessagesMutationCall": {
+    "operation_name": "IGNotificationMessagesMutationCall",
+    "operation_name_hash": "2709025703",
+    "operation_text_hash": "15935000825769206085",
+    "client_doc_id": "270902570315935000825769206085",
+    "schema": "instagram"
+  },
+  "IGP2MOrderManagementCreateOrderMutation": {
+    "operation_name": "IGP2MOrderManagementCreateOrderMutation",
+    "operation_name_hash": "2136573960",
+    "operation_text_hash": "2965200928475056222",
+    "client_doc_id": "21365739602965200928475056222",
+    "schema": "instagram"
+  },
+  "IGPandoCanonicalNamingLiteralObjectArguments": {
+    "operation_name": "IGPandoCanonicalNamingLiteralObjectArguments",
+    "operation_name_hash": "565393195",
+    "operation_text_hash": "15036658333479152884",
+    "client_doc_id": "56539319515036658333479152884",
+    "schema": "instagram"
+  },
+  "IGPaymentsAccountDisabledRiskQuery": {
+    "operation_name": "IGPaymentsAccountDisabledRiskQuery",
+    "operation_name_hash": "2932619809",
+    "operation_text_hash": "15577513265166787881",
+    "client_doc_id": "293261980915577513265166787881",
+    "schema": "instagram"
+  },
+  "IGPayoutCreatePayPalCredential": {
+    "operation_name": "IGPayoutCreatePayPalCredential",
+    "operation_name_hash": "2341381357",
+    "operation_text_hash": "16465133397462579968",
+    "client_doc_id": "234138135716465133397462579968",
+    "schema": "instagram"
+  },
+  "IGPayoutEditFinancialEntityMutation": {
+    "operation_name": "IGPayoutEditFinancialEntityMutation",
+    "operation_name_hash": "65981234",
+    "operation_text_hash": "9561706674416949864",
+    "client_doc_id": "659812349561706674416949864",
+    "schema": "instagram"
+  },
+  "IGPayoutGetFinancialEntityByAdmin": {
+    "operation_name": "IGPayoutGetFinancialEntityByAdmin",
+    "operation_name_hash": "2062786272",
+    "operation_text_hash": "14759761088806235155",
+    "client_doc_id": "206278627214759761088806235155",
+    "schema": "instagram"
+  },
+  "IGPayoutGetFinancialEntityError": {
+    "operation_name": "IGPayoutGetFinancialEntityError",
+    "operation_name_hash": "4226264260",
+    "operation_text_hash": "17857228141912070167",
+    "client_doc_id": "422626426017857228141912070167",
+    "schema": "instagram"
+  },
+  "IGPayoutGetProductOnboardingType": {
+    "operation_name": "IGPayoutGetProductOnboardingType",
+    "operation_name_hash": "2709223993",
+    "operation_text_hash": "17273971763832062233",
+    "client_doc_id": "270922399317273971763832062233",
+    "schema": "instagram"
+  },
+  "IGPayoutLinkFinancialEntity": {
+    "operation_name": "IGPayoutLinkFinancialEntity",
+    "operation_name_hash": "830060008",
+    "operation_text_hash": "7827592081350578349",
+    "client_doc_id": "8300600087827592081350578349",
+    "schema": "instagram"
+  },
+  "IGPayoutOnboardingAddressValidationQuery": {
+    "operation_name": "IGPayoutOnboardingAddressValidationQuery",
+    "operation_name_hash": "3607165597",
+    "operation_text_hash": "5761531506874620396",
+    "client_doc_id": "36071655975761531506874620396",
+    "schema": "instagram"
+  },
+  "IGPayoutOnboardingBankValidationQuery": {
+    "operation_name": "IGPayoutOnboardingBankValidationQuery",
+    "operation_name_hash": "445324065",
+    "operation_text_hash": "16974661441090224074",
+    "client_doc_id": "44532406516974661441090224074",
+    "schema": "instagram"
+  },
+  "IGPayoutOnboardingCreateDirectDebitCredentialMutation": {
+    "operation_name": "IGPayoutOnboardingCreateDirectDebitCredentialMutation",
+    "operation_name_hash": "3468380597",
+    "operation_text_hash": "14460621508844594986",
+    "client_doc_id": "346838059714460621508844594986",
+    "schema": "instagram"
+  },
+  "IGPayoutOnboardingDirectDebitConfigQuery": {
+    "operation_name": "IGPayoutOnboardingDirectDebitConfigQuery",
+    "operation_name_hash": "40719801",
+    "operation_text_hash": "1450486206603373184",
+    "client_doc_id": "407198011450486206603373184",
+    "schema": "instagram"
+  },
+  "IGPayoutOnboardingPhoneValidationQuery": {
+    "operation_name": "IGPayoutOnboardingPhoneValidationQuery",
+    "operation_name_hash": "2628558630",
+    "operation_text_hash": "12294482668825896170",
+    "client_doc_id": "262855863012294482668825896170",
+    "schema": "instagram"
+  },
+  "IGPayoutOnboardingStatesTaxTypesPayoutMethodsQuery": {
+    "operation_name": "IGPayoutOnboardingStatesTaxTypesPayoutMethodsQuery",
+    "operation_name_hash": "11024813",
+    "operation_text_hash": "9767394044374644813",
+    "client_doc_id": "110248139767394044374644813",
+    "schema": "instagram"
+  },
+  "IGPayoutPayPalURL": {
+    "operation_name": "IGPayoutPayPalURL",
+    "operation_name_hash": "110740114",
+    "operation_text_hash": "14650054534503074173",
+    "client_doc_id": "11074011414650054534503074173",
+    "schema": "instagram"
+  },
+  "IGPrivacyFlowTriggerQuery": {
+    "operation_name": "IGPrivacyFlowTriggerQuery",
+    "operation_name_hash": "3923004184",
+    "operation_text_hash": "1700034702698650958",
+    "client_doc_id": "39230041841700034702698650958",
+    "schema": "instagram"
+  },
+  "IGProAFTooltipChannelQuery": {
+    "operation_name": "IGProAFTooltipChannelQuery",
+    "operation_name_hash": "3164880518",
+    "operation_text_hash": "16565935868591310241",
+    "client_doc_id": "316488051816565935868591310241",
+    "schema": "instagram"
+  },
+  "IGProactiveWarningBannerQuery": {
+    "operation_name": "IGProactiveWarningBannerQuery",
+    "operation_name_hash": "3794451921",
+    "operation_text_hash": "15867686319228774199",
+    "client_doc_id": "379445192115867686319228774199",
+    "schema": "instagram"
+  },
+  "IGProactiveWarningEpdBannerQuery": {
+    "operation_name": "IGProactiveWarningEpdBannerQuery",
+    "operation_name_hash": "358356091",
+    "operation_text_hash": "8044818483458246569",
+    "client_doc_id": "3583560918044818483458246569",
+    "schema": "instagram"
+  },
+  "IGPromoteAdAcctFreezeQuery": {
+    "operation_name": "IGPromoteAdAcctFreezeQuery",
+    "operation_name_hash": "1442173684",
+    "operation_text_hash": "466815336431518235",
+    "client_doc_id": "1442173684466815336431518235",
+    "schema": "instagram"
+  },
+  "IGPromoteAdFormatPreferencesQuery": {
+    "operation_name": "IGPromoteAdFormatPreferencesQuery",
+    "operation_name_hash": "2298494911",
+    "operation_text_hash": "16305546907067352448",
+    "client_doc_id": "229849491116305546907067352448",
+    "schema": "instagram"
+  },
+  "IGPromoteWhatsAppLinkValidationQuery": {
+    "operation_name": "IGPromoteWhatsAppLinkValidationQuery",
+    "operation_name_hash": "719143619",
+    "operation_text_hash": "6932536404864586517",
+    "client_doc_id": "7191436196932536404864586517",
+    "schema": "instagram"
+  },
+  "IGRefreshSocialStickersQuery": {
+    "operation_name": "IGRefreshSocialStickersQuery",
+    "operation_name_hash": "1579710276",
+    "operation_text_hash": "10134864668279976554",
+    "client_doc_id": "157971027610134864668279976554",
+    "schema": "instagram"
+  },
+  "IGRemoveAREffectMutation": {
+    "operation_name": "IGRemoveAREffectMutation",
+    "operation_name_hash": "4294614558",
+    "operation_text_hash": "11072837609406319946",
+    "client_doc_id": "429461455811072837609406319946",
+    "schema": "instagram"
+  },
+  "IGRiskAppealCase": {
+    "operation_name": "IGRiskAppealCase",
+    "operation_name_hash": "2500278743",
+    "operation_text_hash": "3361226620889796273",
+    "client_doc_id": "25002787433361226620889796273",
+    "schema": "instagram"
+  },
+  "IGSendWhatsappLinkCreationVerification": {
+    "operation_name": "IGSendWhatsappLinkCreationVerification",
+    "operation_name_hash": "2288204648",
+    "operation_text_hash": "9713170946960493512",
+    "client_doc_id": "22882046489713170946960493512",
+    "schema": "instagram"
+  },
+  "IGShopsLiteEligibilityQuery": {
+    "operation_name": "IGShopsLiteEligibilityQuery",
+    "operation_name_hash": "62797781",
+    "operation_text_hash": "15923713927654822879",
+    "client_doc_id": "6279778115923713927654822879",
+    "schema": "instagram"
+  },
+  "IGSocialAvatarStickerMarkDisclaimerAsSeenMutation": {
+    "operation_name": "IGSocialAvatarStickerMarkDisclaimerAsSeenMutation",
+    "operation_name_hash": "3309083421",
+    "operation_text_hash": "10410258532353195241",
+    "client_doc_id": "330908342110410258532353195241",
+    "schema": "instagram"
+  },
+  "IGSocialAvatarStickersDisclaimerInfoQuery": {
+    "operation_name": "IGSocialAvatarStickersDisclaimerInfoQuery",
+    "operation_name_hash": "2729325485",
+    "operation_text_hash": "2136978267847204168",
+    "client_doc_id": "27293254852136978267847204168",
+    "schema": "instagram"
+  },
+  "IGToFBXPostingDestinationsQuery": {
+    "operation_name": "IGToFBXPostingDestinationsQuery",
+    "operation_name_hash": "4057800887",
+    "operation_text_hash": "3681674861087974815",
+    "client_doc_id": "40578008873681674861087974815",
+    "schema": "instagram"
+  },
+  "IGTurnDiscovery": {
+    "operation_name": "IGTurnDiscovery",
+    "operation_name_hash": "3321155167",
+    "operation_text_hash": "13156266791072405394",
+    "client_doc_id": "332115516713156266791072405394",
+    "schema": "instagram"
+  },
+  "IGUserAPPlusCreationEligibleCheckQuery": {
+    "operation_name": "IGUserAPPlusCreationEligibleCheckQuery",
+    "operation_name_hash": "4057078598",
+    "operation_text_hash": "12930083178610914837",
+    "client_doc_id": "405707859812930083178610914837",
+    "schema": "instagram"
+  },
+  "IGUserConsentQuery": {
+    "operation_name": "IGUserConsentQuery",
+    "operation_name_hash": "56112386",
+    "operation_text_hash": "9720855015188503275",
+    "client_doc_id": "561123869720855015188503275",
+    "schema": "instagram"
+  },
+  "IGVideoLoggingSessionDebugging": {
+    "operation_name": "IGVideoLoggingSessionDebugging",
+    "operation_name_hash": "927860102",
+    "operation_text_hash": "12019529085171562428",
+    "client_doc_id": "92786010212019529085171562428",
+    "schema": "instagram"
+  },
+  "IGWWWTestModularFragmentModelQuery": {
+    "operation_name": "IGWWWTestModularFragmentModelQuery",
+    "operation_name_hash": "2440146967",
+    "operation_text_hash": "7417520068208385945",
+    "client_doc_id": "24401469677417520068208385945",
+    "schema": "instagram"
+  },
+  "IabAutofillOptOutQuery": {
+    "operation_name": "IabAutofillOptOutQuery",
+    "operation_name_hash": "1162523906",
+    "operation_text_hash": "17080031952046430811",
+    "client_doc_id": "116252390617080031952046430811",
+    "schema": "instagram"
+  },
+  "IgAppAttestationAndroidGooglePlayIntegrityChallengeCreate": {
+    "operation_name": "IgAppAttestationAndroidGooglePlayIntegrityChallengeCreate",
+    "operation_name_hash": "3195137812",
+    "operation_text_hash": "17430302902370642511",
+    "client_doc_id": "319513781217430302902370642511",
+    "schema": "instagram"
+  },
+  "IgAppAttestationAndroidGooglePlayIntegrityChallengeValidate": {
+    "operation_name": "IgAppAttestationAndroidGooglePlayIntegrityChallengeValidate",
+    "operation_name_hash": "2822985710",
+    "operation_text_hash": "18138763594638168717",
+    "client_doc_id": "282298571018138763594638168717",
+    "schema": "instagram"
+  },
+  "IgAppAttestationAndroidKeystoreChallengeCreate": {
+    "operation_name": "IgAppAttestationAndroidKeystoreChallengeCreate",
+    "operation_name_hash": "3304817376",
+    "operation_text_hash": "2330095945485926148",
+    "client_doc_id": "33048173762330095945485926148",
+    "schema": "instagram"
+  },
+  "IgAppAttestationAndroidKeystoreChallengeValidate": {
+    "operation_name": "IgAppAttestationAndroidKeystoreChallengeValidate",
+    "operation_name_hash": "1984284403",
+    "operation_text_hash": "10579085534825089140",
+    "client_doc_id": "198428440310579085534825089140",
+    "schema": "instagram"
+  },
+  "IgCoPresenceAccuracyQuery": {
+    "operation_name": "IgCoPresenceAccuracyQuery",
+    "operation_name_hash": "788391252",
+    "operation_text_hash": "3030703401751528531",
+    "client_doc_id": "7883912523030703401751528531",
+    "schema": "instagram"
+  },
+  "IgDonationsEligibilityQuery": {
+    "operation_name": "IgDonationsEligibilityQuery",
+    "operation_name_hash": "3810590170",
+    "operation_text_hash": "3417865730649530534",
+    "client_doc_id": "38105901703417865730649530534",
+    "schema": "instagram"
+  },
+  "IgFullyDisconnectFbPagesBizlinkMutation": {
+    "operation_name": "IgFullyDisconnectFbPagesBizlinkMutation",
+    "operation_name_hash": "2023493032",
+    "operation_text_hash": "5965908141771851034",
+    "client_doc_id": "20234930325965908141771851034",
+    "schema": "instagram"
+  },
+  "IgMakePageConnectionConsistentMutationV2": {
+    "operation_name": "IgMakePageConnectionConsistentMutationV2",
+    "operation_name_hash": "3282224594",
+    "operation_text_hash": "6175022604437429415",
+    "client_doc_id": "32822245946175022604437429415",
+    "schema": "instagram"
+  },
+  "IgPaymentsSettingsInfoQuery": {
+    "operation_name": "IgPaymentsSettingsInfoQuery",
+    "operation_name_hash": "2589365802",
+    "operation_text_hash": "5862464415496040337",
+    "client_doc_id": "25893658025862464415496040337",
+    "schema": "instagram"
+  },
+  "InstagramARAdsContextQuery": {
+    "operation_name": "InstagramARAdsContextQuery",
+    "operation_name_hash": "2566761106",
+    "operation_text_hash": "14954042172278261198",
+    "client_doc_id": "256676110614954042172278261198",
+    "schema": "instagram"
+  },
+  "InstagramAREffectMetadataQuery": {
+    "operation_name": "InstagramAREffectMetadataQuery",
+    "operation_name_hash": "693025605",
+    "operation_text_hash": "18002635256184937151",
+    "client_doc_id": "69302560518002635256184937151",
+    "schema": "instagram"
+  },
+  "IntegrityUserEligibleToUseRoomQuery": {
+    "operation_name": "IntegrityUserEligibleToUseRoomQuery",
+    "operation_name_hash": "398976984",
+    "operation_text_hash": "2552621454850146825",
+    "client_doc_id": "3989769842552621454850146825",
+    "schema": "instagram"
+  },
+  "InviteToRoomMutation": {
+    "operation_name": "InviteToRoomMutation",
+    "operation_name_hash": "886343859",
+    "operation_text_hash": "10564175178243633067",
+    "client_doc_id": "88634385910564175178243633067",
+    "schema": "instagram"
+  },
+  "LeadGenContextualInputQuery": {
+    "operation_name": "LeadGenContextualInputQuery",
+    "operation_name_hash": "2975588160",
+    "operation_text_hash": "3694706604948763893",
+    "client_doc_id": "29755881603694706604948763893",
+    "schema": "instagram"
+  },
+  "LeadGenReconNotifMutation": {
+    "operation_name": "LeadGenReconNotifMutation",
+    "operation_name_hash": "259838",
+    "operation_text_hash": "16906948966429282935",
+    "client_doc_id": "25983816906948966429282935",
+    "schema": "instagram"
+  },
+  "ListCallsQuery": {
+    "operation_name": "ListCallsQuery",
+    "operation_name_hash": "1718647464",
+    "operation_text_hash": "10373358862136873197",
+    "client_doc_id": "171864746410373358862136873197",
+    "schema": "instagram"
+  },
+  "ListRoomsQuery": {
+    "operation_name": "ListRoomsQuery",
+    "operation_name_hash": "68254016",
+    "operation_text_hash": "14816108064848685124",
+    "client_doc_id": "6825401614816108064848685124",
+    "schema": "instagram"
+  },
+  "MobileBuildIOSSelfUpdateQuery": {
+    "operation_name": "MobileBuildIOSSelfUpdateQuery",
+    "operation_name_hash": "1720870815",
+    "operation_text_hash": "5189960641329394043",
+    "client_doc_id": "17208708155189960641329394043",
+    "schema": "instagram"
+  },
+  "MobileBuildsDogfoodingInfoQuery": {
+    "operation_name": "MobileBuildsDogfoodingInfoQuery",
+    "operation_name_hash": "387921837",
+    "operation_text_hash": "17937008684569992777",
+    "client_doc_id": "38792183717937008684569992777",
+    "schema": "instagram"
+  },
+  "NativeMLModelBatchedQuery": {
+    "operation_name": "NativeMLModelBatchedQuery",
+    "operation_name_hash": "377611845",
+    "operation_text_hash": "12421457945940500073",
+    "client_doc_id": "37761184512421457945940500073",
+    "schema": "instagram"
+  },
+  "NativeMLModelQuery": {
+    "operation_name": "NativeMLModelQuery",
+    "operation_name_hash": "3074198649",
+    "operation_text_hash": "2257876961020704196",
+    "client_doc_id": "30741986492257876961020704196",
+    "schema": "instagram"
+  },
+  "ProductDetailsPageUserExperienceQuery": {
+    "operation_name": "ProductDetailsPageUserExperienceQuery",
+    "operation_name_hash": "2933907944",
+    "operation_text_hash": "16681670248563759799",
+    "client_doc_id": "293390794416681670248563759799",
+    "schema": "instagram"
+  },
+  "QEOverride": {
+    "operation_name": "QEOverride",
+    "operation_name_hash": "202730012",
+    "operation_text_hash": "6717286640943660772",
+    "client_doc_id": "2027300126717286640943660772",
+    "schema": "instagram"
+  },
+  "ReelsTogetherJoinInboxQuery": {
+    "operation_name": "ReelsTogetherJoinInboxQuery",
+    "operation_name_hash": "3452714434",
+    "operation_text_hash": "14111264249612698605",
+    "client_doc_id": "345271443414111264249612698605",
+    "schema": "instagram"
+  },
+  "ResolveRoomLinkQuery": {
+    "operation_name": "ResolveRoomLinkQuery",
+    "operation_name_hash": "1516446402",
+    "operation_text_hash": "4961678462115432229",
+    "client_doc_id": "15164464024961678462115432229",
+    "schema": "instagram"
+  },
+  "RoomParticipantsQuery": {
+    "operation_name": "RoomParticipantsQuery",
+    "operation_name_hash": "4190745092",
+    "operation_text_hash": "5468422464514720812",
+    "client_doc_id": "41907450925468422464514720812",
+    "schema": "instagram"
+  },
+  "ScriptingPackagesLatestVersionQuery": {
+    "operation_name": "ScriptingPackagesLatestVersionQuery",
+    "operation_name_hash": "2682018283",
+    "operation_text_hash": "14609824332743188131",
+    "client_doc_id": "268201828314609824332743188131",
+    "schema": "instagram"
+  },
+  "SessionSurveyUriQuery": {
+    "operation_name": "SessionSurveyUriQuery",
+    "operation_name_hash": "4234323743",
+    "operation_text_hash": "2636701719052998255",
+    "client_doc_id": "42343237432636701719052998255",
+    "schema": "instagram"
+  },
+  "TINValidationQuery": {
+    "operation_name": "TINValidationQuery",
+    "operation_name_hash": "3734315416",
+    "operation_text_hash": "8945649785735545394",
+    "client_doc_id": "37343154168945649785735545394",
+    "schema": "instagram"
+  },
+  "TestObjectDefaultArgumentsQuery": {
+    "operation_name": "TestObjectDefaultArgumentsQuery",
+    "operation_name_hash": "4169725378",
+    "operation_text_hash": "10118906779302338330",
+    "client_doc_id": "416972537810118906779302338330",
+    "schema": "instagram"
+  },
+  "TestObjectInlineArgumentsQuery": {
+    "operation_name": "TestObjectInlineArgumentsQuery",
+    "operation_name_hash": "1470427010",
+    "operation_text_hash": "1196441805612307970",
+    "client_doc_id": "14704270101196441805612307970",
+    "schema": "instagram"
+  },
+  "TestObjectQueryBuilderArgumentsQuery": {
+    "operation_name": "TestObjectQueryBuilderArgumentsQuery",
+    "operation_name_hash": "1112090329",
+    "operation_text_hash": "13649412763219278791",
+    "client_doc_id": "111209032913649412763219278791",
+    "schema": "instagram"
+  },
+  "UpdateRoomMutation": {
+    "operation_name": "UpdateRoomMutation",
+    "operation_name_hash": "1600147047",
+    "operation_text_hash": "4105481550955661840",
+    "client_doc_id": "16001470474105481550955661840",
+    "schema": "instagram"
+  },
+  "VideoLicenseQuery": {
+    "operation_name": "VideoLicenseQuery",
+    "operation_name_hash": "1983348852",
+    "operation_text_hash": "17366195590260603571",
+    "client_doc_id": "198334885217366195590260603571",
+    "schema": "instagram"
+  },
+  "WWWLiveQueryTest": {
+    "operation_name": "WWWLiveQueryTest",
+    "operation_name_hash": "3534645454",
+    "operation_text_hash": "3122839918854062147",
+    "client_doc_id": "35346454543122839918854062147",
+    "schema": "instagram"
+  },
+  "WWWTestGraphQLSubscription": {
+    "operation_name": "WWWTestGraphQLSubscription",
+    "operation_name_hash": "290963261",
+    "operation_text_hash": "867730014603214318",
+    "client_doc_id": "290963261867730014603214318",
+    "schema": "instagram"
+  },
+  "WWWTestGraphQLSubscriptionPublish": {
+    "operation_name": "WWWTestGraphQLSubscriptionPublish",
+    "operation_name_hash": "1583121168",
+    "operation_text_hash": "6081668661556065166",
+    "client_doc_id": "15831211686081668661556065166",
+    "schema": "instagram"
+  },
+  "WellbeingQuietTimeSubscription": {
+    "operation_name": "WellbeingQuietTimeSubscription",
+    "operation_name_hash": "277646286",
+    "operation_text_hash": "575238477321605162",
+    "client_doc_id": "277646286575238477321605162",
+    "schema": "instagram"
+  },
+  "WellbeingScreenTimeSubscription": {
+    "operation_name": "WellbeingScreenTimeSubscription",
+    "operation_name_hash": "1801404671",
+    "operation_text_hash": "16202278948805308757",
+    "client_doc_id": "180140467116202278948805308757",
+    "schema": "instagram"
+  },
+  "XIGAvatarSetProfilePictureMutation": {
+    "operation_name": "XIGAvatarSetProfilePictureMutation",
+    "operation_name_hash": "1897703889",
+    "operation_text_hash": "16610321371057201502",
+    "client_doc_id": "189770388916610321371057201502",
+    "schema": "instagram"
+  }
+}

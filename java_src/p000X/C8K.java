@@ -1,0 +1,141 @@
+package p000X;
+/* renamed from: X.C8K */
+/* loaded from: classes5.dex */
+public final class C8K extends C0SZ {
+    public int A00;
+    public int A01;
+    public AnonymousClass275 A02;
+    public Boolean A03;
+    public boolean A04;
+    public boolean A05;
+    public boolean A06;
+    public boolean A07;
+    public boolean A08;
+    public boolean A09;
+    public boolean A0A;
+    public boolean A0B;
+    public boolean A0C;
+    public boolean A0D;
+    public boolean A0E;
+    public boolean A0F;
+    public boolean A0G;
+    public boolean A0H;
+    public boolean A0I;
+    public boolean A0J;
+    public boolean A0K;
+    public boolean A0L;
+    public boolean A0M;
+    public boolean A0N;
+    public boolean A0O;
+    public boolean A0P;
+    public boolean A0Q;
+    public boolean A0R;
+    public boolean A0S;
+    public boolean A0T;
+    public boolean A0U;
+
+    public C8K(AnonymousClass275 anonymousClass275, Boolean bool, int i, int i2, boolean z, boolean z2, boolean z3, boolean z4, boolean z5, boolean z6, boolean z7, boolean z8, boolean z9, boolean z10, boolean z11, boolean z12, boolean z13, boolean z14, boolean z15, boolean z16, boolean z17, boolean z18, boolean z19, boolean z20, boolean z21, boolean z22, boolean z23, boolean z24, boolean z25, boolean z26, boolean z27) {
+        C0OR.A0B(anonymousClass275, 1);
+        this.A02 = anonymousClass275;
+        this.A0F = z;
+        this.A0R = z2;
+        this.A0B = z3;
+        this.A0H = z4;
+        this.A0D = z5;
+        this.A04 = z6;
+        this.A0K = z7;
+        this.A0T = z8;
+        this.A00 = i;
+        this.A07 = z9;
+        this.A05 = z10;
+        this.A03 = bool;
+        this.A06 = z11;
+        this.A0I = z12;
+        this.A0G = z13;
+        this.A0S = z14;
+        this.A09 = z15;
+        this.A0Q = z16;
+        this.A0U = z17;
+        this.A0L = z18;
+        this.A0P = z19;
+        this.A0O = z20;
+        this.A0N = z21;
+        this.A08 = z22;
+        this.A0E = z23;
+        this.A0A = z24;
+        this.A0J = z25;
+        this.A01 = i2;
+        this.A0M = z26;
+        this.A0C = z27;
+    }
+
+    public final String toString() {
+        StringBuilder A0m = C25940wr.A0m("CaptureRuleSystemState(contentType=");
+        A0m.append(this.A02);
+        A0m.append(", hasMusic=");
+        A0m.append(this.A0F);
+        A0m.append(", isMusicFromPreCapture=");
+        A0m.append(this.A0R);
+        A0m.append(", hasFeedSticker=");
+        A0m.append(this.A0B);
+        A0m.append(", hasProductShareSticker=");
+        A0m.append(this.A0H);
+        A0m.append(", hasIGTVSticker=");
+        A0m.append(this.A0D);
+        A0m.append(", hasArchiveFeedSticker=");
+        A0m.append(this.A04);
+        A0m.append(", hasReelCTAs=");
+        A0m.append(this.A0K);
+        A0m.append(", isPaidPartnershipLabel=");
+        A0m.append(this.A0T);
+        A0m.append(", brandedContentTagsCount=");
+        A0m.append(this.A00);
+        A0m.append(", hasBrandedContentPendingSponsor=");
+        A0m.append(this.A07);
+        A0m.append(", hasBrandedContentIneligibleSponsorForCrossposting=");
+        A0m.append(this.A05);
+        A0m.append(", isDestinationFBPageEligibleForBrandedContentXPosting=");
+        A0m.append(this.A03);
+        A0m.append(", hasBrandedContentMediaGating=");
+        A0m.append(this.A06);
+        A0m.append(", hasProfileShopLink=");
+        A0m.append(this.A0I);
+        A0m.append(", hasProductLink=");
+        A0m.append(this.A0G);
+        A0m.append(", isMusicPartnerShare=");
+        A0m.append(this.A0S);
+        A0m.append(", hasCountdownSharedSticker=");
+        A0m.append(this.A09);
+        A0m.append(", isMentionReshare=");
+        A0m.append(this.A0Q);
+        A0m.append(", isReelMemoryShare=");
+        A0m.append(this.A0U);
+        A0m.append(", hasShoppingSticker=");
+        A0m.append(this.A0L);
+        A0m.append(", isClipsStory=");
+        A0m.append(this.A0P);
+        A0m.append(", isClipsReshare=");
+        A0m.append(this.A0O);
+        A0m.append(", hasUpcomingEventSticker=");
+        A0m.append(this.A0N);
+        A0m.append(", hasCollabSticker=");
+        A0m.append(this.A08);
+        A0m.append(", hasLinkSticker=");
+        A0m.append(this.A0E);
+        A0m.append(", hasFbEntitySticker=");
+        A0m.append(this.A0A);
+        A0m.append(", hasQuestionSticker=");
+        A0m.append(this.A0J);
+        A0m.append(", hasInternalStickers=");
+        A0m.append(this.A01);
+        A0m.append(", hasSpeakeasy=");
+        A0m.append(this.A0M);
+        A0m.append(", hasGroupMentionSticker=");
+        A0m.append(this.A0C);
+        return C25920wp.A0v(A0m);
+    }
+
+    public C8K() {
+        this(AnonymousClass275.UNSET_OR_UNRECOGNIZED_ENUM_VALUE, null, 0, 0, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false);
+    }
+}

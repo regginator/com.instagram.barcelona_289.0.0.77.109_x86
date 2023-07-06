@@ -1,0 +1,283 @@
+{
+  "suggested_users": {
+    "type": 2,
+    "suggestion_cards": [
+      {
+        "user_card": {
+          "user": {
+            "pk": "90010176924925",
+            "username": "su01",
+            "full_name": "Sam Test",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mv3ncHG/beach.png",
+            "profile_pic_id": "1382910171441140355_4153440330",
+            "is_verified": false,
+            "has_anonymous_profile_picture": false,
+            "account_badges": []
+          },
+          "algorithm": "collaborative_filtering_similar_close_friends_algorithm",
+          "social_context": "Followed by test1, test2 + 17 more",
+          "icon": "",
+          "caption": "",
+          "media_ids": [],
+          "thumbnail_urls": [],
+          "large_urls": [],
+          "media_infos": [],
+          "value": 0.00382226,
+          "followed_by": false,
+          "score": 0.6857050930266174,
+          "is_new_suggestion": false,
+          "uuid": "7100932505|1589398481",
+          "custom_profile_pic_url": {
+            "url": "https://i.ibb.co/mv3ncHG/beach.png",
+            "width": 320,
+            "height": 320
+          }
+        }
+      },
+      {
+        "user_card": {
+          "user": {
+            "pk": "90010176924930",
+            "username": "su02",
+            "full_name": "Tim Test",
+            "is_private": true,
+            "profile_pic_url": "https://i.ibb.co/HtsyWtF/park.png",
+            "profile_pic_id": "2107999072236549304_2236432951",
+            "is_verified": false,
+            "has_anonymous_profile_picture": false,
+            "account_badges": []
+          },
+          "algorithm": "ig_normal_followings_of_normal_followings_algorithm",
+          "social_context": "Followed by iamawesome, mockdata + 2 more",
+          "icon": "",
+          "caption": "",
+          "media_ids": [],
+          "thumbnail_urls": [],
+          "large_urls": [],
+          "media_infos": [],
+          "value": 0.00412184,
+          "followed_by": false,
+          "score": 0.6805044333400205,
+          "is_new_suggestion": false,
+          "uuid": "7100932505|1589398481",
+          "custom_profile_pic_url": {
+            "url": "https://i.ibb.co/HtsyWtF/park.png",
+            "width": 320,
+            "height": 320
+          }
+        }
+      },
+      {
+        "user_card": {
+          "user": {
+            "pk": "90010176924940",
+            "username": "su03",
+            "full_name": "Pat Test",
+            "is_private": true,
+            "profile_pic_url": "https://i.ibb.co/r7WKghc/sunset.png",
+            "profile_pic_id": "2044670018624784487_2262976883",
+            "is_verified": false,
+            "has_anonymous_profile_picture": false,
+            "account_badges": []
+          },
+          "algorithm": "collaborative_filtering_similar_close_friends_algorithm",
+          "social_context": "Followed by iamhere, winandwin + 5 more",
+          "icon": "",
+          "caption": "",
+          "media_ids": [],
+          "thumbnail_urls": [],
+          "large_urls": [],
+          "media_infos": [],
+          "value": 0.00369911,
+          "followed_by": false,
+          "score": 0.6789503351263313,
+          "is_new_suggestion": false,
+          "uuid": "7100932505|1589398481",
+          "custom_profile_pic_url": {
+            "url": "https://i.ibb.co/r7WKghc/sunset.png",
+            "width": 320,
+            "height": 320
+          }
+        }
+      },
+      {
+        "user_card": {
+          "user": {
+            "pk": "90010176924925123",
+            "username": "su04",
+            "full_name": "Alpha Test",
+            "is_private": true,
+            "profile_pic_url": "https://i.ibb.co/cN9B6mz/keyboard-U.png",
+            "profile_pic_id": "1382910171441140355_4153440330",
+            "is_verified": false,
+            "has_anonymous_profile_picture": false,
+            "account_badges": []
+          },
+          "algorithm": "collaborative_filtering_similar_close_friends_algorithm",
+          "social_context": "Followed by gottacatchthemall, pokemon + 3 more",
+          "icon": "",
+          "caption": "",
+          "media_ids": [],
+          "thumbnail_urls": [],
+          "large_urls": [],
+          "media_infos": [],
+          "value": 0.00497131,
+          "followed_by": false,
+          "score": 0.6678600853975333,
+          "is_new_suggestion": false,
+          "uuid": "7100932505|1589398481",
+          "custom_profile_pic_url": {
+            "url": "https://i.ibb.co/cN9B6mz/keyboard-U.png",
+            "width": 320,
+            "height": 320
+          }
+        }
+      },
+      {
+        "user_card": {
+          "user": {
+            "pk": "90010176924930123",
+            "username": "su05",
+            "full_name": "Beta Test",
+            "is_private": true,
+            "profile_pic_url": "https://i.ibb.co/vzfF214/keyboard-L.png",
+            "profile_pic_id": "2107999072236549304_2236432951",
+            "is_verified": false,
+            "has_anonymous_profile_picture": false,
+            "account_badges": []
+          },
+          "algorithm": "ppr_weighted_on_fnf_neighbors_algorithm",
+          "social_context": "Followed by wowowow and lololol",
+          "icon": "",
+          "caption": "",
+          "media_ids": [],
+          "thumbnail_urls": [],
+          "large_urls": [],
+          "media_infos": [],
+          "value": 0.00347918,
+          "followed_by": false,
+          "score": 0.6661852058490721,
+          "is_new_suggestion": false,
+          "uuid": "7100932505|1589398481",
+          "custom_profile_pic_url": {
+            "url": "https://i.ibb.co/vzfF214/keyboard-L.png",
+            "width": 320,
+            "height": 320
+          }
+        }
+      },
+      {
+        "user_card": {
+          "user": {
+            "pk": "90010176924940123",
+            "username": "su06",
+            "full_name": "Gamma Test",
+            "is_private": true,
+            "profile_pic_url": "https://i.ibb.co/BsjxRh3/apple-mouse.png",
+            "profile_pic_id": "2044670018624784487_2262976883",
+            "is_verified": false,
+            "has_anonymous_profile_picture": false,
+            "account_badges": []
+          },
+          "algorithm": "collaborative_filtering_similar_close_friends_algorithm",
+          "social_context": "Followed by timetosleep, tired + 4 more",
+          "icon": "",
+          "caption": "",
+          "media_ids": [],
+          "thumbnail_urls": [],
+          "large_urls": [],
+          "media_infos": [],
+          "value": 0.00462543,
+          "followed_by": false,
+          "score": 0.689988470266397,
+          "is_new_suggestion": false,
+          "uuid": "7100932505|1589398481",
+          "custom_profile_pic_url": {
+            "url": "https://i.ibb.co/BsjxRh3/apple-mouse.png",
+            "width": 320,
+            "height": 320
+          }
+        }
+      },
+      {
+        "user_card": {
+          "user": {
+            "pk": "90010176924925456",
+            "username": "su07",
+            "full_name": "Tom Test",
+            "is_private": true,
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+            "profile_pic_id": "1382910171441140355_4153440330",
+            "is_verified": false,
+            "has_anonymous_profile_picture": false,
+            "account_badges": []
+          },
+          "algorithm": "ig_friends_of_friends_from_tao_laser_algorithm",
+          "social_context": "Followed by insta, gram and + 4 more",
+          "icon": "",
+          "caption": "",
+          "media_ids": [],
+          "thumbnail_urls": [],
+          "large_urls": [],
+          "media_infos": [],
+          "value": 0.0038859,
+          "followed_by": false,
+          "score": 0.6634396587063346,
+          "is_new_suggestion": false,
+          "uuid": "7100932505|1589398481",
+          "custom_profile_pic_url": {
+            "url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+            "width": 320,
+            "height": 320
+          }
+        }
+      },
+      {
+        "user_card": {
+          "user": {
+            "pk": "90010176924940456",
+            "username": "su08",
+            "full_name": "Jerry Test",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/KFH712h/fb-logo.png",
+            "profile_pic_id": "2044670018624784487_2262976883",
+            "is_verified": false,
+            "has_anonymous_profile_picture": false,
+            "account_badges": []
+          },
+          "algorithm": "collaborative_filtering_similar_close_friends_algorithm",
+          "social_context": "Followed by mmm, nnnnn + 5 more",
+          "icon": "",
+          "caption": "",
+          "media_ids": [],
+          "thumbnail_urls": [],
+          "large_urls": [],
+          "media_infos": [],
+          "value": 0.00417114,
+          "followed_by": false,
+          "score": 0.6541175452611434,
+          "is_new_suggestion": false,
+          "uuid": "7100932505|1589398481",
+          "custom_profile_pic_url": {
+            "url": "https://i.ibb.co/KFH712h/fb-logo.png",
+            "width": 320,
+            "height": 320
+          }
+        }
+      }
+    ],
+    "landing_site_type": "suggested_user",
+    "title": "Suggested for You",
+    "view_all_text": "See All",
+    "landing_site_title": "Discover People",
+    "netego_type": "suggested_users",
+    "is_unit_dismissable": false,
+    "ranking_algorithm": "close_friending_optimized",
+    "upsell_fb_pos": "-1",
+    "auto_dvance": "True",
+    "cards_size": "large",
+    "id": "84698169275749",
+    "tracking_token": "eyJ1dWlkIjoiMGVlZTIzMjdiNjFmNDgyODliMWE2ZGY5YjU1ZjI5MGYiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MS4zMTI2OTExMzQyLCJuZXRlZ29fYmlkIjowLjAwMjc2MTY2MDMsImZiX3VzZXJfaWQiOjEwMDAwMjQyNjk1MTU4MiwibmV0X2Vnb190eXBlIjoyLCJnbG9iYWxfcG9zaXRpb24iOjUsImdhcF9ydWxlX3ZhbHVlIjozLCJyaWdodF9nYXBfcnVsZV92YWx1ZSI6NCwiaGlnaGVzdF9uZXRlZ29fcG9zaXRpb24iOjEsImVjcG1fcHJpY2UiOjc5OC4wLCJwYWNpbmdfcWVfaW5mbyI6ImlnX2NmX3RhcmdldF9zaWRlX29wdF8wNTE2fGNvbnRyb2wiLCJ1c2VyX2RvbGxhcl92YWx1ZSI6My45ODk1NTc1NjQ3LCJpc19uZXdfaW5zZXJ0aW9uIjp0cnVlLCJpc19mcm9tX25lZWR5X3VzZXIiOmZhbHNlLCJhdWN0aW9uX3ByaWNlX291dGNvbWUiOjQsInFwX2lkIjoxMzAwODIxMzg2Nzc2MTE1fX0="
+  }
+}

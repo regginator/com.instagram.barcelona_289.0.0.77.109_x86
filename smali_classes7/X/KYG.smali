@@ -1,0 +1,160 @@
+.class public final LX/KYG;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements LX/HvZ;
+
+
+# static fields
+.field public static final A00:LX/KYG;
+
+.field public static final A01:Lkotlinx/serialization/descriptors/SerialDescriptor;
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 3
+
+    .line 0
+    new-instance v0, LX/KYG;
+
+    .line 1
+    .line 2
+    invoke-direct {v0}, LX/KYG;-><init>()V
+
+    .line 3
+    .line 4
+    .line 5
+    sput-object v0, LX/KYG;->A00:LX/KYG;
+
+    .line 6
+    .line 7
+    sget-object v2, LX/Kga;->A00:LX/Kga;
+
+    .line 8
+    .line 9
+    const-string v1, "kotlin.Char"
+
+    .line 10
+    .line 11
+    new-instance v0, LX/Haz;
+
+    .line 12
+    .line 13
+    invoke-direct {v0, v1, v2}, LX/Haz;-><init>(Ljava/lang/String;LX/Kgh;)V
+
+    .line 14
+    .line 15
+    .line 16
+    sput-object v0, LX/KYG;->A01:Lkotlinx/serialization/descriptors/SerialDescriptor;
+
+    .line 17
+    .line 18
+    return-void
+    .line 19
+.end method
+
+.method public constructor <init>()V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method
+
+
+# virtual methods
+.method public final bridge synthetic deserialize(Lkotlinx/serialization/encoding/Decoder;)Ljava/lang/Object;
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x0
+
+    .line 1
+    invoke-static {p1, v0}, LX/0OR;->A0B(Ljava/lang/Object;I)V
+
+    .line 2
+    .line 3
+    .line 4
+    invoke-interface {p1}, Lkotlinx/serialization/encoding/Decoder;->AGw()C
+
+    .line 5
+    .line 6
+    .line 7
+    move-result v0
+
+    .line 8
+    invoke-static {v0}, Ljava/lang/Character;->valueOf(C)Ljava/lang/Character;
+
+    .line 9
+    .line 10
+    .line 11
+    move-result-object v0
+
+    .line 12
+    return-object v0
+.end method
+
+.method public final getDescriptor()Lkotlinx/serialization/descriptors/SerialDescriptor;
+    .locals 1
+
+    .line 0
+    sget-object v0, LX/KYG;->A01:Lkotlinx/serialization/descriptors/SerialDescriptor;
+
+    .line 1
+    .line 2
+    return-object v0
+.end method
+
+.method public final bridge synthetic serialize(Lkotlinx/serialization/encoding/Encoder;Ljava/lang/Object;)V
+    .locals 2
+
+    .line 0
+    check-cast p2, Ljava/lang/Character;
+
+    .line 1
+    .line 2
+    invoke-virtual {p2}, Ljava/lang/Character;->charValue()C
+
+    .line 3
+    .line 4
+    .line 5
+    move-result v1
+
+    .line 6
+    const/4 v0, 0x0
+
+    .line 7
+    invoke-static {p1, v0}, LX/0OR;->A0B(Ljava/lang/Object;I)V
+
+    .line 8
+    .line 9
+    .line 10
+    check-cast p1, LX/KYi;
+
+    .line 11
+    .line 12
+    invoke-static {v1}, Ljava/lang/String;->valueOf(C)Ljava/lang/String;
+
+    .line 13
+    .line 14
+    .line 15
+    move-result-object v0
+
+    .line 16
+    invoke-virtual {p1, v0}, LX/KYi;->AK2(Ljava/lang/String;)V
+
+    .line 17
+    .line 18
+    .line 19
+    return-void
+    .line 20
+    .line 21
+    .line 22
+    .line 23
+.end method

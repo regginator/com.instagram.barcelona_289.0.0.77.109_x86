@@ -1,0 +1,738 @@
+{
+  "AREffectConsentStateQuery": {
+    "client_doc_id": "4703444342988287986475418344",
+    "schema": "instagram"
+  },
+  "AddIGMediaToBoardMutation": {
+    "client_doc_id": "28725428923616811230410845804",
+    "schema": "instagram"
+  },
+  "AiAgentListQuery": {
+    "client_doc_id": "301238622117294564536802345038",
+    "schema": "instagram"
+  },
+  "AndroidAppHistoryPlistQuery": {
+    "client_doc_id": "238838545715695694191054676032",
+    "schema": "instagram"
+  },
+  "ArEffectsFlmCapabilityQuery": {
+    "client_doc_id": "269601404216331979049343920538",
+    "schema": "instagram"
+  },
+  "BindCreditCard": {
+    "client_doc_id": "275382244510697927822107391643",
+    "schema": "instagram"
+  },
+  "BrandedContentXPostingDestinationFBPageEligibilityQuery": {
+    "client_doc_id": "161402808413688214871564707130",
+    "schema": "instagram"
+  },
+  "CAMDiscoveryCampaignSearch": {
+    "client_doc_id": "94434537514242057951540836836",
+    "schema": "instagram"
+  },
+  "CXPCommentCreateMutation": {
+    "client_doc_id": "3300078653288761963134618051",
+    "schema": "instagram"
+  },
+  "CXPCommentDeleteMutation": {
+    "client_doc_id": "268249638816637892562950743900",
+    "schema": "instagram"
+  },
+  "CXPCommentHideMutation": {
+    "client_doc_id": "21718244948945355647249518964",
+    "schema": "instagram"
+  },
+  "CXPCommentReactMutation": {
+    "client_doc_id": "30833349812418474827055549678",
+    "schema": "instagram"
+  },
+  "CXPFbReelsCurrentPrivacyQuery": {
+    "client_doc_id": "15233028463057949206588963210",
+    "schema": "instagram"
+  },
+  "CXPFbStoriesCurrentPrivacyQuery": {
+    "client_doc_id": "320625293112612567900864430848",
+    "schema": "instagram"
+  },
+  "CXPFetchFeedbackQuery": {
+    "client_doc_id": "9460893308330990198661739252",
+    "schema": "instagram"
+  },
+  "CXPFetchReactorsQuery": {
+    "client_doc_id": "16466865571033120786101119372",
+    "schema": "instagram"
+  },
+  "CXPResetNoticeUserMutation": {
+    "client_doc_id": "78773828112503278733759333446",
+    "schema": "instagram"
+  },
+  "CapabilityLatestVersionQuery": {
+    "client_doc_id": "212589905317480098448214493840",
+    "schema": "instagram"
+  },
+  "CheckoutSetupMutation": {
+    "client_doc_id": "190825287511602321075175622961",
+    "schema": "instagram"
+  },
+  "ClipsProfileQuery": {
+    "client_doc_id": "20904923164554934541139878061",
+    "schema": "distillery"
+  },
+  "CohostStatusUpdateMutation": {
+    "client_doc_id": "7582309077877195554256446618",
+    "schema": "distillery"
+  },
+  "CommerceCartGraphQLCartMutation": {
+    "client_doc_id": "34272353961108345081636475136",
+    "schema": "instagram"
+  },
+  "CommerceShopsViewerCart": {
+    "client_doc_id": "354619639417470223105384550749",
+    "schema": "instagram"
+  },
+  "CompleteLinkPaypalMutation": {
+    "client_doc_id": "18521565802657527950275414504",
+    "schema": "instagram"
+  },
+  "ComponentDataMutation": {
+    "client_doc_id": "306015727614926610914099120303",
+    "schema": "instagram"
+  },
+  "CreateEvent": {
+    "client_doc_id": "199367508116270062203591716276",
+    "schema": "distillery"
+  },
+  "CreateIGCollageCanvas": {
+    "client_doc_id": "159554051812558887870077702189",
+    "schema": "instagram"
+  },
+  "CreatePayContainerMutation": {
+    "client_doc_id": "268429269210704828621114524059",
+    "schema": "instagram"
+  },
+  "CrossPostingContentCompatibilityConfig": {
+    "client_doc_id": "21564406653994218282552117012",
+    "schema": "instagram"
+  },
+  "CrossPostingContentCompatibilityConfigV2": {
+    "client_doc_id": "15986438169267070305705161564",
+    "schema": "instagram"
+  },
+  "CrosspostingUnifiedConfigsQuery": {
+    "client_doc_id": "216179630711052902210951782494",
+    "schema": "instagram"
+  },
+  "DcpFeaturesUpload": {
+    "client_doc_id": "387719987211424210844178051540",
+    "schema": "instagram"
+  },
+  "DeleteAll": {
+    "client_doc_id": "15589191376579818239095622068",
+    "schema": "instagram"
+  },
+  "DeleteEvent": {
+    "client_doc_id": "151301369911153800871635449495",
+    "schema": "distillery"
+  },
+  "DevserversList": {
+    "client_doc_id": "16177508303926867902815106416",
+    "schema": "distillery"
+  },
+  "EditEvent": {
+    "client_doc_id": "22993198016415446399514210050",
+    "schema": "distillery"
+  },
+  "FBPayAccount": {
+    "client_doc_id": "3742226823456768346780727132",
+    "schema": "instagram"
+  },
+  "FBPayAddAddressMutation": {
+    "client_doc_id": "275524879110205297933593116465",
+    "schema": "instagram"
+  },
+  "FBPayAddEmailMutation": {
+    "client_doc_id": "3942134239709537877293242114",
+    "schema": "instagram"
+  },
+  "FBPayAddPhoneMutation": {
+    "client_doc_id": "190640751715727089263661553825",
+    "schema": "instagram"
+  },
+  "FBPayAddressQuery": {
+    "client_doc_id": "142483866314242452524782950078",
+    "schema": "instagram"
+  },
+  "FBPayAuthTicketQuery": {
+    "client_doc_id": "14328478587962062168423748336",
+    "schema": "instagram"
+  },
+  "FBPayComponentDataQuery": {
+    "client_doc_id": "11918573457731040414997915942",
+    "schema": "instagram"
+  },
+  "FBPayContactInfoQuery": {
+    "client_doc_id": "175048929311699992845685515188",
+    "schema": "instagram"
+  },
+  "FBPayCreateAuthTicketBasedFactorMutation": {
+    "client_doc_id": "7006664593305787528747025175",
+    "schema": "instagram"
+  },
+  "FBPayCreatePINMutation": {
+    "client_doc_id": "125494096910713563407578101500",
+    "schema": "instagram"
+  },
+  "FBPayDeleteAddressMutation": {
+    "client_doc_id": "23012010737548981480350276606",
+    "schema": "instagram"
+  },
+  "FBPayDeleteAuthTicketMutation": {
+    "client_doc_id": "41707112024415346399076868472",
+    "schema": "instagram"
+  },
+  "FBPayDeleteEmailMutation": {
+    "client_doc_id": "33525973839053407478040167158",
+    "schema": "instagram"
+  },
+  "FBPayDeletePhoneMutation": {
+    "client_doc_id": "23176300857925088548965122",
+    "schema": "instagram"
+  },
+  "FBPayDisablePINMutation": {
+    "client_doc_id": "3090156333168045544822240292",
+    "schema": "instagram"
+  },
+  "FBPayECPHandleCheckoutEventMutation": {
+    "client_doc_id": "34613669739881535997886148514",
+    "schema": "instagram"
+  },
+  "FBPayEnablePINMutation": {
+    "client_doc_id": "298633978015902984315190756027",
+    "schema": "instagram"
+  },
+  "FBPayGetServerEncryptionKeyMutation": {
+    "client_doc_id": "408397770817598290286131830413",
+    "schema": "instagram"
+  },
+  "FBPayLinkAccountMutation": {
+    "client_doc_id": "18521695947155791465638454445",
+    "schema": "instagram"
+  },
+  "FBPayMerchantServicesEarningsDetailsQuery": {
+    "client_doc_id": "21316566594386500489036504341",
+    "schema": "instagram"
+  },
+  "FBPayMerchantServicesEarningsQuery": {
+    "client_doc_id": "17500969169229203080108589335",
+    "schema": "instagram"
+  },
+  "FBPayMerchantServicesPayoutsQuery": {
+    "client_doc_id": "227235732415381085587480523182",
+    "schema": "instagram"
+  },
+  "FBPayUpdateAddressMutation": {
+    "client_doc_id": "425223833118215405677072324162",
+    "schema": "instagram"
+  },
+  "FBPayUpdateEmailMutation": {
+    "client_doc_id": "111435559812059429036252779821",
+    "schema": "instagram"
+  },
+  "FBPayUpdatePhoneMutation": {
+    "client_doc_id": "5252117989631483213966242768",
+    "schema": "instagram"
+  },
+  "FBPayVerifyFactorMutation": {
+    "client_doc_id": "355840195918359853182703077679",
+    "schema": "instagram"
+  },
+  "FBToIGDefaultAudienceBottomSheetQuery": {
+    "client_doc_id": "24388203105869508496082012855",
+    "schema": "instagram"
+  },
+  "FBToIGDefaultAudienceSettingQuery": {
+    "client_doc_id": "33824614974263426399826133354",
+    "schema": "instagram"
+  },
+  "FBToIGFeedDefaultPrivacyOptInMutation": {
+    "client_doc_id": "26451849762508713165291989358",
+    "schema": "instagram"
+  },
+  "FXAICQuery": {
+    "client_doc_id": "149201295617612187722462176311",
+    "schema": "instagram"
+  },
+  "FXAICServiceQuery": {
+    "client_doc_id": "15629108998487549115088795202",
+    "schema": "instagram"
+  },
+  "FXSSOInfoQuery": {
+    "client_doc_id": "35296255736719842476582222221",
+    "schema": "instagram"
+  },
+  "FamilyDeviceIDAppScopedDeviceIDSyncMutation": {
+    "client_doc_id": "45541135212776033237483467282",
+    "schema": "instagram"
+  },
+  "FanClubGiftOptions": {
+    "client_doc_id": "359934860313283004613042923396",
+    "schema": "instagram"
+  },
+  "FanClubInfo": {
+    "client_doc_id": "258359546011791751827099197992",
+    "schema": "instagram"
+  },
+  "FanClubInfoForCreator": {
+    "client_doc_id": "19485382526695862841169828603",
+    "schema": "instagram"
+  },
+  "FanClubInsights": {
+    "client_doc_id": "14717869467319183775803510302",
+    "schema": "instagram"
+  },
+  "FbpayConvertPaypalBaToCib": {
+    "client_doc_id": "30686372394411083798341615902",
+    "schema": "instagram"
+  },
+  "FetchAddressDetailsQuery": {
+    "client_doc_id": "36814939763698856826480307895",
+    "schema": "instagram"
+  },
+  "FetchAddressSuggestionsQuery": {
+    "client_doc_id": "101953743918417122026239873969",
+    "schema": "instagram"
+  },
+  "FetchAppreciationCreatorInsightsQuery": {
+    "client_doc_id": "35594478655112421024163710129",
+    "schema": "instagram"
+  },
+  "FetchAppreciationCreatorLifetimeEarnings": {
+    "client_doc_id": "229071127118443396262656750814",
+    "schema": "instagram"
+  },
+  "FetchAttributionEventComplianceAction": {
+    "client_doc_id": "279018452917733073575656047369",
+    "schema": "instagram"
+  },
+  "FetchBlockV5MetadataQuery": {
+    "client_doc_id": "270126625116761090655274440368",
+    "schema": "instagram"
+  },
+  "FetchCXPNoticesQuery": {
+    "client_doc_id": "174085091313093374168781988043",
+    "schema": "instagram"
+  },
+  "FetchFanClubSubscriptionButtonInfo": {
+    "client_doc_id": "23778074584119925743335770008",
+    "schema": "instagram"
+  },
+  "FetchPaymentDetailsQuery": {
+    "client_doc_id": "4964360131114720315357191688",
+    "schema": "instagram"
+  },
+  "FetchProductConfigQuery": {
+    "client_doc_id": "72204500510863706391428317457",
+    "schema": "instagram"
+  },
+  "FetchSingleMaskEffectQuery": {
+    "client_doc_id": "198986980916107585912594006423",
+    "schema": "instagram"
+  },
+  "FetchXPSFBStoryCardViewersQuery": {
+    "client_doc_id": "4359851816647806448338790876",
+    "schema": "instagram"
+  },
+  "FollowersList": {
+    "client_doc_id": "28479704792644486741338856817",
+    "schema": "distillery"
+  },
+  "FollowingList": {
+    "client_doc_id": "16104639286329675530079654979",
+    "schema": "distillery"
+  },
+  "FxIGAccountsCenterServiceQuery": {
+    "client_doc_id": "252377308317107698611011417222",
+    "schema": "instagram"
+  },
+  "FxIGObIdEqualityQuery": {
+    "client_doc_id": "9640012124801020175520255081",
+    "schema": "instagram"
+  },
+  "FxIgXavSwitcherBadgingDataQuery": {
+    "client_doc_id": "8379425928885876632702504344",
+    "schema": "instagram"
+  },
+  "GetEncryptedCardNumber": {
+    "client_doc_id": "3507688699953579220038485674",
+    "schema": "instagram"
+  },
+  "GetEventDetails": {
+    "client_doc_id": "377936365910093968897609414614",
+    "schema": "distillery"
+  },
+  "GetEventInvitees": {
+    "client_doc_id": "28162707963397337468921429298",
+    "schema": "distillery"
+  },
+  "GetListOfProjects": {
+    "client_doc_id": "29849611908148857730118855412",
+    "schema": "instagram"
+  },
+  "GetMediaUrlsQuery": {
+    "client_doc_id": "2890062972169869539392563200",
+    "schema": "instagram"
+  },
+  "GhostWriterCommentQuery": {
+    "client_doc_id": "3452972110975290793414988284",
+    "schema": "instagram"
+  },
+  "GhostWriterCommentReplyQuery": {
+    "client_doc_id": "397384181515938998929088887503",
+    "schema": "instagram"
+  },
+  "HomeRootQuery": {
+    "client_doc_id": "102267395210887568726279985016",
+    "schema": "instagram"
+  },
+  "IGAdsPreferencesIsOptedOutFromThirdPartyMutation": {
+    "client_doc_id": "136014275011098708263659396549",
+    "schema": "instagram"
+  },
+  "IGBoardForIGDThreadQuery": {
+    "client_doc_id": "196204704218154273194257614925",
+    "schema": "instagram"
+  },
+  "IGCreateThreadBoardMutation": {
+    "client_doc_id": "29920105885005764006764946760",
+    "schema": "instagram"
+  },
+  "IGExamplePandoQuery": {
+    "client_doc_id": "195872672713147339492629361617",
+    "schema": "instagram"
+  },
+  "IGFBPayAddCreditCard": {
+    "client_doc_id": "14613923725087300981181272295",
+    "schema": "instagram"
+  },
+  "IGFBPayAddShopPayQuery": {
+    "client_doc_id": "44996063512572810151859446601",
+    "schema": "instagram"
+  },
+  "IGFBPayAuthFlowsContentQuery": {
+    "client_doc_id": "29219848116349970961547238205",
+    "schema": "instagram"
+  },
+  "IGFBPayCancelPayPalMutation": {
+    "client_doc_id": "14858552921354351634701204467",
+    "schema": "instagram"
+  },
+  "IGFBPayCompletePaypalLinkingMutation": {
+    "client_doc_id": "2243620845740955589078085302",
+    "schema": "instagram"
+  },
+  "IGFBPayCompleteShopPayInitMutation": {
+    "client_doc_id": "1848711110990877774300039895",
+    "schema": "instagram"
+  },
+  "IGFBPayDisableCreditCard": {
+    "client_doc_id": "27722642196072490537923541955",
+    "schema": "instagram"
+  },
+  "IGFBPayOrderInfoSectionQuery": {
+    "client_doc_id": "137146440913667111365571017309",
+    "schema": "instagram"
+  },
+  "IGFBPayRemoveShopPayMutation": {
+    "client_doc_id": "308845229660273642865180776",
+    "schema": "instagram"
+  },
+  "IGFBPayShareableContactInfoQuery": {
+    "client_doc_id": "8556269609678832758713783609",
+    "schema": "instagram"
+  },
+  "IGFBPayShareableTransactionsQuery": {
+    "client_doc_id": "26680402313052624914573360200",
+    "schema": "instagram"
+  },
+  "IGFBPayShopPayInitLinkMutation": {
+    "client_doc_id": "133782329015398376674719727215",
+    "schema": "instagram"
+  },
+  "IGFBPayUpdateCreditCard": {
+    "client_doc_id": "40165321843417324137411014495",
+    "schema": "instagram"
+  },
+  "IGFundraiserNudgeDecisionQuery": {
+    "client_doc_id": "12205303912497916974650537081",
+    "schema": "instagram"
+  },
+  "IGGenerateText2Stickers": {
+    "client_doc_id": "272961684716403431715244211536",
+    "schema": "instagram"
+  },
+  "IGGraphQLBanyanQuery": {
+    "client_doc_id": "178795045015640510724832828779",
+    "schema": "instagram"
+  },
+  "IGMultiSpotQuery": {
+    "client_doc_id": "1987725725277570002413721721",
+    "schema": "instagram"
+  },
+  "IGOnDeviceAppHistoryPrivacyQuery": {
+    "client_doc_id": "51581041612934794514212379194",
+    "schema": "instagram"
+  },
+  "IGOneLinkLoggedOutWAMiddlewareQuery": {
+    "client_doc_id": "32018719341298749752911646053",
+    "schema": "instagram"
+  },
+  "IGOneLinkMiddlewareAdAccountQuery": {
+    "client_doc_id": "391293219617817158082561786834",
+    "schema": "instagram"
+  },
+  "IGOneLinkMiddlewareBusinessAccountQuery": {
+    "client_doc_id": "12312797565718994064137271245",
+    "schema": "instagram"
+  },
+  "IGOneLinkMiddlewareBusinessAccountWithBusinessInfoQuery": {
+    "client_doc_id": "403772798915111169631921618558",
+    "schema": "instagram"
+  },
+  "IGOneLinkMiddlewarePageQuery": {
+    "client_doc_id": "25065272511213483404914864494",
+    "schema": "instagram"
+  },
+  "IGOneLinkMiddlewarePageWithBPLPageInfoQuery": {
+    "client_doc_id": "184094035812861602799972992582",
+    "schema": "instagram"
+  },
+  "IGOneLinkMiddlewareWhatsAppBusinessQuery": {
+    "client_doc_id": "13513772661704761708109730075",
+    "schema": "instagram"
+  },
+  "IGOneLinkUnlinkDetectorSampleQueryDoNotUse": {
+    "client_doc_id": "69119840510573865529777267650",
+    "schema": "instagram"
+  },
+  "IGP2MOrderManagementOrderListQuery": {
+    "client_doc_id": "345364121215983709004283968448",
+    "schema": "instagram"
+  },
+  "IGProfessionalIdentityCachedInfoQuery": {
+    "client_doc_id": "147594021418264333765875986337",
+    "schema": "instagram"
+  },
+  "IGProfileTimelineQuery": {
+    "client_doc_id": "56030350814948982974570592225",
+    "schema": "distillery"
+  },
+  "IGResetPINWithPasswordMutation": {
+    "client_doc_id": "1180128475896658724615343331",
+    "schema": "instagram"
+  },
+  "IGTestMutation": {
+    "client_doc_id": "1387521328220598700189530568",
+    "schema": "instagram"
+  },
+  "IGThreadsWithBoardsQuery": {
+    "client_doc_id": "351749453516944949363250722928",
+    "schema": "instagram"
+  },
+  "IgFbPayOrdersQuery": {
+    "client_doc_id": "2364301108977495643937857921",
+    "schema": "instagram"
+  },
+  "IgFbPayPaymentMethodsQuery": {
+    "client_doc_id": "212330085816000272025372049847",
+    "schema": "instagram"
+  },
+  "IgPaymentsPINDeleteMutation": {
+    "client_doc_id": "126303142010420604599592544241",
+    "schema": "instagram"
+  },
+  "IgPaymentsUpdatePaymentAccountNameMutation": {
+    "client_doc_id": "794494187949687003325730360",
+    "schema": "instagram"
+  },
+  "InitLinkPaypal": {
+    "client_doc_id": "312821667014815531750416117893",
+    "schema": "instagram"
+  },
+  "InstagramRoomCreationSubscription": {
+    "client_doc_id": "36934882548351176401146870858",
+    "schema": "instagram"
+  },
+  "InstagramRoomUpdateSubscription": {
+    "client_doc_id": "180426280610747904701903688943",
+    "schema": "instagram"
+  },
+  "InviteUsers": {
+    "client_doc_id": "279741091713874886850639820397",
+    "schema": "distillery"
+  },
+  "IsUserSubscribedToCreatorIGID": {
+    "client_doc_id": "26981596917620197521336510117",
+    "schema": "instagram"
+  },
+  "MetaGalleryAlbumMedia": {
+    "client_doc_id": "346764240615414517986979821197",
+    "schema": "instagram"
+  },
+  "MetaGalleryAlbums": {
+    "client_doc_id": "376974052817118404922149080933",
+    "schema": "instagram"
+  },
+  "MetaGalleryOptInStateMutation": {
+    "client_doc_id": "37346644114219507253600004137",
+    "schema": "instagram"
+  },
+  "MetaGalleryRecentsQuery": {
+    "client_doc_id": "372415747845569382649080049",
+    "schema": "instagram"
+  },
+  "MetaPayConnectQuery": {
+    "client_doc_id": "15453075106845489678014215598",
+    "schema": "instagram"
+  },
+  "NMLMLCapabilityLatestAimVersionQuery": {
+    "client_doc_id": "389272914586634129101460493",
+    "schema": "instagram"
+  },
+  "NotificationHubQuery": {
+    "client_doc_id": "202191704420619073736295015",
+    "schema": "instagram"
+  },
+  "OffsiteSendFirstPartyEvent": {
+    "client_doc_id": "13674144277570565129010924370",
+    "schema": "instagram"
+  },
+  "OnDeviceFLFeatures": {
+    "client_doc_id": "97942539015262622076776956304",
+    "schema": "instagram"
+  },
+  "OnDeviceFLMetadata": {
+    "client_doc_id": "8286614646372634798826554008",
+    "schema": "instagram"
+  },
+  "OverviewQuery": {
+    "client_doc_id": "101484892217673370872559279553",
+    "schema": "instagram"
+  },
+  "PPMLPrivacyQuery": {
+    "client_doc_id": "16700377491305048238735421889",
+    "schema": "instagram"
+  },
+  "PayoutRecordDetailsViewQuery": {
+    "client_doc_id": "5264740376747615262272437972",
+    "schema": "instagram"
+  },
+  "PayoutReleaseDetailsViewQuery": {
+    "client_doc_id": "32134290109163704658759387497",
+    "schema": "instagram"
+  },
+  "PayoutSettingsQuery": {
+    "client_doc_id": "258536640212970447845464078853",
+    "schema": "instagram"
+  },
+  "PayoutTransactionQuery": {
+    "client_doc_id": "9156067741545456483684993907",
+    "schema": "instagram"
+  },
+  "PendingFollows": {
+    "client_doc_id": "3313842939308704700601643431",
+    "schema": "distillery"
+  },
+  "PreprocessingMutation": {
+    "client_doc_id": "25625252299271273928315977096",
+    "schema": "instagram"
+  },
+  "ProfileUserInfo": {
+    "client_doc_id": "201960159614876788127317849535",
+    "schema": "distillery"
+  },
+  "QueryAppreciationPacks": {
+    "client_doc_id": "359860546711236182755308616634",
+    "schema": "instagram"
+  },
+  "RecordCXPNoticeInteractionMutation": {
+    "client_doc_id": "11223832346394957289112904792",
+    "schema": "instagram"
+  },
+  "RemoveGuestMutation": {
+    "client_doc_id": "37057814652448213124512685253",
+    "schema": "distillery"
+  },
+  "ReportAdvertiserIDMutation": {
+    "client_doc_id": "60584569310721662488291916102",
+    "schema": "instagram"
+  },
+  "ReportAttributionEventsMutation": {
+    "client_doc_id": "18293997046226642457734318433",
+    "schema": "instagram"
+  },
+  "RequestToJoinEventMutation": {
+    "client_doc_id": "362423365312178027338668542835",
+    "schema": "distillery"
+  },
+  "SaveProductMutation": {
+    "client_doc_id": "34682430110780807290125826458",
+    "schema": "instagram"
+  },
+  "ScriptingPackagesLatestVersionQuery": {
+    "client_doc_id": "26820182835736152930268110828",
+    "schema": "instagram"
+  },
+  "SendSubscriptionNotification": {
+    "client_doc_id": "213482163215584370554568181500",
+    "schema": "instagram"
+  },
+  "ServerSmartPrefetchQuery": {
+    "client_doc_id": "212289357814426804852915680762",
+    "schema": "instagram"
+  },
+  "SetSubscriptionNotificationTime": {
+    "client_doc_id": "112548269014563527111585124430",
+    "schema": "instagram"
+  },
+  "SharedNativeMLModelBatchedQuery": {
+    "client_doc_id": "41025039565129743474576494807",
+    "schema": "instagram"
+  },
+  "ShowConnectFBPayQuery": {
+    "client_doc_id": "8003515615280995827844456820",
+    "schema": "instagram"
+  },
+  "SubmitPayContainerMutation": {
+    "client_doc_id": "2230598263572802427687060885",
+    "schema": "instagram"
+  },
+  "SyncCXPNoticeStateMutation": {
+    "client_doc_id": "14088097634272511800572157181",
+    "schema": "instagram"
+  },
+  "UnsaveProductMutation": {
+    "client_doc_id": "28611142756156733580846113629",
+    "schema": "instagram"
+  },
+  "UpdateAutoCrossPostingSettingMutation": {
+    "client_doc_id": "426526496614420180862159088098",
+    "schema": "instagram"
+  },
+  "UpdateEventRSVP": {
+    "client_doc_id": "42513080028928549719753049142",
+    "schema": "distillery"
+  },
+  "UpdateOffsiteOrderMutation": {
+    "client_doc_id": "300932995414287080112914523243",
+    "schema": "instagram"
+  },
+  "XFBCreateIabLinkHistory": {
+    "client_doc_id": "1309343513481914086369220614",
+    "schema": "instagram"
+  },
+  "ZeroDayLanguageSignalUpload": {
+    "client_doc_id": "421504111017775862006551019971",
+    "schema": "instagram"
+  }
+}

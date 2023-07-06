@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="material_timepicker">L|A50|75C|F711</item>
+    <item type="layout" name="mtrl_picker_header_dialog">L|11AC|5A0|37A7</item>
+    <item type="layout" name="material_clock_period_toggle_land">L|554|4FC|3912</item>
+</resources>

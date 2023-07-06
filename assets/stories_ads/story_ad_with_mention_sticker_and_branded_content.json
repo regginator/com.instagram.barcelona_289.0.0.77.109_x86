@@ -1,0 +1,278 @@
+{
+  "id": "story_ad_with_mention_sticker_and_branded_content_id",
+  "latest_reel_media": null,
+  "expiring_at": 1608059749,
+  "seen": null,
+  "can_reply": false,
+  "can_gif_quick_reply": true,
+  "can_reshare": true,
+  "reel_type": "ads_reel",
+  "is_sensitive_vertical_ad": false,
+  "user": {
+    "pk": 90010167773326,
+    "username": "test_bc_creator",
+    "full_name": "realstate",
+    "is_private": false,
+    "profile_pic_url": "https://i.ibb.co/CtxdFPS/creator-icon.jpg",
+    "profile_pic_id": "2265197323108137051_90010167773326",
+    "is_verified": false
+  },
+  "items": [
+    {
+      "taken_at": 1607973255,
+      "pk": 2464180728112364000,
+      "id": "2464180728112364216_90010167773326",
+      "device_timestamp": 1607973255,
+      "media_type": 1,
+      "code": "CIyh1EBgDq4",
+      "client_cache_key": "MjQ2NDE4MDcyODExMjM2NDIxNg==.2",
+      "filter_type": 0,
+      "user": {
+        "pk": 90010167773326,
+        "username": "test_bc_creator",
+        "full_name": "realstate",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/CtxdFPS/creator-icon.jpg",
+        "profile_pic_id": "2265197323108137051_90010167773326",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "account_badges": []
+      },
+      "caption": null,
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "image_versions2": {
+        "candidates": [
+          {
+            "width": 1080,
+            "height": 2042,
+            "url": "https://i.ibb.co/yyQ6Vmv/mention.jpg",
+            "scans_profile": "e15",
+            "estimated_scans_sizes": [
+              10954,
+              21908,
+              32862,
+              43816,
+              54771,
+              98588,
+              98588,
+              98588,
+              98588
+            ]
+          }
+        ]
+      },
+      "original_width": 1080,
+      "original_height": 2042,
+      "like_count": 0,
+      "has_liked": false,
+      "likers": [],
+      "photo_of_you": false,
+      "can_see_insights_as_brand": false,
+      "sponsor_tags": [
+        {
+          "permission": false,
+          "sponsor": {
+            "pk": 90010167773283,
+            "username": "test_bc_sponsor",
+            "full_name": "pop star",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/1ZnLSSz/sponsor-icon.jpg",
+            "profile_pic_id": "2265196334972066655_90010167773283",
+            "is_verified": false
+          }
+        }
+      ],
+      "organic_post_id": 2464178229358355500,
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQJVKAE9fdDcdevVE68Q3YG1x8iB7fnVPrayWRuPM8gNR-ynnLPpsY78MGIw1qQzzFG6Gu2aR3vN2JVPFFmCmf7R",
+        "show_ad_choices": false,
+        "ad_title": "IG Creator Test Page",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23846421736380012,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": null,
+              "serializedImpOrganicScoreMap": null
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "cookies": [
+          "fr=1V1zVP2gslyiLALaf.AWWv5CiQvylLLSr2LzwMPVOSHpw.Bf17nk..AAA.0.0.Bf17nk.AWW8IZAOJQY; expires=Sun, 14 Mar 2021 19:15:48 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "collapse_comments": false,
+      "ad_metadata": [
+        {
+          "value": "business.instagram.com",
+          "type": 1
+        }
+      ],
+      "link": "https://business.instagram.com/?fbclid=PAAaYZnR8Hegrpecsq1sz9T99NI5iH9O3pisg_ercuopMWChCYwNyQyVobolY",
+      "link_text": "Learn More",
+      "ad_action": "webclick",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "android_links": [
+        {
+          "linkType": 1,
+          "webUri": "https://business.instagram.com/?fbclid=PAAaYZnR8Hegrpecsq1sz9T99NI5iH9O3pisg_ercuopMWChCYwNyQyVobolY",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_AJ7Ei8dm_94Pi54IJPMegc3FQETo6_s1g8s4-r0GDa69M0Jo5fZc6WH1raFhsCa8Gh-q5LUBizKkbNgLHxd2q7NFadLbXi6PXrKmgr59liM-jnGlfo4gde5tKybWcgEc1F01iXXZjH2s_527Sbb5--bQj4UWgHDxeaoQoUR3bhPx9zn3PbIVrOstQFoSFtF5mWdOvE-RvibWkh_BPNLOe-9cF5e2oQKGaKqD39T1f8VU-ZE943PUKhFrFg1VmEZk4h48_6WMNwan_j1JtWAK6mI9AtAgcMmgsJuqhwzKPdw&a=1&hash=Ad_yPIWtG8zR2FL6PtQ",
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "Visit Website",
+          "tapAndHoldContext": "Swipe up to view business.instagram.com"
+        }
+      ],
+      "iab_autofill_optout_info": {
+        "domain": "business.instagram.com",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "PAAaYZnR8Hegrpecsq1sz9T99NI5iH9O3pisg_ercuopMWChCYwNyQyVobolY",
+      "force_overlay": true,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "IG Creator Test Page",
+      "overlay_subtitle": "Go to business.instagram.com",
+      "dominant_color": "#B48757",
+      "follower_count": 1031,
+      "post_count": 57,
+      "fb_page_url": "https://www.facebook.com/IG-Creator-Test-Page-107448777599552/",
+      "can_viewer_save": false,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMDJlYzAzNjFlNmIxNGY1OTkwYzgxZDhlYzc4ZWVjYjIyNDY0MTgwNzI4MTEyMzY0MjE2Iiwic2VydmVyX3Rva2VuIjoiMTYwNzk3MzM0OTgzMHwyNDY0MTgwNzI4MTEyMzY0MjE2fDEwMzk1NTQ2fGJhMTQ1ZWQwZmRkOGJiOTQwZjE1NTdlZWFkOGNmYmU1MDNiMThjODU1Yjc4MTIyMWY4YTFhODE5NjQyZTQ0YjIifSwic2lnbmF0dXJlIjoiIn0=",
+      "expiring_at": 1608059749,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "is_shop_the_look_eligible": false,
+      "deleted_reason": 0,
+      "integrity_review_decision": "pending",
+      "direct_share": false,
+      "can_reshare": true,
+      "can_reply": false,
+      "reel_mentions": [
+        {
+          "x": 0.47425931692123413,
+          "y": 0.6032794713973999,
+          "z": 0,
+          "width": 0.5,
+          "height": 0.0717167779803276,
+          "rotation": -0.020031068474054337,
+          "is_pinned": 0,
+          "is_hidden": 0,
+          "is_sticker": 1,
+          "is_fb_sticker": 0,
+          "user": {
+            "pk": 90010167773283,
+            "username": "test_bc_sponsor",
+            "full_name": "pop star",
+            "is_private": false,
+            "profile_pic_url": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-19/s150x150/90086497_658510661658900_229801460668301312_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_ohc=pq33lkRUIR8AX8duGLn&tp=1&oh=3ab09b47c078707099d6a5a81a03032b&oe=600093E9",
+            "profile_pic_id": "2265196334972066655_90010167773283",
+            "is_verified": false
+          }
+        }
+      ],
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 1,
+              "webUri": "https://business.instagram.com/?fbclid=PAAaYZnR8Hegrpecsq1sz9T99NI5iH9O3pisg_ercuopMWChCYwNyQyVobolY",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_AJ7Ei8dm_94Pi54IJPMegc3FQETo6_s1g8s4-r0GDa69M0Jo5fZc6WH1raFhsCa8Gh-q5LUBizKkbNgLHxd2q7NFadLbXi6PXrKmgr59liM-jnGlfo4gde5tKybWcgEc1F01iXXZjH2s_527Sbb5--bQj4UWgHDxeaoQoUR3bhPx9zn3PbIVrOstQFoSFtF5mWdOvE-RvibWkh_BPNLOe-9cF5e2oQKGaKqD39T1f8VU-ZE943PUKhFrFg1VmEZk4h48_6WMNwan_j1JtWAK6mI9AtAgcMmgsJuqhwzKPdw&a=1&hash=Ad_yPIWtG8zR2FL6PtQ",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "Visit Website",
+              "tapAndHoldContext": "Swipe up to view business.instagram.com"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true,
+      "story_ad_headline": {
+        "text": "Instagram Business"
+      },
+      "supports_reel_reactions": true,
+      "can_send_custom_emojis": true,
+      "show_one_tap_fb_share_tooltip": false
+    }
+  ],
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "muted": false,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 0,
+    "reel_gap_to_previous_netego": 0,
+    "consumed_media_gap_to_previous_ad": 0,
+    "consumed_media_gap_to_previous_netego": 0,
+    "max_reel_gap_to_previous_item": 0,
+    "highest_position_rule": 1,
+    "min_media_gap_to_previous_item": 0,
+    "time_gap_to_previous_item_in_sec": 0
+  },
+  "priority_index": 0
+}

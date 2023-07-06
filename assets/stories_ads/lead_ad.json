@@ -1,0 +1,275 @@
+{
+  "id": "lead_ad",
+  "latest_reel_media": null,
+  "expiring_at": 9564075658,
+  "seen": null,
+  "can_reply": false,
+  "can_reshare": false,
+  "reel_type": "ads_reel",
+  "user": {
+    "pk": 14989464883,
+    "username": "hemenbasvur4",
+    "full_name": "Hemenbasvur",
+    "is_private": false,
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "2068798440107829598_14989464883",
+    "is_verified": false
+  },
+  "items": [
+    {
+      "taken_at": 1563340297,
+      "pk": 2089772334596369700,
+      "id": "lead_ad",
+      "device_timestamp": 1563340297,
+      "media_type": 0,
+      "code": "B0AXN3BDizM",
+      "client_cache_key": "MjA4OTc3MjMzNDU5NjM2OTYxMg==.2",
+      "filter_type": 0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png"
+          }
+        ]
+      },
+      "original_width":900,
+      "original_height":1600,
+      "is_dash_eligible": 1,
+      "has_audio": true,
+      "video_duration": 15,
+      "view_count": 86339,
+      "user": {
+        "pk": 14989464883,
+        "username": "hemenbasvur4",
+        "full_name": "Hemenbasvur",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "2068798440107829598_14989464883",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": true,
+        "is_favorite": false,
+        "latest_reel_media": null
+      },
+      "is_external_share_disabled": false,
+      "caption": null,
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "like_count": 3,
+      "has_liked": false,
+      "likers": [
+        {
+          "pk": 7438063824,
+          "username": "neirprv",
+          "full_name": "Nehir Harp",
+          "is_private": true,
+          "profile_pic_url": "https://scontent-sea1-1.cdninstagram.com/vp/4866b4a3a1eee59d3082f1495c87f7b7/5DE4400C/t51.2885-19/s150x150/29714683_162614024401771_3399766506580475904_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com",
+          "profile_pic_id": "1750866462937336298_7438063824",
+          "is_verified": false
+        },
+        {
+          "pk": 5767241978,
+          "username": "hazalsanlii1",
+          "full_name": "Hazal Şanlı",
+          "is_private": true,
+          "profile_pic_url": "https://scontent-sea1-1.cdninstagram.com/vp/d48f4170f1c8d08d19f93877e93d03bb/5DD442FC/t51.2885-19/s150x150/61918333_1340673692763688_6192854322661818368_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com",
+          "profile_pic_id": "2000783597242772624_5767241978",
+          "is_verified": false
+        },
+        {
+          "pk": 4158842030,
+          "username": "anlyqt54",
+          "full_name": "AnıL-Yi6iT",
+          "is_private": true,
+          "profile_pic_url": "https://scontent-sea1-1.cdninstagram.com/vp/137659f1e4e7dec197de2310008f06ff/5DE05F6F/t51.2885-19/s150x150/65668576_665688460617312_4964209920401473536_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com",
+          "profile_pic_id": "2094328440786015348_4158842030",
+          "is_verified": false
+        }
+      ],
+      "photo_of_you": false,
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQIPtirIeWih_MW22RAUQumMR3xnVjLJQgCh5LTc80awJa9h6kMF5m-gEUHSgDgDNMWS5ysT6mQhMA539VVwKuqJ",
+        "show_ad_choices": false,
+        "ad_title": "Hemenbasvur",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23843515716100052,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": "{}",
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "lead_gen_form_id": 355545378408596,
+        "is_leadgen_native_eligible": true,
+        "cookies": [
+          "fr=1VcYQjYYjSlAgBAK3.AWWxRqSFGG9KDZP4q54T1LMzQg0.BdOJUJ..AAA.0.0.BdOJUJ.AWWekpGR; expires=Thu, 23 Jul 2020 17:27:37 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "collapse_comments": false,
+      "ad_metadata": [
+        {
+          "value": "www.byeler.com.tr",
+          "type": 1
+        }
+      ],
+      "link": "https://www.byeler.com.tr/",
+      "link_text": "Apply Now",
+      "ad_action": "leadads",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "android_links": [
+        {
+          "linkType": 7,
+          "webUri": "https://www.byeler.com.tr/",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_6FlCjIUiCDc55BNJvdSP_q3tUKn8WSdhymF6kPGcgsqO4JFm-Q3gZViMLUY1JPpfvlPcVaqK1_Yi3aYN_F6NkFinizoyKc3y9IWvxpyQJ8EK3U7y3SXNyJDzBA6Zxxu0seNCBat6J0kyKHp--rk6nsDjR3SLZe_B3hCPTVulnYWpQVhi_OSImRkSODIyws9E&a=1&hash=Ad-slEZDr8a1frwX",
+          "leadGenFormId": 355545378408596,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "View form on Instagram",
+          "tapAndHoldContext": "Swipe up to view form"
+        }
+      ],
+      "iab_autofill_optout_info": {
+        "domain": "byeler.com.tr",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "IwAR130Y10TmwlqdGRHyTgthRADy-mznD-k5RiuM4QV35LjwU3XqDNW9SU_Kg",
+      "force_overlay": false,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "Hemenbasvur",
+      "overlay_subtitle": "Go to Website",
+      "dominant_color": "#315784",
+      "follower_count": 0,
+      "post_count": 0,
+      "ad_id": 23843515716100052,
+      "fb_page_url": "https://www.facebook.com/Hemenbasvur-2746711842022847/",
+      "can_viewer_save": true,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6ImY4NzU4OWMwZTcyNTRmOTRhODQ1MzQyNDBkMzQ4ODRjMjA4OTc3MjMzNDU5NjM2OTYxMiIsInNlcnZlcl90b2tlbiI6IjE1NjM5ODkyNTgwNjN8MjA4OTc3MjMzNDU5NjM2OTYxMnwyNjE0MzE5MjB8YzFhNjc4YjlhYTc4NzlmNjk1MWJhNGJmYTMzODkxMjFlZDhmYTYzN2UwZGJhNzEyMjllNjM1Zjc1OTUzY2JjMSJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at": 9564075658,
+      "can_reshare": false,
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 7,
+              "webUri": "https://www.byeler.com.tr/",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_6FlCjIUiCDc55BNJvdSP_q3tUKn8WSdhymF6kPGcgsqO4JFm-Q3gZViMLUY1JPpfvlPcVaqK1_Yi3aYN_F6NkFinizoyKc3y9IWvxpyQJ8EK3U7y3SXNyJDzBA6Zxxu0seNCBat6J0kyKHp--rk6nsDjR3SLZe_B3hCPTVulnYWpQVhi_OSImRkSODIyws9E&a=1&hash=Ad-slEZDr8a1frwX",
+              "leadGenFormId": 355545378408596,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "View form on Instagram",
+              "tapAndHoldContext": "Swipe up to view form"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true
+    }
+  ],
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "muted": false,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index": 0,
+  "has_pride_media": false
+}

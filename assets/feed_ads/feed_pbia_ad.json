@@ -1,0 +1,226 @@
+{
+  "media_or_ad": {
+    "taken_at": 1468976232,
+    "pk": 1298189185206880500,
+    "id": "1298189185206880436_2218320147",
+    "device_timestamp": 1468976232,
+    "media_type": 2,
+    "code": "BIEGC-Tgoi0",
+    "client_cache_key": "MTI5ODE4OTE4NTIwNjg4MDQzNg==.2",
+    "filter_type": 0,
+    "image_versions2":{
+      "candidates":[
+        {
+          "width":1285,
+          "height":722,
+          "url":"https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png"
+        }
+      ]
+    },
+    "original_width": 1280,
+    "original_height": 720,
+    "is_dash_eligible": 1,
+    "video_versions":[
+      {
+        "type":101,
+        "width":1280,
+        "height":720,
+        "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "id":"18053562115157882"
+      }
+    ],
+    "has_audio": true,
+    "video_duration": 12.03,
+    "view_count": 289,
+    "user": {
+      "pk": 2218320147,
+      "username": "apple9300",
+      "full_name": "Apple Music",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/zFGCms4/pbia-3.jpg",
+      "profile_pic_id": "1548215054829377288_2218320147",
+      "friendship_status": {
+        "following": false,
+        "outgoing_request": false,
+        "is_muting_reel": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": false,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": true,
+      "is_favorite": false,
+      "latest_reel_media": 0
+    },
+    "caption_is_edited": false,
+    "liker_config": {
+      "is_daisy": true,
+      "hide_view_count": true,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 1,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false
+    },
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": true,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 1,
+    "like_count": 2,
+    "bucketed_like_count": null,
+    "ads_bucketed_like_count": 1,
+    "has_liked": false,
+    "top_likers": [],
+    "photo_of_you": false,
+    "caption": {
+      "pk": 17849397553083356,
+      "user_id": 2218320147,
+      "text": "Curator Playlists - What those in the know are listening to. Explore great playlists from major players on Apple Music. Free for 3 months. Listen now.",
+      "type": 1,
+      "created_at": 1468976232,
+      "created_at_utc": 1468976232,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 2218320147,
+        "username": "apple9300",
+        "full_name": "Apple Music",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/zFGCms4/pbia-3.jpg",
+        "profile_pic_id": "1548215054829377288_2218320147",
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_muting_reel": false,
+          "is_bestie": false,
+          "is_restricted": false
+        },
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": true,
+        "is_favorite": false,
+        "latest_reel_media": 0
+      },
+      "media_id": 1298189185206880500
+    },
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQK18Z-fFM_F4wH57yKFIrf7shdlqKid4voZaNjCGIFvso0P24feqhS87PtVtN6HwNTG0s99gj2Cw0tNf5Ibd9G2",
+      "show_ad_choices": false,
+      "ad_title": "Apple Music",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 6055396775368,
+      "display_viewability_eligible": false,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": "{}",
+            "serializedImpOrganicScoreMap": "{}"
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=1fsLJllhiheDGxGk3.AWW6sr4DjDYyTmco5RReDA2_3DA.BeaqwI..AAA.0.0.BeaqwI.AWUJzb1T; expires=Wed, 10 Jun 2020 21:39:20 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ]
+    },
+    "collapse_comments": true,
+    "ad_metadata": [
+      {
+        "value": "apple.com",
+        "type": 1
+      }
+    ],
+    "link": "http://itunes.apple.com/new?app=music&itscg=1107&at=1000l4VX&ct=A105_A604_A010830",
+    "link_text": "Learn More",
+    "ad_action": "webclick",
+    "link_hint_text": "Tap Photo to Open Page",
+    "iTunesItem": null,
+    "ad_link_type": 0,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "android_links": [
+      {
+        "linkType": 1,
+        "webUri": "http://itunes.apple.com/new?app=music&itscg=1107&at=1000l4VX&ct=A105_A604_A010830",
+        "androidClass": "",
+        "package": "",
+        "deeplinkUri": "",
+        "callToActionTitle": "",
+        "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9L14VeO1fgc86X6Kv-vfvWsp3gMiWgRNVdAKLbyRSaLSVzZ5f5peh3mHzYyhvLAB2ktliZcx_JupflI3BO2zYAslpuM4CWbq68wjI6QRbgCKBBLedIE7TCtMmgxVQ-jew-7qh7KkAngUvD3PGn_8Gow3zgw3bh1UK-Ojnw5iQMxWG63ueUaFcD8v-njG6mUeMn93-bZxTtCD4REErQXelruqEBScDUJcUjGO9cieZ2FpJgZ3Tvt-7ZEDtYkJBZj4k&a=1&hash=Ad8-H4GHVqrsKbf5",
+        "leadGenFormId": null,
+        "igUserId": null,
+        "appInstallObjectiveInvalidationBehavior": null
+      }
+    ],
+    "iab_autofill_optout_info": {
+      "domain": "itunes.apple.com",
+      "is_iab_autofill_optout": false
+    },
+    "force_overlay": false,
+    "hide_nux_text": true,
+    "overlay_text": "Go to Website",
+    "overlay_title": "Apple Music",
+    "overlay_subtitle": "Go to apple.com",
+    "dominant_color": "#3A6E91",
+    "follower_count": 0,
+    "post_count": 0,
+    "fb_page_url": "https://www.facebook.com/applemusic/",
+    "can_viewer_save": true,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjIzNTIxMzdmNTIyNzRjNjU5ZmQ3Y2EzYjA2OWZlMjBlMTI5ODE4OTE4NTIwNjg4MDQzNiIsInNlcnZlcl90b2tlbiI6IjE1ODQwNDkxNjE1Mzh8MTI5ODE4OTE4NTIwNjg4MDQzNnw0MzYxMTc5NjZ8OTUzZWM0NTljYzlhOTkxYWU5MmI3NWEzZDI2YTlmYmRmZjM1NjJkZGNjZWM1YTU2ZDRhMDkwMzkwMzZjZDRiNiJ9LCJzaWduYXR1cmUiOiIifQ==",
+    "expiring_at": 9999999999,
+    "inventory_source": "media_or_ad",
+    "is_seen": false,
+    "is_eof": false
+  }
+}

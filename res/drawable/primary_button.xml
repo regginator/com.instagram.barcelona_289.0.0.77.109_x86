@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:paddingLeft="@dimen/add_hashtags_notice_padding_horizontal" android:paddingTop="@dimen/abc_edit_text_inset_bottom_material" android:paddingRight="@dimen/add_hashtags_notice_padding_horizontal" android:paddingBottom="@dimen/abc_edit_text_inset_bottom_material" android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/horizon_primary_button_bkg" />
+    <corners android:radius="50.0dip" />
+</shape>

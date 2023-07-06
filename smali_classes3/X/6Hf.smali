@@ -1,0 +1,28 @@
+.class public final LX/6Hf;
+.super Ljava/lang/Object;
+.source ""
+
+
+# direct methods
+.method public static parseFromJson(LX/KJP;)LX/5KR;
+    .locals 1
+
+    .line 0
+    const/16 v0, 0x40
+
+    .line 1
+    .line 2
+    invoke-static {p0, v0}, LX/4uR;->A0e(LX/KJP;I)Ljava/lang/Object;
+
+    .line 3
+    .line 4
+    .line 5
+    move-result-object v0
+
+    .line 6
+    check-cast v0, LX/5KR;
+
+    .line 7
+    .line 8
+    return-object v0
+.end method

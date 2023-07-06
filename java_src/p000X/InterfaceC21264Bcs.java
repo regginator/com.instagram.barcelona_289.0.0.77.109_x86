@@ -1,0 +1,8 @@
+package p000X;
+
+import com.instagram.api.schemas.ClipsBreakingCreatorInfo;
+/* renamed from: X.Bcs  reason: case insensitive filesystem */
+/* loaded from: classes4.dex */
+public interface InterfaceC21264Bcs {
+    ClipsBreakingCreatorInfo Cyh();
+}

@@ -1,0 +1,13 @@
+{
+  "simple_action": {
+    "action_type": "mlex_survey",
+    "title": "Have anything to share about Mack Weldon?",
+    "message": "Quickly help others by rating your experience.",
+    "button_text": "Get Started",
+    "has_dismiss": false,
+    "extra_data_token": "mlex_survey",
+    "icon_url": "https://scontent-sea1-1.cdninstagram.com/vp/dc76c7c9a6e98c81b8a73ff1b2545994/5D4EED1D/t51.2885-19/s150x150/43984425_2031395473585692_7324335213088079872_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com",
+    "id": "47428450342863",
+    "tracking_token": "eyJ1dWlkIjoiODc5MTA4ODkyYmNlNDk3NWIxM2FiMDIyNjVlNjY2YzgiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MSwiZmJfdXNlcl9pZCI6MTAwMDAwNzU0OTQwMzQ2LCJuZXRfZWdvX3R5cGUiOjMzLCJnbG9iYWxfcG9zaXRpb24iOjEsImVjcG1fcHJpY2UiOjE0NjE1LjAsInBhY2luZ19xZV9pbmZvIjoiZGVmYXVsdCIsInVzZXJfZG9sbGFyX3ZhbHVlIjo0LjQxNzY0NzE1ODcsImlzX25ld19pbnNlcnRpb24iOnRydWUsImlzX2Zyb21fbmVlZHlfdXNlciI6ZmFsc2UsImF1Y3Rpb25fcHJpY2Vfb3V0Y29tZSI6M319"
+  }
+}

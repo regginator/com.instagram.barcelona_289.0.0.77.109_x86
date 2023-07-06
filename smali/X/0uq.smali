@@ -1,0 +1,145 @@
+.class public final LX/0uq;
+.super Ljava/lang/Object;
+.source ""
+
+
+# direct methods
+.method public static A00(I)Ljava/lang/String;
+    .locals 1
+
+    const/4 v0, 0x2
+
+    if-eq p0, v0, :cond_7
+
+    const/16 v0, 0x91d
+
+    if-eq p0, v0, :cond_6
+
+    const/16 v0, 0xbbb
+
+    if-eq p0, v0, :cond_5
+
+    const/16 v0, 0x234a
+
+    if-eq p0, v0, :cond_4
+
+    const/16 v0, 0x23b2
+
+    if-eq p0, v0, :cond_3
+
+    const/16 v0, 0x2ab7
+
+    if-eq p0, v0, :cond_2
+
+    const/16 v0, 0x2ad3
+
+    if-eq p0, v0, :cond_1
+
+    const/16 v0, 0x52f7
+
+    if-eq p0, v0, :cond_0
+
+    packed-switch p0, :pswitch_data_0
+
+    const-string v0, "UNDEFINED_QPL_EVENT"
+
+    return-object v0
+
+    :pswitch_0
+    const-string v0, "WORKPLACE_IDENTITY_INIT_LOGOUT_FROM_ALL_SESSIONS_IN_SESSION_SECTION"
+
+    return-object v0
+
+    :pswitch_1
+    const-string v0, "WORKPLACE_IDENTITY_LOAD_SECURITY_AND_LOGIN_TAB"
+
+    return-object v0
+
+    :pswitch_2
+    const-string v0, "WORKPLACE_IDENTITY_LOGOUT_FROM_WORKPLACE"
+
+    return-object v0
+
+    :pswitch_3
+    const-string v0, "WORKPLACE_IDENTITY_SAVE_LOGIN_ALERTS_SETTINGS"
+
+    return-object v0
+
+    :pswitch_4
+    const-string v0, "WORKPLACE_IDENTITY_LOGOUT_FROM_ALL_SESSIONS_IN_SESSION_SECTION"
+
+    return-object v0
+
+    :pswitch_5
+    const-string v0, "WORKPLACE_IDENTITY_LOGOUT_FROM_SESSION_IN_SESSION_SECTION"
+
+    return-object v0
+
+    :pswitch_6
+    const-string v0, "WORKPLACE_IDENTITY_SEE_LESS_SESSIONS_IN_SESSION_SECTION"
+
+    return-object v0
+
+    :pswitch_7
+    const-string v0, "WORKPLACE_IDENTITY_SEE_MORE_SESSIONS_IN_SESSION_SECTION"
+
+    return-object v0
+
+    :pswitch_8
+    const-string v0, "WORKPLACE_IDENTITY_CHANGE_PASSWORD"
+
+    return-object v0
+
+    :cond_0
+    const-string v0, "WORKPLACE_IDENTITY_TEST_SSO_PROVIDER_DATA"
+
+    return-object v0
+
+    :cond_1
+    const-string v0, "WORKPLACE_IDENTITY_LOGOUT_CONFIRMATION_DIALOG"
+
+    return-object v0
+
+    :cond_2
+    const-string v0, "WORKPLACE_IDENTITY_LOGIN_WITH_TWO_FACTOR"
+
+    return-object v0
+
+    :cond_3
+    const-string v0, "WORKPLACE_IDENTITY_TWO_FAC_ENROLLMENT_ADD_PHONE"
+
+    return-object v0
+
+    :cond_4
+    const-string v0, "WORKPLACE_IDENTITY_TWO_FACTOR_ENROLLMENT"
+
+    return-object v0
+
+    :cond_5
+    const-string v0, "WORKPLACE_IDENTITY_TWO_FAC_ENROLLMENT_GEN_QR_CODE"
+
+    return-object v0
+
+    :cond_6
+    const-string v0, "WORKPLACE_IDENTITY_WORK_AUTH_LOGIN_API"
+
+    return-object v0
+
+    :cond_7
+    const-string v0, "WORKPLACE_IDENTITY_LOGIN_WITH_PASSWORD"
+
+    return-object v0
+
+    :pswitch_data_0
+    .packed-switch 0x4
+        :pswitch_8
+        :pswitch_7
+        :pswitch_6
+        :pswitch_5
+        :pswitch_4
+        :pswitch_3
+        :pswitch_2
+        :pswitch_1
+        :pswitch_0
+    .end packed-switch
+.end method

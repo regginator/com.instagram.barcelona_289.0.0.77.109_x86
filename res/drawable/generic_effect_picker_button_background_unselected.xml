@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/background" />
+    <size android:height="@dimen/album_preview_add_item_plus_length" />
+    <corners android:radius="17.0dip" />
+</shape>

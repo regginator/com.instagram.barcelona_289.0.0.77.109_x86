@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="1.0dip" android:color="@color/canvas_bottom_sheet_description_text_color" />
+    <size android:height="@dimen/abc_dialog_padding_material" android:width="@dimen/abc_dialog_padding_material" />
+    <corners android:radius="@dimen/account_section_text_margin_horizontal" />
+</shape>

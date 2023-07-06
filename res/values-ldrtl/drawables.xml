@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="instagram_arrow_left_pano_outline_24">I1801D2</item>
+    <item type="drawable" name="instagram_arrow_right_pano_filled_24">I1801D0</item>
+    <item type="drawable" name="instagram_arrow_right_pano_outline_24">I1801D1</item>
+    <item type="drawable" name="material_ic_keyboard_arrow_next_black_24dp">@drawable/material_ic_keyboard_arrow_left_black_24dp</item>
+    <item type="drawable" name="material_ic_keyboard_arrow_previous_black_24dp">@drawable/material_ic_keyboard_arrow_right_black_24dp</item>
+</resources>

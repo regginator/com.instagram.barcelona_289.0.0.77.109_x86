@@ -1,0 +1,235 @@
+{
+  "id":"open_map_cta",
+  "latest_reel_media":null,
+  "expiring_at":9591231639,
+  "seen":null,
+  "can_reply":false,
+  "can_gif_quick_reply":true,
+  "can_reshare":false,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk":8699624919,
+    "username":"AwesomeFoodPlace",
+    "full_name":"Awesome Food Place",
+    "is_private":false,
+    "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id":"1928450892319971302_8699624919",
+    "is_verified":false
+  },
+  "items":[
+    {
+      "id":"open_map_cta",
+      "taken_at":1591145239,
+      "pk":2161854264339058700,
+      "media_type":1,
+      "dynamic_item_id":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "url":"https://i.ibb.co/MRzfQm9/Square-Food-Pic.jpg",
+            "width":1800,
+            "height":1800
+          }
+        ]
+      },
+      "original_width":1800,
+      "original_height":1800,
+      "user":{
+        "pk":8699624919,
+        "username":"AwesomeFoodPlace",
+        "full_name":"Awesome Food Place",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id":"1928450892319971302_8699624919",
+        "friendship_status":{
+
+        },
+        "is_verified":false,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":true,
+        "is_favorite":false
+      },
+      "caption":{
+        "content_type":"comment",
+        "user":{
+          "pk":8699624919,
+          "username":"AwesomeFoodPlace",
+          "full_name":"Awesome Food Place",
+          "is_private":false,
+          "profile_pic_id":"1928450892319971302_8699624919",
+          "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+          "is_verified":false
+        },
+        "user_id":8699624919,
+        "pk":"2161854264339058623_caption",
+        "text":"This ad leads you to a Chipotle in Palo Alto, because Chipotle is dope.",
+        "type":1,
+        "created_at":1591145239,
+        "created_at_utc":1591120039,
+        "media_id":2161854264339058700,
+        "bit_flags":0,
+        "status":"Active",
+        "background_color":"#000000",
+        "text_color":"#000000",
+        "text_size":16,
+        "background_color_alpha":"00",
+        "hide_username":false
+      },
+      "can_viewer_save":false,
+      "like_count":1,
+      "has_liked":false,
+      "has_more_comments":false,
+      "comment_count":1,
+      "max_num_visible_preview_comments":2,
+      "comments":[
+
+      ],
+      "caption_is_edited":false,
+      "photo_of_you":false,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQLYhAYPtXqtteQHYRYyFLz2rLE-jMSpBX9irtOLJc-nzWEBOaCslD6AvYreTtjg5lptu2WBMdsNRDFCOyqpVcBr",
+        "show_ad_choices":false,
+        "ad_title":"Awesome Food Place",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":6142342208237,
+        "direct_share":false,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":null,
+              "serializedImpOrganicScoreMap":null
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=1sK87E1x0y52mAWMD.AWWmQE5uDkpprAWDLtJXDUoQgMc.Be1vMW..AAA.0.0.Be1vMW.AWXTKWIY; expires=Tue, 01 Sep 2020 00:47:18 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "collapse_comments":false,
+      "ad_metadata":[
+        {
+          "value":"View in Map",
+          "type":1
+        }
+      ],
+      "link":" ",
+      "link_text":"Get Directions",
+      "ad_action":"map",
+      "link_hint_text":"Tap Photo to Open Page",
+      "iTunesItem":null,
+      "ad_link_type":1,
+      "ad_header_style":0,
+      "dr_ad_type":1,
+      "android_links":[
+        {
+          "linkType":5,
+          "webUri":"",
+          "androidClass":"",
+          "package":"",
+          "deeplinkUri":"http://maps.google.com/maps?dirflg=d&daddr=37.446040%2C-122.170850&hl=en",
+          "callToActionTitle":"",
+          "redirectUri":null,
+          "leadGenFormId":null,
+          "igUserId":null,
+          "appInstallObjectiveInvalidationBehavior":null,
+          "tapAndHoldContext":"Swipe up to open map"
+        }
+      ],
+      "force_overlay":true,
+      "hide_nux_text":true,
+      "overlay_text":"View in Map",
+      "overlay_title":"Awesome Food Place",
+      "overlay_subtitle":"View in Map",
+      "dominant_color":"#284618",
+      "follower_count":0,
+      "post_count":0,
+      "fb_page_url":"https://www.facebook.com/FB-Test-Page-Very-retail-store-483462498821319/",
+      "reel_media_background":{
+        "top":{
+          "background_color":"#D7D6DB"
+        },
+        "bottom":{
+          "background_color":"#C3C2C6"
+        }
+      },
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6ImE4MmRmODg5YTQzMjQwNWViMjFlNDk2NWVmOTI0ZmQ0MjE2MTg1NDI2NDMzOTA1ODYyMyIsInNlcnZlcl90b2tlbiI6IjE1OTExNDUyMzk4MzV8MjE2MTg1NDI2NDMzOTA1ODYyM3w1NDg1NjEwMjE5fGNjZGY3Y2Q4YTc5N2JhNzEyMWRkNDMzNTAzZTgwNWU4MDNjZDgwOTQ0Y2ZlYzI2OGY2ZWY4MmEwNTliYzE3YTAifSwic2lnbmF0dXJlIjoiIn0=",
+      "can_reshare":false,
+      "can_reply":false,
+      "can_see_insights_as_brand":false,
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":5,
+              "webUri":"",
+              "androidClass":"",
+              "package":"",
+              "deeplinkUri":"http://maps.google.com/maps?dirflg=d&daddr=37.446040%2C-122.170850&hl=en",
+              "callToActionTitle":"",
+              "redirectUri":null,
+              "leadGenFormId":null,
+              "igUserId":null,
+              "appInstallObjectiveInvalidationBehavior":null,
+              "tapAndHoldContext":"Swipe up to open map"
+            }
+          ]
+        }
+      ],
+      "is_reel_media":true,
+      "supports_reel_reactions":true,
+      "can_send_custom_emojis":true,
+      "show_one_tap_fb_share_tooltip":false
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "client_gap_rules":{
+    "reel_gap_to_previous_ad":0,
+    "reel_gap_to_previous_netego":0,
+    "consumed_media_gap_to_previous_ad":0,
+    "consumed_media_gap_to_previous_netego":0,
+    "max_reel_gap_to_previous_item":0,
+    "highest_position_rule":1,
+    "min_media_gap_to_previous_item":0,
+    "time_gap_to_previous_item_in_sec":0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id":"ig_ads_consent_growth_story_netego",
+  "reel_type":"netego_reel",
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 1,
+    "consumed_media_gap_to_previous_netego": 1,
+    "max_reel_gap_to_previous_item": 1,
+    "highest_position_rule":1
+  },
+  "netego_type":"ig_ads_consent_growth_story_netego",
+  "expiring_at":9691269142,
+  "simple_action": {
+    "id": "47023592607198",
+    "tracking_token": "eyJ1dWlkIjoiMTI5YmE1NWI0MzQ2NDYyM2E4MTEzN2RjOWI1YWEzOTQiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MS4wLCJmYl91c2VyX2lkIjoxMDAwMTA4NDI0ODI5MTEsIm5ldF9lZ29fdHlwZSI6OTYsImdsb2JhbF9wb3NpdGlvbiI6MSwiZ2FwX3J1bGVfdmFsdWUiOjQsInJpZ2h0X2dhcF9ydWxlX3ZhbHVlIjo0LCJoaWdoZXN0X25ldGVnb19wb3NpdGlvbiI6MSwiZWNwbV9wcmljZSI6MjAzMjguMCwicGFjaW5nX3FlX2luZm8iOiJkZWZhdWx0IiwidXNlcl9kb2xsYXJfdmFsdWUiOjQuMDgzNTAwNjgzLCJpc19uZXdfaW5zZXJ0aW9uIjp0cnVlLCJpc19mcm9tX25lZWR5X3VzZXIiOmZhbHNlLCJhdWN0aW9uX3ByaWNlX291dGNvbWUiOjMsInFwX2lkIjozMzEwMDg1MDkwMjI0Mzl9fQ==",
+    "global_position": null,
+    "action_type": "ig_ads_consent_growth",
+    "title": "You're into sustainable fashion and handmade accessories",
+    "message": "See what else you can discover through your ads",
+    "button_text": "Improve my ads",
+    "has_dismiss": true,
+    "icon_url": ""
+  },
+  "ranked_position":1,
+  "seen_ranked_position":1
+}

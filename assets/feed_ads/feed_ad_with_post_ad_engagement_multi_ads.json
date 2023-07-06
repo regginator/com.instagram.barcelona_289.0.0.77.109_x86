@@ -1,0 +1,1708 @@
+{
+  "id":"12345",
+  "media_type":16,
+  "intent_aware_ad_pivot": {
+    "items": [
+      {
+        "media_or_ad": {
+          "taken_at": 1657564562,
+          "pk": 2880182761116591207,
+          "id": "2880182761116591207_2269037237",
+          "device_timestamp": 1657564562,
+          "media_type": 1,
+          "code": "Cf4dvYcjuRn",
+          "client_cache_key": "Mjg4MDE4Mjc2MTExNjU5MTIwNw==.2",
+          "filter_type": 0,
+          "is_unified_video": false,
+          "should_request_ads": false,
+          "caption_is_edited": false,
+          "like_and_view_counts_disabled": false,
+          "commerciality_status": "not_commercial",
+          "fundraiser_tag": {
+            "has_standalone_fundraiser": false
+          },
+          "is_paid_partnership": false,
+          "is_visual_reply_commenter_notice_enabled": true,
+          "original_media_has_visual_reply_media": false,
+          "has_delayed_metadata": false,
+          "comment_likes_enabled": false,
+          "comment_threading_enabled": false,
+          "has_more_comments": false,
+          "max_num_visible_preview_comments": 2,
+          "can_view_more_preview_comments": false,
+          "comment_count": 0,
+          "hide_view_all_comment_entrypoint": false,
+          "user": {
+            "pk": 2269037237,
+            "username": "we_recess",
+            "full_name": "Recess",
+            "is_private": false,
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/290771588_725724795208193_3816024044314182235_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=105\u0026_nc_ohc=d3fhFAEyqZwAX8vCMRs\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT8A_hchd77MdOjN3Au-B-1lXmJX8Di2awx91yhsKK8FnA\u0026oe=62DFF0C4\u0026_nc_sid=09940c",
+            "profile_pic_id": "2872421536002121921_2269037237",
+            "has_anonymous_profile_picture": false,
+            "is_unpublished": false,
+            "is_favorite": false,
+            "has_highlight_reels": false,
+            "transparency_product_enabled": false,
+            "account_badges": [
+            ],
+            "fan_club_info": {
+              "fan_club_id": null,
+              "fan_club_name": null
+            }
+          },
+          "like_count": 1,
+          "has_liked": false,
+          "likers": [
+            {
+              "pk": 48455605990,
+              "username": "jvon.leong",
+              "full_name": "Jvon Leong",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/241506072_613412719645697_2077444131316563088_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=105\u0026_nc_ohc=pUgFozx9iKMAX96EvIS\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT-WUHIOpJrwYSGIibYJLNQZAWy-99ovRlmRGn56cEIngg\u0026oe=62DF46C6\u0026_nc_sid=09940c",
+              "profile_pic_id": "2659261934165925110_48455605990",
+              "is_verified": false
+            }
+          ],
+          "photo_of_you": false,
+          "is_organic_product_tagging_eligible": false,
+          "can_see_insights_as_brand": false,
+          "caption": {
+            "pk": 17959706116878728,
+            "user_id": 2269037237,
+            "text": "Sign up for our free 7-day trial.",
+            "type": 1,
+            "created_at": 1657564563,
+            "created_at_utc": 1657564563,
+            "content_type": "comment",
+            "status": "Active",
+            "bit_flags": 0,
+            "did_report_as_spam": false,
+            "share_enabled": false,
+            "user": {
+              "pk": 2269037237,
+              "username": "we_recess",
+              "full_name": "Recess",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/290771588_725724795208193_3816024044314182235_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=105\u0026_nc_ohc=d3fhFAEyqZwAX8vCMRs\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT8A_hchd77MdOjN3Au-B-1lXmJX8Di2awx91yhsKK8FnA\u0026oe=62DFF0C4\u0026_nc_sid=09940c",
+              "profile_pic_id": "2872421536002121921_2269037237",
+              "is_verified": false
+            },
+            "is_covered": false,
+            "media_id": 2880182761116591207,
+            "private_reply_status": 0,
+            "hide_username": false
+          },
+          "comment_inform_treatment": {
+            "should_have_inform_treatment": false,
+            "text": "",
+            "url": null,
+            "action_type": null
+          },
+          "sharing_friction_info": {
+            "should_have_sharing_friction": false,
+            "bloks_app_url": null,
+            "sharing_friction_payload": null
+          },
+          "can_viewer_save": true,
+          "is_in_profile_grid": false,
+          "profile_grid_control_enabled": false,
+          "image_versions2": {
+            "candidates": [
+              {
+                "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/290341901_23850672477310726_5801233940568365534_n.png?stp=dst-jpg_e15\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=110\u0026_nc_ohc=rOT0mQKURRIAX92jKYp\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT-lvr4ADNjE_bTTp5LzEMjVtAegJrbN_ZwgG42OXLL-RQ\u0026oe=62DF3ED9\u0026_nc_sid=09940c",
+                "width": 1080,
+                "height": 1080
+              }
+            ]
+          },
+          "original_width": 1080,
+          "original_height": 1080,
+          "injected": {
+            "label": "Sponsored",
+            "show_icon": true,
+            "hide_label": "Hide this",
+            "is_demo": false,
+            "view_tags": [
+            ],
+            "is_holdout": false,
+            "tracking_token": "AI@AQLDOJhcs7aR_WN_xhtsXZozyx8rFkCMKGg7yByw9pBg0IrcintEmiXUZYcPeMkDJaadVv4Fmnur9Pau1rqfdaEn",
+            "show_ad_choices": false,
+            "ad_title": "Recess",
+            "about_ad_params": "",
+            "direct_share": true,
+            "ad_id": 23850752381650726,
+            "campaign_id": 23850672750140726,
+            "app_id": 0,
+            "fb_app_id": 0,
+            "page_id": 107823944373653,
+            "actor_id": 983866708323383,
+            "media_id": 2880182761116591207,
+            "display_viewability_eligible": true,
+            "ads_debug_info": {
+              "adsBidInfo": {
+                "ecpmBid": 45914.77643668252,
+                "ecpmPrice": 23280.0,
+                "ectr": 0.11321550607681274,
+                "ecvr": 0.0027563429903239016,
+                "postImpEcvr": 275634,
+                "organicBidInfo": {
+                  "organicBidCpm": 98.56152138798463,
+                  "userDollarValue": 92462.0214992603,
+                  "serializedPacedOrganicBidMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":98.561521}",
+                  "serializedOrganicEventProbMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":1}",
+                  "serializedEventQualityMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":98.561521}",
+                  "serializedImpOrganicBidMap": "{\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":-2.135763,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":99.324586,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":-0.449078,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":1.821777}",
+                  "serializedImpOrganicCoeffMap": null,
+                  "serializedImpOrganicScoreMap": "{\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0.011549,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":1,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":0.000162,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0.018242,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":0.328383}"
+                }
+              },
+              "adsRankingInfo": {
+                "organicRank": 22,
+                "ecpsBidRank": 98,
+                "totalBidRank": 98
+              }
+            },
+            "should_show_secondary_cta_on_profile": false,
+            "creation_source": "ADS_MANAGER",
+            "invalidation_rules": {
+              "meta_ids": [
+                "ad_id",
+                "campaign_id",
+                "app_id",
+                "page_id",
+                "actor_id",
+                "media_id"
+              ],
+              "local_surface": [
+                {
+                  "instruction": {
+                    "signal": "seen",
+                    "conditions": [
+                      {
+                        "lhs": "dwelltime",
+                        "comparator": "ge",
+                        "rhs": 250
+                      },
+                      {
+                        "lhs": "time",
+                        "comparator": "le",
+                        "rhs": 7200000
+                      }
+                    ]
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "x-out"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_pool"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_inserted"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "app_install"
+                  }
+                }
+              ]
+            },
+            "hide_reasons_v2": [
+              {
+                "text": "It's not relevant",
+                "reason": "NOT_RELEVANT"
+              },
+              {
+                "text": "I see it too often",
+                "reason": "KEEP_SEEING_THIS"
+              },
+              {
+                "text": "It's inappropriate",
+                "reason": null
+              },
+              {
+                "text": "[Employee only] Send ad for review",
+                "reason": "EMPLOYEE_REPORT"
+              }
+            ],
+            "hide_flow_type": 2,
+            "cookies": [
+              "fr=14VVwPu3RKqQBRqgG.AWUgYzNN2jXwAHwbPgBM4xddpmw.Bi2GEA..AAA.0.0.Bi2GEA.AWXqSd9WDO8; expires=Tue, 18 Oct 2022 20:09:36 GMT; Max-Age=7776000; path=/; domain=.facebook.com; SameSite=None; httponly; Secure"
+            ],
+            "ctd_ads_info": {
+              "business_responsiveness_time_text": null,
+              "welcome_message_text": null,
+              "business_response_time_in_sec": null
+            },
+            "ig_ad_rendering_cta_trust_info_data": null,
+            "global_position": 1,
+            "cop_render_output": null
+          },
+          "is_sensitive_vertical_ad": false,
+          "collapse_comments": false,
+          "ad_metadata": [
+            {
+              "value": "recess.tv",
+              "type": 1
+            }
+          ],
+          "link": "https://recess.tv/?utm_source=facebook\u0026utm_medium=social\u0026utm_campaign=subscriptions\u0026utm_content=dynamic\u0026utm_term=appvertiser\u0026fbclid=PAAaZpVIcI8FzZM4zq0ju7cd8HDaroo-S827GXWEGKh5zGgjqLQQVykVbvmrg\u0026external_browser_redirect=true",
+          "link_text": "Learn More",
+          "ad_action": "webclick",
+          "link_hint_text": "Tap Photo to Open Page",
+          "iTunesItem": null,
+          "ad_link_type": 0,
+          "ad_header_style": 0,
+          "dr_ad_type": 1,
+          "android_links": [
+            {
+              "linkType": 1,
+              "webUri": "https://recess.tv/?utm_source=facebook\u0026utm_medium=social\u0026utm_campaign=subscriptions\u0026utm_content=dynamic\u0026utm_term=appvertiser\u0026fbclid=PAAaZpVIcI8FzZM4zq0ju7cd8HDaroo-S827GXWEGKh5zGgjqLQQVykVbvmrg\u0026external_browser_redirect=true",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_LdOhFhemDCIg5WkTDevPPsMns2HhcFG3UKEMBIqbJQ41XHaXnT7c6X4BqAxkFcqLFf_okQAU9lcfShGxqwQ2b0Z8kW93RhlJytUa9KCovkIupDQNYj8F0hkQQ62NBACQg5De50xrfkX5viS6xQo0N65JBWErhcZ6h0PYbCocRmEWYsvNZGGk0c_gYs_Sx5giV0XD6J_MOss2dcVEdr4n849vE8rbqf6mv6tpbZnwjAtiC-CZClHw2Tx3wW3_YTyZJKU76g9QlE1OMnyjcZtnQuHc5kKKO8xLcvJWPhefWfRcYyyd6Eeisv9XQz0aQei-sqFKkBldaogzsS_nSDKvdP9UJ_PqY6_j2sErx9H7vqIX3vb5Kypn35_LAxJMJ3ZvB-rhXmhEch8tPzI98mmaAzP0lbTbV9k-w6boTUvAST4wUAoR2buv4MVWZAEu-DOonSHj4Wfi90zozhkGPrHyYDeO0XCN3IPz0DlTyEnNjRg\u0026a=1\u0026hash=Ad9hi1uGUDYq5wqyQfY",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "referrerData": null,
+              "isAndroidAppLink": null
+            }
+          ],
+          "iab_autofill_optout_info": {
+            "domain": "",
+            "is_iab_autofill_optout": false
+          },
+          "click_id": "PAAaZpVIcI8FzZM4zq0ju7cd8HDaroo-S827GXWEGKh5zGgjqLQQVykVbvmrg",
+          "force_overlay": true,
+          "hide_nux_text": true,
+          "overlay_text": "Go to Website",
+          "overlay_title": "Recess",
+          "overlay_subtitle": "Go to Website",
+          "dominant_color": "#43709F",
+          "fb_page_url": "https://www.facebook.com/werecess.tv/",
+          "item_client_gap_rules": {
+            "time_based_insertion_gap_in_seconds": null,
+            "push_up_min_gap": null
+          },
+          "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOGYzZDdiNmUwNGZjNDk0NDg2ZjZhNGM5MTYyODZmMzYyODgwMTgyNzYxMTE2NTkxMjA3Iiwic2VydmVyX3Rva2VuIjoiMTY1ODM0Nzc3OTM1N3wyODgwMTgyNzYxMTE2NTkxMjA3fDMwNDA1MzMyODk0fDIzMTM0YmJiZjQ2ZGYzNzI4YzhiZWE3MzEwNWQ5ZTYyNmZiZTE5NWUzMzA2ZjczODVmNjhjMjYyNDc0ZWIyMDEifSwic2lnbmF0dXJlIjoiIn0=",
+          "expiring_at": 1658434179,
+          "has_shared_to_fb": 0,
+          "product_type": "ad",
+          "deleted_reason": 0,
+          "integrity_review_decision": "pending",
+          "music_metadata": null
+        }
+      },
+      {
+        "media_or_ad": {
+          "taken_at": 1654485421,
+          "pk": 2854353058224989609,
+          "id": "2854353058224989609_1249331006",
+          "device_timestamp": 1654485421,
+          "media_type": 1,
+          "code": "CecsvvDDOWp",
+          "client_cache_key": "Mjg1NDM1MzA1ODIyNDk4OTYwOQ==.2",
+          "filter_type": 0,
+          "is_unified_video": false,
+          "should_request_ads": false,
+          "caption_is_edited": false,
+          "like_and_view_counts_disabled": false,
+          "commerciality_status": "not_commercial",
+          "fundraiser_tag": {
+            "has_standalone_fundraiser": false
+          },
+          "is_paid_partnership": false,
+          "is_visual_reply_commenter_notice_enabled": true,
+          "original_media_has_visual_reply_media": false,
+          "has_delayed_metadata": false,
+          "comment_likes_enabled": false,
+          "comment_threading_enabled": false,
+          "has_more_comments": false,
+          "max_num_visible_preview_comments": 2,
+          "can_view_more_preview_comments": false,
+          "comment_count": 0,
+          "hide_view_all_comment_entrypoint": false,
+          "image_versions2": {
+            "candidates": [
+              {
+                "width": 1080,
+                "height": 567,
+                "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/285866460_382964557186220_7689201580135354104_n.jpg?stp=dst-jpg_e15_fr_s1080x1080\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=108\u0026_nc_ohc=1y3P8bU7-5IAX_qEoSu\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026ig_cache_key=Mjg1NDM1MzA1ODIyNDk4OTYwOQ%3D%3D.2-ccb7-5\u0026oh=00_AT-nAG-JKiwzeUGitrbhjhhFlt27gNv7aB86VAqkz4n1AQ\u0026oe=62DE7D5E\u0026_nc_sid=09940c",
+                "scans_profile": "e15",
+                "estimated_scans_sizes": [
+                  11622,
+                  23244,
+                  34866,
+                  46488,
+                  58111,
+                  104600,
+                  104600,
+                  104600,
+                  104600
+                ]
+              },
+              {
+                "width": 360,
+                "height": 189,
+                "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/285866460_382964557186220_7689201580135354104_n.jpg?stp=dst-jpg_e15_s360x360\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=108\u0026_nc_ohc=1y3P8bU7-5IAX_qEoSu\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026ig_cache_key=Mjg1NDM1MzA1ODIyNDk4OTYwOQ%3D%3D.2-ccb7-5\u0026oh=00_AT8YKQJQhITQy6docF2KhFqERKSeJsnfS1mwCX28S3IBNQ\u0026oe=62DE7D5E\u0026_nc_sid=09940c",
+                "scans_profile": "e15",
+                "estimated_scans_sizes": [
+                  1949,
+                  3899,
+                  5849,
+                  7799,
+                  9748,
+                  17548,
+                  17548,
+                  17548,
+                  17548
+                ]
+              }
+            ]
+          },
+          "original_width": 1080,
+          "original_height": 567,
+          "user": {
+            "pk": 1249331006,
+            "username": "kqed",
+            "full_name": "KQED",
+            "is_private": false,
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/62457870_358964261486633_2771043303729135616_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=105\u0026_nc_ohc=VbHeKh69AcsAX8kurNS\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_Q86f6YlnNtbxIV1AJldb1irpjTkqNTqbNFt_Og1VP2g\u0026oe=62DE881B\u0026_nc_sid=09940c",
+            "profile_pic_id": "2073502000611639948_1249331006",
+            "has_anonymous_profile_picture": false,
+            "is_unpublished": false,
+            "is_favorite": false,
+            "has_highlight_reels": false,
+            "transparency_product_enabled": false,
+            "account_badges": [
+            ],
+            "fan_club_info": {
+              "fan_club_id": null,
+              "fan_club_name": null
+            }
+          },
+          "like_count": 3,
+          "has_liked": false,
+          "likers": [
+            {
+              "pk": 3692573855,
+              "username": "kfowler1982",
+              "full_name": "Keith Fowler",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/122234277_339973930435294_6032149796550173611_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=110\u0026_nc_ohc=g83OuTtA93sAX-xB1h9\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT8oy0tWJ7cn89LXBLn6sN-E2ko5hnucXXVIO5dRFx5mbA\u0026oe=62DE958B\u0026_nc_sid=09940c",
+              "profile_pic_id": "2425995918102565992_3692573855",
+              "is_verified": false
+            },
+            {
+              "pk": 145701833,
+              "username": "el_hermanns",
+              "full_name": "Lamar Hermanns",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/19429456_1347373958649662_7870680256007372800_a.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=102\u0026_nc_ohc=DlfFVD3xxycAX_ZUxLY\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT9-rnmW9pNGGhdJk98_TkIaQWV96zWOy5JaYVIjxS2smg\u0026oe=62DE9A35\u0026_nc_sid=09940c",
+              "profile_pic_id": "1547559691859679032_145701833",
+              "is_verified": false
+            },
+            {
+              "pk": 32253016412,
+              "username": "wazilla_one",
+              "full_name": "Ben Wassam",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/117292528_1004662156670461_1229121118237741162_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=101\u0026_nc_ohc=37NDr5RA7gwAX9Suben\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT9mdVZ4Dwai6E8S60vRHV3CmTJ32cwTzDTk-p5G2c7AaA\u0026oe=62DFB1AE\u0026_nc_sid=09940c",
+              "profile_pic_id": "2374545677537842694_32253016412",
+              "is_verified": false
+            }
+          ],
+          "photo_of_you": false,
+          "is_organic_product_tagging_eligible": false,
+          "can_see_insights_as_brand": false,
+          "caption": {
+            "pk": 17940013523118258,
+            "user_id": 1249331006,
+            "text": "Forum finds the most interesting stories about where we live and who we are, and charts where our region and world are headed.",
+            "type": 1,
+            "created_at": 1654485422,
+            "created_at_utc": 1654485422,
+            "content_type": "comment",
+            "status": "Active",
+            "bit_flags": 0,
+            "did_report_as_spam": false,
+            "share_enabled": false,
+            "user": {
+              "pk": 1249331006,
+              "username": "kqed",
+              "full_name": "KQED",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/62457870_358964261486633_2771043303729135616_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=105\u0026_nc_ohc=VbHeKh69AcsAX8kurNS\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_Q86f6YlnNtbxIV1AJldb1irpjTkqNTqbNFt_Og1VP2g\u0026oe=62DE881B\u0026_nc_sid=09940c",
+              "profile_pic_id": "2073502000611639948_1249331006",
+              "is_verified": true
+            },
+            "is_covered": false,
+            "media_id": 2854353058224989609,
+            "private_reply_status": 0,
+            "hide_username": false
+          },
+          "comment_inform_treatment": {
+            "should_have_inform_treatment": false,
+            "text": "",
+            "url": null,
+            "action_type": null
+          },
+          "sharing_friction_info": {
+            "should_have_sharing_friction": false,
+            "bloks_app_url": null,
+            "sharing_friction_payload": null
+          },
+          "can_viewer_save": true,
+          "is_in_profile_grid": false,
+          "profile_grid_control_enabled": false,
+          "injected": {
+            "label": "Sponsored",
+            "show_icon": true,
+            "hide_label": "Hide this",
+            "is_demo": false,
+            "view_tags": [
+            ],
+            "is_holdout": false,
+            "tracking_token": "AI@AQJUdwHAchfbrLzXfzfIselW2ZJhUDIbOlg59-_nocasUJs3LxOloRfWDq_M1phBQTB0eRwGZM8q2dhth4oltOvF",
+            "show_ad_choices": false,
+            "ad_title": "KQED",
+            "about_ad_params": "",
+            "direct_share": true,
+            "ad_id": 6284888401192,
+            "campaign_id": 6281374960792,
+            "app_id": 0,
+            "fb_app_id": 0,
+            "page_id": 11319471190,
+            "actor_id": 584334064995955,
+            "media_id": 2854353058224989609,
+            "display_viewability_eligible": true,
+            "ads_debug_info": {
+              "adsBidInfo": {
+                "ecpmBid": 23862.945569982294,
+                "ecpmPrice": 20570.0,
+                "ectr": 0.09453344345092773,
+                "ecvr": 0.0002996340626850724,
+                "postImpEcvr": 29963,
+                "organicBidInfo": {
+                  "organicBidCpm": 97.9575899343432,
+                  "userDollarValue": 92462.0214992603,
+                  "serializedPacedOrganicBidMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":97.95759}",
+                  "serializedOrganicEventProbMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":1}",
+                  "serializedEventQualityMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":97.95759}",
+                  "serializedImpOrganicBidMap": "{\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":-2.42749,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":99.324586,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":-0.298804,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":1.359298}",
+                  "serializedImpOrganicCoeffMap": null,
+                  "serializedImpOrganicScoreMap": "{\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0.013127,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":1,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":0.000108,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0.018906,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":0.245019}"
+                }
+              },
+              "adsRankingInfo": {
+                "organicRank": 10,
+                "ecpsBidRank": 94,
+                "totalBidRank": 96
+              }
+            },
+            "should_show_secondary_cta_on_profile": false,
+            "creation_source": "ADS_MANAGER",
+            "invalidation_rules": {
+              "meta_ids": [
+                "ad_id",
+                "campaign_id",
+                "app_id",
+                "page_id",
+                "actor_id",
+                "media_id"
+              ],
+              "local_surface": [
+                {
+                  "instruction": {
+                    "signal": "seen",
+                    "conditions": [
+                      {
+                        "lhs": "dwelltime",
+                        "comparator": "ge",
+                        "rhs": 250
+                      },
+                      {
+                        "lhs": "time",
+                        "comparator": "le",
+                        "rhs": 7200000
+                      }
+                    ]
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "x-out"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_pool"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_inserted"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "app_install"
+                  }
+                }
+              ]
+            },
+            "hide_reasons_v2": [
+              {
+                "text": "It's not relevant",
+                "reason": "NOT_RELEVANT"
+              },
+              {
+                "text": "I see it too often",
+                "reason": "KEEP_SEEING_THIS"
+              },
+              {
+                "text": "It's inappropriate",
+                "reason": null
+              },
+              {
+                "text": "[Employee only] Send ad for review",
+                "reason": "EMPLOYEE_REPORT"
+              }
+            ],
+            "hide_flow_type": 2,
+            "cookies": [
+              "fr=14VVwPu3RKqQBRqgG.AWUgYzNN2jXwAHwbPgBM4xddpmw.Bi2GEA..AAA.0.0.Bi2GEA.AWXqSd9WDO8; expires=Tue, 18 Oct 2022 20:09:36 GMT; Max-Age=7776000; path=/; domain=.facebook.com; SameSite=None; httponly; Secure"
+            ],
+            "ctd_ads_info": {
+              "business_responsiveness_time_text": null,
+              "welcome_message_text": null,
+              "business_response_time_in_sec": null
+            },
+            "ig_ad_rendering_cta_trust_info_data": null,
+            "global_position": 4,
+            "cop_render_output": null
+          },
+          "is_sensitive_vertical_ad": false,
+          "collapse_comments": false,
+          "ad_metadata": [
+            {
+              "value": "kqed.org",
+              "type": 1
+            }
+          ],
+          "link": "https://www.kqed.org/forum-podcasts?fbclid=PAAab9Ol0I5oexDocxljC1V6T_jqscNXR5quLcxwRxi01mDHXSca7W76jS3KM\u0026external_browser_redirect=true",
+          "link_text": "Learn More",
+          "ad_action": "webclick",
+          "link_hint_text": "Tap Photo to Open Page",
+          "iTunesItem": null,
+          "ad_link_type": 0,
+          "ad_header_style": 0,
+          "dr_ad_type": 1,
+          "android_links": [
+            {
+              "linkType": 1,
+              "webUri": "https://www.kqed.org/forum-podcasts?fbclid=PAAab9Ol0I5oexDocxljC1V6T_jqscNXR5quLcxwRxi01mDHXSca7W76jS3KM\u0026external_browser_redirect=true",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8Q16z9kaEfpORLrd6OGpOtD-MJH4FpEJT3e4C1nNHQQLRcd_w060-WXupOKGlV3xSpsBQ6127AHMf8mk_fbZUBue7UCQpSUybdmZIsLaRelihiT7tLv1IzP5Djqq3k5RUhmJfh19KOcLGG1KRE3mgSfQsrcUjlPR_-RUGX62diVDOAKbVxH4MeXJhWQ-visFYcEuJq1Uwp1RP9Mfcs80py4Vfr2VrXEAp3DUEwasTVpPCz_qWKozScS3xHULnftLMh_s7PfX2IpQtuXi3A8o7j4ijQO5sz6bOdTER0n7zvd19w1abT7NzDr-4-f9ISFMlzbxV_D7xxU9WTPfAZjq-4WPrhIzn5XzTH-AeSj74uzQ\u0026a=1\u0026hash=Ad9hF5AZ3p3-OxSdGOM",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "referrerData": null,
+              "isAndroidAppLink": null
+            }
+          ],
+          "iab_autofill_optout_info": {
+            "domain": "",
+            "is_iab_autofill_optout": false
+          },
+          "click_id": "PAAab9Ol0I5oexDocxljC1V6T_jqscNXR5quLcxwRxi01mDHXSca7W76jS3KM",
+          "force_overlay": true,
+          "hide_nux_text": true,
+          "overlay_text": "Go to Website",
+          "overlay_title": "KQED",
+          "overlay_subtitle": "Go to kqed.org",
+          "dominant_color": "#203949",
+          "fb_page_url": "https://www.facebook.com/KQED/",
+          "item_client_gap_rules": {
+            "time_based_insertion_gap_in_seconds": null,
+            "push_up_min_gap": null
+          },
+          "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOGYzZDdiNmUwNGZjNDk0NDg2ZjZhNGM5MTYyODZmMzYyODU0MzUzMDU4MjI0OTg5NjA5Iiwic2VydmVyX3Rva2VuIjoiMTY1ODM0Nzc3OTM1M3wyODU0MzUzMDU4MjI0OTg5NjA5fDMwNDA1MzMyODk0fDQ2ZjFhM2IzMDVlZTQ5OWEyM2YwZGVkN2JlMmY3Mzc0Nzc5NzhiNjY3NmFjMzRjNTgzNWJlZDE1OTZlMzc4NDUifSwic2lnbmF0dXJlIjoiIn0=",
+          "expiring_at": 1658434179,
+          "has_shared_to_fb": 0,
+          "product_type": "ad",
+          "deleted_reason": 0,
+          "integrity_review_decision": "pending",
+          "music_metadata": null
+        }
+      },
+      {
+        "media_or_ad": {
+          "taken_at": 1651792308,
+          "pk": 2831761585888984586,
+          "id": "2831761585888984586_45559289222",
+          "device_timestamp": 1651792308,
+          "media_type": 1,
+          "code": "CdMcCi3gn4K",
+          "client_cache_key": "MjgzMTc2MTU4NTg4ODk4NDU4Ng==.2",
+          "filter_type": 0,
+          "is_unified_video": false,
+          "should_request_ads": false,
+          "caption_is_edited": false,
+          "like_and_view_counts_disabled": false,
+          "commerciality_status": "not_commercial",
+          "fundraiser_tag": {
+            "has_standalone_fundraiser": false
+          },
+          "is_paid_partnership": false,
+          "is_visual_reply_commenter_notice_enabled": true,
+          "original_media_has_visual_reply_media": false,
+          "has_delayed_metadata": false,
+          "comment_likes_enabled": false,
+          "comment_threading_enabled": false,
+          "has_more_comments": false,
+          "max_num_visible_preview_comments": 2,
+          "can_view_more_preview_comments": false,
+          "comment_count": 0,
+          "hide_view_all_comment_entrypoint": false,
+          "user": {
+            "pk": 45559289222,
+            "username": "tractiontools",
+            "full_name": "Traction® Tools",
+            "is_private": false,
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/145976495_462255591611372_5726642745391086048_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=108\u0026_nc_ohc=lsWIPYO9Tm4AX-bjAfh\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT9azgaWI3UldGwO9oeZm6DJAasOCCpIrmLvgfq32mkNzA\u0026oe=62DEE0EA\u0026_nc_sid=09940c",
+            "profile_pic_id": "2502527012460468683_45559289222",
+            "has_anonymous_profile_picture": false,
+            "is_unpublished": false,
+            "is_favorite": false,
+            "has_highlight_reels": false,
+            "transparency_product_enabled": false,
+            "account_badges": [
+            ],
+            "fan_club_info": {
+              "fan_club_id": null,
+              "fan_club_name": null
+            }
+          },
+          "like_count": 1,
+          "has_liked": false,
+          "likers": [
+            {
+              "pk": 3502461116,
+              "username": "braxtonbarbara",
+              "full_name": "Barbara Braxton",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/13557230_1631939023763455_1842304563_a.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=y85qYmK4ofkAX-ncrvP\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT-CP--ZRP0j_RzWKmIXIRkpvKg8hU9d8EoGHMeq2qkJfA\u0026oe=62E023D9\u0026_nc_sid=09940c",
+              "profile_pic_id": "1286435098312735484_3502461116",
+              "is_verified": false
+            }
+          ],
+          "photo_of_you": false,
+          "is_organic_product_tagging_eligible": false,
+          "can_see_insights_as_brand": false,
+          "caption": {
+            "pk": 17940043166055618,
+            "user_id": 45559289222,
+            "text": "Be More Efficient, Productive and Collaborative. Try a Free 30-day Trial!",
+            "type": 1,
+            "created_at": 1651792309,
+            "created_at_utc": 1651792309,
+            "content_type": "comment",
+            "status": "Active",
+            "bit_flags": 0,
+            "did_report_as_spam": false,
+            "share_enabled": false,
+            "user": {
+              "pk": 45559289222,
+              "username": "tractiontools",
+              "full_name": "Traction® Tools",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/145976495_462255591611372_5726642745391086048_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=108\u0026_nc_ohc=lsWIPYO9Tm4AX-bjAfh\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT9azgaWI3UldGwO9oeZm6DJAasOCCpIrmLvgfq32mkNzA\u0026oe=62DEE0EA\u0026_nc_sid=09940c",
+              "profile_pic_id": "2502527012460468683_45559289222",
+              "is_verified": false
+            },
+            "is_covered": false,
+            "media_id": 2831761585888984586,
+            "private_reply_status": 0,
+            "hide_username": false
+          },
+          "comment_inform_treatment": {
+            "should_have_inform_treatment": false,
+            "text": "",
+            "url": null,
+            "action_type": null
+          },
+          "sharing_friction_info": {
+            "should_have_sharing_friction": false,
+            "bloks_app_url": null,
+            "sharing_friction_payload": null
+          },
+          "can_viewer_save": true,
+          "is_in_profile_grid": false,
+          "profile_grid_control_enabled": false,
+          "image_versions2": {
+            "candidates": [
+              {
+                "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/279722336_6293029158257_2832891092608743315_n.jpg?stp=dst-jpg_e15_s1080x1080\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=105\u0026_nc_ohc=A3wkkkwSnH0AX989a5H\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_jxiezsTXN85UJ9F7SNKwdqFye6IS8PJLaDy-9LzTaDw\u0026oe=62DFDC31\u0026_nc_sid=09940c",
+                "width": 1080,
+                "height": 1080
+              }
+            ]
+          },
+          "original_width": 1080,
+          "original_height": 1080,
+          "injected": {
+            "label": "Sponsored",
+            "show_icon": true,
+            "hide_label": "Hide this",
+            "is_demo": false,
+            "view_tags": [
+            ],
+            "is_holdout": false,
+            "tracking_token": "AI@AQJJ7g5Ln120hFgMUTeEKOeA9a2kszlqdij4cb6n4OxT0hjCfORGyOlTAHhgkOPUPLqkF0NaOhi4GGCismaUHzns",
+            "show_ad_choices": false,
+            "ad_title": "Traction Tools",
+            "about_ad_params": "",
+            "direct_share": true,
+            "ad_id": 6293030171457,
+            "campaign_id": 6293029264057,
+            "app_id": 0,
+            "fb_app_id": 0,
+            "page_id": 1469467083348728,
+            "actor_id": 3596496123790979,
+            "media_id": 2831761585888984586,
+            "display_viewability_eligible": true,
+            "ads_debug_info": {
+              "adsBidInfo": {
+                "ecpmBid": 21260.378916864087,
+                "ecpmPrice": 19542.0,
+                "ectr": 0.10161945968866348,
+                "ecvr": 0.08637817248895407,
+                "postImpEcvr": 8637817,
+                "organicBidInfo": {
+                  "organicBidCpm": 98.00482583125974,
+                  "userDollarValue": 92462.0214992603,
+                  "serializedPacedOrganicBidMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":98.004826}",
+                  "serializedOrganicEventProbMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":1}",
+                  "serializedEventQualityMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":98.004826}",
+                  "serializedImpOrganicBidMap": "{\"AD_EVENT_TYPE_REPETITION\":-2.623036,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":-2.467069,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":99.324586,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":-0.292945,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":4.063291}",
+                  "serializedImpOrganicCoeffMap": null,
+                  "serializedImpOrganicScoreMap": "{\"AD_EVENT_TYPE_REPETITION\":0.014184,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0.013341,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":1,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":0.000106,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0.032258,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":0.732425}"
+                }
+              },
+              "adsRankingInfo": {
+                "organicRank": 12,
+                "ecpsBidRank": 92,
+                "totalBidRank": 94
+              }
+            },
+            "should_show_secondary_cta_on_profile": false,
+            "creation_source": "ADS_MANAGER",
+            "invalidation_rules": {
+              "meta_ids": [
+                "ad_id",
+                "campaign_id",
+                "app_id",
+                "page_id",
+                "actor_id",
+                "media_id"
+              ],
+              "local_surface": [
+                {
+                  "instruction": {
+                    "signal": "seen",
+                    "conditions": [
+                      {
+                        "lhs": "dwelltime",
+                        "comparator": "ge",
+                        "rhs": 250
+                      },
+                      {
+                        "lhs": "time",
+                        "comparator": "le",
+                        "rhs": 7200000
+                      }
+                    ]
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "x-out"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_pool"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_inserted"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "app_install"
+                  }
+                }
+              ]
+            },
+            "hide_reasons_v2": [
+              {
+                "text": "It's not relevant",
+                "reason": "NOT_RELEVANT"
+              },
+              {
+                "text": "I see it too often",
+                "reason": "KEEP_SEEING_THIS"
+              },
+              {
+                "text": "It's inappropriate",
+                "reason": null
+              },
+              {
+                "text": "[Employee only] Send ad for review",
+                "reason": "EMPLOYEE_REPORT"
+              }
+            ],
+            "hide_flow_type": 2,
+            "cookies": [
+              "fr=14VVwPu3RKqQBRqgG.AWUgYzNN2jXwAHwbPgBM4xddpmw.Bi2GEA..AAA.0.0.Bi2GEA.AWXqSd9WDO8; expires=Tue, 18 Oct 2022 20:09:36 GMT; Max-Age=7776000; path=/; domain=.facebook.com; SameSite=None; httponly; Secure"
+            ],
+            "ctd_ads_info": {
+              "business_responsiveness_time_text": null,
+              "welcome_message_text": null,
+              "business_response_time_in_sec": null
+            },
+            "ig_ad_rendering_cta_trust_info_data": null,
+            "global_position": 7,
+            "cop_render_output": null
+          },
+          "is_sensitive_vertical_ad": false,
+          "collapse_comments": false,
+          "ad_metadata": [
+            {
+              "value": "traction.tools",
+              "type": 1
+            }
+          ],
+          "link": "https://traction.tools/getstarted/?utm_source=instagram\u0026utm_medium=cpc\u0026utm_campaign=brandawareness\u0026hsa_acc=23206496\u0026hsa_cam=6264511225457\u0026hsa_grp=6293029264057\u0026hsa_ad=6293029263857\u0026hsa_src=ig\u0026hsa_net=facebook\u0026hsa_ver=3\u0026fbclid=PAAabyvfJ8qF48YHIqkZgQXsk6i-cme6XQhOCJCuHGErkLYV3Y7rw_EqqLC_4\u0026external_browser_redirect=true",
+          "link_text": "Learn More",
+          "ad_action": "webclick",
+          "link_hint_text": "Tap Photo to Open Page",
+          "iTunesItem": null,
+          "ad_link_type": 0,
+          "ad_header_style": 0,
+          "dr_ad_type": 1,
+          "android_links": [
+            {
+              "linkType": 1,
+              "webUri": "https://traction.tools/getstarted/?utm_source=instagram\u0026utm_medium=cpc\u0026utm_campaign=brandawareness\u0026hsa_acc=23206496\u0026hsa_cam=6264511225457\u0026hsa_grp=6293029264057\u0026hsa_ad=6293029263857\u0026hsa_src=ig\u0026hsa_net=facebook\u0026hsa_ver=3\u0026fbclid=PAAabyvfJ8qF48YHIqkZgQXsk6i-cme6XQhOCJCuHGErkLYV3Y7rw_EqqLC_4\u0026external_browser_redirect=true",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-TO-Uxj9NPXLRThtjJWJ1nssi91lnEsfiFRYPDyhsTSxLBuYCeQWBV1iUOHirJltXHXutGeQBytAw9JoWjU9tZHEi4X-vwplZTR0wnVDeQJXjviebYKZo2GRkTTUxOpcXyk_AHkayUI-kCZevleyEqieWwXb8p8hd2WJC0Ss1gD9j8RcmMNMOlocyofxv0tIe1maCmPBgbMfvkETq6Ma6Oi5iqn9kYQO9rKVu4TGzENn1NyaDGxBmrwaRizgjGts03CEKF8-kcOHLgyakwKfjQ9A1fvzIgwXc2QeAMauoQJyaoEVGqszgkzaqsu-yVFTNo-klJBcnG-1BmqNSJu_W9HWFQgmbMHM-5soTs5U4M1HfS8TSbcZlauPBnWeFmq9Nczghuc-LiT1evlmQFKuAtHr2YkfD5YMpNA45YwP2Nxk-QzPxT2iYNqQwuE77T9Q4OQudq8hy7mv9O31vTGHoNjCNNfleu99oDgXvW1t_FrKAK3uWkM6gqf-QEZyxXPTQoAF3uE55mrby6gpN7HWSLVECPlejrTDj6pQrJVZiRg92t4CH5wOTC0U4g6_80l8qraeXyhdxrKZ9Xlq2B9kJm_cx6iGZrMPzdK-RV5wA28g\u0026a=1\u0026hash=Ad8-_Bt3PylSO08rKMA",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "referrerData": null,
+              "isAndroidAppLink": null
+            }
+          ],
+          "iab_autofill_optout_info": {
+            "domain": "",
+            "is_iab_autofill_optout": false
+          },
+          "click_id": "PAAabyvfJ8qF48YHIqkZgQXsk6i-cme6XQhOCJCuHGErkLYV3Y7rw_EqqLC_4",
+          "force_overlay": true,
+          "hide_nux_text": true,
+          "overlay_text": "Go to Website",
+          "overlay_title": "Traction Tools",
+          "overlay_subtitle": "Go to Website",
+          "dominant_color": "#5A7CAC",
+          "fb_page_url": "https://www.facebook.com/TractionTools/",
+          "item_client_gap_rules": {
+            "time_based_insertion_gap_in_seconds": null,
+            "push_up_min_gap": null
+          },
+          "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOGYzZDdiNmUwNGZjNDk0NDg2ZjZhNGM5MTYyODZmMzYyODMxNzYxNTg1ODg4OTg0NTg2Iiwic2VydmVyX3Rva2VuIjoiMTY1ODM0Nzc3OTM1M3wyODMxNzYxNTg1ODg4OTg0NTg2fDMwNDA1MzMyODk0fDNhYzFlYmNjMjEwMzFmNDZmNzM4MzZjY2M5M2I5MTk3ODE2MzY3MmNiZDI4MTFjOGZiZThiOTc3MjRkZDYwYWEifSwic2lnbmF0dXJlIjoiIn0=",
+          "expiring_at": 1658434179,
+          "has_shared_to_fb": 0,
+          "product_type": "ad",
+          "deleted_reason": 0,
+          "integrity_review_decision": "pending",
+          "music_metadata": null
+        }
+      },
+      {
+        "media_or_ad": {
+          "taken_at": 1658264748,
+          "pk": 2886056345244497817,
+          "id": "2886056345244497817_90010138480961",
+          "device_timestamp": 1658264748,
+          "media_type": 8,
+          "code": "CgNVPR8D3eZ",
+          "client_cache_key": "Mjg4NjA1NjM0NTI0NDQ5NzgxNw==.2",
+          "filter_type": 0,
+          "is_sidecar_child": true,
+          "is_unified_video": false,
+          "should_request_ads": false,
+          "caption_is_edited": false,
+          "like_and_view_counts_disabled": false,
+          "commerciality_status": "not_commercial",
+          "fundraiser_tag": {
+            "has_standalone_fundraiser": false
+          },
+          "is_paid_partnership": false,
+          "is_visual_reply_commenter_notice_enabled": true,
+          "original_media_has_visual_reply_media": false,
+          "has_delayed_metadata": false,
+          "comment_likes_enabled": false,
+          "comment_threading_enabled": false,
+          "has_more_comments": false,
+          "max_num_visible_preview_comments": 2,
+          "can_view_more_preview_comments": false,
+          "comment_count": 0,
+          "hide_view_all_comment_entrypoint": false,
+          "user": {
+            "pk": 90010138480961,
+            "username": "donatello_donates",
+            "full_name": "Donatello Organization",
+            "is_private": false,
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/62559155_321928472076667_8446212616770027520_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=0Xce5BckzUEAX9WXN9V\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_A8Tl3z0blYvUM96TU42IoXsgpZ_18omOxzq0cIyh9lg\u0026oe=62DEBCA9\u0026_nc_sid=09940c",
+            "profile_pic_id": "2075164607265439895_90010138480961",
+            "has_anonymous_profile_picture": false,
+            "is_unpublished": false,
+            "is_favorite": false,
+            "has_highlight_reels": false,
+            "transparency_product_enabled": false,
+            "account_badges": [
+            ],
+            "fan_club_info": {
+              "fan_club_id": null,
+              "fan_club_name": null
+            }
+          },
+          "like_count": 0,
+          "has_liked": false,
+          "likers": [
+          ],
+          "photo_of_you": false,
+          "is_organic_product_tagging_eligible": false,
+          "can_see_insights_as_brand": false,
+          "caption": {
+            "pk": 90011030513448,
+            "user_id": 90010138480961,
+            "text": "test",
+            "type": 1,
+            "created_at": 1658264748,
+            "created_at_utc": 1658264748,
+            "content_type": "comment",
+            "status": "Active",
+            "bit_flags": 0,
+            "did_report_as_spam": false,
+            "share_enabled": false,
+            "user": {
+              "pk": 90010138480961,
+              "username": "donatello_donates",
+              "full_name": "Donatello Organization",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/62559155_321928472076667_8446212616770027520_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=0Xce5BckzUEAX9WXN9V\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_A8Tl3z0blYvUM96TU42IoXsgpZ_18omOxzq0cIyh9lg\u0026oe=62DEBCA9\u0026_nc_sid=09940c",
+              "profile_pic_id": "2075164607265439895_90010138480961",
+              "is_verified": false
+            },
+            "is_covered": false,
+            "media_id": 2886056345244497817,
+            "private_reply_status": 0,
+            "hide_username": false
+          },
+          "comment_inform_treatment": {
+            "should_have_inform_treatment": false,
+            "text": "",
+            "url": null,
+            "action_type": null
+          },
+          "sharing_friction_info": {
+            "should_have_sharing_friction": false,
+            "bloks_app_url": null,
+            "sharing_friction_payload": null
+          },
+          "can_viewer_save": true,
+          "is_in_profile_grid": false,
+          "profile_grid_control_enabled": false,
+          "injected": {
+            "label": "Sponsored (FB only)",
+            "show_icon": true,
+            "hide_label": "Hide this",
+            "is_demo": false,
+            "view_tags": [
+            ],
+            "is_holdout": false,
+            "tracking_token": "AI@AQJx7X1b2EMvSC9VQKK1kL-44FuUeqrOliH8sHFq7geZatOtPm4u68uXSigkZVIn5dR62zKP59aW3NnB8yo5GQ5j",
+            "show_ad_choices": false,
+            "ad_title": "Donations Test",
+            "about_ad_params": "",
+            "direct_share": true,
+            "ad_id": 23850582857080742,
+            "campaign_id": 23850582855220742,
+            "app_id": 0,
+            "fb_app_id": 0,
+            "page_id": 1457049977939597,
+            "actor_id": 2221448514640881,
+            "media_id": 2886056345244497817,
+            "display_viewability_eligible": true,
+            "ads_debug_info": {
+              "adsBidInfo": {
+                "ecpmBid": 19110.07322472208,
+                "ecpmPrice": 18792.0,
+                "ectr": 0.05637071281671524,
+                "ecvr": 0.004594339057803154,
+                "postImpEcvr": 459433,
+                "organicBidInfo": {
+                  "organicBidCpm": 98.43703665399539,
+                  "userDollarValue": 92462.0214992603,
+                  "serializedPacedOrganicBidMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":98.437037}",
+                  "serializedOrganicEventProbMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":1}",
+                  "serializedEventQualityMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":98.437037}",
+                  "serializedImpOrganicBidMap": "{\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":-2.536456,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":99.324586,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":-0.58045,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":2.229357}",
+                  "serializedImpOrganicCoeffMap": null,
+                  "serializedImpOrganicScoreMap": "{\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0.013716,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":1,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":0.00021,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0.007949,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":0.401851}"
+                }
+              },
+              "adsRankingInfo": {
+                "organicRank": 18,
+                "ecpsBidRank": 90,
+                "totalBidRank": 92
+              }
+            },
+            "should_show_secondary_cta_on_profile": false,
+            "creation_source": "ADS_MANAGER",
+            "invalidation_rules": {
+              "meta_ids": [
+                "ad_id",
+                "campaign_id",
+                "app_id",
+                "page_id",
+                "actor_id",
+                "media_id"
+              ],
+              "local_surface": [
+                {
+                  "instruction": {
+                    "signal": "seen",
+                    "conditions": [
+                      {
+                        "lhs": "dwelltime",
+                        "comparator": "ge",
+                        "rhs": 250
+                      },
+                      {
+                        "lhs": "time",
+                        "comparator": "le",
+                        "rhs": 7200000
+                      }
+                    ]
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "x-out"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_pool"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_inserted"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "app_install"
+                  }
+                }
+              ]
+            },
+            "lead_gen_form_id": 1150299035798684,
+            "is_leadgen_native_eligible": true,
+            "hide_reasons_v2": [
+              {
+                "text": "It's not relevant",
+                "reason": "NOT_RELEVANT"
+              },
+              {
+                "text": "I see it too often",
+                "reason": "KEEP_SEEING_THIS"
+              },
+              {
+                "text": "It's inappropriate",
+                "reason": null
+              },
+              {
+                "text": "[Employee only] Send ad for review",
+                "reason": "EMPLOYEE_REPORT"
+              }
+            ],
+            "hide_flow_type": 2,
+            "cookies": [
+              "fr=14VVwPu3RKqQBRqgG.AWUgYzNN2jXwAHwbPgBM4xddpmw.Bi2GEA..AAA.0.0.Bi2GEA.AWXqSd9WDO8; expires=Tue, 18 Oct 2022 20:09:36 GMT; Max-Age=7776000; path=/; domain=.facebook.com; SameSite=None; httponly; Secure"
+            ],
+            "ctd_ads_info": {
+              "business_responsiveness_time_text": null,
+              "welcome_message_text": null,
+              "business_response_time_in_sec": null
+            },
+            "ig_ad_rendering_cta_trust_info_data": null,
+            "global_position": 10,
+            "cop_render_output": null
+          },
+          "is_sensitive_vertical_ad": false,
+          "collapse_comments": false,
+          "carousel_media_type": 4,
+          "carousel_media": [
+            {
+              "media_type": 1,
+              "pk": 2886056345244497817,
+              "id": "2886056345244497817_90010138480961_card",
+              "carousel_parent_id": "2886056345244497817_90010138480961",
+              "headline": {
+                "content_type": "comment",
+                "user": {
+                  "pk": 90010138480961,
+                  "username": "donatello_donates",
+                  "full_name": "Donatello Organization",
+                  "is_private": false,
+                  "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/62559155_321928472076667_8446212616770027520_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=0Xce5BckzUEAX9WXN9V\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_A8Tl3z0blYvUM96TU42IoXsgpZ_18omOxzq0cIyh9lg\u0026oe=62DEBCA9\u0026_nc_sid=09940c",
+                  "profile_pic_id": "2075164607265439895_90010138480961",
+                  "is_verified": false
+                },
+                "user_id": 90010138480961,
+                "pk": "2886056345244497817_headline",
+                "text": "test",
+                "type": 1,
+                "created_at": 1658347779,
+                "created_at_utc": 1658322579,
+                "media_id": 2886056345244497817,
+                "bit_flags": 0,
+                "status": "Active"
+              },
+              "video_subtitles_uri": null,
+              "dominant_color": "#6195BE",
+              "link": "https://www.facebook.com/groups/1422713868625503",
+              "link_text": "Sign Up",
+              "link_hint_text": "Tap Photo to Open Page",
+              "android_links": [
+                {
+                  "linkType": 7,
+                  "webUri": "https://www.facebook.com/groups/1422713868625503",
+                  "androidClass": "",
+                  "package": "",
+                  "deeplinkUri": "",
+                  "callToActionTitle": "",
+                  "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad858PqDV31O4P8sNwS1QEnDEU-Y3leRU9wv3RLQ22UdXxUPhid-r9NtAwC3-XspRpsX1IOiLYqePfk03NT22hwmuZ6NRYD49D3HHB5wc8yK4ubJUWmGPzupyumu6ipqQ2aPVqnLGXRlMgd0o185WhbCZQC7OqMm0r1CPblObYWTR-jBei5wNNN52rxr6AlWcoTYlkn84usppjk_CxrPneHJ_PkpzEK6dZiCVa4DsyRDfOvYgAZopvObD-w4ebftHkw\u0026a=1\u0026hash=Ad_WXmbLTHq2kHj_fx4",
+                  "leadGenFormId": 1150299035798684,
+                  "igUserId": null,
+                  "appInstallObjectiveInvalidationBehavior": null,
+                  "referrerData": null,
+                  "isAndroidAppLink": null
+                }
+              ],
+              "ad_metadata": [
+                {
+                  "value": "www.facebook.com",
+                  "type": 1
+                }
+              ],
+              "ad_action": "leadads",
+              "ad_link_type": 0,
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/212409386_23847725057000742_5394074477732201439_n.jpg?stp=c420.0.1080.1080a_dst-jpg_e15\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=106\u0026_nc_ohc=evBo_LIpcwEAX9cPFj4\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_5qwpkppyRYEdvSHWirD1Xy0yEOR2bchItFe0kQJ_8Vg\u0026oe=62DFB90D\u0026_nc_sid=09940c",
+                    "width": 1080,
+                    "height": 1080
+                  }
+                ]
+              },
+              "original_width": 1080,
+              "original_height": 1080,
+              "force_overlay": true,
+              "hide_nux_text": true,
+              "overlay_text": "Go to Website",
+              "overlay_title": "Donations Test",
+              "overlay_subtitle": "Go to Website"
+            },
+            {
+              "media_type": 1,
+              "pk": 2886056341436035298,
+              "id": "2886056341436035298_90010138480961_card",
+              "carousel_parent_id": "2886056345244497817_90010138480961",
+              "headline": {
+                "content_type": "comment",
+                "user": {
+                  "pk": 90010138480961,
+                  "username": "donatello_donates",
+                  "full_name": "Donatello Organization",
+                  "is_private": false,
+                  "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/62559155_321928472076667_8446212616770027520_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=0Xce5BckzUEAX9WXN9V\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_A8Tl3z0blYvUM96TU42IoXsgpZ_18omOxzq0cIyh9lg\u0026oe=62DEBCA9\u0026_nc_sid=09940c",
+                  "profile_pic_id": "2075164607265439895_90010138480961",
+                  "is_verified": false
+                },
+                "user_id": 90010138480961,
+                "pk": "2886056341436035298_headline",
+                "text": "",
+                "type": 1,
+                "created_at": 1658347779,
+                "created_at_utc": 1658322579,
+                "media_id": 2886056341436035298,
+                "bit_flags": 0,
+                "status": "Active"
+              },
+              "video_subtitles_uri": null,
+              "dominant_color": "#7596C8",
+              "link": "https://www.facebook.com/groups/1422713868625503",
+              "link_text": "Sign Up",
+              "link_hint_text": "Tap Photo to Open Page",
+              "android_links": [
+                {
+                  "linkType": 7,
+                  "webUri": "https://www.facebook.com/groups/1422713868625503",
+                  "androidClass": "",
+                  "package": "",
+                  "deeplinkUri": "",
+                  "callToActionTitle": "",
+                  "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-9y2-M0ykNJxzge7roiOhLkGyxhy2N5f49Kwknk4UTKpBAF5pEd2qqFNNTwnPmTyYoZ7hbATJ83g6MBe1gudX6495MuoBANalVB-Yo5B3eSBkIDrnrE0Sp9t58PipUUeoISI9LngX4N2VKn3efxbiFrHtD0foRmUj_OwQA8dZfoIGuh-R_ZujwrJrzt3twkNg832BctBzZHaLuvUZH3LRI1DfyNPyRSYaLlL-BYvli3wb-9nQwRQG91Jh8n9dyrx8\u0026a=1\u0026hash=Ad92lST4uC0py68C8DA",
+                  "leadGenFormId": 1150299035798684,
+                  "igUserId": null,
+                  "appInstallObjectiveInvalidationBehavior": null,
+                  "referrerData": null,
+                  "isAndroidAppLink": null
+                }
+              ],
+              "ad_metadata": [
+                {
+                  "value": "www.facebook.com",
+                  "type": 1
+                }
+              ],
+              "ad_action": "leadads",
+              "ad_link_type": 0,
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/260130955_320507819910027_5291954027694756819_n.jpg?stp=dst-jpg_e15_s1080x1080\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=103\u0026_nc_ohc=oA4zhMFKPacAX_IKLEH\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT9fDJRse2uRdrDrVFnZY5lqbKMMv0fOuIvalDIIhaAz_w\u0026oe=62E003FE\u0026_nc_sid=09940c",
+                    "width": 1080,
+                    "height": 1080
+                  }
+                ]
+              },
+              "original_width": 1080,
+              "original_height": 1080,
+              "force_overlay": true,
+              "hide_nux_text": true,
+              "overlay_text": "Go to Website",
+              "overlay_title": "Donations Test",
+              "overlay_subtitle": "Go to Website"
+            }
+          ],
+          "iTunesItem": null,
+          "ad_header_style": 0,
+          "dr_ad_type": 1,
+          "iab_autofill_optout_info": {
+            "domain": "",
+            "is_iab_autofill_optout": false
+          },
+          "ad_id": 23850582857080742,
+          "fb_page_url": "https://www.facebook.com/1457049977939597",
+          "item_client_gap_rules": {
+            "time_based_insertion_gap_in_seconds": null,
+            "push_up_min_gap": null
+          },
+          "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOGYzZDdiNmUwNGZjNDk0NDg2ZjZhNGM5MTYyODZmMzYyODg2MDU2MzQ1MjQ0NDk3ODE3Iiwic2VydmVyX3Rva2VuIjoiMTY1ODM0Nzc3OTM2MHwyODg2MDU2MzQ1MjQ0NDk3ODE3fDMwNDA1MzMyODk0fDJmMDA0NzI0N2JkMTFjZDI4Yzg2MmEyNzBhODY5N2NkNmZmNGRjOGI2NTQ5ZDgyZjFkYzZkZWNhMWM4MTY2MDgifSwic2lnbmF0dXJlIjoiIn0=",
+          "expiring_at": 1658434179,
+          "has_shared_to_fb": 0,
+          "product_type": "ad",
+          "deleted_reason": 0,
+          "integrity_review_decision": "pending",
+          "music_metadata": null
+        }
+      },
+      {
+        "media_or_ad": {
+          "taken_at": 1650544406,
+          "pk": 2821293422924305835,
+          "id": "2821293422924305835_4544977078",
+          "device_timestamp": 1650544406,
+          "media_type": 1,
+          "code": "CcnP2uYjJWr",
+          "client_cache_key": "MjgyMTI5MzQyMjkyNDMwNTgzNQ==.2",
+          "filter_type": 0,
+          "is_unified_video": false,
+          "should_request_ads": false,
+          "caption_is_edited": false,
+          "like_and_view_counts_disabled": false,
+          "commerciality_status": "not_commercial",
+          "fundraiser_tag": {
+            "has_standalone_fundraiser": false
+          },
+          "is_paid_partnership": false,
+          "is_visual_reply_commenter_notice_enabled": true,
+          "original_media_has_visual_reply_media": false,
+          "has_delayed_metadata": false,
+          "comment_likes_enabled": false,
+          "comment_threading_enabled": false,
+          "has_more_comments": false,
+          "max_num_visible_preview_comments": 2,
+          "can_view_more_preview_comments": false,
+          "comment_count": 0,
+          "hide_view_all_comment_entrypoint": false,
+          "user": {
+            "pk": 4544977078,
+            "username": "notredamebusiness",
+            "full_name": "Notre Dame Business",
+            "is_private": false,
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/55777070_279938852897995_2787861429292630016_n.jpg?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=rugKfV_ZgckAX_RYnxJ\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_uyUO2-FnsiXLoCDVAbSLAwgZX5sCjc5D7ps4mMA5HVw\u0026oe=62DF62DB\u0026_nc_sid=09940c",
+            "profile_pic_id": "2017668605362402847_4544977078",
+            "has_anonymous_profile_picture": false,
+            "is_unpublished": false,
+            "is_favorite": false,
+            "has_highlight_reels": false,
+            "transparency_product_enabled": false,
+            "account_badges": [
+            ],
+            "fan_club_info": {
+              "fan_club_id": null,
+              "fan_club_name": null
+            }
+          },
+          "like_count": 5,
+          "has_liked": false,
+          "likers": [
+            {
+              "pk": 39489589358,
+              "username": "alien_afterl1fe",
+              "full_name": "Red Hawk 🦅",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/283708734_742987460210602_1816073348091477045_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=110\u0026_nc_ohc=fnDUM6gE_3cAX_p2euv\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT92n8iVD1fQD_Wb3Di85RHOj1cRN3YasrUXLhQ7IJxIQA\u0026oe=62DEDC3B\u0026_nc_sid=09940c",
+              "profile_pic_id": "2845641711519250230_39489589358",
+              "is_verified": false
+            },
+            {
+              "pk": 1348785077,
+              "username": "abhiikarthik",
+              "full_name": "abhi karthik",
+              "is_private": true,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/275104847_698528144849309_4868660711144517714_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=105\u0026_nc_ohc=n8BYsHKqyY8AX9zLngu\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT9SfuXIkDTNcYBotnMvrXV6SM4OoPD4UEWWcHKZdHItLA\u0026oe=62DEAD69\u0026_nc_sid=09940c",
+              "profile_pic_id": "2785310963673178217_1348785077",
+              "is_verified": false
+            },
+            {
+              "pk": 27305576853,
+              "username": "mattkrish80",
+              "full_name": "Matt Kirshisky",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/283293191_319968246808726_1762461948632479241_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=110\u0026_nc_ohc=Qwn0viOgl4cAX9nF7X9\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT8TnRFQVfSwRn7SY3INNRoGB7BX4HNFXh6AcW0yaN73gg\u0026oe=62E035D3\u0026_nc_sid=09940c",
+              "profile_pic_id": "2843922720643934483_27305576853",
+              "is_verified": false
+            },
+            {
+              "pk": 19123181617,
+              "username": "therealpinkslip",
+              "full_name": "PinkSlip, LLC.",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/286318264_724757748640000_8942283504117364615_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=104\u0026_nc_ohc=g8XITTjxN0AAX8dDjlJ\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT8zO5PZC3uCU01L-W0HZMeVk33d2RIyGWsNRCWE7Y-Jvw\u0026oe=62DF57EA\u0026_nc_sid=09940c",
+              "profile_pic_id": "2857893367067551725_19123181617",
+              "is_verified": false
+            },
+            {
+              "pk": 522521637,
+              "username": "jaquaaan_",
+              "full_name": "Cootk",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/279764039_1616308422078896_6089286933865392813_n.jpg?stp=dst-jpg_s150x150\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=108\u0026_nc_ohc=6miNpr8wL9UAX_xwLZz\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT-1FzRdzL46RLsVKJ_63acPS84g5FA-7GCJNeVk1GLMhA\u0026oe=62DF95E3\u0026_nc_sid=09940c",
+              "profile_pic_id": "2829288935126791929_522521637",
+              "is_verified": false
+            }
+          ],
+          "photo_of_you": false,
+          "is_organic_product_tagging_eligible": false,
+          "can_see_insights_as_brand": false,
+          "caption": {
+            "pk": 17937125738083725,
+            "user_id": 4544977078,
+            "text": "The Notre Dame M.S. in Finance combines the best of analytics and finance to help you stand out in the field. Learn more.",
+            "type": 1,
+            "created_at": 1650544407,
+            "created_at_utc": 1650544407,
+            "content_type": "comment",
+            "status": "Active",
+            "bit_flags": 0,
+            "did_report_as_spam": false,
+            "share_enabled": false,
+            "user": {
+              "pk": 4544977078,
+              "username": "notredamebusiness",
+              "full_name": "Notre Dame Business",
+              "is_private": false,
+              "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/55777070_279938852897995_2787861429292630016_n.jpg?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=rugKfV_ZgckAX_RYnxJ\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT_uyUO2-FnsiXLoCDVAbSLAwgZX5sCjc5D7ps4mMA5HVw\u0026oe=62DF62DB\u0026_nc_sid=09940c",
+              "profile_pic_id": "2017668605362402847_4544977078",
+              "is_verified": false
+            },
+            "is_covered": false,
+            "media_id": 2821293422924305835,
+            "private_reply_status": 0,
+            "hide_username": false
+          },
+          "comment_inform_treatment": {
+            "should_have_inform_treatment": false,
+            "text": "",
+            "url": null,
+            "action_type": null
+          },
+          "sharing_friction_info": {
+            "should_have_sharing_friction": false,
+            "bloks_app_url": null,
+            "sharing_friction_payload": null
+          },
+          "can_viewer_save": true,
+          "is_in_profile_grid": false,
+          "profile_grid_control_enabled": false,
+          "image_versions2": {
+            "candidates": [
+              {
+                "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/278361838_23850044088640081_8301668832987291825_n.jpg?stp=dst-jpg_e15\u0026efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19ybWRfZG9nZm9vZGluZzI6Y29udHJvbCJ9\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=101\u0026_nc_ohc=z8OH7c2MhuEAX_l5NO0\u0026edm=AP2z7fgBAAAA\u0026ccb=7-5\u0026oh=00_AT9hZHp54e-AQSuSQ8tzQpHtEOzM3L1zK29iEM0Keh7Z3g\u0026oe=62DE9CF1\u0026_nc_sid=09940c",
+                "width": 1080,
+                "height": 1080
+              }
+            ]
+          },
+          "original_width": 1080,
+          "original_height": 1080,
+          "injected": {
+            "label": "Sponsored",
+            "show_icon": true,
+            "hide_label": "Hide this",
+            "is_demo": false,
+            "view_tags": [
+            ],
+            "is_holdout": false,
+            "tracking_token": "AI@AQJl_xmvOnr7mQ-iMZMvCAzjL9cXkB3IqlpOVQRi2OTvK9ZH8qf2zZ_mWYoMxwT2B0204wvXKmbu5N5kn1HxfXa_",
+            "show_ad_choices": false,
+            "ad_title": "University of Notre Dame Mendoza College of Business",
+            "about_ad_params": "",
+            "direct_share": true,
+            "ad_id": 23850598634670081,
+            "campaign_id": 23848182984530081,
+            "app_id": 0,
+            "fb_app_id": 0,
+            "page_id": 1394888734108651,
+            "actor_id": 1250283738394323,
+            "media_id": 2821293422924305835,
+            "display_viewability_eligible": true,
+            "ads_debug_info": {
+              "adsBidInfo": {
+                "ecpmBid": 25280.86699372,
+                "ecpmPrice": 18492.0,
+                "ectr": 0.08451886475086212,
+                "ecvr": 0.006938519887626171,
+                "postImpEcvr": 693851,
+                "organicBidInfo": {
+                  "organicBidCpm": 91.94880141681313,
+                  "userDollarValue": 92462.0214992603,
+                  "serializedPacedOrganicBidMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":91.948801}",
+                  "serializedOrganicEventProbMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":1}",
+                  "serializedEventQualityMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":91.948801}",
+                  "serializedImpOrganicBidMap": "{\"AD_EVENT_TYPE_REPETITION\":-7.869108,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":-2.441048,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":99.324586,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":-0.42704,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":3.361412}",
+                  "serializedImpOrganicCoeffMap": null,
+                  "serializedImpOrganicScoreMap": "{\"AD_EVENT_TYPE_REPETITION\":0.042553,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0.0132,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":1,\"AD_EVENT_TYPE_BI_MLEX_GROUP_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":0.000154,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0.00383,\"AD_EVENT_TYPE_BI_LQWE_PAGE_PENALTY\":0,\"AD_EVENT_TYPE_BI_CLICKBAIT_PENALTY\":0,\"AD_EVENT_TYPE_BI_AD_FARM_PENALTY\":0,\"AD_EVENT_TYPE_BI_ENGAGEMENT_BAIT_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_SENSATIONALISM_V0_PENALTY\":0,\"AD_EVENT_TYPE_BI_ALE_COMBINED_PENALTY\":0,\"AD_EVENT_ASQ_RELEVANCE\":0.605909}"
+                }
+              },
+              "adsRankingInfo": {
+                "organicRank": 0,
+                "ecpsBidRank": 96,
+                "totalBidRank": 90
+              }
+            },
+            "should_show_secondary_cta_on_profile": false,
+            "creation_source": "ADS_MANAGER",
+            "invalidation_rules": {
+              "meta_ids": [
+                "ad_id",
+                "campaign_id",
+                "app_id",
+                "page_id",
+                "actor_id",
+                "media_id"
+              ],
+              "local_surface": [
+                {
+                  "instruction": {
+                    "signal": "seen",
+                    "conditions": [
+                      {
+                        "lhs": "dwelltime",
+                        "comparator": "ge",
+                        "rhs": 250
+                      },
+                      {
+                        "lhs": "time",
+                        "comparator": "le",
+                        "rhs": 7200000
+                      }
+                    ]
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "x-out"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_pool"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "ads_inserted"
+                  }
+                },
+                {
+                  "instruction": {
+                    "signal": "app_install"
+                  }
+                }
+              ]
+            },
+            "lead_gen_form_id": 3673129762742382,
+            "is_leadgen_native_eligible": true,
+            "hide_reasons_v2": [
+              {
+                "text": "It's not relevant",
+                "reason": "NOT_RELEVANT"
+              },
+              {
+                "text": "I see it too often",
+                "reason": "KEEP_SEEING_THIS"
+              },
+              {
+                "text": "It's inappropriate",
+                "reason": null
+              },
+              {
+                "text": "[Employee only] Send ad for review",
+                "reason": "EMPLOYEE_REPORT"
+              }
+            ],
+            "hide_flow_type": 2,
+            "cookies": [
+              "fr=14VVwPu3RKqQBRqgG.AWUgYzNN2jXwAHwbPgBM4xddpmw.Bi2GEA..AAA.0.0.Bi2GEA.AWXqSd9WDO8; expires=Tue, 18 Oct 2022 20:09:36 GMT; Max-Age=7776000; path=/; domain=.facebook.com; SameSite=None; httponly; Secure"
+            ],
+            "ctd_ads_info": {
+              "business_responsiveness_time_text": null,
+              "welcome_message_text": null,
+              "business_response_time_in_sec": null
+            },
+            "ig_ad_rendering_cta_trust_info_data": null,
+            "global_position": 13,
+            "cop_render_output": null
+          },
+          "is_sensitive_vertical_ad": false,
+          "collapse_comments": false,
+          "ad_metadata": [
+            {
+              "value": "mendoza.nd.edu",
+              "type": 1
+            }
+          ],
+          "link": "https://mendoza.nd.edu/graduate-programs/finance-msf/?utm_source=carnegie\u0026utm_medium=paid-social\u0026utm_campaign=ms-finance-south-bend\u0026utm_term=facebook\u0026utm_content=lead-gen\u0026fbclid=PAAaZFQzs872HZFumqMSG6ecnTNbC8FDsHCPRLa4hp3vFpxcmThNi62OikHE0\u0026external_browser_redirect=true",
+          "link_text": "Learn More",
+          "ad_action": "leadads",
+          "link_hint_text": "Tap Photo to Open Page",
+          "iTunesItem": null,
+          "ad_link_type": 0,
+          "ad_header_style": 0,
+          "dr_ad_type": 1,
+          "android_links": [
+            {
+              "linkType": 7,
+              "webUri": "https://mendoza.nd.edu/graduate-programs/finance-msf/?utm_source=carnegie\u0026utm_medium=paid-social\u0026utm_campaign=ms-finance-south-bend\u0026utm_term=facebook\u0026utm_content=lead-gen\u0026fbclid=PAAaZFQzs872HZFumqMSG6ecnTNbC8FDsHCPRLa4hp3vFpxcmThNi62OikHE0\u0026external_browser_redirect=true",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-owsMr53-_CWI46OBemL-Rs7uEvV2VRYQTOicPZDuusnKJo_aoI8br9-1fTDeek92PscHm_fzvfMzqtzewm0f3NIAcjRLLS_R79rMs8dRVos3VTPVO2P0LVm7a-n4JNRPs3L99KqS0xzSwwgHOQJyRSGV3EAds2W6HCXHh6DjKEX9mB-X-c1CnbRbX7cMTcTRJTxtQBRUzW71VN1WPhyq79ZNdNPPGhePFUrzO1vSa0SHbULCIX4BYDPj3mzYZdjQjz1D1RbK3hW0rwqOVpgSrp7oXF0PPrcx7ii4GmyXwMVK-8V00g2igu-Q4bjSkAfdT9xq1v22kcrNaU8g-kGC7aqqsquIDTuIh--p8TI8izT-w2mYO7OsqFgEAg-W9G5SdqIacFH8KJNtqTCBbSQs1zMgpa_UAQmpc-nQll2tRwqB64Zdu2f550Mn3noNfkbcq4Zv4oF0ao_g89DL_hCeZTprp1gWl5oSjEIWAhxnpW4QTOjfso9x4yUmXM9G-_4z0SjjNn55BbfrW-l53KQLakqRQpxGqnZxv9p9MYiB6Jw\u0026a=1\u0026hash=Ad_vHxPpVVa_NeBkLMI",
+              "leadGenFormId": 3673129762742382,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "referrerData": null,
+              "isAndroidAppLink": null
+            }
+          ],
+          "iab_autofill_optout_info": {
+            "domain": "",
+            "is_iab_autofill_optout": false
+          },
+          "click_id": "PAAaZFQzs872HZFumqMSG6ecnTNbC8FDsHCPRLa4hp3vFpxcmThNi62OikHE0",
+          "force_overlay": true,
+          "hide_nux_text": true,
+          "overlay_text": "Go to Website",
+          "overlay_title": "University of Notre Dame Mendoza College of Business",
+          "overlay_subtitle": "Go to Website",
+          "dominant_color": "#222E3E",
+          "ad_id": 23850598634670081,
+          "fb_page_url": "https://www.facebook.com/UNDMendoza/",
+          "item_client_gap_rules": {
+            "time_based_insertion_gap_in_seconds": null,
+            "push_up_min_gap": null
+          },
+          "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOGYzZDdiNmUwNGZjNDk0NDg2ZjZhNGM5MTYyODZmMzYyODIxMjkzNDIyOTI0MzA1ODM1Iiwic2VydmVyX3Rva2VuIjoiMTY1ODM0Nzc3OTM1NnwyODIxMjkzNDIyOTI0MzA1ODM1fDMwNDA1MzMyODk0fGJiNzJiMGExNDBjMjQ1ZTMxYTczZjRhZTYwNDJjYjdmNmIyZjM1YjU0M2ZjMDE1ZWUyMTdjMjJiMGVhM2JhOTEifSwic2lnbmF0dXJlIjoiIn0=",
+          "expiring_at": 1658434179,
+          "has_shared_to_fb": 0,
+          "product_type": "ad",
+          "deleted_reason": 0,
+          "integrity_review_decision": "pending",
+          "music_metadata": null
+        }
+      }
+    ],
+    "more_available": true,
+    "client_gap_rules": {
+      "target_insertion_position": 16
+    },
+    "extras": {
+      "seed_ad_id": 6278221235116,
+      "trigger_type": "cta_click",
+      "hscroll_unit_id": "2880182761116591207_2854353058224989609_2831761585888984586_2886056345244497817_2821293422924305835"
+    },
+    "next_max_id": 5,
+    "contextual_ads_category": "Services//Real Estate//Real Estate Services",
+    "multi_ads_info": {
+      "title": "More like this",
+      "multi_ads_type": 4,
+      "multi_ads_first_ad_id": null,
+      "multi_ads_seed_ad_id": null,
+      "multi_ads_unit_id": null,
+      "contextual_ads_info": null,
+      "multi_ads_unit_category_hash_id": null
+    },
+    "status": "ok"
+  }
+}
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="eligible_checkmark">R||AQAIRG-sisaC|144|144|120</item>
+    <item type="drawable" name="ineligible_x">R||AQAIf9jDKxjw|144|144|120</item>
+</resources>

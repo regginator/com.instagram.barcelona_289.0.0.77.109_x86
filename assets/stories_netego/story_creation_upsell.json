@@ -1,0 +1,26 @@
+{
+  "id":"story_creation_upsell",
+  "reel_type":"netego_reel",
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 1,
+    "consumed_media_gap_to_previous_netego": 1,
+    "max_reel_gap_to_previous_item": 1,
+    "highest_position_rule":1
+  },
+  "netego_type":"story_creation_upsell",
+  "expiring_at":9691269142,
+  "simple_action":{
+    "action_type":"stories_creation_upsell",
+    "title":"Add to your story",
+    "message":"Share a photo or video with your followers.",
+    "button_text":"Create Story",
+    "has_dismiss":true,
+    "icon_url":null,
+    "id":"86876413977457",
+    "tracking_token":"eyJ1dWlkIjoiNzNiNjdhM2Y2MDRiNDE2N2JhODY0ZDFkZTUwOGQxMGMiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MTAsImZiX3VzZXJfaWQiOjUwODE0MjgzOSwibmV0X2Vnb190eXBlIjo2LCJnbG9iYWxfcG9zaXRpb24iOjEsImVjcG1fcHJpY2UiOjE4MTIuMCwicGFjaW5nX3FlX2luZm8iOiJkZWZhdWx0IiwidXNlcl9kb2xsYXJfdmFsdWUiOjEuNzA4MzkyNDc2NiwiaXNfbmV3X2luc2VydGlvbiI6dHJ1ZSwiaXNfZnJvbV9uZWVkeV91c2VyIjpmYWxzZX19"
+  },
+  "ranked_position":1,
+  "seen_ranked_position":1
+}

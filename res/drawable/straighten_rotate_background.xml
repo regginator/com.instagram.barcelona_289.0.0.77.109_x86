@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:drawable="@drawable/transparent_black_circle" android:insetLeft="@dimen/accent_edge_thickness" android:insetRight="@dimen/accent_edge_thickness" android:insetTop="@dimen/accent_edge_thickness" android:insetBottom="@dimen/accent_edge_thickness"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

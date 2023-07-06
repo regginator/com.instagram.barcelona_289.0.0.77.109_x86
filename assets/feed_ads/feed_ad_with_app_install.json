@@ -1,0 +1,236 @@
+{
+  "media_or_ad": {
+    "taken_at": 1579214750,
+    "pk": 2222936897943116300,
+    "id": "2222936897943116367_215559967",
+    "device_timestamp": 1579214750,
+    "media_type": 1,
+    "code": "B7ZdVTAAhpP",
+    "client_cache_key": "MjIyMjkzNjg5Nzk0MzExNjM2Nw==.2",
+    "filter_type": 0,
+    "image_versions2": {
+      "candidates": [
+        {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://i.ibb.co/jrTNd2M/app-install-1.jpg",
+          "estimated_scans_sizes": [
+            10896,
+            21792,
+            32688,
+            43584,
+            54480,
+            98065,
+            98065,
+            98065,
+            98065
+          ]
+        }
+      ]
+    },
+    "original_width": 1080,
+    "original_height": 1080,
+    "user": {
+      "pk": 215559967,
+      "username": "linkedin",
+      "full_name": "LinkedIn",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/9wQPmCw/app-install-2.jpg",
+      "profile_pic_id": "1951905686267100208_215559967",
+      "friendship_status": {
+        "following": false,
+        "outgoing_request": false,
+        "is_muting_reel": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": true,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "latest_reel_media": 0
+    },
+    "caption_is_edited": false,
+    "liker_config": {
+      "is_daisy": true,
+      "hide_view_count": false,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 1,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false
+    },
+    "direct_reply_to_author_enabled": true,
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": false,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 0,
+    "like_count": 3,
+    "bucketed_like_count": null,
+    "ads_bucketed_like_count": 1,
+    "has_liked": false,
+    "top_likers": [],
+    "photo_of_you": false,
+    "caption": {
+      "pk": 18126927904043930,
+      "user_id": 215559967,
+      "text": "Hear about jobs as soon as they’re posted with the LinkedIn app.",
+      "type": 1,
+      "created_at": 1579214750,
+      "created_at_utc": 1579214750,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 215559967,
+        "username": "linkedin",
+        "full_name": "LinkedIn",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/9wQPmCw/app-install-2.jpg",
+        "profile_pic_id": "1951905686267100208_215559967",
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_muting_reel": false,
+          "is_bestie": false,
+          "is_restricted": false
+        },
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": 0
+      },
+      "is_pinned": false,
+      "media_id": 2222936897943116300
+    },
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQIJlPn5bYpg_tOzONbe12yjMK5-kol1q8wiWaMDSTscOanigZcqQfE7sfR_Ud-XV1lGUThNdz-D8b3Oh9Rd4eCa",
+      "show_ad_choices": false,
+      "ad_title": "LinkedIn",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 23844107703640456,
+      "display_viewability_eligible": true,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": "{}",
+            "serializedImpOrganicScoreMap": "{}"
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=1EAoYWomEafa7uPIb.AWX96TnLQ_uyD03Ni6EkwhnLK1s.BefSpi..AAA.0.0.BefSpi.AWXEdWry; expires=Wed, 24 Jun 2020 22:19:14 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ]
+    },
+    "collapse_comments": false,
+    "ad_metadata": [
+      {
+        "value": 4,
+        "type": 2
+      }
+    ],
+    "link": "market://details?id=com.linkedin.android",
+    "link_text": "Install Now",
+    "ad_action": "appinstall",
+    "link_hint_text": "Tap Photo to Install",
+    "iTunesItem": null,
+    "ad_link_type": 1,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "android_links": [
+      {
+        "linkType": 2,
+        "webUri": "",
+        "androidClass": "",
+        "package": "com.linkedin.android",
+        "deeplinkUri": "",
+        "callToActionTitle": "",
+        "redirectUri": null,
+        "leadGenFormId": null,
+        "igUserId": null,
+        "appInstallObjectiveInvalidationBehavior": 0
+      },
+      {
+        "linkType": 1,
+        "webUri": "http://play.google.com/store/apps/details?id=com.linkedin.android",
+        "androidClass": "",
+        "package": "",
+        "deeplinkUri": "",
+        "callToActionTitle": "",
+        "redirectUri": null,
+        "leadGenFormId": null,
+        "igUserId": null,
+        "appInstallObjectiveInvalidationBehavior": null
+      }
+    ],
+    "force_overlay": true,
+    "hide_nux_text": true,
+    "overlay_text": "View in Play Store",
+    "overlay_title": "LinkedIn",
+    "overlay_subtitle": "View in Play Store",
+    "dominant_color": "#145DAB",
+    "top_followers_count": 1,
+    "follower_count": 443798,
+    "post_count": 650,
+    "fb_page_url": "https://www.facebook.com/LinkedIn/",
+    "can_viewer_save": true,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiODQyZDNlY2NlZGI4NDBhN2I1ZDM0MjViZjMyMDI3YWQyMjIyOTM2ODk3OTQzMTE2MzY3Iiwic2VydmVyX3Rva2VuIjoiMTU4NTI2MTE1NTEwMHwyMjIyOTM2ODk3OTQzMTE2MzY3fDQzNjExNzk2Nnw4OTEzZmNiYWIwMmE1NTBkNmViMjVkNTg1ZTU0ZWY3MTc3OWM2MjkwODYwNjMyYjk1MDIwNmM0ZGMxMDZmYWFkIn0sInNpZ25hdHVyZSI6IiJ9",
+    "expiring_at": 9999999999,
+    "preview": "ACoq6Oocy9lUj6//AFjSyqGxlS3Xp2qMKB/C4/HpzQAqecX+YAJ7Y/DnOf0qdhwarlBj7r/n9PepVA2d8HPDdaYiB3kByoGzGQSeSf8AADBz36VZRsqCepAziqgiOCC+VIIA2gbc9xg1YiG1FGd2FAz68dfxoYImrKkt7ksSGyCTj5yOPpjjFWjId2PfH61XtHkld5CTs3FVB6cdxTTcfmFua/kLbwXCOC7fKOoLFs/gR+taDdDUEwZ0IU4JBA7fr6/yplqHEYEjb2AOT/n0GBnv1obbd2CVkJGhEfzj5gSev+e1TRHKKcdh/KoHughI2Occcd/pVpH3KDgjIBwev40O+4lYqsp3E47/ANaFaNSIo8qVzx29T1q7gVF5a7t2Bn1wM0N33BabdSF8qpJbj8BSwEEHHPXp9KsMoYEEAgjoRTYo1RcKAo9AAP5UX0C2tyIQruLE8MPu+h7nPvVhVAAA6AcUuBS1LKP/2Q==",
+    "inventory_source": "media_or_ad",
+    "is_seen": false,
+    "is_eof": false
+  }
+}

@@ -1,0 +1,101 @@
+package p000X;
+
+import java.util.List;
+import kotlinx.serialization.descriptors.SerialDescriptor;
+/* renamed from: X.KYa  reason: case insensitive filesystem */
+/* loaded from: classes7.dex */
+public abstract class AbstractC38960KYa implements SerialDescriptor {
+    public final SerialDescriptor A00;
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final int AfG(String str) {
+        C0OR.A0B(str, 0);
+        Integer A0g = C8QB.A0g(str);
+        if (A0g != null) {
+            return A0g.intValue();
+        }
+        throw C25950ws.A0k(C0OR.A01(str, " is not a valid list index"));
+    }
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final boolean BTM(int i) {
+        if (i >= 0) {
+            return false;
+        }
+        throw C25950ws.A0k(C073900b.A06(i, "Illegal index ", ", ", BAj(), " expects only non-negative indices"));
+    }
+
+    public final boolean equals(Object obj) {
+        if (this != obj) {
+            if (obj instanceof AbstractC38960KYa) {
+                AbstractC38960KYa abstractC38960KYa = (AbstractC38960KYa) obj;
+                if (!C0OR.A0I(this.A00, abstractC38960KYa.A00) || !C0OR.A0I(BAj(), abstractC38960KYa.BAj())) {
+                }
+            }
+            return false;
+        }
+        return true;
+    }
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final List AfD(int i) {
+        if (i >= 0) {
+            return C0ZV.A00;
+        }
+        throw C25950ws.A0k(C073900b.A06(i, "Illegal index ", ", ", BAj(), " expects only non-negative indices"));
+    }
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final SerialDescriptor AfF(int i) {
+        if (i >= 0) {
+            return this.A00;
+        }
+        throw C25950ws.A0k(C073900b.A06(i, "Illegal index ", ", ", BAj(), " expects only non-negative indices"));
+    }
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final int AfK() {
+        return 1;
+    }
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final AbstractC31448GHr Ar4() {
+        return C39298Kgj.A00;
+    }
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final boolean BWq() {
+        return false;
+    }
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final List getAnnotations() {
+        return C0ZV.A00;
+    }
+
+    public final int hashCode() {
+        return C25960wt.A06(BAj(), C25960wt.A04(this.A00));
+    }
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final boolean isInline() {
+        return false;
+    }
+
+    public AbstractC38960KYa(SerialDescriptor serialDescriptor) {
+        this.A00 = serialDescriptor;
+    }
+
+    @Override // kotlinx.serialization.descriptors.SerialDescriptor
+    public final String AfH(int i) {
+        return String.valueOf(i);
+    }
+
+    public final String toString() {
+        StringBuilder A0n = C25960wt.A0n();
+        A0n.append(BAj());
+        A0n.append('(');
+        A0n.append(this.A00);
+        return C25920wp.A0v(A0n);
+    }
+}

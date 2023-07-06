@@ -1,0 +1,14 @@
+package p000X;
+
+import android.view.View;
+import android.widget.TextView;
+import com.instagram.barcelona.R;
+/* renamed from: X.38i  reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes2.dex */
+public final class C632338i {
+    public final TextView A00;
+
+    public C632338i(View view) {
+        this.A00 = (TextView) C25920wp.A0I(view, R.id.centered_header_text);
+    }
+}

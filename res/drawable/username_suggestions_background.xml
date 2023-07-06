@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <padding android:left="0.5dip" android:top="0.0dip" android:right="0.5dip" android:bottom="1.0dip" />
+            <stroke android:width="1.0dip" android:color="#fffefefe" />
+            <corners android:radius="8.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="0.5dip" android:top="0.0dip" android:right="0.5dip" android:bottom="1.0dip" />
+            <stroke android:width="1.0dip" android:color="#fffcfcfc" />
+            <corners android:radius="7.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="0.5dip" android:top="0.0dip" android:right="0.5dip" android:bottom="1.0dip" />
+            <stroke android:width="1.0dip" android:color="#fffafafa" />
+            <corners android:radius="6.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="0.5dip" android:top="0.0dip" android:right="0.5dip" android:bottom="1.0dip" />
+            <stroke android:width="1.0dip" android:color="#fff8f8f8" />
+            <corners android:radius="5.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="0.5dip" android:top="0.0dip" android:right="0.5dip" android:bottom="1.0dip" />
+            <stroke android:width="1.0dip" android:color="#fff5f5f5" />
+            <corners android:radius="4.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="0.5dip" android:top="0.0dip" android:right="0.5dip" android:bottom="1.0dip" />
+            <stroke android:width="1.0dip" android:color="#fff2f2f2" />
+            <corners android:radius="3.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="0.5dip" android:top="0.0dip" android:right="0.5dip" android:bottom="1.0dip" />
+            <stroke android:width="1.0dip" android:color="#ffefefef" />
+            <corners android:radius="2.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:left="0.5dip" android:top="0.0dip" android:right="0.5dip" android:bottom="1.0dip" />
+            <stroke android:width="1.0dip" android:color="#ffeeeeee" />
+            <corners android:radius="1.0dip" />
+        </shape>
+    </item>
+</layer-list>

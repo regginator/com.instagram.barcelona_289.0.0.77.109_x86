@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <corners android:radius="100.0dip" />
+            <solid android:color="@color/callout_background" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress" android:left="1.0dip" android:top="1.0dip" android:right="1.0dip" android:bottom="1.0dip">
+        <scale android:scaleWidth="100%">
+            <shape android:shape="rectangle">
+                <corners android:radius="100.0dip" />
+                <solid android:color="@color/igds_primary_button" />
+            </shape>
+        </scale>
+    </item>
+</layer-list>

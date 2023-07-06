@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/abc_floating_window_z" />
+    <stroke android:width="@dimen/action_sheet_divider_margin_top" android:color="@color/igds_elevated_separator" />
+    <padding android:left="@dimen/action_sheet_divider_margin_top" android:top="@dimen/action_sheet_divider_margin_top" android:right="@dimen/action_sheet_divider_margin_top" android:bottom="@dimen/action_sheet_divider_margin_top" />
+</shape>

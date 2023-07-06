@@ -1,0 +1,8 @@
+package p000X;
+/* renamed from: X.KpB  reason: case insensitive filesystem */
+/* loaded from: classes7.dex */
+public interface InterfaceC39718KpB {
+    void AEE(C37721Jjz c37721Jjz);
+
+    void BQ2(C37054JQf c37054JQf, InterfaceC39952KuZ interfaceC39952KuZ, C37370JcJ c37370JcJ);
+}

@@ -1,0 +1,223 @@
+{
+  "id":"landscape_keyword_highlight_caption",
+  "latest_reel_media":null,
+  "expiring_at":19564178697,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":false,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk":20269764,
+    "username":"adidas",
+    "full_name":"adidas",
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "1814283376876563268_224223453",
+    "is_verified":true
+  },
+  "items":[
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844403,
+      "id":"landscape_keyword_highlight_caption_2",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":3024,
+            "height":3024,
+            "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+          }
+        ]
+      },
+      "original_width":3024,
+      "original_height":3024,
+      "user":{
+        "pk":20269764,
+        "username":"adidas",
+        "full_name":"adidas",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified":true
+      },
+      "caption": {
+        "content_type": "comment",
+        "pk": "2095662360135844325_headline",
+        "text": "\nGet your best \uD83C\uDF51 without breaking the best bank\uD83E\uDD11.",
+        "type": 1,
+        "background_color": "#0f374c",
+        "background_color_alpha": "FF",
+        "text_color": "#FFFFFF",
+        "text_size": 16,
+        "keyword_highlight_info" : {
+          "keywords": [
+            {
+              "token": "best",
+              "start_index": 10,
+              "end_index": 14,
+              "keyword_color": "#ff0000",
+              "keyword_style": "COLOR_CHANGE"
+            },
+            {
+              "token": "best",
+              "start_index": 39,
+              "end_index": 43,
+              "keyword_color": "#0000FF",
+              "keyword_style": "BACKGROUND_CHANGE",
+              "keyword_background_color": "#ff0000"
+            }
+          ]
+        }
+      },
+      "can_viewer_save":true,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.adidas.com/",
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#005478"
+        },
+        "bottom":{
+          "background_color":"#1a5d80"
+        }
+      },
+      "is_reel_media":true
+    },
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844404,
+      "id":"landscape_keyword_highlight_caption_3",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":3024,
+            "height":3024,
+            "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+          }
+        ]
+      },
+      "original_width":3024,
+      "original_height":3024,
+      "user":{
+        "pk":20269764,
+        "username":"adidas",
+        "full_name":"adidas",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified":true
+      },
+      "caption":{
+        "content_type":"comment",
+        "pk":"2095662360135844325_headline",
+        "text":"This is a long caption with #adidas and @adidas.\nHere is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space.",
+        "type":1,
+        "background_color":"#0f374c",
+        "background_color_alpha":"FF",
+        "text_color":"#FFFFFF",
+        "text_size":16,
+        "mention_user_list": {
+          "adidas": {
+            "pk":20269764,
+            "username":"adidas",
+            "full_name":"adidas",
+            "is_verified":true
+          }
+        }
+      },
+      "can_viewer_save":true,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.adidas.com/",
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#005478"
+        },
+        "bottom":{
+          "background_color":"#1a5d80"
+        }
+      },
+      "is_reel_media":true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "carousel_rendering_type":"mps",
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

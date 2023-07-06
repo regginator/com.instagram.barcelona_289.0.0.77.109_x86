@@ -1,0 +1,292 @@
+{
+  "id": "showreel_native_non_english_hashtag",
+  "latest_reel_media": null,
+  "expiring_at": 9996374999,
+  "seen": null,
+  "can_reply": false,
+  "can_gif_quick_reply": true,
+  "can_reshare": true,
+  "reel_type": "ads_reel",
+  "user": {
+    "pk": 2977720001,
+    "username":"lumiilighting",
+    "full_name":"LUMii Lighting",
+    "is_private":false,
+    "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id":"1429632363511774759_4467696972",
+    "is_verified": false
+  },
+  "cop_render_output": [
+    {
+      "optimization_type": "65",
+      "option_value": "650011"
+    }
+  ],
+  "items": [
+    {
+      "taken_at": 1581343648,
+      "pk": 2240795388847449300,
+      "id": "showreel_native_non_english_hashtag",
+      "device_timestamp": 1581343648,
+      "media_type": 1,
+      "code": "B8Y54iuleVl",
+      "client_cache_key": "MjI0MDc5NTM4ODg0NzQ0OTQ0NQ==.2",
+      "filter_type": 0,
+      "image_versions2": {
+        "candidates":[
+          {
+            "width":1400,
+            "height":1400,
+            "url":"https://i.ibb.co/jZrLpJh/pusheen-square-media.jpg"
+          }
+        ]
+      },
+      "original_width": 1080,
+      "original_height": 1080,
+      "user": {
+        "pk": 2977720001,
+        "username":"lumiilighting",
+        "full_name":"LUMii Lighting",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id":"1429632363511774759_4467696972",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false
+      },
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 0,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "like_count": 32,
+      "has_liked": false,
+      "photo_of_you": false,
+      "caption": {
+        "pk": 17842747480984624,
+        "user_id": 2977720001,
+        "text": "#WEB限定結婚応援プロジェクト ドレスから選ぶ結婚式 #いまならお得な特典が盛りだくさん",
+        "type": 1,
+        "created_at": 1581343648,
+        "created_at_utc": 1581343648,
+        "content_type": "comment",
+        "status": "Active",
+        "bit_flags": 0,
+        "did_report_as_spam": false,
+        "share_enabled": false,
+        "user": {
+          "pk": 2977720001,
+          "username":"lumiilighting",
+          "full_name":"LUMii Lighting",
+          "is_private": false,
+          "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+          "profile_pic_id":"1429632363511774759_4467696972",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false,
+          "is_unpublished": false,
+          "is_favorite": false
+        },
+        "media_id": 2240795388847449300,
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00"
+      },
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQKROq5anZv54f53_hqBVwC-m7n0timSF7Ia-xDnmnZ4ZseZRcYUQo8BowjdvvPgMjJJBXkpP0_aMNIrVLNE8zHV",
+        "show_ad_choices": false,
+        "ad_title": "LUMii Lighting",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23844189815740510,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": "{}",
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "cookies": [
+          "fr=1RLw4yxRjO6cczGTV.AWUDxXNOcZUzIDvcpuYARQXVtqQ.BejNfW..AAA.0.0.BejNfW.AWVm7y_7; expires=Mon, 06 Jul 2020 19:43:18 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "collapse_comments": false,
+      "ad_metadata": [
+        {
+          "value": "www.instagram.com",
+          "type": 1
+        }
+      ],
+      "link": "www.instagram.com",
+      "link_text": "Learn More",
+      "ad_action": "webclick",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "android_links": [
+        {
+          "linkType": 1,
+          "webUri": "www.facebook.com",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": "www.facebook.com",
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "View website on Instagram",
+          "tapAndHoldContext": "Swipe up to view website"
+        }
+      ],
+      "iab_autofill_optout_info": {
+        "domain": "instagram",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "IwAR3Vf4Vz-YeT0WFuNhlg7LUgMHUkwgD0Zu5qChKZ7MaaVdzGuyMtaT67UZw",
+      "force_overlay": true,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "Fino wedding",
+      "overlay_subtitle": "Go to Website",
+      "dominant_color": "#6B9792",
+      "follower_count": 3626,
+      "post_count": 1034,
+      "fb_page_url": "https://www.facebook.com",
+      "reel_media_background": {
+        "top": {
+          "background_color": "#90ACAF"
+        },
+        "bottom": {
+          "background_color": "#90ACAF"
+        }
+      },
+      "can_viewer_save": true,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYmM2ODcxNDE5YWUwNGFhZTljNjllYmM4MjQxNmMxY2YyMjQwNzk1Mzg4ODQ3NDQ5NDQ1Iiwic2VydmVyX3Rva2VuIjoiMTU4NjI4ODU5OTQ5NHwyMjQwNzk1Mzg4ODQ3NDQ5NDQ1fDcwNDUyMjcwOTB8MDcxY2Y3MWEzYjEwNWJiODc3YTU1OTIwMzY5NjAzMmI4YTUxZDAxNjA1NTJjYTQ4MDE2MjIyZTlmOTE3YzFlYyJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at": 9996374999,
+      "can_reshare": true,
+      "can_reply": false,
+      "is_pride_media": false,
+      "can_see_insights_as_brand": false,
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 1,
+              "webUri": "www.facebook.com",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "www.facebook.com",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "View website on Instagram",
+              "tapAndHoldContext": "Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true,
+      "supports_reel_reactions": true,
+      "can_send_custom_emojis": true,
+      "show_one_tap_fb_share_tooltip": true,
+      "showreel_native_animation": {
+        "client_name": "ig_non_9x16_experience",
+        "content": "{\"caption\": \"#WEB\\u9650\\u5b9a\\u7d50\\u5a5a\\u5fdc\\u63f4\\u30d7\\u30ed\\u30b8\\u30a7\\u30af\\u30c8 \\u30c9\\u30ec\\u30b9\\u304b\\u3089\\u9078\\u3076\\u7d50\\u5a5a\\u5f0f #\\u3044\\u307e\\u306a\\u3089\\u304a\\u5f97\\u306a\\u7279\\u5178\\u304c\\u76db\\u308a\\u3060\\u304f\\u3055\\u3093\", \"image\": {\"url\": \"https://i.ibb.co/jZrLpJh/pusheen-square-media.jpg\", \"width\": 1080, \"height\": 1205}, \"color_info\": {\"top_color\": \"#90ACAF\", \"bottom_color\": \"#90ACAF\", \"caption_background_color\": \"#000000\", \"caption_color\": \"#000000\", \"caption_background_alpha_color\": \"00\"}, \"is_political\": false, \"has_cta\": true, \"mention_user_list\": null}",
+        "template_name": "ig_portal"
+      }
+    }
+  ],
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "muted": false,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index": 0,
+  "has_pride_media": false
+}

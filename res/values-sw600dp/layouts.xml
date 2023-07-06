@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="design_layout_snackbar">L|174C|210|BA65</item>
+    <item type="layout" name="mtrl_layout_snackbar">L|195C|1EC|8895</item>
+</resources>

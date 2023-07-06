@@ -1,0 +1,336 @@
+{
+  "id": "showreel_native_dpa_nicolas_template_ad",
+  "latest_reel_media": null,
+  "expiring_at": 9900380377,
+  "seen": null,
+  "can_reply": false,
+  "can_gif_quick_reply": true,
+  "can_reshare": true,
+  "reel_type": "ads_reel",
+  "is_sensitive_vertical_ad": false,
+  "user": {
+    "pk": 37206354837,
+    "username": "lumiilighting",
+    "full_name": "lumiilighting",
+    "is_private": false,
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "2323417050716419874_37206354837",
+    "is_verified": false
+  },
+  "cop_render_output": [
+    {
+      "optimization_type": "65",
+      "option_value": "650009"
+    }
+  ],
+  "items": [
+    {
+      "taken_at": 1598194752,
+      "pk": 2382152700508515300,
+      "id": "showreel_native_dpa_nicolas_template_ad",
+      "device_timestamp": 1598194752,
+      "media_type": 1,
+      "code": "CEPG0KKjCzR",
+      "client_cache_key": "MjM4MjE1MjcwMDUwODUxNTUzNw==.2",
+      "filter_type": 0,
+      "user": {
+        "pk": 37206354837,
+        "username": "lumiilighting",
+        "full_name": "lumiilighting",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "2323417050716419874_37206354837",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": true,
+        "is_favorite": false,
+        "account_badges": []
+      },
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "image_versions2": {
+        "candidates": [
+          {
+            "width": 1080,
+            "height": 1080,
+            "url": "https://i.ibb.co/jZrLpJh/pusheen-square-media.jpg",
+            "scans_profile": "e15",
+            "estimated_scans_sizes": [
+              14750,
+              29500,
+              44250,
+              59000,
+              73751,
+              132752,
+              132752,
+              132752,
+              132752
+            ]
+          }
+        ]
+      },
+      "original_width": 1080,
+      "original_height": 1080,
+      "like_count": 0,
+      "has_liked": false,
+      "likers": [],
+      "photo_of_you": false,
+      "can_see_insights_as_brand": false,
+      "caption": {
+        "pk": 17853192287187676,
+        "user_id": 37206354837,
+        "text": "Macaulay Culkin Finally Admits What We Suspected All Along",
+        "type": 1,
+        "created_at": 1598194753,
+        "created_at_utc": 1598194753,
+        "content_type": "comment",
+        "status": "Active",
+        "bit_flags": 0,
+        "did_report_as_spam": false,
+        "share_enabled": false,
+        "user": {
+          "pk": 37206354837,
+          "username": "lumiilighting",
+          "full_name": "lumiilighting",
+          "is_private": false,
+          "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+          "profile_pic_id": "2323417050716419874_37206354837",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false,
+          "is_unpublished": true,
+          "is_favorite": false,
+          "account_badges": []
+        },
+        "is_covered": false,
+        "media_id": 2382152700508515300,
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00",
+        "private_reply_status": -1,
+        "hide_username": true
+      },
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQLkUBRAQJIme7DqaLM2zOlpmifccanTkS76_az3hW4Dh1n6z7PKbEkkHQYKDUHxbUoby7lVUdTu5nTIic-JOi15",
+        "show_ad_choices": false,
+        "ad_title": "Pusheen's adventure",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23845899839890650,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": null,
+              "serializedImpOrganicScoreMap": null
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "cookies": [
+          "fr=12382YaZhYngIpm6d.AWUx3v4hpuPQhRY_5dnrcQeZbYg.BfYoxY..AAA.0.0.BfYoxY.AWX2BwBi; expires=Tue, 15 Dec 2020 22:06:16 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "collapse_comments": false,
+      "ad_metadata": [
+        {
+          "value": "facebook.com",
+          "type": 1
+        }
+      ],
+      "link": "www.facebook.com",
+      "link_text": "Learn More",
+      "ad_action": "webclick",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "android_links": [
+        {
+          "linkType": 1,
+          "webUri": "www.facebook.com",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": "www.facebook.com",
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "Visit Website",
+          "tapAndHoldContext": "Swipe up to view website"
+        }
+      ],
+      "iab_autofill_optout_info": {
+        "domain": "facebook.com",
+        "is_iab_autofill_optout": true
+      },
+      "click_id": "PAAaaH8K1X2Rtt7K-J6yqXymsnHvnJVhY9GZuZqjOMbzhvKJOnP7rWM9Kwbrs",
+      "force_overlay": true,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "facebook",
+      "overlay_subtitle": "Go to Website",
+      "dominant_color": "#791D16",
+      "follower_count": 0,
+      "post_count": 0,
+      "fb_page_url": "https://www.facebook.com/",
+      "reel_media_background": {
+        "top": {
+          "background_color": "#FFFFFF"
+        },
+        "bottom": {
+          "background_color": "#FFFFFF"
+        }
+      },
+      "can_viewer_save": false,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6ImJiMGM0MzI4MTQyMDQwMmU5ZDIwODBmMjY1ZDgwMTUwMjM4MjE1MjcwMDUwODUxNTUzNyIsInNlcnZlcl90b2tlbiI6IjE2MDAyOTM5NzcxODR8MjM4MjE1MjcwMDUwODUxNTUzN3w3MDQ1MjI3MDkwfGQzYTk1Nzg3OWYxNGQ2MWQyMDI5MjRhYTY1NWVkY2ZlMTJiMThhMjQ1ZTBjZmVlY2NjOTBkZTk2NjIzZjU2M2EifSwic2lnbmF0dXJlIjoiIn0=",
+      "expiring_at": 9900380377,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "is_shop_the_look_eligible": false,
+      "deleted_reason": 0,
+      "direct_share": false,
+      "can_reshare": true,
+      "can_reply": false,
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 1,
+              "webUri": "www.facebook.com",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "www.facebook.com",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "Visit Website",
+              "tapAndHoldContext": "Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true,
+      "story_ad_headline": {
+        "text": "Facebook pusheen",
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00"
+      },
+      "supports_reel_reactions": true,
+      "can_send_custom_emojis": true,
+      "show_one_tap_fb_share_tooltip": false,
+      "showreel_native_animation": {
+        "client_name": "ig_non_9x16_experience",
+        "content": "{\"caption\": \"Get paid \\ud83d\\udcb0 while listening to your favorite music! We kick 50% of our ad revenue straight back into our users wallets. Try it now! \\ud83c\\udfb6\\ud83d\\udcb8\", \"image\": {\"url\": \"https://i.ibb.co/jZrLpJh/pusheen-square-media.jpg\", \"width\": 1080, \"height\": 1080}, \"color_info\": {\"top_color\": \"#ffffff\", \"bottom_color\": \"#ffffff\", \"caption_background_color\": \"#ffffff\", \"caption_background_alpha_color\": \"00\", \"background_overlay\": \"#000000\", \"caption_color\": \"#FFFFFF\"}, \"has_cta\": true, \"is_political\": false, \"mention_user_list\": null, \"additional_images\": null, \"headline\": \"4,783,183 (\\u2605\\u2605\\u2605\\u2605\\u2605)\"}",
+        "template_name": "glados_nikola_1",
+        "assets": [
+          "https://i.ibb.co/jZrLpJh/pusheen-square-media.jpg"
+        ],
+        "assets_info": [
+          {
+            "url": "https://i.ibb.co/jZrLpJh/pusheen-square-media.jpg",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "loggingInfo": null
+      }
+    }
+  ],
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "muted": false,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index": 0
+}

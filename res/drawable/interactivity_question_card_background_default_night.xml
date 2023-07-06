@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/abc_floating_window_z" />
+    <stroke android:width="@dimen/account_recs_header_image_margin" android:color="@color/grey_7" />
+</shape>

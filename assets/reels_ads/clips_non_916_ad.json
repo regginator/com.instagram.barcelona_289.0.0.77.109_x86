@@ -1,0 +1,238 @@
+{
+  "is_demo": true,
+  "label": "Sponsored",
+  "hide_label": "Hide this",
+  "tracking_token": "AI@AQI47M23KAq4uy9KBfYHFXQb4cFO1KGWXTfgjXr70c8gVBbRjjR82wgSlw9H2inMCZNWIThHRFGUMuryk4KJuS6R",
+  "hide_reasons_v2": [
+    {
+      "text": "It's not relevant",
+      "reason": "NOT_RELEVANT"
+    },
+    {
+      "text": "I see it too often",
+      "reason": "KEEP_SEEING_THIS"
+    },
+    {
+      "text": "It's inappropriate",
+      "reason": null
+    },
+    {
+      "text": "[Employee only] Send ad for review",
+      "reason": "EMPLOYEE_REPORT"
+    }
+  ],
+  "ad_title": "Kohl's",
+  "fb_page_url": "https://www.facebook.com/kohls/",
+  "hide_flow_type": 2,
+  "ad_id": 23846116948350717,
+  "show_ad_choices": false,
+  "cookies": [
+    "fr=1fLQCEEcXYrIYn87l.AWVfBV5QBX418nibvY5e3U7ZWU8.BftZzB..AAA.0.0.BftZzB.AWWfSLjdlBg; expires=Tue, 16 Feb 2021 22:14:25 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+  ],
+  "client_gap_rules": {
+    "consumed_media_gap_to_previous_ad": 0,
+    "highest_position_rule": 3
+  },
+  "container_module": "",
+  "ad_action": "webclick",
+  "link_text": "Shop Now",
+  "link_hint_text": "Tap Photo to Open Page",
+  "ios_links": [
+    {
+      "linkType": 1,
+      "webUri": "http://www.kohls.com/?utm_campaign=direct_response&utm_medium=paid_social&utm_source=snapchat&utm_content=202010_post727&cid=SO20FALLSPC727&campaignengineid=&adsquadengineid=&adengineid=&fbclid=PAAaYcXU4eiJvjD2wB89u8RBZIpCvKhmCxmAytSwqYvSP9ZhqiFajE2A3jojM",
+      "contentId": 0,
+      "deeplinkUri": "",
+      "callToActionTitle": "",
+      "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_VgPMgzhsAJkIwpRS0p2qUCcexjhpzwuUxqziaPCusO0yeGRzFDB8OuuiyZqzQrYtNSxRbbGfDs1T4Ngzb8CWIgE-RQ14Am8gnPFEgqxfR9QobduYc2Lok9ZOiORFBZilrEVL3ygXz_s3YEhSpDZXTD_zJX3Gn7h68zxVk4DGUBs1oIniFo_cm7TqU4QY5TXYQ0tP1Bu4AYWjBpOwKWvKF-asEldQSxN5bCoPRMpW6L2QB7TSWnz_voUKkU1kGw_C0N6mn8S0Mu2Z_I2LpdMwMpoMFssHVhYQy5uzWhUhypm4rAMAUKPe_2qBDzrBz3CTgBIMVdRjXcRdZy-fxBZVWP7Nil8rlr5mgJ6vHYZ2nQXIODb2J0IfDw1aDNp02YCV9pSfjdItaFjOvFcuAQ0XOSU5kQPByQrY5EoQVFbwKVGZv2URp5JDW9keSbEiTPivCbL8uMmLxD2hhIfyBDj4NhiOARfZ4xLsWvKwhBfcS4_AlSz2P7ZDbQ28NzOvoVKU&a=1&hash=Ad-jyV65wf898VhLOW4",
+      "leadGenFormId": null,
+      "igUserId": null,
+      "appInstallObjectiveInvalidationBehavior": null,
+      "skAdNetworkMetadata": null
+    }
+  ],
+  "android_links": [
+    {
+      "linkType": 1,
+      "webUri": "https://www.spotify.com/wrapped?utm_source=facebookinstagram_us_a1834_na_videoviews&utm_medium=paidsocial&utm_campaign=2020q4_markets_single_brandbuilding_wrapped_paidsocial+igtv&utm_content=megantheestallion&fbclid=PAAabFMABlSYutXhNsqeKAWFhdzE8i7-83HCIRXasb6upmwxVyD8KftqPFQ4Q",
+      "androidClass": "",
+      "package": "",
+      "deeplinkUri": "",
+      "callToActionTitle": "",
+      "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad88-HrzTt4O6WLfQGg54vSxdTZ4Twmu87lCOPg8F04f2iQQHgb85Y4aIIDKwR_uCP49hthclfh-B0MnVgS4azVZpdr9-xtVdh_GEpA2nsDOO2DZXcMs-gCVRkwfzOsQAyGx3sMwqm-DsrKbzlVsvqPL8WH7hVhMkNH-6HJdxfuVqGMWbSaRt49wzmsQ7-kxGZF5MxP-hkqmbaU4dBze6t26K0AX7vvxFAEprL0ubb6JV_0Bz1GSDhvZQg15mctCn1SPg5UZii5Cwtx2-AHqhtbfs7Ie_uu7O7-7MbAEL-fb7fOtZK3cuOOn8dn7LEBt5YNJ0smzB_R6v0DLGDtMOhBg2CeYS9Dx3gLJhT0kA2MTwCZXWSIsd0lLPNn7CR1hoOs5MIv_ZdfQf-2dnvFOvyV7Ieh7Vxvz24kZQ0Rov7e3-onNnGORWBUkBLlL8OssNoStpb6mrZiGvUmKHnylbCcy7xA1PDTWxWBo8wJr8E2VrCxg3mGPFsJjaDXZ555cjfJuTfvP_PL5ti8oAyIHFJWo&a=1&hash=Ad9jJVNsnnWueemJnYM",
+      "leadGenFormId": null,
+      "igUserId": null,
+      "appInstallObjectiveInvalidationBehavior": null
+    }
+  ],
+  "items": [
+    {
+      "taken_at": 1605220062,
+      "pk": 2441085270918940701,
+      "id": "2441085270918940622_26002575",
+      "device_timestamp": 1605220062,
+      "media_type": 2,
+      "code": "CHgeh7Xj8fN",
+      "client_cache_key": "MjQ0MTA4NTI3MDkxODk0MDYyMQ==.2",
+      "filter_type": 0,
+      "user":{
+        "pk":19493150927,
+        "username":"linet_inspirations",
+        "full_name":"Linet Canela \u2022 Miami Blogger",
+        "is_private":false,
+        "profile_pic_url":"https://i.imgur.com/acETu0a.png",
+        "profile_pic_id":"2445152697649744297_19493150927",
+        "friendship_status":{
+          "following":false,
+          "outgoing_request":false,
+          "is_bestie":false,
+          "is_restricted":false
+        },
+        "is_verified":false,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":false,
+        "is_favorite":false,
+        "account_badges":[]
+      },
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": true,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments":[
+        {
+          "pk":17852392838376499,
+          "user_id":10028523,
+          "text":"@vanessa_paredes_soto",
+          "type":0,
+          "created_at":1607869430,
+          "created_at_utc":1607869430,
+          "content_type":"comment",
+          "status":"Active",
+          "bit_flags":0,
+          "did_report_as_spam":false,
+          "share_enabled":false,
+          "user":{
+            "pk":10028523,
+            "username":"myfriendscallmedavis",
+            "full_name":"David Boyd",
+            "is_private":true,
+            "profile_pic_url":"https://i.imgur.com/acETu0a.png",
+            "profile_pic_id":"2441211342873657262_10028523",
+            "is_verified":false
+          },
+          "is_covered":false,
+          "media_id":2456043638774335414,
+          "private_reply_status":0
+        },
+        {
+          "pk":18149576005096848,
+          "user_id":19493150927,
+          "text":"@mrs.burlingham \ud83d\udcaf!! \ud83e\udd23",
+          "type":2,
+          "created_at":1607870607,
+          "created_at_utc":1607870607,
+          "content_type":"comment",
+          "status":"Active",
+          "bit_flags":0,
+          "did_report_as_spam":false,
+          "share_enabled":false,
+          "user":{
+            "pk":19493150927,
+            "username":"linet_inspirations",
+            "full_name":"Linet Canela \u2022 Miami Blogger",
+            "is_private":false,
+            "profile_pic_url":"https://i.imgur.com/acETu0a.png",
+            "profile_pic_id":"2445152697649744297_19493150927",
+            "is_verified":false
+          },
+          "is_covered":false,
+          "media_id":2456043638774335414,
+          "parent_comment_id":18089600107208449,
+          "private_reply_status":0
+        }
+      ],
+      "can_view_more_preview_comments":true,
+      "comment_count":116,
+      "can_viewer_share": true,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":640,
+            "height":360,
+            "url":"https://images.pexels.com/videos/8059611/pexels-photo-8059611.jpeg?w=640"
+          }
+        ]
+      },
+      "original_width": 640,
+      "original_height": 360,
+      "like_count": 2,
+      "has_liked": false,
+      "photo_of_you": false,
+      "can_see_insights_as_brand": false,
+      "is_dash_eligible": 1,
+      "video_codec": "avc1.64001F",
+      "number_of_qualities": 3,
+      "video_versions": [
+        {
+          "type": 101,
+          "width": 640,
+          "height": 360,
+          "url": "https://player.vimeo.com/external/554762074.sd.mp4?s=024a3a1467e6cf23ccffec60f3349f76d362a77c&profile_id=164",
+          "id": "17844952364283674"
+        }
+      ],
+      "has_audio": true,
+      "video_duration": 6.566,
+      "view_count": 225106,
+      "play_count":793414,
+      "caption":{
+        "pk":18085964251222771,
+        "user_id":19493150927,
+        "text":"This is a locally injected Sponsored Reel.",
+        "type":1,
+        "created_at":1607008008,
+        "created_at_utc":1607008008,
+        "content_type":"comment",
+        "status":"Active",
+        "bit_flags":0,
+        "did_report_as_spam":false,
+        "share_enabled":false,
+        "user":{
+          "pk":19493150927,
+          "username":"linet_inspirations",
+          "full_name":"Linet Canela \u2022 Miami Blogger",
+          "is_private":false,
+          "profile_pic_url":"https://i.imgur.com/acETu0a.png",
+          "profile_pic_id":"2445152697649744297_19493150927",
+          "friendship_status":{
+            "following":false,
+            "outgoing_request":false,
+            "is_bestie":false,
+            "is_restricted":false
+          },
+          "is_verified":false,
+          "has_anonymous_profile_picture":false,
+          "is_unpublished":false,
+          "is_favorite":false,
+          "account_badges":[
+
+          ]
+        },
+        "is_covered":false,
+        "media_id":2456043638774335414,
+        "private_reply_status":0
+      },
+      "can_viewer_save": true,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNDgwMDNkMWJkYjM2NGM5ZjkzYTdiMDFkODA1OGZhNTUyNDQxMDg1MjcwOTE4OTQwNjIxIiwic2VydmVyX3Rva2VuIjoiMTYwNTczNzY2NjQxOXwyNDQxMDg1MjcwOTE4OTQwNjIxfDM5NjgzMDE4MnxhYzFjNzIzYjJhNDMzNzliM2UwZTg2NDY0NTBhNTQ3YThkNjYyMzU4MjZhNGMwZWY4YzIyYmM1NGFjN2Q5OWRlIn0sInNpZ25hdHVyZSI6IiJ9",
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "is_shop_the_look_eligible": false,
+      "deleted_reason": 0
+    }
+  ]
+}

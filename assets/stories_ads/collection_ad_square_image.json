@@ -1,0 +1,304 @@
+{
+  "id":"collection_ad_square_image",
+  "latest_reel_media":null,
+  "expiring_at":9564178697,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":false,
+  "reel_type":"ads_reel",
+  "user": {
+    "pk": 181303532,
+    "username": "kenzo",
+    "full_name": "KENZO",
+    "is_private": false,
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "2238019075649430595_181303532",
+    "is_verified": true,
+    "has_anonymous_profile_picture": false,
+    "is_unpublished": false,
+    "is_favorite": false,
+    "latest_reel_media": 0,
+    "account_badges": []
+  },
+  "items":[
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844402,
+      "id":"2359866571054243005_181303532",
+      "device_timestamp":1564042442,
+      "media_type":10,
+      "code":"B0VSdAxDcHl",
+      "client_cache_key":"MjA5NTY2MjM2MDEzNTg0NDMyNQ==.2",
+      "filter_type":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":720,
+            "height":1280,
+            "url":"https://i.ibb.co/yVDfztJ/96766888-2.jpg"
+          }
+        ]
+      },
+      "original_width":720,
+      "original_height":1280,
+      "is_sidecar_child":true,
+      "user": {
+        "pk": 181303532,
+        "username": "kenzo",
+        "full_name": "KENZO",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "2238019075649430595_181303532",
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": 0,
+        "account_badges": []
+      },
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":31,
+      "has_liked":false,
+      "photo_of_you":false,
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTc0N2E2ZjVkNTVlNDIwOGE4NGY3MjhhODE3Zjg3NjYyMDk1NjYyMzYwMTM1ODQ0MzI1Iiwic2VydmVyX3Rva2VuIjoiMTU2NDA5MjI5NzY4MHwyMDk1NjYyMzYwMTM1ODQ0MzI1fDU0ODU2MTAyMTl8MjMxOTU5MjU3OWY0Zjc1N2ZhNjk1YTg5OGQxOGQ4ZTM2ZmU1MDc2NGZjZWQ2NjZlZTRjMzFmYTVjMzdhYjI1NSJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at":9564178697,
+      "can_reshare":false,
+      "injected": {
+        "label": "Sponsored",
+        "show_icon": true,
+        "hide_label": "Hide this",
+        "invalidation": null,
+        "is_demo": true,
+        "view_tags": [],
+        "is_holdout": false,
+        "tracking_token": "AI@AQJZfgGrSGSjyM1PkV3sWf7zszythPwFoym_CeqXZ-3qkNSXngIYa4U8kNPO--tviH8mZ0SC5JWru_7RE93qC6dD",
+        "show_ad_choices": false,
+        "ad_title": "KENZO",
+        "about_ad_params": "",
+        "direct_share": true,
+        "ad_id": 23845241110070708,
+        "display_viewability_eligible": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": null,
+              "serializedImpOrganicScoreMap": null
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "should_show_secondary_cta_on_profile": false,
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          }
+        ],
+        "hide_flow_type": 2,
+        "cookies": [
+          "fr=42cWOwyUYLGezXbtD.AWUI5r6XsyImd83hCG-PKoV7kyk.BfLeOq..AAA.0.0.BfLeOq.AWW3EJTD; expires=Thu, 05 Nov 2020 23:28:42 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ],
+        "cta_style": 1,
+        "ctd_ads_info": {
+          "business_responsiveness_time_text": null,
+          "welcome_message_text": null
+        }
+      },
+      "ad_action":"webclick",
+      "link_text": "Learn More",
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 6,
+              "webUri": "https://fb.com/canvas_doc/203523157985844?fbclid=PAAaaNZZqPIIiewaqG5Sfdbttfft8DWb48e11pR1Pguns1GYTiKIAmAYHlis4",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-xRDSwwbY4OoVU755Mt6BC59rA7aubFbiAAtJsc3BpaXeuHKHwtq7RjBtcMLr5d_xvUc86NkuL7b_k5L0N8AceMUWFyEW6LTVkhPjuXVqSHj0T7ywk9SOXDJQ_dnqmHCcZfeGwTfJq5HXi0M0q-J0qHbBa6PCNEkM8uXUvizf6U64za6KmeedTNtAkz3oAqvc-LCP7TF5DY6cJ9bX76MW3McMlIRq_HF860vdmhRFvrv1-Z47P0jJklms4Wn8X8hNjhzIE-XO07yDy4YVUbWosgyv1M_SXr2HlnHrj6a1wsH1ScpZ8MWg3IZFBzIO1nl8&a=1&hash=Ad9WYPnVCMyAqBTO8kg",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "canvasDocId": "bmF0aXZlZG9jdW1lbnQ6MjAzNTIzMTU3OTg1ODQ0XzIzODQ3MTQzMjQ5MTYwNTQzX18yMzg0NzE0MzI0NjM2MDU0M19bXV9fMV9fX19fUVVsQVFWRkxXVzlZYVZaWVkxOWxZbTVzWkVKZlYyMVNORTV3VGkxNVlrMVlXRXRyYkVkaU16UlNaVzlLYWtWalRHNXZaMWxYTUZOalUwTlNkMEV5YTBaMFUzQlJOa2MwWlVGSFZUZHhMVU5KTWt4NFdWUlpWV0psZVE9PQ==",
+              "canvasData": "{\"bmF0aXZlZG9jdW1lbnQ6MjAzNTIzMTU3OTg1ODQ0XzIzODQ3MTQzMjQ5MTYwNTQzX18yMzg0NzE0MzI0NjM2MDU0M19bXV9fMV9fX19fUVVsQVFWRkxXVzlZYVZaWVkxOWxZbTVzWkVKZlYyMVNORTV3VGkxNVlrMVlXRXRyYkVkaU16UlNaVzlLYWtWalRHNXZaMWxYTUZOalUwTlNkMEV5YTBaMFUzQlJOa2MwWlVGSFZUZHhMVU5KTWt4NFdWUlpWV0psZVE9PQ==\":{\"__typename\":\"NativeDocumentNode\",\"id\":\"bmF0aXZlZG9jdW1lbnQ6MjAzNTIzMTU3OTg1ODQ0XzIzODQ3MTQzMjQ5MTYwNTQzX18yMzg0NzE0MzI0NjM2MDU0M19bXV9fMV9fX19f\",\"document\":{\"title\":null,\"background_color\":\"FFFFFFFF\",\"show_see_more_chrome\":false,\"document_body_elements\":{\"edges\":[{\"node\":{\"__typename\":\"InstagramCanvasProduct\",\"document_element_type\":\"INSTAGRAM_PRODUCT\",\"grid_width_percent\":50,\"logging_token\":null,\"product_info\":null,\"product_child_elements\":[{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":403,\"width\":403,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t45.5328-4\\/c0.0.403.403a\\/p403x403\\/131899195_3794655860558269_5536396440768394083_n.jpg?_nc_cat=101&ccb=2&_nc_sid=c48759&_nc_ohc=xbXcmK8yxZQAX-9nywR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=27&_nc_rmd=260&oh=6ff2b0d43e01e27bb2ab036db57fc064&oe=60172AD5\"}]},\"logging_token\":\"{\\\"pid\\\":4999542936786999,\\\"p_pos\\\":1,\\\"cid\\\":145916127034604}\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/ad.doubleclick.net\\/ddm\\/clk\\/470350484;276189777;y?https:\\/\\/www.jomalone.com\\/product\\/25956\\/49174\\/bath-body\\/english-pear-freesia-body-hand-wash?size=250ml&utm_medium=paid_social&utm_source=fb_ig&utm_campaign=elevate_jomalone_fy2021&utm_content=ce_lal2-5&utm_term=bathandbodycollection&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"16\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"style_list\":[],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"English Pear & Freesia Body & Hand Wash\",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":4999542936786999,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"5\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF262626\",\"font_family\":\"Roboto-Medium\",\"max_lines\":2,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"$44.00 \",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":4999542936786999,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"15\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF3897F0\",\"font_family\":\"Roboto-Medium\",\"max_lines\":1,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":null,\"right_margin\":\"0.5\",\"bottom_margin\":null,\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstagramCanvasProduct\",\"document_element_type\":\"INSTAGRAM_PRODUCT\",\"grid_width_percent\":50,\"logging_token\":null,\"product_info\":null,\"product_child_elements\":[{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":403,\"width\":403,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t45.5328-4\\/c0.0.403.403a\\/p403x403\\/131878848_3622202057848398_4635706645863011418_n.jpg?_nc_cat=109&ccb=2&_nc_sid=c48759&_nc_ohc=y57Wis9R1jwAX_ae6qo&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=27&_nc_rmd=260&oh=54efbf92036bc07798a461f5e02cbb9c&oe=601AE2E3\"}]},\"logging_token\":\"{\\\"pid\\\":5103402076351706,\\\"p_pos\\\":2,\\\"cid\\\":145916127034604}\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/ad.doubleclick.net\\/ddm\\/clk\\/470350484;276189777;y?https:\\/\\/www.jomalone.com\\/product\\/25956\\/47423\\/bath-body\\/pomegranate-noir-soap?size=100g&utm_medium=paid_social&utm_source=fb_ig&utm_campaign=elevate_jomalone_fy2021&utm_content=ce_lal2-5&utm_term=bathandbodycollection&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"16\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"style_list\":[],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"Pomegranate Noir Soap\",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":5103402076351706,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"5\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF262626\",\"font_family\":\"Roboto-Medium\",\"max_lines\":2,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"$24.00 \",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":5103402076351706,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"15\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF3897F0\",\"font_family\":\"Roboto-Medium\",\"max_lines\":1,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0.5\",\"right_margin\":null,\"bottom_margin\":null,\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstagramCanvasProduct\",\"document_element_type\":\"INSTAGRAM_PRODUCT\",\"grid_width_percent\":50,\"logging_token\":null,\"product_info\":null,\"product_child_elements\":[{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":403,\"width\":403,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t45.5328-4\\/c0.0.403.403a\\/p403x403\\/130876348_3650615898351204_5427428208995744652_n.jpg?_nc_cat=110&ccb=2&_nc_sid=c48759&_nc_ohc=Ca_SOjjUPOoAX9PgoQl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=27&_nc_rmd=260&oh=e5f02fa488acd0b32f9c2f2a919b9b42&oe=6018CC75\"}]},\"logging_token\":\"{\\\"pid\\\":3828603953869218,\\\"p_pos\\\":3,\\\"cid\\\":145916127034604}\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/ad.doubleclick.net\\/ddm\\/clk\\/470350484;276189777;y?https:\\/\\/www.jomalone.com\\/product\\/25956\\/9775\\/bath-body\\/lime-basil-mandarin-body-hand-lotion?size=250ml&utm_medium=paid_social&utm_source=fb_ig&utm_campaign=elevate_jomalone_fy2021&utm_content=ce_lal2-5&utm_term=bathandbodycollection&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"16\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"style_list\":[],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"Lime Basil & Mandarin Body & Hand Lotion\",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3828603953869218,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"5\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF262626\",\"font_family\":\"Roboto-Medium\",\"max_lines\":2,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"$59.00 \",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3828603953869218,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"15\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF3897F0\",\"font_family\":\"Roboto-Medium\",\"max_lines\":1,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":\"0.5\",\"bottom_margin\":null,\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstagramCanvasProduct\",\"document_element_type\":\"INSTAGRAM_PRODUCT\",\"grid_width_percent\":50,\"logging_token\":null,\"product_info\":null,\"product_child_elements\":[{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":403,\"width\":403,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t45.5328-4\\/c0.0.403.403a\\/p403x403\\/131766032_3542888869129435_2884052701752878932_n.jpg?_nc_cat=108&ccb=2&_nc_sid=c48759&_nc_ohc=m78wE-IeOAYAX8r6a-e&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=27&_nc_rmd=260&oh=4d2c634addda18d1bfa8004ca01d32cc&oe=60178110\"}]},\"logging_token\":\"{\\\"pid\\\":3146069822159772,\\\"p_pos\\\":4,\\\"cid\\\":145916127034604}\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/ad.doubleclick.net\\/ddm\\/clk\\/470350484;276189777;y?https:\\/\\/www.jomalone.com\\/product\\/25956\\/49144\\/bath-body\\/lime-basil-mandarin-body-hand-wash?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=elevate_jomalone_fy2021&utm_content=ce_lal2-5&utm_term=bathandbodycollection&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"16\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"style_list\":[],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"Lime Basil & Mandarin Body & Hand Wash\",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3146069822159772,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"5\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF262626\",\"font_family\":\"Roboto-Medium\",\"max_lines\":2,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"$44.00 \",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3146069822159772,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"15\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF3897F0\",\"font_family\":\"Roboto-Medium\",\"max_lines\":1,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":\"0.5\",\"right_margin\":null,\"bottom_margin\":null,\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstagramCanvasProduct\",\"document_element_type\":\"INSTAGRAM_PRODUCT\",\"grid_width_percent\":50,\"logging_token\":null,\"product_info\":null,\"product_child_elements\":[{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":403,\"width\":403,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t45.5328-4\\/c0.0.403.403a\\/p403x403\\/131872453_4790982660974244_6396708522035233455_n.jpg?_nc_cat=103&ccb=2&_nc_sid=c48759&_nc_ohc=Bg2dHzj4HaoAX9N3vWd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=27&_nc_rmd=260&oh=2eb3e781f7ed5b8fa5a563ff463f4f75&oe=60189283\"}]},\"logging_token\":\"{\\\"pid\\\":3869082359791437,\\\"p_pos\\\":5,\\\"cid\\\":145916127034604}\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/ad.doubleclick.net\\/ddm\\/clk\\/470350484;276189777;y?https:\\/\\/www.jomalone.com\\/product\\/3638\\/27919\\/bath-body\\/red-roses-body-hand-lotion?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=elevate_jomalone_fy2021&utm_content=ce_lal2-5&utm_term=bathandbodycollection&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"16\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"style_list\":[],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"Red Roses Body & Hand Lotion\",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3869082359791437,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"5\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF262626\",\"font_family\":\"Roboto-Medium\",\"max_lines\":2,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"$59.00 \",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3869082359791437,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"15\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF3897F0\",\"font_family\":\"Roboto-Medium\",\"max_lines\":1,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":\"0.5\",\"bottom_margin\":null,\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstagramCanvasProduct\",\"document_element_type\":\"INSTAGRAM_PRODUCT\",\"grid_width_percent\":50,\"logging_token\":null,\"product_info\":null,\"product_child_elements\":[{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":403,\"width\":403,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t45.5328-4\\/c0.0.403.403a\\/p403x403\\/130171303_3793575050695300_7370314865358306230_n.jpg?_nc_cat=100&ccb=2&_nc_sid=c48759&_nc_ohc=TQc-p_kLzVMAX-qtob8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=27&_nc_rmd=260&oh=486ad2b7b18f86434c2ca49060e63b9d&oe=601A6C04\"}]},\"logging_token\":\"{\\\"pid\\\":3437318859720602,\\\"p_pos\\\":6,\\\"cid\\\":145916127034604}\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/ad.doubleclick.net\\/ddm\\/clk\\/470350484;276189777;y?https:\\/\\/www.jomalone.com\\/product\\/3638\\/9872\\/bath-body\\/pomegranate-noir-bath-oil?utm_medium=paid_social&utm_source=fb_ig&utm_campaign=elevate_jomalone_fy2021&utm_content=ce_lal2-5&utm_term=bathandbodycollection&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"16\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"style_list\":[],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"Pomegranate Noir Bath Oil\",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3437318859720602,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"5\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF262626\",\"font_family\":\"Roboto-Medium\",\"max_lines\":2,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"$69.00 \",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3437318859720602,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"15\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF3897F0\",\"font_family\":\"Roboto-Medium\",\"max_lines\":1,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":\"0.5\",\"right_margin\":null,\"bottom_margin\":null,\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstagramCanvasProduct\",\"document_element_type\":\"INSTAGRAM_PRODUCT\",\"grid_width_percent\":50,\"logging_token\":null,\"product_info\":null,\"product_child_elements\":[{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":403,\"width\":403,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t45.5328-4\\/c0.0.403.403a\\/p403x403\\/128827281_3655634634514147_1220163610677929995_n.jpg?_nc_cat=105&ccb=2&_nc_sid=c48759&_nc_ohc=FZTUd7H0RZYAX9z8idn&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=27&_nc_rmd=260&oh=d5f6ec7bc296a9e379e252096ebee99f&oe=6019C21F\"}]},\"logging_token\":\"{\\\"pid\\\":3525267984235556,\\\"p_pos\\\":7,\\\"cid\\\":145916127034604}\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/ad.doubleclick.net\\/ddm\\/clk\\/470350484;276189777;y?https:\\/\\/www.jomalone.com\\/product\\/25956\\/12846\\/bath-body\\/english-pear-freesia-body-creme?size=175ml&utm_medium=paid_social&utm_source=fb_ig&utm_campaign=elevate_jomalone_fy2021&utm_content=ce_lal2-5&utm_term=bathandbodycollection&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"16\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"style_list\":[],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"English Pear & Freesia Body Cr\\u00e8me\",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3525267984235556,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"5\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF262626\",\"font_family\":\"Roboto-Medium\",\"max_lines\":2,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"$86.00 \",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3525267984235556,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"15\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF3897F0\",\"font_family\":\"Roboto-Medium\",\"max_lines\":1,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":\"0.5\",\"bottom_margin\":null,\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstagramCanvasProduct\",\"document_element_type\":\"INSTAGRAM_PRODUCT\",\"grid_width_percent\":50,\"logging_token\":null,\"product_info\":null,\"product_child_elements\":[{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":403,\"width\":403,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t45.5328-4\\/c0.0.403.403a\\/p403x403\\/128748447_4766703573404186_8360161368340834573_n.jpg?_nc_cat=105&ccb=2&_nc_sid=c48759&_nc_ohc=w8GSFDRgqiYAX9oMbHN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=27&_nc_rmd=260&oh=9636640a7de4f554848eb47286061309&oe=60177BCC\"}]},\"logging_token\":\"{\\\"pid\\\":3646947762058911,\\\"p_pos\\\":8,\\\"cid\\\":145916127034604}\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/ad.doubleclick.net\\/ddm\\/clk\\/470350484;276189777;y?https:\\/\\/www.jomalone.com\\/product\\/25956\\/27920\\/bath-body\\/grapefruit-body-hand-lotion?size=250ml&utm_medium=paid_social&utm_source=fb_ig&utm_campaign=elevate_jomalone_fy2021&utm_content=ce_lal2-5&utm_term=bathandbodycollection&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"16\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"style_list\":[],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"Grapefruit Body & Hand Lotion\",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3646947762058911,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"5\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF262626\",\"font_family\":\"Roboto-Medium\",\"max_lines\":2,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"$59.00 \",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3646947762058911,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"15\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF3897F0\",\"font_family\":\"Roboto-Medium\",\"max_lines\":1,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":\"0.5\",\"right_margin\":null,\"bottom_margin\":null,\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstagramCanvasProduct\",\"document_element_type\":\"INSTAGRAM_PRODUCT\",\"grid_width_percent\":50,\"logging_token\":null,\"product_info\":null,\"product_child_elements\":[{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":403,\"width\":403,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t45.5328-4\\/c0.0.403.403a\\/p403x403\\/128425787_3527785427340371_6055979228263683098_n.jpg?_nc_cat=100&ccb=2&_nc_sid=c48759&_nc_ohc=QRP5rsWJvU0AX88n0gs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=27&_nc_rmd=260&oh=7ba2f0ab0f4de5e36a17cbae3e725187&oe=601A4EEE\"}]},\"logging_token\":\"{\\\"pid\\\":3544626858908595,\\\"p_pos\\\":9,\\\"cid\\\":145916127034604}\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/ad.doubleclick.net\\/ddm\\/clk\\/470350484;276189777;y?https:\\/\\/www.jomalone.com\\/product\\/25956\\/49817\\/bath-body\\/wood-sage-sea-salt-body-hand-wash?size=250ml&utm_medium=paid_social&utm_source=fb_ig&utm_campaign=elevate_jomalone_fy2021&utm_content=ce_lal2-5&utm_term=bathandbodycollection&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"16\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"style_list\":[],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"Wood Sage & Sea Salt Body & Hand Wash\",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3544626858908595,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"5\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF262626\",\"font_family\":\"Roboto-Medium\",\"max_lines\":2,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null},{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"$44.00 \",\"depth\":0,\"block_type\":\"PARAGRAPH\",\"inline_style_ranges\":[]},\"logging_token\":\"{\\\"pid\\\":3544626858908595,\\\"cid\\\":145916127034604}\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":null,\"bottom_margin\":\"15\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"14\",\"text_color\":\"FF3897F0\",\"font_family\":\"Roboto-Medium\",\"max_lines\":1,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"TEXT_NO_CUSTOM_MEASURE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":null,\"left_margin\":null,\"right_margin\":\"0.5\",\"bottom_margin\":\"0\",\"background_color\":null,\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":null},\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentFooterElement\",\"document_element_type\":\"FOOTER\",\"logging_token\":\"459402095072638\",\"footer_elements\":[{\"__typename\":\"InstantShoppingDocumentButtonElement\",\"document_element_type\":\"BUTTON\",\"element_text\":{\"text\":\"Shop Now\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"214066596963702\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fad.doubleclick.net\\u00252Fddm\\u00252Fclk\\u00252F470350484\\u00253B276189777\\u00253By\\u00253Fhttps\\u00253A\\u00252F\\u00252Fwww.jomalone.com\\u00252Fbath-body\\u00253Futm_medium\\u00253Dpaid_social\\u002526utm_source\\u00253Dfb_ig\\u002526utm_campaign\\u00253Delevate_jomalone_fy2021\\u002526utm_content\\u00253Dce_lal2-5\\u002526utm_term\\u00253Dbathandbodycollection\\u002526fbclid\\u00253DIwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI&h=AT1iihmvLRuRij_tgm2ixkMifgSTjalI8I58zHEAc07s-hazpPcjPlfWd1Fm3a1xNOnqdFNVCE_r-5bp-hJxue0KAyF_wsK1jkHYBuRLytLKxoc7C3owFsqsxQabiek&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"color\":\"FF000000\",\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"4\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":\"exact=48.0pt\",\"text_metrics\":{\"font_size\":\"15\",\"text_color\":\"FF000000\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"BUTTON_OUTLINE\"],\"strong_id__\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"4\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[],\"strong_id__\":null}}]},\"third_party_logging_urls\":[],\"style_list\":[\"ENABLE_SWIPE_TO_OPEN\"],\"analytics\":{\"base_url\":\"https:\\/\\/fb.com\\/canvas_doc\\/203523157985844?ix_id=203523157985844&ad_id=23847143249160543&fbclid=IwAR0VXPwiaIydGWIirlh3mL-NGdfgFY9HpAU6lmTz8hp_9S2ttbNaZM1I7kI\",\"sources\":\"\\n\\n\\u003C!-- Facebook Pixel Code --> \\u003Cscript> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https:\\/\\/connect.facebook.net\\/en_US\\/fbevents.js'); fbq('init', '214279732483454'); fbq('track', 'PageView'); \\u003C\\/script> \\u003Cnoscript>\\u003Cimg height=\\\"1\\\" width=\\\"1\\\" style=\\\"display:none\\\" src=\\\"https:\\/\\/www.facebook.com\\/tr?ev=PageView&noscript=1&id=214279732483454\\\" \\/>\\u003C\\/noscript> \\u003C!-- End Facebook Pixel Code -->\",\"logging_token\":\"RENDERING_ANALYTIC_PREFIX_203523157985844\"}},\"cache_id\":\"7127681911806564458\",\"strong_id__\":\"7127681911806564458\"}}",
+              "destinationContext": "View Products",
+              "tapAndHoldContext": "Swipe up to view on Instagram"
+            }
+          ]
+        }
+      ],
+      "collection_media_type": 5,
+      "collection_canvas_template": "grid_template",
+      "collection_media": [
+        {
+          "original_height": 1080,
+          "original_width": 1080,
+          "image_versions2": {
+            "candidates": [
+              {
+                "width": 1080,
+                "height": 1080,
+                "url": "https://i.ibb.co/938F5bV/96766888-1.jpg",
+                "scans_profile": "e15",
+                "estimated_scans_sizes": [
+                  13537,
+                  27075,
+                  40612,
+                  54150,
+                  67687,
+                  121838,
+                  121838,
+                  121838,
+                  121838
+                ]
+              }
+            ]
+          },
+          "media_type": 1,
+          "id": "2359866571054243005_181303532_main",
+          "pk": 2359866571054243000,
+          "collection_parent_id": "2359866571054243005_181303532",
+          "collection_media_role": 1
+        },
+        {
+          "collection_parent_id": "2359866571054243005_181303532",
+          "collection_media_role": 2,
+          "id": "3086296628153790_181303532",
+          "pk": 3086296628153790,
+          "media_type": 1,
+          "image_versions2": {
+            "candidates": [
+              {
+                "url": "https://i.ibb.co/LRMKmkH/ourplace-no-crop.jpg",
+                "width": 700,
+                "height": 700
+              }
+            ]
+          }
+        },
+        {
+          "collection_parent_id": "2359866571054243005_181303532",
+          "collection_media_role": 2,
+          "id": "3434714026559083_181303532",
+          "pk": 3434714026559083,
+          "media_type": 1,
+          "image_versions2": {
+            "candidates": [
+              {
+                "url": "https://i.ibb.co/938F5bV/96766888-1.jpg",
+                "width": 1080,
+                "height": 1080
+              }
+            ]
+          }
+        }
+      ],
+      "reel_media_background":{
+        "top": {
+          "background_color":"#e1d9cc"
+        },
+        "bottom": {
+          "background_color":"#c4ab8f"
+        }
+      },
+      "story_ad_headline":{
+        "text":"A NEW COLLECTION FOR FALL WINTER 2020 #KENZO",
+        "background_color":"#f4ec87",
+        "text_color":"#000000",
+        "text_size":18,
+        "background_color_alpha":"ff"
+      },
+      "ad_metadata": [
+        {
+          "value": "fb.com",
+          "type": 1
+        }
+      ],
+      "force_overlay":true,
+      "hide_nux_text":true,
+      "overlay_text":"Go to Website",
+      "overlay_title":"Kenzo",
+      "overlay_subtitle":"Go to Website",
+      "is_reel_media":true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

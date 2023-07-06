@@ -1,0 +1,35 @@
+package p000X;
+
+import com.facebook.kotlin.compilerplugins.dataclassgenerate.superclass.KtCSuperShape0S2050000_I2;
+/* renamed from: X.9aM  reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes4.dex */
+public final class C167819aM extends AbstractC20320AzL {
+    public final KtCSuperShape0S2050000_I2 A00;
+    public final C18392AAg A01;
+    public final String A02;
+
+    @Override // p000X.InterfaceC42580Mhj
+    public final /* bridge */ /* synthetic */ Object getKey() {
+        return this.A02;
+    }
+
+    @Override // p000X.InterfaceC42277MaZ
+    public final /* bridge */ /* synthetic */ boolean isContentSame(Object obj) {
+        KtCSuperShape0S2050000_I2 ktCSuperShape0S2050000_I2;
+        C167819aM c167819aM = (C167819aM) obj;
+        KtCSuperShape0S2050000_I2 ktCSuperShape0S2050000_I22 = this.A00;
+        if (c167819aM != null) {
+            ktCSuperShape0S2050000_I2 = c167819aM.A00;
+        } else {
+            ktCSuperShape0S2050000_I2 = null;
+        }
+        return C0OR.A0I(ktCSuperShape0S2050000_I22, ktCSuperShape0S2050000_I2);
+    }
+
+    public C167819aM(KtCSuperShape0S2050000_I2 ktCSuperShape0S2050000_I2, C18392AAg c18392AAg, String str, String str2) {
+        C25920wp.A1R(str, str2);
+        this.A02 = str;
+        this.A00 = ktCSuperShape0S2050000_I2;
+        this.A01 = c18392AAg;
+    }
+}

@@ -1,0 +1,27 @@
+package p000X;
+
+import android.graphics.Rect;
+import android.view.View;
+import java.lang.ref.WeakReference;
+/* renamed from: X.7pT  reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes3.dex */
+public final class C136897pT implements InterfaceC34245HkD {
+    public final WeakReference A00;
+    public final int[] A01 = new int[2];
+
+    @Override // p000X.InterfaceC34245HkD
+    public final void AXk(Rect rect) {
+        C0OR.A0B(rect, 0);
+        View view = (View) this.A00.get();
+        if (view != null) {
+            int[] iArr = this.A01;
+            view.getLocationOnScreen(iArr);
+            int i = iArr[0];
+            rect.set(i, iArr[1], i + view.getMeasuredWidth(), iArr[1] + view.getMeasuredHeight());
+        }
+    }
+
+    public C136897pT(View view) {
+        this.A00 = C91554uV.A11(view);
+    }
+}

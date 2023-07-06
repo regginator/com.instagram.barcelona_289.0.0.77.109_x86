@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="0.0dip" android:top="@dimen/fbpay_ui_accordion_border_cutoff" android:right="0.0dip" android:bottom="0.0dip">
+        <shape>
+            <padding android:top="@dimen/abc_button_inset_vertical_material" android:bottom="@dimen/abc_button_inset_vertical_material" />
+        </shape>
+    </item>
+</layer-list>

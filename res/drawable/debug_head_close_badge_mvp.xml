@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/black" />
+    <stroke android:width="@dimen/abc_control_corner_material" android:color="@color/design_dark_default_color_on_background" />
+    <size android:height="@dimen/audience_controls_footer_button_radius" android:width="@dimen/audience_controls_footer_button_radius" />
+</shape>

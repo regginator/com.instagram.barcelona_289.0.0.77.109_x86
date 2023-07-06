@@ -1,0 +1,420 @@
+{
+    "id": "23849403824110124_12311890053",
+    "latest_reel_media": null,
+    "expiring_at": 1650511963,
+    "seen": null,
+    "can_reply": false,
+    "can_gif_quick_reply": true,
+    "can_reshare": true,
+    "can_react_with_avatar": false,
+    "reel_type": "ads_reel",
+    "ad_expiry_timestamp_in_millis": 1650450764000,
+    "is_cta_sticker_available": true,
+    "user": {
+      "pk": 12311890053,
+      "username": "electricgamebox",
+      "full_name": "Electric Gamebox",
+      "is_private": false,
+      "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/210925162_4369174526475826_314835541615930360_n.jpg?stp=dst-jpg_s150x150&efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19kb2dmb29kaW5nOm1ucyJ9&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=o_33QfOKYFsAX-rtAAr&edm=ANct6CgBAAAA&ccb=7-4&oh=00_AT8hyNJp5DsgqI8cmyhESkTL7TEi0b8qLgIVDKq28kICTw&oe=62667C28&_nc_sid=e4e9cf",
+      "profile_pic_id": "2609033067542538160_12311890053",
+      "is_verified": false,
+      "follow_friction_type": -1,
+      "growth_friction_info": {
+        "has_active_interventions": false,
+        "interventions": {}
+      },
+      "account_badges": []
+    },
+    "items": [
+      {
+        "taken_at": 1645473213,
+        "pk": 2778753173493243000,
+        "id": "2778753173493242713_12311890053",
+        "device_timestamp": 1645473213,
+        "media_type": 2,
+        "code": "CaQHUnwjdtZ",
+        "client_cache_key": "Mjc3ODc1MzE3MzQ5MzI0MjcxMw==.2",
+        "filter_type": 0,
+        "is_unified_video": false,
+        "user": {
+          "pk": 12311890053,
+          "username": "electricgamebox",
+          "full_name": "Electric Gamebox",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/210925162_4369174526475826_314835541615930360_n.jpg?stp=dst-jpg_s150x150&efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19kb2dmb29kaW5nOm1ucyJ9&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=o_33QfOKYFsAX-rtAAr&edm=ANct6CgBAAAA&ccb=7-4&oh=00_AT8hyNJp5DsgqI8cmyhESkTL7TEi0b8qLgIVDKq28kICTw&oe=62667C28&_nc_sid=e4e9cf",
+          "profile_pic_id": "2609033067542538160_12311890053",
+          "is_verified": false,
+          "follow_friction_type": 0,
+          "growth_friction_info": {
+            "has_active_interventions": false,
+            "interventions": {}
+          },
+          "account_badges": [],
+          "has_anonymous_profile_picture": false,
+          "is_unpublished": false,
+          "is_favorite": false,
+          "has_highlight_reels": false,
+          "has_primary_country_in_feed": false,
+          "has_primary_country_in_profile": false
+        },
+        "caption_is_edited": false,
+        "like_and_view_counts_disabled": false,
+        "commerciality_status": "not_commercial",
+        "fundraiser_tag": {
+          "has_standalone_fundraiser": false
+        },
+        "is_paid_partnership": false,
+        "is_visual_reply_commenter_notice_enabled": true,
+        "original_media_has_visual_reply_media": false,
+        "comment_likes_enabled": false,
+        "comment_threading_enabled": false,
+        "has_more_comments": true,
+        "max_num_visible_preview_comments": 2,
+        "preview_comments": [],
+        "can_view_more_preview_comments": false,
+        "comment_count": 2,
+        "hide_view_all_comment_entrypoint": false,
+        "image_versions2": {
+          "candidates": [
+            {
+              "width": 480,
+              "height": 480,
+              "url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/274527176_1084409835745352_6816826246061789847_n.jpg?stp=dst-jpg_e15_s480x480&efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19kb2dmb29kaW5nOm1ucyJ9&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=CiezY9rvzTEAX_w58xT&edm=ANct6CgBAAAA&ccb=7-4&ig_cache_key=Mjc3ODc1MzE3MzQ5MzI0MjcxMw%3D%3D.2-ccb7-4&oh=00_AT-TGwRHlRY7TM6ghFfdxZjXW5kTASyGQ436-D2QT5uaWQ&oe=62668078&_nc_sid=e4e9cf",
+              "scans_profile": "e15",
+              "estimated_scans_sizes": [
+                3348,
+                6697,
+                10046,
+                13394,
+                16743,
+                30138,
+                30138,
+                30138,
+                30138
+              ]
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "like_count": 81,
+        "has_liked": false,
+        "photo_of_you": false,
+        "is_organic_product_tagging_eligible": false,
+        "can_see_insights_as_brand": false,
+        "is_dash_eligible": 1,
+        "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M21.013S\" maxSegmentDuration=\"PT0H0M5.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M21.013S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"720\" maxFrameRate=\"30\" par=\"1:1\" lang=\"eng\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17886899237097263vd\" mimeType=\"video/mp4\" codecs=\"avc1.64001F\" width=\"720\" height=\"720\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"572552\" FBQualityClass=\"hdr1\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:89.25,640:87.26,1000:81.45\">\n    <BaseURL urlExpiration=\"1650596333\">https://scontent-sea1-1.cdninstagram.com/v/t50.2886-16/178900692_500809627932869_5416202792599325613_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19kb2dmb29kaW5nOm1ucyJ9&amp;_nc_ht=scontent-sea1-1.cdninstagram.com&amp;_nc_cat=105&amp;_nc_ohc=jLkJ0anGVjcAX_5g3g6&amp;edm=ANct6CgBAAAA&amp;ccb=7-4&amp;oh=00_AT_Iu61Ilf5NvaEcp0SS7nKHWemBLpzDzvfd65Qy_Aaw4Q&amp;oe=626219ED&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"951-1054\" FBFirstSegmentRange=\"1055-192206\" FBSecondSegmentRange=\"192207-346437\" FBPrefetchSegmentRange=\"1055-346437\">\n      <Initialization range=\"0-950\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17886899288097263v\" mimeType=\"video/mp4\" codecs=\"avc1.64001F\" width=\"274\" height=\"274\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"130742\" FBQualityClass=\"sdr1\" FBQualityLabel=\"274w\" FBPlaybackResolutionMos=\"0:100.00,480:62.93,640:59.69,1000:55.15\">\n    <BaseURL urlExpiration=\"1650580609\">https://scontent-lax3-2.cdninstagram.com/v/t50.2886-16/181500009_3692036087574648_7341387871041898776_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19kb2dmb29kaW5nOm1ucyJ9&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_cat=100&amp;_nc_ohc=pTatR0HckA8AX9ZsrlQ&amp;edm=ANct6CgBAAAA&amp;ccb=7-4&amp;oh=00_AT8b8yY0kFgdCDf_BDs9lbimqX9984S_Oc3FhxUfhRT5oQ&amp;oe=6261DC81&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"953-1056\" FBFirstSegmentRange=\"1057-38289\" FBSecondSegmentRange=\"38290-74323\" FBPrefetchSegmentRange=\"1057-74323\">\n      <Initialization range=\"0-952\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17886899270097263v\" mimeType=\"video/mp4\" codecs=\"avc1.64001F\" width=\"428\" height=\"428\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"233988\" FBQualityClass=\"sdr1\" FBQualityLabel=\"428w\" FBPlaybackResolutionMos=\"0:100.00,480:76.14,640:73.74,1000:68.17\">\n    <BaseURL urlExpiration=\"1650586301\">https://scontent-lax3-2.cdninstagram.com/v/t50.2886-16/179346792_326060432357232_7794712864819273814_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19kb2dmb29kaW5nOm1ucyJ9&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_cat=100&amp;_nc_ohc=rd1SEx8iGKQAX-5HSJe&amp;edm=ANct6CgBAAAA&amp;ccb=7-4&amp;oh=00_AT_X6__Te5hlRCwz2__lbWQHXjQ6sv6xxzmZR00kQJyUlw&amp;oe=6261F2BD&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"952-1055\" FBFirstSegmentRange=\"1056-72950\" FBSecondSegmentRange=\"72951-136512\" FBPrefetchSegmentRange=\"1056-136512\">\n      <Initialization range=\"0-951\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17886899261097263v\" mimeType=\"video/mp4\" codecs=\"avc1.64001F\" width=\"608\" height=\"608\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"373441\" FBQualityClass=\"sdr1\" FBQualityLabel=\"608w\" FBPlaybackResolutionMos=\"0:100.00,480:83.92,640:81.43,1000:75.74\">\n    <BaseURL urlExpiration=\"1650557178\">https://scontent-sea1-1.cdninstagram.com/v/t50.2886-16/182667567_789975464957418_4300145460369540874_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19kb2dmb29kaW5nOm1ucyJ9&amp;_nc_ht=scontent-sea1-1.cdninstagram.com&amp;_nc_cat=106&amp;_nc_ohc=cCtaHF6Wi_MAX_hzvBI&amp;edm=ANct6CgBAAAA&amp;ccb=7-4&amp;oh=00_AT9B-hUJRT9aCZRF_FzLYiM3DbMvMp1gZ9lgFfnWMpvLpw&amp;oe=626180FA&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"952-1055\" FBFirstSegmentRange=\"1056-115963\" FBSecondSegmentRange=\"115964-217051\" FBPrefetchSegmentRange=\"1056-217051\">\n      <Initialization range=\"0-951\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"eng\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17886899192097263ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.5\" audioSamplingRate=\"48000\" startWithSAP=\"1\" bandwidth=\"56464\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"1\"/>\n    <BaseURL urlExpiration=\"1650583212\">https://scontent-sea1-1.cdninstagram.com/v/t50.2886-16/182208927_975597689934695_8093639805486040365_n.mp4?efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19kb2dmb29kaW5nOm1ucyJ9&amp;_nc_ht=scontent-sea1-1.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=VikzVfxs4qoAX9kcTT1&amp;edm=ANct6CgBAAAA&amp;ccb=7-4&amp;oh=00_AT9USoLoC8GUJimercL_vYbqko5FHzH1cH4RUAQjNjoTxw&amp;oe=6261E6AC&amp;_nc_sid=e4e9cf</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"892-1055\" FBFirstSegmentRange=\"1056-14053\" FBSecondSegmentRange=\"14054-30139\" FBPrefetchSegmentRange=\"1056-30139\">\n      <Initialization range=\"0-891\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+        "video_codec": "avc1.64001F",
+        "number_of_qualities": 4,
+        "video_versions": [
+          {
+            "type": 101,
+            "width": 720,
+            "height": 720,
+            "url": "https://scontent-lax3-2.cdninstagram.com/v/t50.2886-16/180953115_456275525473536_4176037098862079480_n.mp4?efg=eyJxZV9ncm91cHMiOiJbXCJpZ19wcm9ncmVzc2l2ZV91cmxnZW4ucHJvZHVjdF90eXBlLmFkXCJdIiwicm1kIjoiaWdfYW5kcm9pZF9tb2JpbGVfbmV0d29ya19zdGFja190aWdvbl9tbnNfZG9nZm9vZGluZzptbnMifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_ohc=PCoYs5149TsAX_KIfJ2&edm=ANct6CgBAAAA&ccb=7-4&oe=6261C98A&oh=00_AT_A5eBg_I8hjM3xKgC_ayCub1ceV1cCLCh6OsIb3DaN3g&_nc_sid=e4e9cf",
+            "id": "17886899189097263"
+          },
+          {
+            "type": 102,
+            "width": 480,
+            "height": 480,
+            "url": "https://scontent-sea1-1.cdninstagram.com/v/t50.2886-16/181907364_1106992096444624_2279331871237779691_n.mp4?efg=eyJxZV9ncm91cHMiOiJbXCJpZ19wcm9ncmVzc2l2ZV91cmxnZW4ucHJvZHVjdF90eXBlLmFkXCJdIiwicm1kIjoiaWdfYW5kcm9pZF9tb2JpbGVfbmV0d29ya19zdGFja190aWdvbl9tbnNfZG9nZm9vZGluZzptbnMifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=5mgWndOOxxQAX-WXCLX&edm=ANct6CgBAAAA&ccb=7-4&oe=6261802B&oh=00_AT90f9jazF-YAv-KOO_mb_WucdXRgCbFkp6aE2iVjrz7jg&_nc_sid=e4e9cf",
+            "id": "17886899162097263"
+          },
+          {
+            "type": 103,
+            "width": 480,
+            "height": 480,
+            "url": "https://scontent-sea1-1.cdninstagram.com/v/t50.2886-16/181907364_1106992096444624_2279331871237779691_n.mp4?efg=eyJxZV9ncm91cHMiOiJbXCJpZ19wcm9ncmVzc2l2ZV91cmxnZW4ucHJvZHVjdF90eXBlLmFkXCJdIiwicm1kIjoiaWdfYW5kcm9pZF9tb2JpbGVfbmV0d29ya19zdGFja190aWdvbl9tbnNfZG9nZm9vZGluZzptbnMifQ&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=5mgWndOOxxQAX-WXCLX&edm=ANct6CgBAAAA&ccb=7-4&oe=6261802B&oh=00_AT90f9jazF-YAv-KOO_mb_WucdXRgCbFkp6aE2iVjrz7jg&_nc_sid=e4e9cf",
+            "id": "17886899162097263"
+          }
+        ],
+        "has_audio": true,
+        "video_duration": 21.056,
+        "view_count": 20375,
+        "caption": {
+          "pk": 17985537493455808,
+          "user_id": 12311890053,
+          "text": "TICKETS ON SALE NOW! �\nBook an immersive group gaming session with � Electric Gamebox � and create a memory you will never forget!\n\n� Play with up to 6 people\n� Fun for everyone! Ages 5+\n� Organise parties and events",
+          "type": 1,
+          "created_at": 1645473214,
+          "created_at_utc": 1645473214,
+          "content_type": "comment",
+          "status": "Active",
+          "bit_flags": 0,
+          "did_report_as_spam": false,
+          "share_enabled": false,
+          "user": {
+            "pk": 12311890053,
+            "username": "electricgamebox",
+            "full_name": "Electric Gamebox",
+            "is_private": false,
+            "profile_pic_url": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/210925162_4369174526475826_314835541615930360_n.jpg?stp=dst-jpg_s150x150&efg=eyJybWQiOiJpZ19hbmRyb2lkX21vYmlsZV9uZXR3b3JrX3N0YWNrX3RpZ29uX21uc19kb2dmb29kaW5nOm1ucyJ9&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=1&_nc_ohc=o_33QfOKYFsAX-rtAAr&edm=ANct6CgBAAAA&ccb=7-4&oh=00_AT8hyNJp5DsgqI8cmyhESkTL7TEi0b8qLgIVDKq28kICTw&oe=62667C28&_nc_sid=e4e9cf",
+            "profile_pic_id": "2609033067542538160_12311890053",
+            "is_verified": false,
+            "follow_friction_type": -1,
+            "growth_friction_info": {
+              "has_active_interventions": false,
+              "interventions": {}
+            },
+            "account_badges": []
+          },
+          "is_covered": false,
+          "media_id": 2778753173493243000,
+          "background_color": "#000000",
+          "text_color": "#FFFFFF",
+          "text_size": 16,
+          "background_color_alpha": "00",
+          "private_reply_status": 0,
+          "hide_username": false
+        },
+        "injected": {
+          "label": "Sponsored",
+          "hide_label": "Hide this",
+          "is_demo": true,
+          "tracking_token": "AI@AQIaGfjKpfcY1OSvBBs-uN_7sjYNde8EsdrGpFkZn2f_twInJFfA0e4D2Gt8-6_Kk22kQYH2Ir_GJ6axKip9c5IH",
+          "show_ad_choices": false,
+          "ad_title": "Electric Gamebox",
+          "hide_reasons_v2": [
+            {
+              "text": "It's not relevant",
+              "reason": "NOT_RELEVANT"
+            },
+            {
+              "text": "I see it too often",
+              "reason": "KEEP_SEEING_THIS"
+            },
+            {
+              "text": "It's inappropriate",
+              "reason": null
+            },
+            {
+              "text": "[Employee only] Send ad for review",
+              "reason": "EMPLOYEE_REPORT"
+            }
+          ],
+          "hide_flow_type": 2,
+          "ad_id": 23849403824110124,
+          "campaign_id": 23847798636800124,
+          "app_id": 0,
+          "page_id": 383601719036496,
+          "actor_id": 1958327937609848,
+          "media_id": 2778753173493243000,
+          "direct_share": true,
+          "ads_debug_info": {
+            "adsBidInfo": {
+              "ecpmBid": 0,
+              "ecpmPrice": 0,
+              "ectr": 0,
+              "ecvr": 0,
+              "postImpEcvr": null,
+              "organicBidInfo": {
+                "organicBidCpm": 0,
+                "userDollarValue": 0,
+                "serializedPacedOrganicBidMap": "{}",
+                "serializedOrganicEventProbMap": "{}",
+                "serializedEventQualityMap": "{}",
+                "serializedImpOrganicBidMap": "{}",
+                "serializedImpOrganicCoeffMap": null,
+                "serializedImpOrganicScoreMap": "{}"
+              }
+            },
+            "adsRankingInfo": {
+              "organicRank": 0,
+              "ecpsBidRank": 0,
+              "totalBidRank": 0
+            }
+          },
+          "invalidation_rules": {
+            "meta_ids": [
+              "ad_id",
+              "campaign_id",
+              "app_id",
+              "page_id",
+              "actor_id",
+              "media_id"
+            ],
+            "local_surface": [
+              {
+                "instruction": {
+                  "signal": "seen",
+                  "conditions": [
+                    {
+                      "lhs": "dwelltime",
+                      "comparator": "ge",
+                      "rhs": 250
+                    },
+                    {
+                      "lhs": "time",
+                      "comparator": "le",
+                      "rhs": 7200000
+                    }
+                  ]
+                }
+              },
+              {
+                "instruction": {
+                  "signal": "x-out"
+                }
+              },
+              {
+                "instruction": {
+                  "signal": "ads_pool"
+                }
+              },
+              {
+                "instruction": {
+                  "signal": "ads_inserted"
+                }
+              },
+              {
+                "instruction": {
+                  "signal": "app_install"
+                }
+              }
+            ]
+          },
+          "fb_app_id": 0,
+          "cookies": [
+            "fr=3tG1jnz80Djiw1udI.AWV3jheHvRZ3H3wYBBtg5guPmCI.BiX37a..AAA.0.0.BiX37a.AWVXcD9jxqM; expires=Tue, 19 Jul 2022 03:32:42 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+          ]
+        },
+        "is_sensitive_vertical_ad": false,
+        "collapse_comments": false,
+        "ad_metadata": [
+          {
+            "value": "electricgamebox.com",
+            "type": 1
+          }
+        ],
+        "link": "https://electricgamebox.com/location-change/southbank-london/?utm_source=fb&utm_medium=paid-social&utm_campaign=London_Prospecting_Broad_All_B_20-60_BrandVideo_square-video_London-OpenNow-Bulletpoint_All_AddToCart_LocationPage-Location_LowestCost&fbclid=PAAaaWAaEKhQ4XUEJcvnx4kcTBSghi-9xmMvTy4gqE0y3pDRj_OngjYvGpLqc&external_browser_redirect=true",
+        "link_text": "Book Now",
+        "ad_action": "webclick",
+        "link_hint_text": "Tap Photo to Open Page",
+        "iTunesItem": null,
+        "ad_link_type": 0,
+        "ad_header_style": 0,
+        "dr_ad_type": 1,
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://electricgamebox.com/location-change/southbank-london/?utm_source=fb&utm_medium=paid-social&utm_campaign=London_Prospecting_Broad_All_B_20-60_BrandVideo_square-video_London-OpenNow-Bulletpoint_All_AddToCart_LocationPage-Location_LowestCost&fbclid=PAAaaWAaEKhQ4XUEJcvnx4kcTBSghi-9xmMvTy4gqE0y3pDRj_OngjYvGpLqc&external_browser_redirect=true",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8yP4odVygvV8jX-WC6ow1-LyMDt-VXbQiK3JIpTyySmBND1q0V30SsyukonhcXHk8sfcAb_mMqL37YWmO6D5z4yTPy5-7lcuj0wycuy6O5TO0Skbqt8Ler-1_DWKR6_Nt5DWxtGqaikDClcCIh1nyn0NBn9L3JBPF7yPwogf_FuXJCBLiYivY5ZR2aqolnHXfAhucdmgvra8NYiskc_ysJM7hlvrzt1Zsv_HrzNLiEjn2GYq_oB7p59al_M3UrvWoSDPrch05JT9bcJcA4IpQQ1VmnDE6pFwnLDi1d2D0XDZ4uxfCFntYpIYkb2c5x_KQ0xBTp5zZSDmxMzo1UAD9sl5KjqAP0gcNPavo0Wt7Fb-JnaJ8vK-rCCKAPlg_81NbgR5IAXHK8Slq2QoUnh6JNtOT9gkKbKkWx5viYJIS2VODh_rWkGIHe8l_8hFDlE3-429UfddHnUX9E3IwuWhmdrTV-XI6-hrTtVpEHiuXwWQlwlPfeo0AAYxQFLQ2-AOxtBEgC9C8lBmyEtNYBLavtsw5boUi4mGKldvqSQ5Umfql5zywvsW_ZZK0vyV1Ap1hHfB5eAylaNvFDuMquC9z3DhE6vCJO6KVHxL_Zd0P6Fw&a=1&hash=Ad8-5joMte7X7qmeERI",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null,
+            "referrerData": null,
+            "isAndroidAppLink": null,
+            "destinationContext": "Visit Website",
+            "tapAndHoldContext": "Swipe up to view website"
+          }
+        ],
+        "iab_autofill_optout_info": {
+          "domain": "electricgamebox.com",
+          "is_iab_autofill_optout": false
+        },
+        "click_id": "PAAaaWAaEKhQ4XUEJcvnx4kcTBSghi-9xmMvTy4gqE0y3pDRj_OngjYvGpLqc",
+        "force_overlay": false,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "Electric Gamebox",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#6757FF",
+        "fb_page_url": "https://www.facebook.com/electricgamebox/",
+        "reel_media_background": {
+          "top": {
+            "background_color": "#0F5FF6"
+          },
+          "bottom": {
+            "background_color": "#6542D0"
+          }
+        },
+        "item_client_gap_rules": {
+          "time_based_insertion_gap_in_seconds": null,
+          "push_up_min_gap": null
+        },
+        "can_viewer_save": true,
+        "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMDQ2YTEzYjljZTBmNGI1OGJmMjFkODBiOWU3OWZmMmUyNzc4NzUzMTczNDkzMjQyNzEzIiwic2VydmVyX3Rva2VuIjoiMTY1MDQyNTU2MzkzNnwyNzc4NzUzMTczNDkzMjQyNzEzfDI5NjA0MzMyMTI3fDEyNTljYmY2OTk3MWI4ZGUyNzI4Mzc2MjU0YjM0NjNmNzU1ZGVhZDdlNmEyOGZhYzhkNTQxZTA0OGE3M2JjMDEifSwic2lnbmF0dXJlIjoiIn0=",
+        "expiring_at": 1650511963,
+        "has_shared_to_fb": 0,
+        "sharing_friction_info": {
+          "should_have_sharing_friction": false,
+          "bloks_app_url": null,
+          "sharing_friction_payload": null
+        },
+        "comment_inform_treatment": {
+          "should_have_inform_treatment": false,
+          "text": "",
+          "url": null,
+          "action_type": null
+        },
+        "product_type": "ad",
+        "is_in_profile_grid": false,
+        "profile_grid_control_enabled": false,
+        "deleted_reason": 0,
+        "integrity_review_decision": "pending",
+        "music_metadata": null,
+        "can_reshare": true,
+        "can_reply": false,
+        "story_cta": [
+          {
+            "links": [
+              {
+                "linkType": 1,
+                "webUri": "https://electricgamebox.com/location-change/southbank-london/?utm_source=fb&utm_medium=paid-social&utm_campaign=London_Prospecting_Broad_All_B_20-60_BrandVideo_square-video_London-OpenNow-Bulletpoint_All_AddToCart_LocationPage-Location_LowestCost&fbclid=PAAaaWAaEKhQ4XUEJcvnx4kcTBSghi-9xmMvTy4gqE0y3pDRj_OngjYvGpLqc&external_browser_redirect=true",
+                "androidClass": "",
+                "package": "",
+                "deeplinkUri": "",
+                "callToActionTitle": "",
+                "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8yP4odVygvV8jX-WC6ow1-LyMDt-VXbQiK3JIpTyySmBND1q0V30SsyukonhcXHk8sfcAb_mMqL37YWmO6D5z4yTPy5-7lcuj0wycuy6O5TO0Skbqt8Ler-1_DWKR6_Nt5DWxtGqaikDClcCIh1nyn0NBn9L3JBPF7yPwogf_FuXJCBLiYivY5ZR2aqolnHXfAhucdmgvra8NYiskc_ysJM7hlvrzt1Zsv_HrzNLiEjn2GYq_oB7p59al_M3UrvWoSDPrch05JT9bcJcA4IpQQ1VmnDE6pFwnLDi1d2D0XDZ4uxfCFntYpIYkb2c5x_KQ0xBTp5zZSDmxMzo1UAD9sl5KjqAP0gcNPavo0Wt7Fb-JnaJ8vK-rCCKAPlg_81NbgR5IAXHK8Slq2QoUnh6JNtOT9gkKbKkWx5viYJIS2VODh_rWkGIHe8l_8hFDlE3-429UfddHnUX9E3IwuWhmdrTV-XI6-hrTtVpEHiuXwWQlwlPfeo0AAYxQFLQ2-AOxtBEgC9C8lBmyEtNYBLavtsw5boUi4mGKldvqSQ5Umfql5zywvsW_ZZK0vyV1Ap1hHfB5eAylaNvFDuMquC9z3DhE6vCJO6KVHxL_Zd0P6Fw&a=1&hash=Ad8-5joMte7X7qmeERI",
+                "leadGenFormId": null,
+                "igUserId": null,
+                "appInstallObjectiveInvalidationBehavior": null,
+                "referrerData": null,
+                "isAndroidAppLink": null,
+                "destinationContext": "Visit Website",
+                "tapAndHoldContext": "Swipe up to view website"
+              }
+            ]
+          }
+        ],
+        "is_reel_media": true,
+        "story_ad_headline": {
+          "text": "️� ELECTRIC GAMEBOX IN LONDON �",
+          "background_color": "#000000",
+          "text_color": "#FFFFFF",
+          "text_size": 16,
+          "background_color_alpha": "00"
+        },
+        "supports_reel_reactions": true,
+        "can_send_custom_emojis": true,
+        "show_one_tap_fb_share_tooltip": true,
+        "showreel_video_composition_data": {
+          "client_name": "ig_non_9x16_experience",
+          "content": "{\"bloks_payload\":{\"data\":[{\"id\":\"4642943300005\",\"type\":\"ls\",\"data\":{\"initial_lispy\":\"sraxrAEAAACcAAAABQAAAAAAAABgAAAAEAAAAAAAAAABAAAAcAAAABAAAAAAAAAAAgAAAIAAAAAHAAAAAAAAAAMAAACIAAAADAAAAAAAAAAEAAAAlAAAAAgAAAAAAAAAgAAAAAcAAAAAAAAAAAAAAIgAAAALAAAAXUp9sAAAAAACAAABACkLAGxpc3B5MF9tYWluAGtqVUIxZS0x\"}},{\"id\":\"4642943300012\",\"type\":\"ls\",\"data\":{\"initial_lispy\":\"sraxrAEAAACcAAAABQAAAAAAAABgAAAAEAAAAAAAAAABAAAAcAAAABAAAAAAAAAAAgAAAIAAAAAHAAAAAAAAAAMAAACIAAAADAAAAAAAAAAEAAAAlAAAAAgAAAAAAAAAgAAAAAcAAAAAAAAAAAAAAIgAAAALAAAAXUp9sAAAAAACAAABACkLAGxpc3B5MF9tYWluAGtqVUIxZS00\"}}],\"error_attribution\":{\"logging_id\":\"{\\\"callsite\\\":\\\"{\\\\\\\"product\\\\\\\":\\\\\\\"bloks_unknown\\\\\\\",\\\\\\\"feature\\\\\\\":\\\\\\\"unknown\\\\\\\",\\\\\\\"oncall\\\\\\\":\\\\\\\"showreel\\\\\\\"}\\\",\\\"push_phase\\\":\\\"TS\\\",\\\"version\\\":1}\"},\"tree\":{\"\\u3408\":{\"&\":{\"\\u3402\":{\"#\":{\"\\u3406\":{\"#\":\"#FFF1F1F1\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":3}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":2}\"}},\")\":\"column\",\",\":\"center\",\"$\":\"center\",\" \":[{\"\\u3408\":{\"&\":{\"\\u3402\":{\"#\":{\"\\u3406\":{\"#\":\"#FFFFFFFF\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":10}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":9}\"}},\",\":\"center\",\" \":[{\"\\u3408\":{\"&\":{\"\\u3402\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":14}\"}},\")\":\"column\",\"#\":\"center\",\",\":\"space_between\",\"$\":\"center\",\" \":[{\"\\u3408\":{\"&\":{\"\\u3402\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":18}\"}},\")\":\"column\",\"#\":\"center\",\",\":\"space_between\",\"$\":\"center\",\" \":[{\"\\u3408\":{\"&\":{\"\\u3402\":{\"1\":{\"\\u340a\":{\"#\":{\"\\u3435\":{\"$\":\"#FF0F5FF6\",\"#\":\"#FF0F5FF6\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":24}\"}},\"$\":{\"\\u3435\":{\"$\":\"#FF6542D0\",\"#\":\"#FF6542D0\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":25}\"}},\"(\":\"top_to_bottom\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":23}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":22}\"}},\" \":[],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"100\\u0025\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":27}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":21}\"}}],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"100\\u0025\",\">\":\"absolute\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":29}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":17}\"}},{\"\\u3408\":{\"&\":{\"\\u3402\":{\"#\":{\"\\u3406\":{\"#\":\"#00FFFFFF\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":34}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":33}\"}},\")\":\"column\",\"#\":\"center\",\",\":\"space_between\",\"$\":\"center\",\" \":[],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"11\\u0025\",\">\":\"relative\",\"A\":0,\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":36}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":32}\"}},{\"\\u3408\":{\"&\":{\"\\u3402\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":40}\"}},\")\":\"column\",\"#\":\"center\",\",\":\"space_around\",\"$\":\"center\",\" \":[{\"\\u3408\":{\"&\":{\"\\u3402\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":44}\"}},\")\":\"column\",\"#\":\"center\",\",\":\"space_between\",\"$\":\"center\",\" \":[{\"\\u3408\":{\"&\":{\"\\u3402\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":48}\"}},\")\":\"column\",\"#\":\"center\",\",\":\"space_between\",\"$\":\"center\",\" \":[{\"\\u3408\":{\",\":\"center\",\"$\":\"center\",\" \":[{\"\\u3408\":{\",\":\"center\",\" \":[{\"\\u3d9a\":{\" \":[{\"\\u341b\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":55}\"}}],\"&\":\"26sp\",\"$\":\"26sp\",\"+\":\"start\",\",\":2,\"\\u008c\":{\"\\u3435\":{\"$\":\"#00000000\",\"#\":\"#00000000\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":56}\"}},\"\\u0087\":\"sraxrAEAAABEAQAABQAAAAAAAABgAAAAEAAAAAAAAAABAAAAcAAAAFAAAAAAAAAAAgAAAMAAAAA3AAAAAAAAAAMAAAD4AAAAQQAAAAAAAAAEAAAAPAEAAAgAAAAAAAAAwAAAADcAAAAAAAAAAAAAAPgAAAALAAAAXUp9sAAAAAAEAQAAAQAAACCCAAAAAAAABgEAAA0AAACAC4mlAAAAABQBAAAcAAAACZ4mkAAAAAAxAQAABwAAAO43bykAAAAAAgEABAAvAQAnLwIABAMAASQAWyEAABAoIwBVXw0AAEAFBQBhEAABYC4OLwQABQUDBQUBBQUCCwBsaXNweTBfbWFpbgAgADQ2NDI5NDMzMDAwMDUAYmsuYWN0aW9uLmJsb2tzLkdldFZhcmlhYmxlMgBybjU2aDo3AAAAAGtqVUIxZS0y\",\"\\u008f\":[{\"\\u341b\":{\"&\":\"\\ufe0f\\u26a1 ELECTRIC GAMEBOX IN LONDON \\u26a1\",\"*\":\"26sp\",\"+\":\"bold\",\"(\":\"#FFFFFFFF\",\"4\":false,\"!\":\"rn56h:6\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":57}\"}}],\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":54}\"}}],\"\\u0084\":{\"\\u3438\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":59}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":53}\"}}],\"\\u0084\":{\"\\u3438\":{\"=\":\"0px\",\"9\":\"0px\",\":\":\"0px\",\"7\":\"0px\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":61}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":51}\"}}],\"\\u0084\":{\"\\u3438\":{\"*\":\"100\\u0025\",\">\":\"relative\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":63}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":47}\"}}],\"\\u0084\":{\"\\u3438\":{\"D\":\"88\\u0025\",\"3\":\"15\\u0025\",\"5\":\"10\\u0025\",\">\":\"relative\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":65}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":43}\"}},{\"\\u3408\":{\"&\":{\"\\u3402\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":69}\"}},\")\":\"column\",\"#\":\"center\",\",\":\"space_between\",\"$\":\"center\",\" \":[{\"\\u3d98\":{\"#\":\"\\u003C?xml version=\\\"1.0\\\"?>\\n\\u003CMPD xmlns=\\\"urn:mpeg:dash:schema:mpd:2011\\\" minBufferTime=\\\"PT1.500S\\\" type=\\\"static\\\" mediaPresentationDuration=\\\"PT0H0M21.013S\\\" maxSegmentDuration=\\\"PT0H0M5.000S\\\" profiles=\\\"urn:mpeg:dash:profile:isoff-on-demand:2011,http:\\/\\/dashif.org\\/guidelines\\/dash264\\\" FBTagsetUsed=\\\"v4_5secgop\\\">\\u003CPeriod duration=\\\"PT0H0M21.013S\\\">\\u003CAdaptationSet segmentAlignment=\\\"true\\\" maxWidth=\\\"640\\\" maxHeight=\\\"640\\\" maxFrameRate=\\\"30\\\" par=\\\"1:1\\\" lang=\\\"und\\\" subsegmentAlignment=\\\"true\\\" subsegmentStartsWithSAP=\\\"1\\\">\\u003CRepresentation id=\\\"351698210131692v\\\" mimeType=\\\"video\\/mp4\\\" codecs=\\\"avc1.4D401E\\\" width=\\\"426\\\" height=\\\"426\\\" frameRate=\\\"30\\\" sar=\\\"1:1\\\" startWithSAP=\\\"1\\\" bandwidth=\\\"333341\\\" FBEncodingTag=\\\"dash_v4_5secgop_426_crf_23_main_3.0_frag_2_video\\\" FBAbrPolicyTags=\\\"avoid_on_cell_datasaver,avoid_on_cell_datasaver_intentional\\\" FBDefaultQuality=\\\"1\\\" FBQualityClass=\\\"sd\\\" FBQualityLabel=\\\"360p\\\">\\u003CBaseURL>https:\\/\\/video-sea1-1.xx.fbcdn.net\\/v\\/t39.25447-2\\/273011225_236674855288258_80892563994554409_n.mp4?_nc_cat=108&amp;ccb=1-5&amp;_nc_sid=5aebc0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfNXNlY2dvcF80MjZfY3JmXzIzX21haW5fMy4wX2ZyYWdfMl92aWRlbyJ9&amp;_nc_ohc=ITAJCXxXzTgAX8xT4vx&amp;_nc_ht=video-sea1-1.xx&amp;oh=00_AT8mPGnnbzN2KTg1CQ2WHoC2uUpwoNqum9SwaTtg7ZUw3g&amp;oe=6264664A\\u003C\\/BaseURL>\\u003CSegmentBase indexRangeExact=\\\"true\\\" indexRange=\\\"967-1058\\\">\\u003CInitialization range=\\\"0-966\\\"\\/>\\u003C\\/SegmentBase>\\u003C\\/Representation>\\u003CRepresentation id=\\\"337913591388952v\\\" mimeType=\\\"video\\/mp4\\\" codecs=\\\"avc1.4D401E\\\" width=\\\"256\\\" height=\\\"256\\\" frameRate=\\\"30\\\" sar=\\\"1:1\\\" startWithSAP=\\\"1\\\" bandwidth=\\\"157704\\\" FBEncodingTag=\\\"dash_v4_5secgop_256_crf_23_main_3.0_frag_2_video\\\" FBAbrPolicyTags=\\\"\\\" FBQualityClass=\\\"sd\\\" FBQualityLabel=\\\"240p\\\">\\u003CBaseURL>https:\\/\\/video-sea1-1.xx.fbcdn.net\\/v\\/t39.25447-2\\/272826350_625477758564899_3071252461430103631_n.mp4?_nc_cat=108&amp;ccb=1-5&amp;_nc_sid=5aebc0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfNXNlY2dvcF8yNTZfY3JmXzIzX21haW5fMy4wX2ZyYWdfMl92aWRlbyJ9&amp;_nc_ohc=30aV1W_bceAAX_4Zpqn&amp;_nc_ht=video-sea1-1.xx&amp;oh=00_AT_8qbBsIK-EuE_pMsEh0VNHi9JfPbvjq13LO9BfzktOVg&amp;oe=6263D58C\\u003C\\/BaseURL>\\u003CSegmentBase indexRangeExact=\\\"true\\\" indexRange=\\\"966-1057\\\">\\u003CInitialization range=\\\"0-965\\\"\\/>\\u003C\\/SegmentBase>\\u003C\\/Representation>\\u003CRepresentation id=\\\"464069025354325v\\\" mimeType=\\\"video\\/mp4\\\" codecs=\\\"avc1.4D401F\\\" width=\\\"640\\\" height=\\\"640\\\" frameRate=\\\"30\\\" sar=\\\"1:1\\\" startWithSAP=\\\"1\\\" bandwidth=\\\"569806\\\" FBEncodingTag=\\\"dash_v4_5secgop_hq1_frag_2_video\\\" FBAbrPolicyTags=\\\"avoid_on_cell_datasaver,avoid_on_cell_datasaver_intentional\\\" FBQualityClass=\\\"sd\\\" FBQualityLabel=\\\"640p\\\">\\u003CBaseURL>https:\\/\\/video-sea1-1.xx.fbcdn.net\\/v\\/t39.25447-2\\/272881960_454682249545729_5943329868183604827_n.mp4?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=5aebc0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfNXNlY2dvcF9ocTFfZnJhZ18yX3ZpZGVvIn0\\u00253D&amp;_nc_ohc=jxsT5OoiwpsAX9W9HlD&amp;_nc_ht=video-sea1-1.xx&amp;oh=00_AT-emDBowrSQZSl9EGBXGQX1lyI9T8PiIP9B_EnMES9WoA&amp;oe=626512DB\\u003C\\/BaseURL>\\u003CSegmentBase indexRangeExact=\\\"true\\\" indexRange=\\\"966-1057\\\">\\u003CInitialization range=\\\"0-965\\\"\\/>\\u003C\\/SegmentBase>\\u003C\\/Representation>\\u003C\\/AdaptationSet>\\u003CAdaptationSet segmentAlignment=\\\"true\\\" lang=\\\"eng\\\" subsegmentAlignment=\\\"true\\\" subsegmentStartsWithSAP=\\\"1\\\">\\u003CRepresentation id=\\\"243585480892132a\\\" mimeType=\\\"audio\\/mp4\\\" codecs=\\\"mp4a.40.5\\\" audioSamplingRate=\\\"48000\\\" startWithSAP=\\\"1\\\" bandwidth=\\\"49741\\\" FBEncodingTag=\\\"dash_v4audioforsourcepipeline_128_crf_23_main_3.0_frag_2_audio\\\" FBDefaultQuality=\\\"1\\\">\\u003CAudioChannelConfiguration schemeIdUri=\\\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\\\" value=\\\"2\\\"\\/>\\u003CBaseURL>https:\\/\\/video-lax3-2.xx.fbcdn.net\\/v\\/t42.1790-2\\/182423570_243585484225465_8411943356064573771_n.mp4?_nc_cat=100&amp;ccb=1-5&amp;_nc_sid=5aebc0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRhdWRpb2ZvcnNvdXJjZXBpcGVsaW5lXzEyOF9jcmZfMjNfbWFpbl8zLjBfZnJhZ18yX2F1ZGlvIn0\\u00253D&amp;_nc_ohc=Rn5vKwtUY2IAX_uaC6z&amp;_nc_ht=video-lax3-2.xx&amp;oh=00_AT-JktoDZ9PdmWtGqSnLfizwhdTPQxKMJPOsQlK8Kjkz8g&amp;oe=62612A25\\u003C\\/BaseURL>\\u003CSegmentBase indexRangeExact=\\\"true\\\" indexRange=\\\"931-1094\\\">\\u003CInitialization range=\\\"0-930\\\"\\/>\\u003C\\/SegmentBase>\\u003C\\/Representation>\\u003C\\/AdaptationSet>\\u003C\\/Period>\\u003C\\/MPD>\\n\",\",\":[{\"\\u3dcc\":{\"&\":\"\",\")\":1000,\"#\":1000,\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":72}\"}}],\"=\":{\"\\u3eec\":{\"\\u0087\":\"sraxrAEAAABMAQAABQAAAAAAAABgAAAAEAAAAAAAAAABAAAAcAAAAFAAAAAAAAAAAgAAAMAAAAA0AAAAAAAAAAMAAAD0AAAAUAAAAAAAAAAEAAAARAEAAAgAAAAAAAAAwAAAADQAAAAAAAAAAAAAAPQAAAALAAAAXUp9sAAAAAAAAQAAAQAAABOOAAAAAAAAAgEAABYAAADCRY9dAAAAABkBAAAcAAAACZ4mkAAAAAA2AQAADQAAAI+zq\\/UAAAAAAgEAAwAvAQAnLwIABAMAASQAWx4AABAnIwBVXw0AAEAvBABhDQABYCcvAgAEAwABBQUCC2xpc3B5MF9tYWluACMAc2hvd3JlZWw6dmlkZW8taWQ6cHJvcABiay5hY3Rpb24uYmxva3MuR2V0VmFyaWFibGUyAG1vY2tfdmlkZW9faWQAa2pVQjFlLTM=\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":73}\"}},\"\\u0085\":[],\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":71}\"}}],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\">\":\"relative\",\"$\":1,\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":76}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":68}\"}},{\"\\u3408\":{\"&\":{\"\\u3402\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":80}\"}},\")\":\"column\",\"#\":\"center\",\",\":\"space_between\",\"$\":\"center\",\" \":[{\"\\u3408\":{\",\":\"center\",\"$\":\"center\",\" \":[{\"\\u3408\":{\",\":\"center\",\" \":[{\"\\u3d9a\":{\" \":[{\"\\u341b\":{\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":87}\"}}],\"&\":\"16sp\",\"$\":\"26sp\",\"+\":\"start\",\",\":6,\"-\":[{\"\\u341b\":{\"&\":\" ...\",\"*\":\"16sp\",\"+\":\"bold\",\"(\":\"#FFFFFFFF\",\"4\":false,\"9\":\"sraxrAEAAAAYBAAABQAAAAAAAABgAAAAEAAAAAAAAAABAAAAcAAAAJAAAAAAAAAAAgAAAAABAAA2AAAAAAAAAAMAAAA4AQAA2AIAAAAAAAAEAAAAEAQAAAgAAAAAAAAAAAEAADYAAAAAAAIAAAAAADgBAAALAAAAXUp9sAAAAABEAQAA2QEAADnqY8EAAAAAHgMAAB0AAADQbYPOAAAAADwDAAAxAAAAnDbQWQAAAABuAwAAHQAAAJQf8d4AAAAAjAMAAB0AAACFG\\/HeAAAAAKoDAAAcAAAAQQBtMAAAAADHAwAAGwAAANDujUoAAAAA4wMAACwAAABPPmNwAAAAAAICAggAJyMAJycvAQAEAgABBAMAAScjAQQEAAEnIwEEBQABJyMBBAYAAScjAQQHAAEECAAGCwAAbGlzcHkwX21haW4AeyJsYXlvdXQiOnsiYmxva3NfcGF5bG9hZCI6eyJyZWZlcmVuY2VkIjpbXSwicmVmZXJlbmNlZF9leHRlcm5hbCI6W10sInJlZmVyZW5jZWRfZW1iZWRkZWRfcGF5bG9hZHMiOltdLCJyZWZlcmVuY2VkX2VtYmVkZGVkX2VsZW1lbnRzIjpbXSwidHJlZSI6eyLjnIwiOnsiJCI6Im1vcmUiLCIjIjoiVElDS0VUUyBPTiBTQUxFIE5PVyEg8J+Oq1xuQm9vayBhbiBpbW1lcnNpdmUgZ3JvdXAgZ2FtaW5nIHNlc3Npb24gd2l0aCDimqEgRWxlY3RyaWMgR2FtZWJveCDimqEgYW5kIGNyZWF0ZSBhIG1lbW9yeSB5b3Ugd2lsbCBuZXZlciBmb3JnZXQhXG5cbvCflbnvuI8gUGxheSB3aXRoIHVwIHRvIDYgcGVvcGxlXG7wn5KlIEZ1biBmb3IgZXZlcnlvbmUhIEFnZXMgNStcbvCfpbMgT3JnYW5pc2UgcGFydGllcyBhbmQgZXZlbnRzICIsIiYiOjAsIsKAIjoie1wibWV0YWRhdGFfaWRcIjpcInZ1eGlqWlwiLFwidHJhY2VfaWRcIjo4OX0ifX19fX0AYmsuYWN0aW9uLmJsb2tzLlBhcnNlRW1iZWRkZWQAYmsuYWN0aW9uLmJsb2tzLkRhbmdlcm91c2x5R2V0VHJlZUZyb21QYXJzZVJlc3VsdABiay5hY3Rpb24udGV4dHNwYW4uR2V0Q2VudGVyWABiay5hY3Rpb24udGV4dHNwYW4uR2V0Q2VudGVyWQBiay5hY3Rpb24udGV4dHNwYW4uR2V0SGVpZ2h0AGJrLmFjdGlvbi50ZXh0c3Bhbi5HZXRXaWR0aABiay5hY3Rpb24uc2hvd3JlZWwuSW52b2tlSW50ZXJhY3Rpb25XaXRoQXJncwBralVCMWUtNQ==\",\"!\":\"rn56h:13\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":88}\"}},{\"\\u341b\":{\"&\":\"more\",\"*\":\"16sp\",\"+\":\"bold\",\"(\":\"#FFFFFFFF\",\"4\":true,\"9\":\"sraxrAEAAAAYBAAABQAAAAAAAABgAAAAEAAAAAAAAAABAAAAcAAAAJAAAAAAAAAAAgAAAAABAAA2AAAAAAAAAAMAAAA4AQAA2AIAAAAAAAAEAAAAEAQAAAgAAAAAAAAAAAEAADYAAAAAAAIAAAAAADgBAAALAAAAXUp9sAAAAABEAQAA2QEAAMmUyhQAAAAAHgMAAB0AAADQbYPOAAAAADwDAAAxAAAAnDbQWQAAAABuAwAAHQAAAJQf8d4AAAAAjAMAAB0AAACFG\\/HeAAAAAKoDAAAcAAAAQQBtMAAAAADHAwAAGwAAANDujUoAAAAA4wMAACwAAABPPmNwAAAAAAICAggAJyMAJycvAQAEAgABBAMAAScjAQQEAAEnIwEEBQABJyMBBAYAAScjAQQHAAEECAAGCwAAbGlzcHkwX21haW4AeyJsYXlvdXQiOnsiYmxva3NfcGF5bG9hZCI6eyJyZWZlcmVuY2VkIjpbXSwicmVmZXJlbmNlZF9leHRlcm5hbCI6W10sInJlZmVyZW5jZWRfZW1iZWRkZWRfcGF5bG9hZHMiOltdLCJyZWZlcmVuY2VkX2VtYmVkZGVkX2VsZW1lbnRzIjpbXSwidHJlZSI6eyLjnIwiOnsiJCI6Im1vcmUiLCIjIjoiVElDS0VUUyBPTiBTQUxFIE5PVyEg8J+Oq1xuQm9vayBhbiBpbW1lcnNpdmUgZ3JvdXAgZ2FtaW5nIHNlc3Npb24gd2l0aCDimqEgRWxlY3RyaWMgR2FtZWJveCDimqEgYW5kIGNyZWF0ZSBhIG1lbW9yeSB5b3Ugd2lsbCBuZXZlciBmb3JnZXQhXG5cbvCflbnvuI8gUGxheSB3aXRoIHVwIHRvIDYgcGVvcGxlXG7wn5KlIEZ1biBmb3IgZXZlcnlvbmUhIEFnZXMgNStcbvCfpbMgT3JnYW5pc2UgcGFydGllcyBhbmQgZXZlbnRzICIsIiYiOjAsIsKAIjoie1wibWV0YWRhdGFfaWRcIjpcInZ1eGlqWlwiLFwidHJhY2VfaWRcIjo5MX0ifX19fX0AYmsuYWN0aW9uLmJsb2tzLlBhcnNlRW1iZWRkZWQAYmsuYWN0aW9uLmJsb2tzLkRhbmdlcm91c2x5R2V0VHJlZUZyb21QYXJzZVJlc3VsdABiay5hY3Rpb24udGV4dHNwYW4uR2V0Q2VudGVyWABiay5hY3Rpb24udGV4dHNwYW4uR2V0Q2VudGVyWQBiay5hY3Rpb24udGV4dHNwYW4uR2V0SGVpZ2h0AGJrLmFjdGlvbi50ZXh0c3Bhbi5HZXRXaWR0aABiay5hY3Rpb24uc2hvd3JlZWwuSW52b2tlSW50ZXJhY3Rpb25XaXRoQXJncwBralVCMWUtNg==\",\"!\":\"rn56h:15\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":90}\"}}],\"\\u008c\":{\"\\u3435\":{\"$\":\"#00000000\",\"#\":\"#00000000\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":92}\"}},\"\\u0087\":\"sraxrAEAAABEAQAABQAAAAAAAABgAAAAEAAAAAAAAAABAAAAcAAAAFAAAAAAAAAAAgAAAMAAAAA3AAAAAAAAAAMAAAD4AAAAQgAAAAAAAAAEAAAAPAEAAAgAAAAAAAAAwAAAADcAAAAAAAAAAAAAAPgAAAALAAAAXUp9sAAAAAAEAQAAAQAAACCCAAAAAAAABgEAAA0AAAAPFbmlAAAAABQBAAAcAAAACZ4mkAAAAAAxAQAACAAAAM6cUK4AAAAAAgEABAAvAQAnLwIABAMAASQAWyEAABAoIwBVXw0AAEAFBQBhEAABYC4OLwQABQUDBQUBBQUCCwBsaXNweTBfbWFpbgAgADQ2NDI5NDMzMDAwMTIAYmsuYWN0aW9uLmJsb2tzLkdldFZhcmlhYmxlMgBybjU2aDoxOAAAAGtqVUIxZS03\",\"\\u008f\":[{\"\\u341b\":{\"&\":\"TICKETS ON SALE NOW! \\ud83c\\udfab\\nBook an immersive group gaming session with \\u26a1 Electric Gamebox \\u26a1 and create a memory you will never forget!\\n\\n\\ud83d\\udd79\\ufe0f Play with up to 6 people\\n\\ud83d\\udca5 Fun for everyone! Ages 5+\\n\\ud83e\\udd73 Organise parties and events \",\"*\":\"16sp\",\"+\":\"bold\",\"(\":\"#FFFFFFFF\",\"4\":false,\"!\":\"rn56h:17\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":93}\"}}],\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":86}\"}}],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"100\\u0025\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":95}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":85}\"}}],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"100\\u0025\",\"=\":\"0px\",\"9\":\"0px\",\":\":\"0px\",\"7\":\"0px\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":97}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":83}\"}}],\"\\u0084\":{\"\\u3438\":{\"D\":\"88\\u0025\",\"*\":\"20\\u0025\",\">\":\"relative\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":99}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":79}\"}}],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"100\\u0025\",\">\":\"relative\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":101}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":39}\"}},{\"\\u3408\":{\"&\":{\"\\u3402\":{\"#\":{\"\\u3406\":{\"#\":\"#00FFFFFF\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":106}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":105}\"}},\")\":\"column\",\"#\":\"center\",\",\":\"space_between\",\"$\":\"center\",\" \":[],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"11.25\\u0025\",\">\":\"relative\",\"A\":0,\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":108}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":104}\"}}],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"100\\u0025\",\">\":\"relative\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":110}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":13}\"}}],\"!\":\"rn56h:2\",\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"100\\u0025\",\"#\":\"center\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":112}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":8}\"}}],\"\\u0085\":[],\"\\u0084\":{\"\\u3438\":{\"D\":\"100\\u0025\",\"*\":\"100\\u0025\",\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":6}\"}},\"\\u0080\":\"{\\\"metadata_id\\\":\\\"vuxijZ\\\",\\\"trace_id\\\":1}\"}}}}",
+          "template_name": "glados_video_bloks_portal_new_video_component"
+        }
+      }
+    ],
+    "ranked_position": 1,
+    "seen_ranked_position": 1,
+    "muted": false,
+    "prefetch_count": 0,
+    "client_gap_rules": {
+      "reel_gap_to_previous_ad": 0,
+      "reel_gap_to_previous_netego": 0,
+      "consumed_media_gap_to_previous_ad": 0,
+      "consumed_media_gap_to_previous_netego": 0,
+      "max_reel_gap_to_previous_item": 0,
+      "highest_position_rule": 1,
+      "min_media_gap_to_previous_item": 0,
+      "time_gap_to_previous_item_in_sec": 0,
+      "is_media_based_hp_enabled": true,
+      "carry_over_highest_position_rule": 0
+    },
+    "priority_index": 0
+}

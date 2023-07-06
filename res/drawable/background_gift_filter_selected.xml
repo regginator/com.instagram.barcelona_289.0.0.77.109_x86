@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/igds_bio_pill_active_background" />
+    <corners android:radius="@dimen/avatar_sticker_grid_height_offset" />
+</shape>

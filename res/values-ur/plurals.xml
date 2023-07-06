@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s میں %2$d آئٹمز ہیں ،یہ %3$s %4$s ہے</item>
+        <item quantity="one">%1$s میں %2$d آئٹمز ہیں، یہ %3$s، %4$s ہے</item>
+    </plurals>
+</resources>

@@ -1,0 +1,836 @@
+{
+  "id": "generic_profile_card_combo_signals.json",
+  "latest_reel_media": null,
+  "expiring_at": 1665179955,
+  "seen": null,
+  "can_reply": false,
+  "can_gif_quick_reply": true,
+  "can_reshare": false,
+  "can_react_with_avatar": false,
+  "reel_type": "ads_reel",
+  "ad_expiry_timestamp_in_millis": 1665118756000,
+  "is_cta_sticker_available": true,
+  "user": {
+    "pk": 1146648434,
+    "username": "atelier_perfumery",
+    "full_name": "AtelierPerfumeryأتيلير للعطور",
+    "is_private": false,
+    "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/279271680_1174797269935181_4938063718623345272_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=X_-CviSZA9cAX9l1Xe1&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT_jLNgizaAmPe2ZpRMe9yU5m_eysZAYUyUaIpfcyPSeqA&oe=63455437&_nc_sid=e4e9cf",
+    "profile_pic_id": "2826952433600030292_1146648434",
+    "is_verified": false,
+    "followStatus": "1"
+  },
+  "items": [
+    {
+      "taken_at": 1662193206,
+      "pk": 2919010643569649000,
+      "id": "2919010643569649241_1146648434",
+      "device_timestamp": 1662193206,
+      "media_type": 1,
+      "code": "CiCaLb5jaZZ",
+      "client_cache_key": "MjkxOTAxMDY0MzU2OTY0OTI0MQ==.2",
+      "filter_type": 0,
+      "is_unified_video": false,
+      "should_request_ads": false,
+      "original_media_has_visual_reply_media": false,
+      "caption_is_edited": false,
+      "like_and_view_counts_disabled": false,
+      "commerciality_status": "not_commercial",
+      "is_paid_partnership": false,
+      "is_visual_reply_commenter_notice_enabled": true,
+      "has_delayed_metadata": false,
+      "has_more_comments": false,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "hide_view_all_comment_entrypoint": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "max_num_visible_preview_comments": 2,
+      "photo_of_you": false,
+      "is_organic_product_tagging_eligible": false,
+      "can_see_insights_as_brand": false,
+      "user": {
+        "pk": 1146648434,
+        "username": "atelier_perfumery",
+        "full_name": "AtelierPerfumeryأتيلير للعطور",
+        "is_private": false,
+        "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/279271680_1174797269935181_4938063718623345272_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=X_-CviSZA9cAX9l1Xe1&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT_jLNgizaAmPe2ZpRMe9yU5m_eysZAYUyUaIpfcyPSeqA&oe=63455437&_nc_sid=e4e9cf",
+        "profile_pic_id": "2826952433600030292_1146648434",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "has_highlight_reels": false,
+        "transparency_product_enabled": false,
+        "account_badges": [],
+        "fan_club_info": {
+          "fan_club_id": null,
+          "fan_club_name": null,
+          "is_fan_club_referral_eligible": null
+        }
+      },
+      "like_count": 6,
+      "has_liked": false,
+      "likers": [
+        {
+          "pk": 674984289,
+          "username": "akpillai",
+          "full_name": "",
+          "is_private": true,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/46382030_480742422449304_9072680725567766528_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=qCgZB66bKSIAX-gQ1hk&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT-W7BeQSMuqP4Ov6E6X4qgVDqiwrrZlPDFcBQFh7yEN-w&oe=63459058&_nc_sid=e4e9cf",
+          "profile_pic_id": "1939469689429023162_674984289",
+          "is_verified": false
+        },
+        {
+          "pk": 5855730053,
+          "username": "peace_nd_love._",
+          "full_name": "【﻿ आदु 🌹】",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/308049920_427116382877759_6878942161708887512_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=05NfeuoX3qcAX9L50HA&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT-sX9nW4Tx9EjtgV1G5tB9aILff7Ka1YBwIw7_2A9rf-A&oe=634734E1&_nc_sid=e4e9cf",
+          "profile_pic_id": "2932764667986512171_5855730053",
+          "is_verified": false
+        },
+        {
+          "pk": 4010003950,
+          "username": "salih_msk_tirur",
+          "full_name": "Salih Msk Tirur",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/307820921_788205532520080_5330319100737690030_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=3O61EuBgxVsAX_NuSN-&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT8PL-T6bzqMIX1cGOn0Q1lPUG8nwf_3YsoAywNlzsb7_g&oe=63459EFC&_nc_sid=e4e9cf",
+          "profile_pic_id": "2931088826107420057_4010003950",
+          "is_verified": false
+        },
+        {
+          "pk": 54159336148,
+          "username": "kabalathwal121",
+          "full_name": "",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/307203447_1049584255760078_2753235723956561929_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=GGhLqquk0kIAX89l_oq&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT9b1lD481AIIkgtf6MYWO7dLuq-66tUSouzukto-fKjEQ&oe=63461E43&_nc_sid=e4e9cf",
+          "profile_pic_id": "2930064695843629424_54159336148",
+          "is_verified": false
+        },
+        {
+          "pk": 2051649457,
+          "username": "viv_mulchandani",
+          "full_name": "Vivek Mulchandani",
+          "is_private": true,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/88210707_192027075389596_2635714295890968576_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=_5_3oIaimEUAX-KpNf5&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT8E267mv8yz8DVbkYWEx8UqABexCb3rMqfnkHlUEGtRug&oe=6345F3E8&_nc_sid=e4e9cf",
+          "profile_pic_id": "2260438912416898998_2051649457",
+          "is_verified": false
+        },
+        {
+          "pk": 2324924788,
+          "username": "77_wsk",
+          "full_name": "Waqar Ahmed Shaikh",
+          "is_private": true,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/80847130_2582859931783226_5320190832962174976_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=zoaB6b2ZnwsAX85J4Mv&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT8Kye6bn1ROr9v1AAqv7H7KoesRknwdEGniIBGo1ccftw&oe=634675B9&_nc_sid=e4e9cf",
+          "profile_pic_id": "2223333969750270070_2324924788",
+          "is_verified": false
+        }
+      ],
+      "caption": {
+        "pk": 17948188559178308,
+        "user_id": 1146648434,
+        "text": "👉Get 10% off on Atelier Products and enjoy luxury perfumes. Buy Now Pay later🛒🥰",
+        "type": 1,
+        "created_at": 1662193207,
+        "created_at_utc": 1662193207,
+        "content_type": "comment",
+        "status": "Active",
+        "bit_flags": 0,
+        "did_report_as_spam": false,
+        "share_enabled": false,
+        "user": {
+          "pk": 1146648434,
+          "username": "atelier_perfumery",
+          "full_name": "AtelierPerfumeryأتيلير للعطور",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/279271680_1174797269935181_4938063718623345272_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=X_-CviSZA9cAX9l1Xe1&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT_jLNgizaAmPe2ZpRMe9yU5m_eysZAYUyUaIpfcyPSeqA&oe=63455437&_nc_sid=e4e9cf",
+          "profile_pic_id": "2826952433600030292_1146648434",
+          "is_verified": false,
+          "followStatus": "1"
+        },
+        "is_covered": false,
+        "is_ranked_comment": false,
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00",
+        "media_id": 2919010643569649000,
+        "private_reply_status": 0,
+        "hide_username": false
+      },
+      "comment_inform_treatment": {
+        "should_have_inform_treatment": false,
+        "text": "",
+        "url": null,
+        "action_type": null
+      },
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null,
+        "sharing_friction_payload": null
+      },
+      "can_viewer_save": true,
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "image_versions2": {
+        "candidates": [
+          {
+            "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/300020492_23851633417400558_5995390631465063863_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=vy02zeXHTU4AX9kSeIr&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT8ZdTDeuDF-IQNeuKhTpD_SDbgoZXUBQwKiJxzelp4QVw&oe=63464931&_nc_sid=e4e9cf",
+            "width": 1080,
+            "height": 1080
+          }
+        ]
+      },
+      "original_width": 1080,
+      "original_height": 1080,
+      "injected": {
+        "label": "Sponsored (Demo)",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQLbedyE5G05RbPZd9GHqNG6FYqcx-6EiiN74ibVBj13vQiqr1zPO6Rgr5CXjq3d5TsGc3KdDVRqjaT6hD2-wLj1",
+        "show_ad_choices": false,
+        "ad_title": "Atelier Perfumery",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23851633496160560,
+        "campaign_id": 23851633409880560,
+        "app_id": 0,
+        "page_id": 1681565715427063,
+        "actor_id": 503739853067985,
+        "media_id": 2919010643569649000,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": null,
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "invalidation_rules": {
+          "meta_ids": [
+            "ad_id"
+          ],
+          "local_surface": [
+            {
+              "instruction": {
+                "signal": "seen",
+                "conditions": [
+                  {
+                    "lhs": "dwelltime",
+                    "comparator": "ge",
+                    "rhs": 250
+                  },
+                  {
+                    "lhs": "time",
+                    "comparator": "le",
+                    "rhs": 7200000
+                  }
+                ]
+              }
+            },
+            {
+              "instruction": {
+                "signal": "x-out"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_pool"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_inserted"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "app_install"
+              }
+            }
+          ]
+        },
+        "fb_app_id": 0,
+        "is_luxury_vertical_ad": false,
+        "cookies": [
+          "fr=0qBK6XhFqKvyJHLFi.AWWeu9oQH7lLh4c_lddL3XzHqyQ.BjP0-z..AAA.0.0.BjP0-z.AWWg1KhQ54Q; expires=Wed, 04 Jan 2023 21:59:15 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ],
+        "click_to_direct_lead_gen_ads_info": {
+          "isLeadGenAd": false
+        }
+      },
+      "is_sensitive_vertical_ad": false,
+      "collapse_comments": false,
+      "ad_metadata": [
+        {
+          "value": "atelierperfumery.com",
+          "type": 1
+        }
+      ],
+      "link": "https://studypedia.com/events/studypedia-second-international-educational-fair-22/?fbclid=PAAaZcYNNJ-uDYjZo1fIkhZeGYraJBv0LRPbRL5knGDLpzrNB_TEBacGKpyqE&external_browser_redirect=true",
+      "link_text": "Shop Now",
+      "ad_action": "webclick",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "android_links": [
+        {
+          "linkType": 3,
+          "webUri": "https://studypedia.com/events/studypedia-second-international-educational-fair-22/?fbclid=PAAaZcYNNJ-uDYjZo1fIkhZeGYraJBv0LRPbRL5knGDLpzrNB_TEBacGKpyqE&external_browser_redirect=true",
+          "contentId": 0,
+          "productPageId": null,
+          "isUniversalLink": null,
+          "deeplinkUri": null,
+          "callToActionTitle": "",
+          "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_0Jc2Od0cr-y-zO8EURIM2GWkPrx9Mj1XyfQkMvd2BmglBX1xGV50bMLZPQ7930jn_3NpbQHU9Oi1Lgi8lG7P_nIzlwV2FGz2hd2Rqe_Rwvv0WApyi9dY0GnI9cZ5aUIOFukhFRaCqedSFiRgKX3h4hxo5A5Of_HK7v1DxiJjQIG95Loh-yjm_pZ_oOBNgz3KPkvUpM6jnSL-45WbQw4saaTPS3vaGO79TBKp1FtK85pkDEdLVnHVin1BMKm4MI7hLBseNwDRpYDxqSQx8eJuetbtkTcL5ONiuUVTn-3FdqLeKf7ynaYv1jGHmqNHFZq4o0J8ItOA0x9FRK1BCUVRXAi1HzywF53FcWlJzSEC0__2n8fl198AWreqUG-aegT6NIJcvPyE6kQQFzm_QmxLyqINkVoj7XafBb8vJhboajQ&a=1&hash=Ad-GA0AuEJyCJr_bhXA",
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "skAdNetworkMetadata": null,
+          "destinationContext": "Open App",
+          "tapAndHoldContext": "Swipe up to open app"
+        }
+      ],
+      "iab_autofill_optout_info": {
+        "domain": "",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "PAAaYVhHGiv3qzarTSAz_b16idB5VHqxe_BiWX0_5AkrnC0S_ZY71918mLsbU_aem_AcQ3vAUshzXw7U5DAnG4rBskSqMUi1AAf52Zak3io-8QgV8oh6sW8ZFXU2KvGfbUiTs66l4VrgfABzdGZDYt1hhCN7NMGPtNQXXybAyK18UUyx5Uur2hOm3-G8MxYWg_Monfva0zqprPQbsuy-5y4fN6",
+      "force_overlay": true,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "Atelier Perfumery",
+      "overlay_subtitle": "Go to atelierperfumery.com",
+      "dominant_color": "#98765E",
+      "fb_page_url": "https://www.facebook.com/atelierperfumery/",
+      "reel_media_background": {
+        "top": {
+          "background_color": "#D8DAD9"
+        },
+        "bottom": {
+          "background_color": "#E9E8E4"
+        }
+      },
+      "item_client_gap_rules": {
+        "time_based_insertion_gap_in_seconds": null,
+        "push_up_min_gap": null,
+        "enable_user_engagement_base_insertion": null,
+        "user_engagement_based_insertion_settings": null
+      },
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjU2NWJlNjkxNGM3NGYwY2IyMTI4ZGU4MzlkNjRjNjIyOTE5MDEwNjQzNTY5NjQ5MjQxIiwic2VydmVyX3Rva2VuIjoiMTY2NTA5MzU1NTgyMnwyOTE5MDEwNjQzNTY5NjQ5MjQxfDEzNTAzMDA1NjB8YWU0NzIyNTNmNTc2MzMzOTE4OGYzZmJiYWYxNGI5OTM1ZTY0MmZkNzkyMmIxMDIwNWE2Njc2NWRlOGJlN2M0MCJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at": 1665179955,
+      "has_shared_to_fb": 0,
+      "product_type": "ad",
+      "deleted_reason": 0,
+      "integrity_review_decision": "pending",
+      "commerce_integrity_review_decision": null,
+      "music_metadata": null,
+      "is_artist_pick": false,
+      "can_reshare": false,
+      "can_reply": false,
+      "can_send_prompt": false,
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 3,
+              "webUri": "",
+              "contentId": 0,
+              "productPageId": null,
+              "isUniversalLink": null,
+              "deeplinkUri": "instagram://extbrowser/?url=https://atelierperfumery.com/shop/?swoof=1&orderby=popularity&fbclid=PAAaYVhHGiv3qzarTSAz_b16idB5VHqxe_BiWX0_5AkrnC0S_ZY71918mLsbU_aem_AcQ3vAUshzXw7U5DAnG4rBskSqMUi1AAf52Zak3io-8QgV8oh6sW8ZFXU2KvGfbUiTs66l4VrgfABzdGZDYt1hhCN7NMGPtNQXXybAyK18UUyx5Uur2hOm3-G8MxYWg_Monfva0zqprPQbsuy-5y4fN6",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "skAdNetworkMetadata": null,
+              "destinationContext": "Open App",
+              "tapAndHoldContext": "Swipe up to open app"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true,
+      "story_ad_headline": {
+        "text": "Luxury Perfumes Store",
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00"
+      },
+      "supports_reel_reactions": true,
+      "can_send_custom_emojis": true,
+      "show_one_tap_fb_share_tooltip": true
+    },
+    {
+      "taken_at": 1662193216,
+      "pk": 2919010643569649000,
+      "id": "2919010643569649241@genericcard_1146648434",
+      "device_timestamp": 1662193206,
+      "media_type": 1,
+      "code": "CiCaLb5jaZZ",
+      "client_cache_key": "MjkxOTAxMDY0MzU2OTY0OTI0MQ==.2",
+      "filter_type": 0,
+      "is_unified_video": false,
+      "should_request_ads": false,
+      "original_media_has_visual_reply_media": false,
+      "caption_is_edited": false,
+      "like_and_view_counts_disabled": false,
+      "commerciality_status": "not_commercial",
+      "is_paid_partnership": false,
+      "is_visual_reply_commenter_notice_enabled": true,
+      "has_delayed_metadata": false,
+      "has_more_comments": false,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "hide_view_all_comment_entrypoint": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "max_num_visible_preview_comments": 2,
+      "photo_of_you": false,
+      "is_organic_product_tagging_eligible": false,
+      "can_see_insights_as_brand": false,
+      "user": {
+        "pk": 1146648434,
+        "username": "atelier_perfumery",
+        "full_name": "AtelierPerfumeryأتيلير للعطور",
+        "is_private": false,
+        "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/279271680_1174797269935181_4938063718623345272_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=X_-CviSZA9cAX9l1Xe1&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT_jLNgizaAmPe2ZpRMe9yU5m_eysZAYUyUaIpfcyPSeqA&oe=63455437&_nc_sid=e4e9cf",
+        "profile_pic_id": "2826952433600030292_1146648434",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "has_highlight_reels": false,
+        "transparency_product_enabled": false,
+        "account_badges": [],
+        "fan_club_info": {
+          "fan_club_id": null,
+          "fan_club_name": null,
+          "is_fan_club_referral_eligible": null
+        }
+      },
+      "like_count": 6,
+      "has_liked": false,
+      "likers": [
+        {
+          "pk": 674984289,
+          "username": "akpillai",
+          "full_name": "",
+          "is_private": true,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/46382030_480742422449304_9072680725567766528_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=qCgZB66bKSIAX-gQ1hk&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT-W7BeQSMuqP4Ov6E6X4qgVDqiwrrZlPDFcBQFh7yEN-w&oe=63459058&_nc_sid=e4e9cf",
+          "profile_pic_id": "1939469689429023162_674984289",
+          "is_verified": false
+        },
+        {
+          "pk": 5855730053,
+          "username": "peace_nd_love._",
+          "full_name": "【﻿ आदु 🌹】",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/308049920_427116382877759_6878942161708887512_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=05NfeuoX3qcAX9L50HA&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT-sX9nW4Tx9EjtgV1G5tB9aILff7Ka1YBwIw7_2A9rf-A&oe=634734E1&_nc_sid=e4e9cf",
+          "profile_pic_id": "2932764667986512171_5855730053",
+          "is_verified": false
+        },
+        {
+          "pk": 4010003950,
+          "username": "salih_msk_tirur",
+          "full_name": "Salih Msk Tirur",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/307820921_788205532520080_5330319100737690030_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=3O61EuBgxVsAX_NuSN-&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT8PL-T6bzqMIX1cGOn0Q1lPUG8nwf_3YsoAywNlzsb7_g&oe=63459EFC&_nc_sid=e4e9cf",
+          "profile_pic_id": "2931088826107420057_4010003950",
+          "is_verified": false
+        },
+        {
+          "pk": 54159336148,
+          "username": "kabalathwal121",
+          "full_name": "",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/307203447_1049584255760078_2753235723956561929_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=GGhLqquk0kIAX89l_oq&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT9b1lD481AIIkgtf6MYWO7dLuq-66tUSouzukto-fKjEQ&oe=63461E43&_nc_sid=e4e9cf",
+          "profile_pic_id": "2930064695843629424_54159336148",
+          "is_verified": false
+        },
+        {
+          "pk": 2051649457,
+          "username": "viv_mulchandani",
+          "full_name": "Vivek Mulchandani",
+          "is_private": true,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/88210707_192027075389596_2635714295890968576_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=_5_3oIaimEUAX-KpNf5&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT8E267mv8yz8DVbkYWEx8UqABexCb3rMqfnkHlUEGtRug&oe=6345F3E8&_nc_sid=e4e9cf",
+          "profile_pic_id": "2260438912416898998_2051649457",
+          "is_verified": false
+        },
+        {
+          "pk": 2324924788,
+          "username": "77_wsk",
+          "full_name": "Waqar Ahmed Shaikh",
+          "is_private": true,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/80847130_2582859931783226_5320190832962174976_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=zoaB6b2ZnwsAX85J4Mv&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT8Kye6bn1ROr9v1AAqv7H7KoesRknwdEGniIBGo1ccftw&oe=634675B9&_nc_sid=e4e9cf",
+          "profile_pic_id": "2223333969750270070_2324924788",
+          "is_verified": false
+        }
+      ],
+      "caption": {
+        "pk": 17948188559178308,
+        "user_id": 1146648434,
+        "text": "👉Get 10% off on Atelier Products and enjoy luxury perfumes. Buy Now Pay later🛒🥰",
+        "type": 1,
+        "created_at": 1662193207,
+        "created_at_utc": 1662193207,
+        "content_type": "comment",
+        "status": "Active",
+        "bit_flags": 0,
+        "did_report_as_spam": false,
+        "share_enabled": false,
+        "user": {
+          "pk": 1146648434,
+          "username": "atelier_perfumery",
+          "full_name": "AtelierPerfumeryأتيلير للعطور",
+          "is_private": false,
+          "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/279271680_1174797269935181_4938063718623345272_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=X_-CviSZA9cAX9l1Xe1&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT_jLNgizaAmPe2ZpRMe9yU5m_eysZAYUyUaIpfcyPSeqA&oe=63455437&_nc_sid=e4e9cf",
+          "profile_pic_id": "2826952433600030292_1146648434",
+          "is_verified": false,
+          "followStatus": "1"
+        },
+        "is_covered": false,
+        "is_ranked_comment": false,
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00",
+        "media_id": 2919010643569649000,
+        "private_reply_status": 0,
+        "hide_username": false
+      },
+      "comment_inform_treatment": {
+        "should_have_inform_treatment": false,
+        "text": "",
+        "url": null,
+        "action_type": null
+      },
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null,
+        "sharing_friction_payload": null
+      },
+      "can_viewer_save": true,
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "image_versions2": {
+        "candidates": [
+          {
+            "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/300020492_23851633417400558_5995390631465063863_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=vy02zeXHTU4AX9kSeIr&edm=ANct6CgBAAAA&ccb=7-5&oh=00_AT8ZdTDeuDF-IQNeuKhTpD_SDbgoZXUBQwKiJxzelp4QVw&oe=63464931&_nc_sid=e4e9cf",
+            "width": 1080,
+            "height": 1080
+          }
+        ]
+      },
+      "original_width": 1080,
+      "original_height": 1080,
+      "injected": {
+        "label": "Sponsored (Demo)",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQLbedyE5G05RbPZd9GHqNG6FYqcx-6EiiN74ibVBj13vQiqr1zPO6Rgr5CXjq3d5TsGc3KdDVRqjaT6hD2-wLj1",
+        "show_ad_choices": false,
+        "ad_title": "Atelier Perfumery",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23851633496160560,
+        "campaign_id": 23851633409880560,
+        "app_id": 0,
+        "page_id": 1681565715427063,
+        "actor_id": 503739853067985,
+        "media_id": 2919010643569649000,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": null,
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "invalidation_rules": {
+          "meta_ids": [
+            "ad_id"
+          ],
+          "local_surface": [
+            {
+              "instruction": {
+                "signal": "seen",
+                "conditions": [
+                  {
+                    "lhs": "dwelltime",
+                    "comparator": "ge",
+                    "rhs": 250
+                  },
+                  {
+                    "lhs": "time",
+                    "comparator": "le",
+                    "rhs": 7200000
+                  }
+                ]
+              }
+            },
+            {
+              "instruction": {
+                "signal": "x-out"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_pool"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "ads_inserted"
+              }
+            },
+            {
+              "instruction": {
+                "signal": "app_install"
+              }
+            }
+          ]
+        },
+        "fb_app_id": 0,
+        "is_luxury_vertical_ad": false,
+        "cookies": [
+          "fr=0qBK6XhFqKvyJHLFi.AWWeu9oQH7lLh4c_lddL3XzHqyQ.BjP0-z..AAA.0.0.BjP0-z.AWWg1KhQ54Q; expires=Wed, 04 Jan 2023 21:59:15 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ],
+        "click_to_direct_lead_gen_ads_info": {
+          "isLeadGenAd": false
+        }
+      },
+      "is_sensitive_vertical_ad": false,
+      "collapse_comments": false,
+      "ad_metadata": [
+        {
+          "value": "atelierperfumery.com",
+          "type": 1
+        }
+      ],
+      "link": "https://studypedia.com/events/studypedia-second-international-educational-fair-22/?fbclid=PAAaZcYNNJ-uDYjZo1fIkhZeGYraJBv0LRPbRL5knGDLpzrNB_TEBacGKpyqE&external_browser_redirect=true",
+      "link_text": "Shop Now",
+      "ad_action": "webclick",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "android_links": [
+        {
+          "linkType": 1,
+          "webUri": "https://studypedia.com/events/studypedia-second-international-educational-fair-22/?fbclid=PAAaZcYNNJ-uDYjZo1fIkhZeGYraJBv0LRPbRL5knGDLpzrNB_TEBacGKpyqE&external_browser_redirect=true",
+          "contentId": 0,
+          "productPageId": null,
+          "isUniversalLink": null,
+          "deeplinkUri": null,
+          "callToActionTitle": "",
+          "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_0Jc2Od0cr-y-zO8EURIM2GWkPrx9Mj1XyfQkMvd2BmglBX1xGV50bMLZPQ7930jn_3NpbQHU9Oi1Lgi8lG7P_nIzlwV2FGz2hd2Rqe_Rwvv0WApyi9dY0GnI9cZ5aUIOFukhFRaCqedSFiRgKX3h4hxo5A5Of_HK7v1DxiJjQIG95Loh-yjm_pZ_oOBNgz3KPkvUpM6jnSL-45WbQw4saaTPS3vaGO79TBKp1FtK85pkDEdLVnHVin1BMKm4MI7hLBseNwDRpYDxqSQx8eJuetbtkTcL5ONiuUVTn-3FdqLeKf7ynaYv1jGHmqNHFZq4o0J8ItOA0x9FRK1BCUVRXAi1HzywF53FcWlJzSEC0__2n8fl198AWreqUG-aegT6NIJcvPyE6kQQFzm_QmxLyqINkVoj7XafBb8vJhboajQ&a=1&hash=Ad-GA0AuEJyCJr_bhXA",
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "skAdNetworkMetadata": null,
+          "destinationContext": "Open App",
+          "tapAndHoldContext": "Swipe up to open app"
+        }
+      ],
+      "iab_autofill_optout_info": {
+        "domain": "",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "PAAaYVhHGiv3qzarTSAz_b16idB5VHqxe_BiWX0_5AkrnC0S_ZY71918mLsbU_aem_AcQ3vAUshzXw7U5DAnG4rBskSqMUi1AAf52Zak3io-8QgV8oh6sW8ZFXU2KvGfbUiTs66l4VrgfABzdGZDYt1hhCN7NMGPtNQXXybAyK18UUyx5Uur2hOm3-G8MxYWg_Monfva0zqprPQbsuy-5y4fN6",
+      "force_overlay": true,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "Atelier Perfumery",
+      "overlay_subtitle": "Go to atelierperfumery.com",
+      "dominant_color": "#98765E",
+      "fb_page_url": "https://www.facebook.com/atelierperfumery/",
+      "reel_media_background": {
+        "top": {
+          "background_color": "#D8DAD9"
+        },
+        "bottom": {
+          "background_color": "#E9E8E4"
+        },
+        "text": {
+          "background_color": "#000000"
+        }
+      },
+      "item_client_gap_rules": {
+        "time_based_insertion_gap_in_seconds": null,
+        "push_up_min_gap": null,
+        "enable_user_engagement_base_insertion": null,
+        "user_engagement_based_insertion_settings": null
+      },
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZjU2NWJlNjkxNGM3NGYwY2IyMTI4ZGU4MzlkNjRjNjIyOTE5MDEwNjQzNTY5NjQ5MjQxIiwic2VydmVyX3Rva2VuIjoiMTY2NTA5MzU1NTgyMnwyOTE5MDEwNjQzNTY5NjQ5MjQxfDEzNTAzMDA1NjB8YWU0NzIyNTNmNTc2MzMzOTE4OGYzZmJiYWYxNGI5OTM1ZTY0MmZkNzkyMmIxMDIwNWE2Njc2NWRlOGJlN2M0MCJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at": 1665179955,
+      "has_shared_to_fb": 0,
+      "product_type": "ad",
+      "deleted_reason": 0,
+      "integrity_review_decision": "pending",
+      "commerce_integrity_review_decision": null,
+      "music_metadata": null,
+      "is_artist_pick": false,
+      "can_reshare": false,
+      "can_reply": false,
+      "can_send_prompt": false,
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 1,
+              "webUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_0Jc2Od0cr-y-zO8EURIM2GWkPrx9Mj1XyfQkMvd2BmglBX1xGV50bMLZPQ7930jn_3NpbQHU9Oi1Lgi8lG7P_nIzlwV2FGz2hd2Rqe_Rwvv0WApyi9dY0GnI9cZ5aUIOFukhFRaCqedSFiRgKX3h4hxo5A5Of_HK7v1DxiJjQIG95Loh-yjm_pZ_oOBNgz3KPkvUpM6jnSL-45WbQw4saaTPS3vaGO79TBKp1FtK85pkDEdLVnHVin1BMKm4MI7hLBseNwDRpYDxqSQx8eJuetbtkTcL5ONiuUVTn-3FdqLeKf7ynaYv1jGHmqNHFZq4o0J8ItOA0x9FRK1BCUVRXAi1HzywF53FcWlJzSEC0__2n8fl198AWreqUG-aegT6NIJcvPyE6kQQFzm_QmxLyqINkVoj7XafBb8vJhboajQ&a=1&hash=Ad-GA0AuEJyCJr_bhXA",
+              "contentId": 0,
+              "productPageId": null,
+              "isUniversalLink": null,
+              "deeplinkUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_0Jc2Od0cr-y-zO8EURIM2GWkPrx9Mj1XyfQkMvd2BmglBX1xGV50bMLZPQ7930jn_3NpbQHU9Oi1Lgi8lG7P_nIzlwV2FGz2hd2Rqe_Rwvv0WApyi9dY0GnI9cZ5aUIOFukhFRaCqedSFiRgKX3h4hxo5A5Of_HK7v1DxiJjQIG95Loh-yjm_pZ_oOBNgz3KPkvUpM6jnSL-45WbQw4saaTPS3vaGO79TBKp1FtK85pkDEdLVnHVin1BMKm4MI7hLBseNwDRpYDxqSQx8eJuetbtkTcL5ONiuUVTn-3FdqLeKf7ynaYv1jGHmqNHFZq4o0J8ItOA0x9FRK1BCUVRXAi1HzywF53FcWlJzSEC0__2n8fl198AWreqUG-aegT6NIJcvPyE6kQQFzm_QmxLyqINkVoj7XafBb8vJhboajQ&a=1&hash=Ad-GA0AuEJyCJr_bhXA",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_0Jc2Od0cr-y-zO8EURIM2GWkPrx9Mj1XyfQkMvd2BmglBX1xGV50bMLZPQ7930jn_3NpbQHU9Oi1Lgi8lG7P_nIzlwV2FGz2hd2Rqe_Rwvv0WApyi9dY0GnI9cZ5aUIOFukhFRaCqedSFiRgKX3h4hxo5A5Of_HK7v1DxiJjQIG95Loh-yjm_pZ_oOBNgz3KPkvUpM6jnSL-45WbQw4saaTPS3vaGO79TBKp1FtK85pkDEdLVnHVin1BMKm4MI7hLBseNwDRpYDxqSQx8eJuetbtkTcL5ONiuUVTn-3FdqLeKf7ynaYv1jGHmqNHFZq4o0J8ItOA0x9FRK1BCUVRXAi1HzywF53FcWlJzSEC0__2n8fl198AWreqUG-aegT6NIJcvPyE6kQQFzm_QmxLyqINkVoj7XafBb8vJhboajQ&a=1&hash=Ad-GA0AuEJyCJr_bhXA",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "skAdNetworkMetadata": null,
+              "destinationContext": "Open App",
+              "tapAndHoldContext": "Swipe up to open app"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true,
+      "story_ad_headline": {
+        "text": "Luxury Perfumes Store",
+        "background_color": "#000000",
+        "text_color": "#000000",
+        "text_size": 16,
+        "background_color_alpha": "00"
+      },
+      "supports_reel_reactions": true,
+      "can_send_custom_emojis": true,
+      "show_one_tap_fb_share_tooltip": true,
+      "auto_generated_card_type": "generic_card",
+      "auto_generated_card_type_v2": "GENERIC_CARD",
+      "generic_card_info": {
+        "website_name": "atelierperfumery.com",
+        "short_caption": "👉Get 10% off on Atelier Products and enjoy luxury perfumes. Buy Now Pay later🛒🥰",
+        "headline": "Luxury Perfumes Store",
+        "background_type": "PORTAL_COLOR_GRADIENT",
+        "cta_type": "SMALL_BUTTON_CTA",
+        "sticker_size": "LARGE",
+        "info_types": [
+          "SHORT_CAPTION",
+          "NUMBER_OF_FOLLOWERS"
+        ],
+        "format_type": "INTERACTIVE",
+        "number_of_followers": 12355
+      }
+    }
+  ],
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "muted": false,
+  "prefetch_count": 0,
+  "carousel_rendering_type": "mps",
+  "carousel_transformation_cards": [
+    "original",
+    "generic_card"
+  ],
+  "carousel_transformation_cards_v2": [
+    "ORIGINAL",
+    "GENERIC_CARD"
+  ],
+  "cop_render_output": [
+    {
+      "optimization_type": 139,
+      "option_value": 1390022
+    }
+  ],
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 0,
+    "reel_gap_to_previous_netego": 0,
+    "consumed_media_gap_to_previous_ad": 0,
+    "consumed_media_gap_to_previous_netego": 0,
+    "max_reel_gap_to_previous_item": 0,
+    "highest_position_rule": 1,
+    "min_media_gap_to_previous_item": 0,
+    "time_gap_to_previous_item_in_sec": 0,
+    "is_media_based_hp_enabled": true,
+    "carry_over_highest_position_rule": 0
+  },
+  "priority_index": 0
+}

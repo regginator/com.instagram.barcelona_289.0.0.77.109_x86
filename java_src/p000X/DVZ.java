@@ -1,0 +1,306 @@
+package p000X;
+
+import com.facebook.kotlin.compilerplugins.dataclassgenerate.superclass.KtCSuperShape0S3200000_I2;
+import com.instagram.creation.base.CropInfo;
+import com.instagram.creation.capture.quickcapture.analytics.ShareMediaLoggingInfo;
+import com.instagram.feed.media.CropCoordinates;
+import com.instagram.model.venue.LocationDict;
+import com.instagram.music.common.model.AudioOverlayTrack;
+import com.instagram.wellbeing.fundraiser.mediacomposer.MediaComposerNewFundraiserModel;
+import java.util.List;
+/* renamed from: X.DVZ */
+/* loaded from: classes5.dex */
+public final class DVZ {
+    public EnumC23783CjR A00;
+    public String A01;
+    public final int A02;
+    public final KtCSuperShape0S3200000_I2 A03;
+    public final C5L7 A04;
+    public final C41030LhF A05;
+    public final CropInfo A06;
+    public final ShareMediaLoggingInfo A07;
+    public final C25443DTc A08;
+    public final DBM A09;
+    public final C22690C7p A0A;
+    public final DRK A0B;
+    public final EnumC23619Cgj A0C;
+    public final CropCoordinates A0D;
+    public final EnumC23743Cil A0E;
+    public final LocationDict A0F;
+    public final AudioOverlayTrack A0G;
+    public final AudioOverlayTrack A0H;
+    public final C96315Ls A0I;
+    public final MediaComposerNewFundraiserModel A0J;
+    public final String A0K;
+    public final String A0L;
+    public final String A0M;
+    public final String A0N;
+    public final String A0O;
+    public final String A0P;
+    public final String A0Q;
+    public final String A0R;
+    public final String A0S;
+    public final String A0T;
+    public final String A0U;
+    public final String A0V;
+    public final List A0W;
+    public final List A0X;
+    public final List A0Y;
+    public final List A0Z;
+    public final List A0a;
+    public final List A0b;
+    public final List A0c;
+    public final List A0d;
+    public final List A0e;
+    public final List A0f;
+    public final List A0g;
+    public final boolean A0h;
+    public final boolean A0i;
+    public final boolean A0j;
+    public final boolean A0k;
+    public final boolean A0l;
+    public final boolean A0m;
+
+    public DVZ(DKR dkr) {
+        String str = dkr.A0K;
+        List list = dkr.A0g;
+        List list2 = dkr.A0d;
+        EnumC23619Cgj enumC23619Cgj = dkr.A0A;
+        DRK drk = dkr.A09;
+        if (drk != null) {
+            EnumC23783CjR enumC23783CjR = dkr.A0B;
+            String str2 = dkr.A0J;
+            boolean z = dkr.A0m;
+            String str3 = dkr.A0V;
+            C25443DTc c25443DTc = dkr.A06;
+            ShareMediaLoggingInfo shareMediaLoggingInfo = dkr.A05;
+            AudioOverlayTrack audioOverlayTrack = dkr.A0G;
+            AudioOverlayTrack audioOverlayTrack2 = dkr.A0F;
+            C22690C7p c22690C7p = dkr.A08;
+            String str4 = dkr.A0U;
+            String str5 = dkr.A0M;
+            CropCoordinates cropCoordinates = dkr.A0C;
+            String str6 = dkr.A0P;
+            List list3 = dkr.A0c;
+            C96315Ls c96315Ls = dkr.A0H;
+            EnumC23743Cil enumC23743Cil = dkr.A0D;
+            LocationDict locationDict = dkr.A0E;
+            List list4 = dkr.A0a;
+            String str7 = dkr.A0L;
+            List list5 = dkr.A0Z;
+            String str8 = dkr.A0N;
+            String str9 = dkr.A0T;
+            List list6 = dkr.A0b;
+            List list7 = dkr.A0Y;
+            C5L7 c5l7 = dkr.A02;
+            List list8 = dkr.A0X;
+            List list9 = dkr.A0W;
+            String str10 = dkr.A0R;
+            CropInfo cropInfo = dkr.A04;
+            DBM dbm = dkr.A07;
+            KtCSuperShape0S3200000_I2 ktCSuperShape0S3200000_I2 = dkr.A01;
+            C41030LhF c41030LhF = dkr.A03;
+            List list10 = dkr.A0f;
+            boolean z2 = dkr.A0j;
+            String str11 = dkr.A0O;
+            String str12 = dkr.A0Q;
+            MediaComposerNewFundraiserModel mediaComposerNewFundraiserModel = dkr.A0I;
+            boolean z3 = dkr.A0i;
+            boolean z4 = dkr.A0h;
+            boolean z5 = dkr.A0l;
+            boolean z6 = dkr.A0k;
+            List list11 = dkr.A0e;
+            String str13 = dkr.A0S;
+            int i = dkr.A00;
+            C91524uS.A1M(str, 1, enumC23783CjR);
+            this.A0K = str;
+            this.A0g = list;
+            this.A0d = list2;
+            this.A0C = enumC23619Cgj;
+            this.A0B = drk;
+            this.A00 = enumC23783CjR;
+            this.A01 = str2;
+            this.A0m = z;
+            this.A0V = str3;
+            this.A08 = c25443DTc;
+            this.A07 = shareMediaLoggingInfo;
+            this.A0H = audioOverlayTrack;
+            this.A0G = audioOverlayTrack2;
+            this.A0A = c22690C7p;
+            this.A0U = str4;
+            this.A0M = str5;
+            this.A0D = cropCoordinates;
+            this.A0P = str6;
+            this.A0c = list3;
+            this.A0I = c96315Ls;
+            this.A0E = enumC23743Cil;
+            this.A0F = locationDict;
+            this.A0a = list4;
+            this.A0L = str7;
+            this.A0Z = list5;
+            this.A0N = str8;
+            this.A0T = str9;
+            this.A0b = list6;
+            this.A0Y = list7;
+            this.A04 = c5l7;
+            this.A0X = list8;
+            this.A0W = list9;
+            this.A0R = str10;
+            this.A06 = cropInfo;
+            this.A09 = dbm;
+            this.A03 = ktCSuperShape0S3200000_I2;
+            this.A05 = c41030LhF;
+            this.A0f = list10;
+            this.A0j = z2;
+            this.A0O = str11;
+            this.A0Q = str12;
+            this.A0J = mediaComposerNewFundraiserModel;
+            this.A0i = z3;
+            this.A0h = z4;
+            this.A0l = z5;
+            this.A0k = z6;
+            this.A0e = list11;
+            this.A0S = str13;
+            this.A02 = i;
+            return;
+        }
+        throw C25920wp.A0c();
+    }
+
+    public final DKR A00() {
+        DKR dkr = new DKR();
+        String str = this.A0K;
+        C0OR.A0B(str, 0);
+        dkr.A0K = str;
+        EnumC23619Cgj enumC23619Cgj = this.A0C;
+        C0OR.A0B(enumC23619Cgj, 0);
+        dkr.A0A = enumC23619Cgj;
+        List list = this.A0g;
+        C0OR.A0B(list, 0);
+        dkr.A0g = list;
+        List list2 = this.A0d;
+        C0OR.A0B(list2, 0);
+        dkr.A0d = list2;
+        EnumC23783CjR enumC23783CjR = this.A00;
+        C0OR.A0B(enumC23783CjR, 0);
+        dkr.A0B = enumC23783CjR;
+        dkr.A09 = this.A0B;
+        dkr.A0G = this.A0H;
+        dkr.A0F = this.A0G;
+        dkr.A0V = this.A0V;
+        dkr.A05 = this.A07;
+        dkr.A06 = this.A08;
+        dkr.A08 = this.A0A;
+        dkr.A0U = this.A0U;
+        dkr.A0J = this.A01;
+        dkr.A0M = this.A0M;
+        dkr.A0C = this.A0D;
+        dkr.A0m = this.A0m;
+        dkr.A0P = this.A0P;
+        dkr.A0c = this.A0c;
+        dkr.A0H = this.A0I;
+        dkr.A0D = this.A0E;
+        dkr.A0E = this.A0F;
+        dkr.A0a = this.A0a;
+        dkr.A0L = this.A0L;
+        dkr.A0Z = this.A0Z;
+        dkr.A0N = this.A0N;
+        dkr.A0T = this.A0T;
+        dkr.A0b = this.A0b;
+        dkr.A0Y = this.A0Y;
+        dkr.A02 = this.A04;
+        dkr.A0X = this.A0X;
+        dkr.A0W = this.A0W;
+        dkr.A04 = this.A06;
+        dkr.A07 = this.A09;
+        dkr.A01 = this.A03;
+        dkr.A03 = this.A05;
+        dkr.A0f = this.A0f;
+        dkr.A0O = this.A0O;
+        dkr.A0Q = this.A0Q;
+        dkr.A0I = this.A0J;
+        dkr.A0i = this.A0i;
+        dkr.A0h = this.A0h;
+        dkr.A0l = this.A0l;
+        dkr.A0k = this.A0k;
+        dkr.A0e = this.A0e;
+        dkr.A0R = this.A0R;
+        dkr.A0S = this.A0S;
+        dkr.A00 = this.A02;
+        return dkr;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj != null && C25940wr.A1Y(this, obj)) {
+            return C0OR.A0I(this.A0K, ((DVZ) obj).A0K);
+        }
+        return false;
+    }
+
+    public final int hashCode() {
+        return C91534uT.A0D(this.A0K);
+    }
+
+    public final String toString() {
+        return A00().toString();
+    }
+
+    public /* synthetic */ DVZ(KtCSuperShape0S3200000_I2 ktCSuperShape0S3200000_I2, C5L7 c5l7, C41030LhF c41030LhF, CropInfo cropInfo, ShareMediaLoggingInfo shareMediaLoggingInfo, C25443DTc c25443DTc, DBM dbm, C22690C7p c22690C7p, DRK drk, EnumC23619Cgj enumC23619Cgj, CropCoordinates cropCoordinates, EnumC23743Cil enumC23743Cil, LocationDict locationDict, AudioOverlayTrack audioOverlayTrack, C96315Ls c96315Ls, MediaComposerNewFundraiserModel mediaComposerNewFundraiserModel, String str, String str2, String str3, String str4, String str5, String str6, String str7, String str8, String str9, String str10, String str11, List list, List list2, List list3, List list4, List list5, List list6, List list7, List list8, List list9, int i, boolean z, boolean z2, boolean z3, boolean z4, boolean z5, boolean z6) {
+        EnumC23783CjR enumC23783CjR = EnumC23783CjR.CLIPS;
+        C25920wp.A1R(str, list);
+        C91514uR.A1T(list2, enumC23619Cgj);
+        C25930wq.A1R(drk, enumC23783CjR);
+        this.A0K = str;
+        this.A0g = list;
+        this.A0d = list2;
+        this.A0C = enumC23619Cgj;
+        this.A0B = drk;
+        this.A00 = enumC23783CjR;
+        this.A01 = str2;
+        this.A0m = z;
+        this.A0V = str3;
+        this.A08 = c25443DTc;
+        this.A07 = shareMediaLoggingInfo;
+        this.A0H = audioOverlayTrack;
+        this.A0G = null;
+        this.A0A = c22690C7p;
+        this.A0U = null;
+        this.A0M = str4;
+        this.A0D = cropCoordinates;
+        this.A0P = str5;
+        this.A0c = list3;
+        this.A0I = c96315Ls;
+        this.A0E = enumC23743Cil;
+        this.A0F = locationDict;
+        this.A0a = list4;
+        this.A0L = str6;
+        this.A0Z = list5;
+        this.A0N = str7;
+        this.A0T = str8;
+        this.A0b = null;
+        this.A0Y = list6;
+        this.A04 = c5l7;
+        this.A0X = null;
+        this.A0W = list7;
+        this.A0R = null;
+        this.A06 = cropInfo;
+        this.A09 = dbm;
+        this.A03 = ktCSuperShape0S3200000_I2;
+        this.A05 = c41030LhF;
+        this.A0f = list8;
+        this.A0j = z2;
+        this.A0O = str9;
+        this.A0Q = str10;
+        this.A0J = mediaComposerNewFundraiserModel;
+        this.A0i = z3;
+        this.A0h = z4;
+        this.A0l = z5;
+        this.A0k = z6;
+        this.A0e = list9;
+        this.A0S = str11;
+        this.A02 = i;
+    }
+}

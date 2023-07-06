@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_grid_spacing">3.0px</dimen>
+    <dimen name="tab_bar_height_panorama">44.0dip</dimen>
+</resources>

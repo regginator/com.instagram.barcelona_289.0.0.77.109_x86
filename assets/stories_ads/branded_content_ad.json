@@ -1,0 +1,270 @@
+{
+  "id":"branded_content_ad",
+  "latest_reel_media":null,
+  "expiring_at":9579383738,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":true,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk":32964401,
+    "username":"beamsensei",
+    "full_name":"BeamSensei",
+    "is_private":false,
+    "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id":"1947235070570101637_32964401",
+    "is_verified":false
+  },
+  "items":[
+    {
+      "taken_at":1577249309,
+      "pk":2206449591354672400,
+      "id":"branded_content_ad",
+      "device_timestamp":1577249309,
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png"
+          }
+        ]
+      },
+      "code":"B6e4jaLgEUr",
+      "client_cache_key":"MjIwNjQ0OTU5MTM1NDY3MjQyNw==.2",
+      "filter_type":0,
+      "original_width":640,
+      "original_height":1136,
+      "is_dash_eligible":1,
+      "video_dash_manifest":"<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M15.041S\" maxSegmentDuration=\"PT0H0M3.000S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M15.041S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"640\" maxHeight=\"1136\" maxFrameRate=\"30\" par=\"252:448\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17844523279866572vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"640\" height=\"1136\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"678048\" FBQualityClass=\"sd\" FBQualityLabel=\"640w\" FBPlaybackResolutionMos=\"0:100.00,480:98.84,640:98.23\">\n    <BaseURL>https://scontent.cdninstagram.com/v/t50.2886-16/81546030_2519855391588636_1172399754370418045_n.mp4?_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=100&amp;_nc_ohc=sxTAxKTsBvQAX8n0uRJ&amp;oh=1384424c6f3adc014548c4ba781107fe&amp;oe=5E24627F&amp;_cdn_ig_cb=980edc6c</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"945-1060\" FBFirstSegmentRange=\"1061-183221\" FBSecondSegmentRange=\"183222-404836\">\n      <Initialization range=\"0-944\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17844523291866572v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"252\" height=\"448\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"189045\" FBQualityClass=\"sd\" FBQualityLabel=\"252w\" FBPlaybackResolutionMos=\"0:100.00,480:92.79,640:89.99\">\n    <BaseURL>https://scontent.cdninstagram.com/v/t50.2886-16/81869617_205348013831521_8703198329234297482_n.mp4?_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=101&amp;_nc_ohc=ni6NTnMcwlUAX8svbT4&amp;oh=585b5ef040352e113e0fb9668817f186&amp;oe=5E24A63D&amp;_cdn_ig_cb=980edc6c</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"945-1060\" FBFirstSegmentRange=\"1061-49479\" FBSecondSegmentRange=\"49480-115985\">\n      <Initialization range=\"0-944\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17844523285866572v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"402\" height=\"714\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"355697\" FBQualityClass=\"sd\" FBQualityLabel=\"402w\" FBPlaybackResolutionMos=\"0:100.00,480:96.92,640:95.04\">\n    <BaseURL>https://scontent.cdninstagram.com/v/t50.2886-16/81912707_556367448275327_915645683460959100_n.mp4?_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=u3GUdC3yGyQAX8R9jth&amp;oh=def94140def0bf6be984a47177b0720f&amp;oe=5E24A2C6&amp;_cdn_ig_cb=980edc6c</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"946-1061\" FBFirstSegmentRange=\"1062-96587\" FBSecondSegmentRange=\"96588-214006\">\n      <Initialization range=\"0-945\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17844523255866572ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"48000\" startWithSAP=\"1\" bandwidth=\"67188\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://scontent.cdninstagram.com/v/t50.2886-16/82013105_863045194130727_1096643168460868299_n.mp4?_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=PFqlkixEXd4AX-uRLZB&amp;oh=b86aa5d3ae4b6974a05662c4c213bcaa&amp;oe=5E24A313&amp;_cdn_ig_cb=980edc6c</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"905-1032\" FBFirstSegmentRange=\"1033-18317\" FBSecondSegmentRange=\"18318-34837\">\n      <Initialization range=\"0-904\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+      "video_codec":"avc1.4D401F",
+      "number_of_qualities":3,
+      "has_audio":true,
+      "user":{
+        "pk":32964401,
+        "username":"beamsensei",
+        "full_name":"BeamSensei",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id":"1947235070570101637_32964401",
+        "is_verified":false,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":false,
+        "is_favorite":false
+      },
+      "caption":null,
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":0,
+      "has_liked":false,
+      "likers":[
+
+      ],
+      "photo_of_you":false,
+      "sponsor_tags":[
+        {
+          "permission":false,
+          "sponsor":{
+            "pk":1422986348,
+            "username":"allnipponairways_official",
+            "full_name":"All Nippon Airways",
+            "is_private":false,
+            "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+            "profile_pic_id":"1677414313830462622_1422986348",
+            "is_verified":true
+          }
+        }
+      ],
+      "organic_post_id":2206440799179178500,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQItPL2wCsOTDBuU4U46ZgIRMstH0trFK90q5G9lQMlIpFu-e-rocSAA-Hqjlk-8ijGMJQrpveMNJ_lpAKyv_XkF",
+        "show_ad_choices":false,
+        "ad_title":"All Nippon Airways",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":23843978262340160,
+        "direct_share":true,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":"{}",
+              "serializedImpOrganicScoreMap":"{}"
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=1wT6rMQRTuFbubiZy.AWXcUukrIsUVCAqktD1ymPiIE14.BeIio6..AAA.0.0.BeIio6.AWUoXjqd; expires=Thu, 16 Apr 2020 21:42:18 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "collapse_comments":false,
+      "ad_metadata":[
+        {
+          "value":"www.ana.co.jp",
+          "type":1
+        }
+      ],
+      "link":"https://www.ana.co.jp/th/th/japan-travel-planner/theviewofjapan/itinerary1/?cid=JTP_ADA_VOJ_IGStoryAT_TH571_201912&fbclid=IwAR1mCGTVFDx9INWbuSFW9HrLX0t9T5VHVlp5SMRCeTcfnUfu80Z0zcOc3E8",
+      "link_text":"Book Now",
+      "ad_action":"webclick",
+      "link_hint_text":"Tap Photo to Open Page",
+      "iTunesItem":null,
+      "ad_link_type":0,
+      "ad_header_style":0,
+      "dr_ad_type":1,
+      "android_links":[
+        {
+          "linkType":1,
+          "webUri":"https://www.ana.co.jp/th/th/japan-travel-planner/theviewofjapan/itinerary1/?cid=JTP_ADA_VOJ_IGStoryAT_TH571_201912&fbclid=IwAR1mCGTVFDx9INWbuSFW9HrLX0t9T5VHVlp5SMRCeTcfnUfu80Z0zcOc3E8",
+          "androidClass":"",
+          "package":"",
+          "deeplinkUri":"",
+          "callToActionTitle":"",
+          "redirectUri":"https://www.facebook.com/ads/ig_redirect/?d=Ad8sGwcMdzzb5glIlqJK7lsAsYKysfm8AMRT526iQhp5X7Ymt3TWakdaeWcJuxqizA_h_R_GiBvozy0QCSypJsXBjVjySJNHNeMDM52gySNwrd4D4SUhKqsN28C95k1x6narQlvFvDEBsm2ZFpvibtzB98z2cZ2W4Hw7KUhLXHghcfkqiJJ-Tm1Td6FAEuTPZWNxwEwrL3QkP8hssO7U5JeBxxeXMLvB4v1bhNZnunJTeBdmj5WPrR0XAqu4No1ktCf8BzpemEOMxqkgK7vdKg042hjeAM7l35LYrCgAvnakTjtMNtnvUbsEibZfUIg8u5IG9I6VvklHS3mUMeBJc6e5RgUK-anrSqdTWFF41XyOGz7sn3QdQEovYiGiIzBCedRhAXRTFcbBOJYm6cHOcqBt&a=1&hash=Ad8GsGBz9js8aUiw",
+          "leadGenFormId":null,
+          "igUserId":null,
+          "appInstallObjectiveInvalidationBehavior":null,
+          "destinationContext":"View website on Instagram",
+          "tapAndHoldContext":"Swipe up to view website"
+        }
+      ],
+      "iab_autofill_optout_info":{
+        "domain":"ana.co.jp",
+        "is_iab_autofill_optout":false
+      },
+      "click_id":"IwAR1mCGTVFDx9INWbuSFW9HrLX0t9T5VHVlp5SMRCeTcfnUfu80Z0zcOc3E8",
+      "force_overlay":false,
+      "hide_nux_text":true,
+      "overlay_text":"Go to Website",
+      "overlay_title":"All Nippon Airways",
+      "overlay_subtitle":"Go to Website",
+      "dominant_color":"#6C7951",
+      "follower_count":21959,
+      "post_count":1150,
+      "fb_page_url":"https://www.facebook.com/flyworld.ana/",
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiY2RjZmYzYzU0NTE0NGY4NDk0MTYxYjAxMzAzZDBlZmYyMjA2NDQ5NTkxMzU0NjcyNDI3Iiwic2VydmVyX3Rva2VuIjoiMTU3OTI5NzMzODgzOXwyMjA2NDQ5NTkxMzU0NjcyNDI3fDU0ODU2MTAyMTl8NDkxNWE4YWY4Y2RhOTk3MGQ1NTI4OTI2MDcyNjI1ZmU0MWM2ZjcwMzg5MDRmOTJjMzgyOGJjZDM0ZGRjYWFiZSJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at":9579383738,
+      "can_reshare":true,
+      "can_reply":false,
+      "is_pride_media":false,
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.ana.co.jp/th/th/japan-travel-planner/theviewofjapan/itinerary1/?cid=JTP_ADA_VOJ_IGStoryAT_TH571_201912&fbclid=IwAR1mCGTVFDx9INWbuSFW9HrLX0t9T5VHVlp5SMRCeTcfnUfu80Z0zcOc3E8",
+              "androidClass":"",
+              "package":"",
+              "deeplinkUri":"",
+              "callToActionTitle":"",
+              "redirectUri":"https://www.facebook.com/ads/ig_redirect/?d=Ad8sGwcMdzzb5glIlqJK7lsAsYKysfm8AMRT526iQhp5X7Ymt3TWakdaeWcJuxqizA_h_R_GiBvozy0QCSypJsXBjVjySJNHNeMDM52gySNwrd4D4SUhKqsN28C95k1x6narQlvFvDEBsm2ZFpvibtzB98z2cZ2W4Hw7KUhLXHghcfkqiJJ-Tm1Td6FAEuTPZWNxwEwrL3QkP8hssO7U5JeBxxeXMLvB4v1bhNZnunJTeBdmj5WPrR0XAqu4No1ktCf8BzpemEOMxqkgK7vdKg042hjeAM7l35LYrCgAvnakTjtMNtnvUbsEibZfUIg8u5IG9I6VvklHS3mUMeBJc6e5RgUK-anrSqdTWFF41XyOGz7sn3QdQEovYiGiIzBCedRhAXRTFcbBOJYm6cHOcqBt&a=1&hash=Ad8GsGBz9js8aUiw",
+              "leadGenFormId":null,
+              "igUserId":null,
+              "appInstallObjectiveInvalidationBehavior":null,
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "is_reel_media":true,
+      "supports_reel_reactions":true,
+      "can_send_custom_emojis":true,
+      "show_one_tap_fb_share_tooltip":true,
+      "has_shared_to_fb":0,
+      "has_shared_to_fb_dating":0,
+      "source_type":-1
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

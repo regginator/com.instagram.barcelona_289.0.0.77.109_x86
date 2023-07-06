@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <bitmap android:src="@drawable/browser_back" android:tint="@color/fundraiser_sticker_consumption_sheet_donation_disclaimer_normal_text_color" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/browser_back" android:tint="@color/fundraiser_sticker_consumption_sheet_donation_disclaimer_bold_text_color" />
+    </item>
+</selector>

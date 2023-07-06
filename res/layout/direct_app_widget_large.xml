@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/view_container" android:background="@drawable/appwidget_rounded_corner" android:layout_width="fill_parent" android:layout_height="155.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="15.0dip" android:layout_marginRight="16.0dip" android:layout_marginBottom="15.0dip" android:layout_marginHorizontal="16.0dip">
+        <TextView android:textSize="@dimen/abc_text_size_menu_header_material" android:textStyle="bold" android:textColor="@color/direct_widget_primary_text" android:ellipsize="end" android:id="@id/title_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/APKTOOL_DUMMYVAL_0x7f110049" android:maxLines="1" android:layout_alignParentLeft="true" />
+        <ImageView android:gravity="end" android:id="@id/ig_icon" android:layout_width="18.0dip" android:layout_height="18.0dip" android:src="@drawable/instagram" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <GridView android:orientation="horizontal" android:id="@id/profiles_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:numColumns="4" />
+</LinearLayout>

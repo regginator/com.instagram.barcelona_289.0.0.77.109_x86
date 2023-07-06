@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">Seere kan sveipe opp for å besøke lenken. Du kan bare legge til én sveip-opp-lenke.</item>
+        <item quantity="one">Seere kan sveipe opp for å gå til denne lenken.</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">Har lagt til omtaler.</item>
+        <item quantity="one">Har lagt til omtale.</item>
+    </plurals>
+    <plurals name="alt_text_popup_description">
+        <item quantity="other">Beskriv bildene dine for synshemmede.</item>
+        <item quantity="one">Beskriv bildet ditt for synshemmede.</item>
+    </plurals>
+    <plurals name="anonymous_comments_message">
+        <item quantity="other">Se %1$d kommentarer til det {original_post}.</item>
+        <item quantity="one">Se 1 kommentar til det {original_post}.</item>
+    </plurals>
+    <plurals name="anonymous_likers_message">
+        <item quantity="other">Se %1$d likerklikk på det {original_post}.</item>
+        <item quantity="one">Se 1 likerklikk på det {original_post}.</item>
+    </plurals>
+    <plurals name="appended_poll_vote_count_label_on_feed">
+        <item quantity="other">%1$s meningsmålingsresultater</item>
+        <item quantity="one">%1$s meningsmålingsresultat</item>
+    </plurals>
+    <plurals name="appreciation_funding_a11y_star_balance">
+        <item quantity="other">Saldoen din er %1$d stjerner</item>
+        <item quantity="one">Saldoen din er 1 stjerne</item>
+    </plurals>
+    <plurals name="appreciation_gifting_a11y_balance">
+        <item quantity="other">Saldo: %1$d stjerner</item>
+        <item quantity="one">Saldo: 1 stjerne</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_body">
+        <item quantity="other">Du har valgt %1$d kommentarer. Hvis du godkjenner et svar, blir den opprinnelige kommentaren også godkjent.</item>
+        <item quantity="one">Du har valgt 1 kommentar. Hvis du godkjenner et svar, blir den opprinnelige kommentaren også godkjent.</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_primary_button">
+        <item quantity="other">Godkjenn kommentarer</item>
+        <item quantity="one">Godkjenn kommentar</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_title">
+        <item quantity="other">Vil du godkjenne %1$d kommentarer?</item>
+        <item quantity="one">Vil du godkjenne 1 kommentar?</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">%1$d personer</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="average_time_spent_hours">
+        <item quantity="other">%1$d timer</item>
+        <item quantity="one">%1$d time</item>
+    </plurals>
+    <plurals name="average_time_spent_minutes">
+        <item quantity="other">%1$d minutter</item>
+        <item quantity="one">%1$d minutt</item>
+    </plurals>
+    <plurals name="barcelona_expand_replies">
+        <item quantity="other">%1$s svar</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_follower_tab_count">
+        <item quantity="other">%1$s følgere</item>
+        <item quantity="one">1 følger</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_following_tab_count">
+        <item quantity="other">Følger %1$s</item>
+        <item quantity="one">Følger 1</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_pending_tab_count">
+        <item quantity="other">%1$s venter · Du begynner å følge disse kontoene når de begynner å bruke %2$s. %3$s</item>
+        <item quantity="one">1 venter · Du begynner å følge denne kontoen når den begynner å bruke %2$s. %3$s</item>
+    </plurals>
+    <plurals name="barcelona_onboarding_following_screen__pending_tab_subtitle">
+        <item quantity="other">Disse %1$s kontoene har ikke blitt med i %2$s ennå eller må godkjenne følgeforespørselen din.</item>
+        <item quantity="one">Denne kontoen er ikke på %2$s ennå eller må godkjenne følgeforespørselen din.</item>
+    </plurals>
+    <plurals name="barcelona_post_like_count">
+        <item quantity="other">%1$s likerklikk</item>
+    </plurals>
+    <plurals name="barcelona_profile_follower_count">
+        <item quantity="other">%1$s følgere</item>
+        <item quantity="one">1 følger</item>
+    </plurals>
+    <plurals name="barcelona_search_follower_count">
+        <item quantity="other">%1$s følgere</item>
+        <item quantity="one">1 følger</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">Følgeforespørslene dine kunne ikke bekreftes nå. Prøv på nytt senere.</item>
+        <item quantity="one">Følgeforespørselen din kunne ikke bekreftes nå. Prøv på nytt senere.</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">Følgeforespørslene dine kunne ikke slettes nå. Prøv på nytt senere.</item>
+        <item quantity="one">Følgeforespørselen din kunne ikke slettes nå. Prøv på nytt senere.</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">Forespørselen din om å følge disse brukerne tilbake kunne ikke sendes. Prøv på nytt senere.</item>
+        <item quantity="one">Forespørselen din om å følge denne brukeren tilbake kunne ikke sendes. Prøv på nytt senere.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">Forespørselen din om å fjerne disse følgerne kunne ikke sendes. Prøv på nytt senere.</item>
+        <item quantity="one">Forespørselen din om å fjerne denne følgeren kunne ikke sendes. Prøv på nytt senere.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">Fjernet %1$s følgere</item>
+        <item quantity="one">Fjernet én følger</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">%1$d forespørsler</item>
+        <item quantity="one">%1$d forespørsel</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s personer</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_body">
+        <item quantity="other">Du har valgt %1$d kontoer. De kan ikke finne profilen din, innleggene dine eller historien din på Instagram.</item>
+        <item quantity="one">Du har valgt 1 konto. Vedkommende vil ikke kunne finne profilen din, innleggene dine eller historien din på Instagram.</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_primary_button">
+        <item quantity="other">Blokker kontoer</item>
+        <item quantity="one">Blokker konto</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_title">
+        <item quantity="other">Vil du blokkere %1$d kontoer?</item>
+        <item quantity="one">Vil du blokkere 1 konto?</item>
+    </plurals>
+    <plurals name="blocked_story_photos_delete_button_text">
+        <item quantity="other">Slett %1$d bilder</item>
+        <item quantity="one">Slett 1 bilde?</item>
+    </plurals>
+    <plurals name="blocked_story_videos_delete_button_text">
+        <item quantity="other">Slett %1$d videoer</item>
+        <item quantity="one">Slett 1 video</item>
+    </plurals>
+    <plurals name="bonuses_tagging_reels_welcome_bonus_reels_left">
+        <item quantity="other">%1$d flere Reels-videoer kan telles med i denne bonusen</item>
+        <item quantity="one">1 Reels-video til kan telles med i denne bonusen</item>
+    </plurals>
+    <plurals name="bulk_block_confirmation_toast">
+        <item quantity="other">Kontoer er blokkert</item>
+        <item quantity="one">Kontoen er blokkert</item>
+    </plurals>
+    <plurals name="bulk_restrict_confirmation_toast">
+        <item quantity="other">Kontoer er begrenset</item>
+        <item quantity="one">Kontoen er begrenset</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">For %1$d år siden ...</item>
+        <item quantity="one">For 1 år siden ...</item>
+    </plurals>
+    <plurals name="cart_sold_out_and_unavailable_items_status_message">
+        <item quantity="other">%1$d varer ikke handlekurven din er ikke lenger tilgjengelig.</item>
+        <item quantity="one">En vare i handlekurven din er ikke lenger tilgjengelig.</item>
+    </plurals>
+    <plurals name="chat_badge">
+        <item quantity="other">%1$d chatter</item>
+        <item quantity="one">1 chat</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">%1$s medlemmer</item>
+        <item quantity="one">%1$s medlem</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d svar</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">%1$d nære Facebook-venner</item>
+        <item quantity="one">1 nær Facebook-venn</item>
+    </plurals>
+    <plurals name="comment_badge">
+        <item quantity="other">%1$d kommentarer</item>
+        <item quantity="one">1 kommentar</item>
+    </plurals>
+    <plurals name="comment_count_label_on_feed">
+        <item quantity="other">%1$s kommentarer</item>
+        <item quantity="one">%1$s kommentar</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">%1$s og &lt;b>%2$s andre&lt;/b> har kommentert</item>
+        <item quantity="one">%1$s og &lt;b>1 annen&lt;/b> har kommentert</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">%1$s og andre har kommentert</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s og &lt;b>%4$s andre&lt;/b> har kommentert</item>
+        <item quantity="one">%1$s, %2$s, %3$s og &lt;b>1 annen&lt;/b> har kommentert</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">%1$s, %2$s, %3$s og andre har kommentert</item>
+    </plurals>
+    <plurals name="comments_from_facebook_title">
+        <item quantity="other">Se %1$d kommentarer fra Facebook</item>
+        <item quantity="one">Se 1 kommentar fra Facebook</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">Vil du bekrefte %1$s følgeforespørsler?</item>
+        <item quantity="one">Vil du bekrefte 1 følgeforespørsel?</item>
+    </plurals>
+    <plurals name="connect_page_num_like">
+        <item quantity="other">%1$d likerklikk</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">dager</item>
+        <item quantity="one">dag</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">timer</item>
+        <item quantity="one">time</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">minutter</item>
+        <item quantity="one">minutt</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">måneder</item>
+        <item quantity="one">måned</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">sekunder</item>
+        <item quantity="one">sekund</item>
+    </plurals>
+    <plurals name="custom_comment_filter_upsell_toast_message">
+        <item quantity="other">%1$d elementer har blitt lagt til på Skjulte ord-listen din.</item>
+        <item quantity="one">1 element har blitt lagt til på Skjulte ord-listen din.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_message">
+        <item quantity="other">Du kan ikke se disse videoene lenger.</item>
+        <item quantity="one">Du vil ikke kunne se denne videoen lenger.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_title">
+        <item quantity="other">Vil du slette %1$d videoer?</item>
+        <item quantity="one">Vil du slette denne videoen?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">Vil du slette %1$s følgeforespørsler?</item>
+        <item quantity="one">Vil du slette 1 følgeforespørsel?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">Disse forespørslene blir ikke godkjent når du bytter til en offentlig konto.</item>
+        <item quantity="one">Denne forespørselen blir ikke godkjent når du bytter til en offentlig konto.</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">Vil du slette følgeforespørsler?</item>
+        <item quantity="one">Vil du slette denne følgeforespørselen?</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">De vil se alle tidligere meldinger fra denne samtalen.</item>
+        <item quantity="one">%1$s vil se alle tidligere meldinger fra denne samtalen.</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message_without_all">
+        <item quantity="other">De vil kunne se tidligere meldinger fra denne samtalen.</item>
+        <item quantity="one">%1$s vil kunne se tidligere meldinger fra denne samtalen.</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_hours_ago">
+        <item quantity="other">Aktiv for %1$d t siden</item>
+        <item quantity="one">Aktiv for 1 t siden</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_mins_ago">
+        <item quantity="other">Aktiv for %1$d min siden</item>
+        <item quantity="one">Aktiv for 1 min siden</item>
+    </plurals>
+    <plurals name="direct_faq_import_bottom_button_footer">
+        <item quantity="other">Velg opptil %1$d spørsmål</item>
+        <item quantity="one">Velg opptil 1 spørsmål</item>
+    </plurals>
+    <plurals name="direct_faq_import_max_limit_reached_message">
+        <item quantity="other">Du kan ikke importere mer enn %1$d spørsmål</item>
+        <item quantity="one">Du kan ikke importere mer enn 1 spørsmål</item>
+    </plurals>
+    <plurals name="direct_max_recipients_in_chat_reached_body">
+        <item quantity="other">Maksimalt antall personer som kan være i en chat, er %1$s. Begrens antall personer til %1$s inkludert deg selv, for å avslutte opprettelsen av denne chatten.</item>
+    </plurals>
+    <plurals name="direct_max_recipients_reached_body">
+        <item quantity="other">Maksimalt antall personer som kan være i en gruppe, er %1$s. Begrens antall personer til %1$s inkludert deg selv, for å avslutte opprettelsen av denne gruppen.</item>
+    </plurals>
+    <plurals name="direct_welcome_message_edit_character_limit_reached_error">
+        <item quantity="other">Velkomsthilsenen kan ikke inneholde mer enn %1$d tegn.</item>
+        <item quantity="one">Velkomsthilsenen kan ikke inneholde mer enn 1 tegn.</item>
+    </plurals>
+    <plurals name="discard_x_drafts">
+        <item quantity="other">Forkaste %1$d utkast?</item>
+        <item quantity="one">Forkaste 1 utkast?</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">%1$s brukt av &lt;b>%2$s venner&lt;/b></item>
+        <item quantity="one">%1$s er brukt av &lt;b>1 venn&lt;/b></item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">%1$s er brukt av &lt;b>%2$s personer&lt;/b></item>
+        <item quantity="one">%1$s er brukt av &lt;b>1 person&lt;/b></item>
+    </plurals>
+    <plurals name="fan_club_content_preview_settings_detail">
+        <item quantity="other">%1$d innlegg</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">Se %1$d abonnenter</item>
+        <item quantity="one">Se %1$d abonnent</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_subtitle">
+        <item quantity="other">Abonner-knappen er nå publisert på profilen din. Følgerne dine blir automatisk varslet om abonnementet ditt om %1$d dager.</item>
+        <item quantity="one">Abonner-knappen er nå publisert på profilen din. Følgerne dine blir automatisk varslet om abonnementet ditt om 1 dag.</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_title">
+        <item quantity="other">Følgerne dine blir varslet om %1$d dager</item>
+        <item quantity="one">Følgerne dine blir varslet om 1 dag</item>
+    </plurals>
+    <plurals name="fb_page_num_like_label">
+        <item quantity="other">%1$s likerklikk</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s har %2$d artikler, er %3$s, %4$s</item>
+        <item quantity="one">%1$s har %2$d artikkel, er %3$s, %4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">Vil du følge tilbake %1$s brukere?</item>
+        <item quantity="one">Vil du følge tilbake 1 bruker?</item>
+    </plurals>
+    <plurals name="follow_badge">
+        <item quantity="other">%1$d følgere</item>
+        <item quantity="one">1 følger</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$d følgere</item>
+        <item quantity="one">1 følger</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">Følges av %1$s personer</item>
+        <item quantity="one">Følges av 1 person</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">Følges av %1$s og &lt;font face=sans-serif-medium>%2$s andre&lt;/font></item>
+        <item quantity="one">Følges av %1$s og &lt;font face=sans-serif-medium>1 annen&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">Følges av %1$s og %2$s andre</item>
+        <item quantity="one">Følges av %1$s og 1 annen</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">Følges av %1$s, %2$s og &lt;font face=sans-serif-medium>%3$s andre&lt;/font></item>
+        <item quantity="one">Følges av %1$s, %2$s og &lt;font face=sans-serif-medium>1 annen&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">Følges av %1$s, %2$s, %3$s og &lt;font face=sans-serif-medium>%4$s andre&lt;/font></item>
+        <item quantity="one">Følges av %1$s, %2$s, %3$s og &lt;font face=sans-serif-medium>1 annen&lt;/font></item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">%1$s følgere</item>
+        <item quantity="one">%1$s følger</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos">
+        <item quantity="other">%1$d bilder</item>
+        <item quantity="one">%1$d bilde</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos_one_video">
+        <item quantity="other">%1$d bilder og 1 video</item>
+        <item quantity="one">%1$d bilde og 1 video</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_videos">
+        <item quantity="other">%1$d videoer</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_one_photo_n_videos">
+        <item quantity="other">1 bilde og %1$d videoer</item>
+        <item quantity="one">1 bilde og %1$d video</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_months_ago">
+        <item quantity="other">for %1$d måneder siden</item>
+        <item quantity="one">Forrige måned</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_weeks_ago">
+        <item quantity="other">for %1$d uker siden</item>
+        <item quantity="one">Forrige uke</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_years_ago">
+        <item quantity="other">For %1$d år siden</item>
+        <item quantity="one">I fjor</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_day">
+        <item quantity="other">%1$d dager</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_minute">
+        <item quantity="other">%1$d minutter</item>
+        <item quantity="one">1 minutt</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_month">
+        <item quantity="other">%1$d måneder</item>
+        <item quantity="one">1 måned</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_week">
+        <item quantity="other">%1$d uker</item>
+        <item quantity="one">1 uke</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_year">
+        <item quantity="other">%1$d år</item>
+        <item quantity="one">1 år</item>
+    </plurals>
+    <plurals name="granted_extension_time_hours">
+        <item quantity="other">%1$d timer til</item>
+        <item quantity="one">%1$d time til</item>
+    </plurals>
+    <plurals name="granted_extension_time_minutes">
+        <item quantity="other">%1$d minutter til</item>
+        <item quantity="one">%1$d minutt til</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">%1$d bilder og 1 video fra %2$s i rad %3$d, kolonne %4$d</item>
+        <item quantity="one">%1$d bilde og 1 video fra %2$s i rad %3$d, kolonne %4$d</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">1 bilde og %1$d videoer fra %2$s i rad %3$d, kolonne %4$d</item>
+        <item quantity="one">1 bilde og %1$d video fra %2$s i rad %3$d, kolonne %4$d</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">%1$d abonnenter</item>
+        <item quantity="one">%1$d abonnent</item>
+    </plurals>
+    <plurals name="guide_detail_text_accounts">
+        <item quantity="other">%1$s KONTOER</item>
+        <item quantity="one">%1$s KONTO</item>
+    </plurals>
+    <plurals name="guide_detail_text_locations">
+        <item quantity="other">%1$s STEDER</item>
+        <item quantity="one">%1$s STED</item>
+    </plurals>
+    <plurals name="guide_detail_text_media">
+        <item quantity="other">%1$s INNLEGG</item>
+    </plurals>
+    <plurals name="guide_detail_text_products">
+        <item quantity="other">%1$s PRODUKTER</item>
+        <item quantity="one">%1$s PRODUKT</item>
+    </plurals>
+    <plurals name="guide_drafts_count">
+        <item quantity="other">%1$s guideutkast</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_attempts_left_error">
+        <item quantity="other">Du har %1$d forsøk igjen til å skrive inn PIN-koden din før den slutter å fungere.</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_hours_popup_title_text">
+        <item quantity="other">%1$d timer</item>
+        <item quantity="one">1 time</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_minutes_popup_title_text">
+        <item quantity="other">%1$d minutter</item>
+        <item quantity="one">1 minutt</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_seconds_popup_title_text">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">Annonser fra %1$s som gambling og dating er begrenset som standard. Du kan velge opptil %2$d ytterligere annonsekategorier du ikke vil at skal vises i Reels-videoene dine.</item>
+        <item quantity="one">Annonser fra %1$s som gambling og dating er begrenset som standard. Du kan velge opptil 1 ytterligere annonsekategori du ikke vil at skal vises i Reels-videoene dine.</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s og %6$d andre kontoer</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s og 1 annen konto</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s og %6$d andre kategorier</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s og 1 annen kategori</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">Annonser fra %1$s som gambling og dating er begrenset som standard. Du kan velge opptil %2$d ytterligere annonsekategorier du ikke vil at skal vises i profilfeeden din.</item>
+        <item quantity="one">Annonser fra %1$s som gambling og dating er begrenset som standard. Du kan velge opptil 1 ytterligere annonsekategori du ikke vil at skal vises i profilfeeden din.</item>
+    </plurals>
+    <plurals name="iglive_audience_mode_close_friends_edit_option_close_friends_added">
+        <item quantity="other">%1$d personer</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="iglive_presence_text">
+        <item quantity="other">%1$d følgere aktive nå</item>
+        <item quantity="one">%1$d følger er aktiv nå</item>
+    </plurals>
+    <plurals name="igtv_series_episode">
+        <item quantity="other">%1$s episoder</item>
+        <item quantity="one">1 episode</item>
+    </plurals>
+    <plurals name="igtv_video_minute_duration_description">
+        <item quantity="other">%1$s minutter og %2$s sekunder</item>
+        <item quantity="one">%1$s minutter og 1 sekund</item>
+    </plurals>
+    <plurals name="igtv_video_seconds_duration_description_one_min">
+        <item quantity="other">1 minutt og %1$s sekunder</item>
+        <item quantity="one">1 minutt og 1 sekund</item>
+    </plurals>
+    <plurals name="lead_gen_available_forms_number_of_custom_questions">
+        <item quantity="other">%1$d spørsmål</item>
+    </plurals>
+    <plurals name="lead_gen_form_num_questions">
+        <item quantity="other">%1$d spørsmål</item>
+        <item quantity="one">1 spørsmål</item>
+    </plurals>
+    <plurals name="like_badge">
+        <item quantity="other">%1$d likerklikk</item>
+        <item quantity="one">1 likerklikk</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d likerklikk</item>
+        <item quantity="one">1 likerklikk</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">Likt av %1$s og &lt;font face=sans-serif-medium>%2$s andre&lt;/font></item>
+        <item quantity="one">Likt av %1$s og &lt;font face=sans-serif-medium>1 annen&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">Likt av %1$s, %2$s og &lt;font face=sans-serif-medium>%3$s andre&lt;/font></item>
+        <item quantity="one">Likt av %1$s, %2$s og &lt;font face=sans-serif-medium>1 annen&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">Likt av %1$s, %2$s, %3$s og &lt;font face=sans-serif-medium>%4$s andre&lt;/font></item>
+        <item quantity="one">Likt av %1$s, %2$s, %3$s og &lt;font face=sans-serif-medium>1 annen&lt;/font></item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_day">
+        <item quantity="other">%1$d dager</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_week">
+        <item quantity="other">%1$d uker</item>
+        <item quantity="one">1 uke</item>
+    </plurals>
+    <plurals name="live_question_like_count">
+        <item quantity="other">%1$d likerklikk</item>
+        <item quantity="one">1 likerklikk</item>
+    </plurals>
+    <plurals name="live_streak_subtitle_post_live_streak_increased">
+        <item quantity="other">Du sendte direkte %1$d uker på rad! Se hvor mange flere uker på rad du kan sende direkte.</item>
+        <item quantity="one">Bra jobbet! Sett en ny personlig rekord ved å se hvor mange uker på rad du kan sende direkte.</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">%1$s og %2$s har sendt direkte</item>
+        <item quantity="one">%1$s har sendt direkte</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">%1$d merker</item>
+        <item quantity="one">1 merke</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d merker</item>
+        <item quantity="one">1 merke</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">%1$s og %2$d andre har sendt en forespørsel om å få bli med i din direktesendte video.</item>
+    </plurals>
+    <plurals name="location_list_title">
+        <item quantity="other">%1$d steder</item>
+        <item quantity="one">%1$d sted</item>
+    </plurals>
+    <plurals name="member_count_text">
+        <item quantity="other">%1$s medlemmer</item>
+        <item quantity="one">%1$s medlem</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">%1$d timer igjen</item>
+        <item quantity="one">%1$d time igjen</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">%1$d minutter igjen</item>
+        <item quantity="one">%1$d minutt igjen</item>
+    </plurals>
+    <plurals name="msys_ds_4xu0wn">
+        <item quantity="other">Har sendt %1$d bilder</item>
+        <item quantity="one">Har sendt et bilde</item>
+    </plurals>
+    <plurals name="msys_ds_Tey2G">
+        <item quantity="other">%1$s har sendt %2$d bilder</item>
+        <item quantity="one">%1$s har sendt et bilde</item>
+    </plurals>
+    <plurals name="msys_ds_l81ip">
+        <item quantity="other">Du har sendt %1$d bilder</item>
+        <item quantity="one">Du har sendt et bilde</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">Vil du rapportere chatten med %1$s, %2$s og %3$d andre?</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">Du har lagt til %1$s og %2$d andre i gruppen.</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">Du har fjernet %1$s og %2$d andre fra gruppen.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">%1$d ordeffekter fra %2$s har blitt lagt til %3$s</item>
+        <item quantity="one">%1$d ordeffekt fra %2$s har blitt lagt til %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">Du har endret %1$d ordeffekter.</item>
+        <item quantity="one">Du har endret %1$d ordeffekt.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">%1$s har endret %2$d ordeffekter.</item>
+        <item quantity="one">%1$s har endret %2$d ordeffekt.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">Du har angitt %1$d ordeffekter %2$s</item>
+        <item quantity="one">Du har angitt %1$d ordeffekt %2$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">%1$s har angitt %2$d ordeffekter %3$s</item>
+        <item quantity="one">%1$s har angitt %2$d ordeffekt %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">Du har fjernet %1$d ordeffekter.</item>
+        <item quantity="one">Du har fjernet %1$d ordeffekt.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">%1$s har fjernet %2$d ordeffekter.</item>
+        <item quantity="one">%1$s har fjernet %2$d ordeffekt.</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d dager</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d timer</item>
+        <item quantity="one">%1$d time</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d minutter</item>
+        <item quantity="one">%1$d minutt</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">%1$s har lagt til deg og %2$d andre i gruppen.</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">%1$s har lagt til %2$s og %3$d andre i gruppen.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">%1$s har fjernet deg og %2$d andre fra gruppen.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">%1$s har fjernet %2$s og %3$d andre fra gruppen.</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">Disse personene kan se chathistorikken</item>
+        <item quantity="one">Denne personen kan se chathistorikken</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">Du og %1$d andre har blitt lagt til i gruppen.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">%1$s og %2$d andre har blitt lagt til i gruppen.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">Du og %1$d andre har blitt fjernet fra gruppen.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">%1$s og %2$d andre har blitt fjernet fra gruppen.</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">Du har lagt til %1$d personer</item>
+        <item quantity="one">Du har lagt til %1$d person</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">Du har invitert %1$s, %2$s og %3$d personer til</item>
+        <item quantity="one">Du har lagt til %1$s, %2$s og en annen person</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">Du har sendt %1$d bilder.</item>
+        <item quantity="one">Du har sendt et bilde.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">Bildet ditt er i %1$s-historien og %2$s andre.</item>
+        <item quantity="one">Bildet ditt er i %1$s-historien og en annen.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">Videoen din er i %1$s-historien og %2$s andre.</item>
+        <item quantity="one">Videoen din er i %1$s-historien og en annen.</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">Bildet ditt ble lagt til i %1$s emneknagghistorier</item>
+        <item quantity="one">Bildet ditt ble lagt til i en emneknagghistorie</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">Bildet ditt ble lagt til i %1$s stedshistorier</item>
+        <item quantity="one">Bildet ditt ble lagt til i en stedshistorie</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">Videoen din ble lagt til i %1$s emneknagghistorier</item>
+        <item quantity="one">Videoen din ble lagt til i en emneknagghistorie</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">Videoen din ble lagt til i %1$s stedshistorier</item>
+        <item quantity="one">Videoen din ble lagt til i en stedshistorie</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">&lt;b>%1$s&lt;/b> fra %2$s og %3$s effekter til</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> fra %2$s og %3$s effekt til</item>
+    </plurals>
+    <plurals name="n_additionalDiscounts">
+        <item quantity="other">%1$d promoteringer til</item>
+        <item quantity="one">%1$d promotering til</item>
+    </plurals>
+    <plurals name="n_additionalDiscountsOffers">
+        <item quantity="other">%1$d tilbud til</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">Du har fått %1$d nye kundeemner.</item>
+        <item quantity="one">Du har fått 1 nytt kundeemne.</item>
+    </plurals>
+    <plurals name="new_post_badge">
+        <item quantity="other">Nye innlegg</item>
+        <item quantity="one">1 nytt innlegg</item>
+    </plurals>
+    <plurals name="notification_badge">
+        <item quantity="other">%1$d varsler</item>
+        <item quantity="one">1 varsel</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">%1$d eller flere uleste meldinger</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d uleste meldinger</item>
+        <item quantity="one">%1$d ulest melding</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">%1$d produktsamlinger</item>
+        <item quantity="one">1 produktsamling</item>
+    </plurals>
+    <plurals name="num_pdp_attributes_discounts_formatted">
+        <item quantity="other">%1$s og %2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">%1$d produkter</item>
+        <item quantity="one">1 produkt</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">%1$s kommentarer</item>
+        <item quantity="one">%1$s kommentar</item>
+    </plurals>
+    <plurals name="number_of_comments_with_specific_emoji">
+        <item quantity="other">%1$s kommentarer med %2$s</item>
+        <item quantity="one">1 kommentar med %2$s</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">%1$s liker</item>
+        <item quantity="one">%1$s likerklikk</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">%1$s avspillinger</item>
+        <item quantity="one">%1$s avspilling</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s innlegg</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">%1$s offentlige innlegg</item>
+        <item quantity="one">%1$s offentlig innlegg</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">%1$s likerklikk og reaksjoner</item>
+        <item quantity="one">%1$s likerklikk eller reaksjon</item>
+    </plurals>
+    <plurals name="number_of_reels_in_chain">
+        <item quantity="other">%1$d Reels-videoer</item>
+        <item quantity="one">1 Reels-video</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">%1$s delinger</item>
+        <item quantity="one">%1$s deling</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">%1$s seere</item>
+        <item quantity="one">1 seer</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">%1$s visninger</item>
+        <item quantity="one">%1$s visning</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">For %1$d år siden i dag.</item>
+        <item quantity="one">For 1 år siden i dag.</item>
+    </plurals>
+    <plurals name="on_x_countries">
+        <item quantity="other">På (%1$d land)</item>
+        <item quantity="one">På (1 land)</item>
+    </plurals>
+    <plurals name="other_badges">
+        <item quantity="other">%1$d andre</item>
+        <item quantity="one">1 annen</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">Du har %1$d ventende annonser.</item>
+        <item quantity="one">Du har 1 ventende annonse.</item>
+    </plurals>
+    <plurals name="people_tagging_x_people_plurals">
+        <item quantity="other">%2$d personer</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="plays_user_list_title">
+        <item quantity="other">%1$d avspillinger</item>
+        <item quantity="one">1 avspilling</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">%1$s velgere fra promotering</item>
+        <item quantity="one">1 velger fra promotering</item>
+    </plurals>
+    <plurals name="post_live_broadcaster_user_pay_summary_info">
+        <item quantity="other">Du har tjent omtrent %1$s på %2$s merker.</item>
+        <item quantity="one">Du har tjent omtrent %1$s på 1 merke.</item>
+    </plurals>
+    <plurals name="post_live_viewer_count">
+        <item quantity="other">%1$s, %2$s, +%3$d andre har sett den direktesendte videoen din.</item>
+        <item quantity="one">%1$s har sett på den direktesendte videoen din.</item>
+    </plurals>
+    <plurals name="post_live_viewer_user_pay_summary_info">
+        <item quantity="other">Du har kjøpt %2$d merker. %1$s får se en liste over alle som har kjøpt merker.</item>
+        <item quantity="one">Du har kjøpt et merke. %1$s får se en liste over alle som har kjøpt merker.</item>
+    </plurals>
+    <plurals name="product_guide_shop_row_subtitle">
+        <item quantity="other">%1$d produkter</item>
+        <item quantity="one">%1$d produkt</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">Forslag er tilgjengelige</item>
+        <item quantity="one">Forslag er tilgjengelig</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_facebook_others">
+        <item quantity="other">%1$s og %2$d andre lenker</item>
+        <item quantity="one">%1$s og 1 lenke til</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_others">
+        <item quantity="other">%1$s og %2$d andre</item>
+        <item quantity="one">%1$s og 1 til</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_admins_with_count">
+        <item quantity="other">%1$s administratorer</item>
+        <item quantity="one">%1$s administrator</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_blocked_with_count">
+        <item quantity="other">%1$s er blokkert</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_members_with_count">
+        <item quantity="other">%1$s medlemmer</item>
+        <item quantity="one">%1$s medlem</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">&lt;b>%1$s&lt;/b> og &lt;b>%2$s andre&lt;/b> har lagt til noe i denne oppfordringen</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> og &lt;b>1 annen&lt;/b> har lagt til noe i denne oppfordringen</item>
+    </plurals>
+    <plurals name="quickshare_add_topics_pill_text">
+        <item quantity="other">%1$d emner</item>
+        <item quantity="one">1 emne</item>
+    </plurals>
+    <plurals name="recipient_picker_close_friends_count">
+        <item quantity="other">%1$s personer</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">%1$s andre personer har sett denne historien på Facebook. Siden du deler den offentlig på Facebook, har personer du ikke er venner med, sett den.</item>
+        <item quantity="one">1 annen person har sett denne historien på Facebook. Ettersom du deler det offentlig på Facebook, har en person du ikke er venn med, sett den.</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">%1$s andre visninger på Facebook</item>
+        <item quantity="one">1 annen visning på Facebook</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">stemmer på %1$s</item>
+        <item quantity="one">stemme på %1$s</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">%1$d personer har svart. Dette er gjennomsnittssvaret.</item>
+        <item quantity="one">1 person har svart. Dette er gjennomsnittssvaret.</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">Remikset av &lt;b>%1$s venner&lt;/b></item>
+        <item quantity="one">Remikset av &lt;b>1 venn&lt;/b></item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">Remikset av &lt;b>%1$s personer&lt;/b></item>
+        <item quantity="one">Remikset av &lt;b>1 person&lt;/b></item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_message">
+        <item quantity="other">Du fjerner %1$d videoer fra høydepunktet.</item>
+        <item quantity="one">Du fjerner 1 video fra høydepunktet.</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_title">
+        <item quantity="other">Vil du fjerne %1$d videoer fra høydepunktet?</item>
+        <item quantity="one">Vil du fjerne videoen fra høydepunktet?</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">Vil du fjerne %1$s følgere?</item>
+        <item quantity="one">Vil du fjerne 1 bruker?</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">%1$d produkter er fjernet</item>
+        <item quantity="one">1 produkt er fjernet</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_body">
+        <item quantity="other">Du har valgt %1$d kontoer. Bare du og personen du begrenser, vil kunne se vedkommendes nye kommentarer til innleggene dine.</item>
+        <item quantity="one">Du har valgt 1 konto. Bare du og personen du begrenser, vil kunne se vedkommendes nye kommentarer til innleggene dine.</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_primary_button">
+        <item quantity="other">Begrens kontoer</item>
+        <item quantity="one">Begrens konto</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_title">
+        <item quantity="other">Vil du begrense %1$d kontoer?</item>
+        <item quantity="one">Vil du begrense 1 konto?</item>
+    </plurals>
+    <plurals name="rolodex_hour">
+        <item quantity="other">%1$d timer</item>
+        <item quantity="one">%1$d time</item>
+    </plurals>
+    <plurals name="rolodex_minute">
+        <item quantity="other">%1$d minutter</item>
+        <item quantity="one">%1$d minutt</item>
+    </plurals>
+    <plurals name="rolodex_second">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">%1$d sekund</item>
+    </plurals>
+    <plurals name="rtc_effects_removed_multipeer_effect_max_participant_exceed">
+        <item quantity="other">Omgivelsene %1$s støtter maksimalt %2$d personer.</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">%1$s lagrede innlegg</item>
+        <item quantity="one">%1$s lagret innlegg</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">Innlegg kan ikke legges til</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">%2$s innlegg er lagt til i %1$s</item>
+        <item quantity="one">Innlegget er lagt til i %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">Innleggene kan ikke flyttes</item>
+        <item quantity="one">Innlegget kan ikke flyttes</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">%2$s innlegg er flyttet til %1$s</item>
+        <item quantity="one">Innlegget er flyttet til %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">Dette fjerner innleggene fra denne samlingen og flytter dem til %1$s. Innleggene er fortsatt lagret sammen med de andre lagrede elementene.</item>
+        <item quantity="one">Dette fjerner innlegget fra denne samlingen og flytter det til %1$s. Innlegget er fortsatt lagret sammen med de andre lagrede elementene.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">Hvis du fjerner lagrede innlegg, fjernes de også fra eventuelle samlinger.</item>
+        <item quantity="one">Hvis du fjerner det lagrede innlegget, fjernes det også fra eventuelle samlinger.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">Vil du fjerne lagrede innlegg?</item>
+        <item quantity="one">Vil du fjerne lagret innlegg?</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">Kunne ikke fjerne innlegg</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">%2$s innlegg er fjernet fra %1$s</item>
+        <item quantity="one">Innlegget er fjernet fra %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">Kunne ikke slutte å lagre innlegg</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">%1$s innlegg er ikke lagret lenger</item>
+        <item quantity="one">Innlegget er ikke lagret lenger</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">1 er valgt</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">%1$d varer</item>
+        <item quantity="one">1 vare</item>
+    </plurals>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">%1$d sekunder igjen\"</item>
+        <item quantity="one">1 sekund igjen\"</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">Nye innlegg</item>
+        <item quantity="one">Nytt innlegg</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s nye innlegg</item>
+        <item quantity="one">1 nytt innlegg</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_subtitle">
+        <item quantity="other">%1$d videoer ble blokkert i enkelte land</item>
+        <item quantity="one">1 video ble blokkert i enkelte land.</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_title">
+        <item quantity="other">%1$d videoer ble blokkert i enkelte land</item>
+        <item quantity="one">1 video ble blokkert i enkelte land</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_subtitle">
+        <item quantity="other">%1$d videoer ble blokkert</item>
+        <item quantity="one">1 video ble blokkert</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_title">
+        <item quantity="other">%1$d videoer ble blokkert</item>
+        <item quantity="one">1 video ble blokkert</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_subtitle">
+        <item quantity="other">%1$d videoer er bare tilgjengelig i enkelte land</item>
+        <item quantity="one">1 video er bare tilgjengelig i enkelte land</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_title">
+        <item quantity="other">%1$d videoer er bare tilgjengelig i enkelte land</item>
+        <item quantity="one">1 video er bare tilgjengelig i enkelte land</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">Du kan bare velge %1$d kommentarer om gangen.</item>
+        <item quantity="one">Du kan bare velge 1 kommentar om gangen.</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">Alle ventende følgeforespørsler blir automatisk godkjent med mindre du sletter dem nå. Gå gjennom %1$s ventende følgeforespørsler.</item>
+        <item quantity="one">Alle ventende følgeforespørsler blir automatisk godkjent med mindre du sletter dem nå. Gå gjennom %1$s ventende følgeforespørsel.</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">%1$s produkter</item>
+        <item quantity="one">%1$s produkt</item>
+    </plurals>
+    <plurals name="shopping_cart_count_content_description">
+        <item quantity="other">%1$d varer i handlekurven din</item>
+        <item quantity="one">1 vare i handlekurven din</item>
+    </plurals>
+    <plurals name="shopping_cart_num_items">
+        <item quantity="other">%1$d varer</item>
+        <item quantity="one">1 vare</item>
+    </plurals>
+    <plurals name="shopping_cart_subtotal_title_text">
+        <item quantity="other">Delsum (%1$d varer)</item>
+        <item quantity="one">Delsum (1 vare)</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">%1$s og &lt;b>%2$s andre&lt;/b> er medlemmer</item>
+        <item quantity="one">%1$s og &lt;b>1 annen&lt;/b> er medlemmer</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s og &lt;b>%3$s andre&lt;/b> er medlemmer</item>
+        <item quantity="one">%1$s, %2$s og &lt;b>1 annen&lt;/b> are members</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s og &lt;b>%4$s andre&lt;/b> er medlemmer</item>
+        <item quantity="one">%1$s, %2$s, %3$s og &lt;b>1 annen&lt;/b> er medlemmer</item>
+    </plurals>
+    <plurals name="standalone_fundraiser_with_cohost_label">
+        <item quantity="other">&lt;b>%1$s&lt;/b> og &lt;b>%2$s others&lt;/b></item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> og &lt;b>1 other&lt;/b></item>
+    </plurals>
+    <plurals name="sticker_count_limit">
+        <item quantity="other">Du kan ikke legge til denne etiketten mer enn %1$d ganger per historie</item>
+        <item quantity="one">Du kan ikke legge til denne etiketten mer enn én gang per historie</item>
+    </plurals>
+    <plurals name="story_drafts_confirmation_title">
+        <item quantity="other">Vil du slette utkastene?</item>
+        <item quantity="one">Vil du slette utkastet?</item>
+    </plurals>
+    <plurals name="subscriptions_shoutout_bottom_sheet_title">
+        <item quantity="other">Omtaler %1$d abonnenter</item>
+        <item quantity="one">Omtaler %1$d abonnent</item>
+    </plurals>
+    <plurals name="suggested_hidden_words_toast_text">
+        <item quantity="other">La til %1$d ord i Skjulte ord-listen</item>
+        <item quantity="one">La til 1 ord i Skjulte ord-listen</item>
+    </plurals>
+    <plurals name="suggested_products_count">
+        <item quantity="other">%1$d foreslåtte produkter</item>
+        <item quantity="one">1 foreslått produkt</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos">
+        <item quantity="other">Gruppebilder fra forrige helg</item>
+        <item quantity="one">Gruppebilde fra sist helg</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos_with_location">
+        <item quantity="other">Gruppebilder fra forrige helg her: %1$s</item>
+        <item quantity="one">Gruppebilde fra forrige helg her: %1$s</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos">
+        <item quantity="other">Gruppebilder fra i dag</item>
+        <item quantity="one">Gruppebilde fra i dag</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos_with_location">
+        <item quantity="other">Gruppebilder fra i dag her: %1$s</item>
+        <item quantity="one">Gruppebilde fra i dag her: %1$s</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos">
+        <item quantity="other">Gruppebilder fra i går</item>
+        <item quantity="one">Gruppebilde fra i går</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos_with_location">
+        <item quantity="other">Gruppebilde fra i går her: %1$s</item>
+    </plurals>
+    <plurals name="suggestion_your_recent_favorites">
+        <item quantity="other">Favoritter fra forrige uke</item>
+        <item quantity="one">Favoritt fra den siste uken</item>
+    </plurals>
+    <plurals name="tagged_accounts_plural">
+        <item quantity="other">taggede kontoer:</item>
+        <item quantity="one">tagget konto:</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">Mal brukt av &lt;b>%1$s venner&lt;/b></item>
+        <item quantity="one">Malen er brukt av &lt;b>1 venn&lt;/b></item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">Mal brukt av &lt;b>%1$s personer&lt;/b></item>
+        <item quantity="one">Malen er brukt av &lt;b>1 person&lt;/b></item>
+    </plurals>
+    <plurals name="thread_title_suffix_n_others">
+        <item quantity="other">... og %1$d andre</item>
+        <item quantity="one">... og 1 annen</item>
+    </plurals>
+    <plurals name="thread_title_x_and_n_others">
+        <item quantity="other">%1$s og %2$d andre</item>
+        <item quantity="one">%1$s og 1 annen</item>
+    </plurals>
+    <plurals name="thread_title_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s og %3$s andre</item>
+        <item quantity="one">%1$s, %2$s og 1 annen</item>
+    </plurals>
+    <plurals name="unseen_like_notification">
+        <item quantity="other">Du har %1$d nye likerklikk</item>
+        <item quantity="one">Du har 1 nytt likerklikk</item>
+    </plurals>
+    <plurals name="upcoming_event_subtitle_template">
+        <item quantity="other">%1$d produkter · %2$s</item>
+        <item quantity="one">%2$s</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_list_supporters_title">
+        <item quantity="other">%1$d støttespillere</item>
+        <item quantity="one">1 støttespiller</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">%1$d støttespillere får et varsel i Aktivitet</item>
+        <item quantity="one">1 støttespiller får et varsel i Aktivitet</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notified_supporters_number">
+        <item quantity="other">%1$d støttespillere som kjøpte merker under den nyeste direktesendingen din, blir varslet når du deler denne historien. Vis</item>
+        <item quantity="one">1 støttespiller som kjøpte merker under den nyeste direktesendingen din, blir varslet når du deler denne historien. Vis</item>
+    </plurals>
+    <plurals name="user_pay_fanclub_all_subscribers_header">
+        <item quantity="other">Alle abonnenter (%1$d)</item>
+        <item quantity="one">Alle abonnenter</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d visninger</item>
+        <item quantity="one">1 visning</item>
+    </plurals>
+    <plurals name="view_x_more_replies">
+        <item quantity="other">Se %1$d svar til</item>
+    </plurals>
+    <plurals name="view_x_previous_replies">
+        <item quantity="other">Se %1$d tidligere svar</item>
+    </plurals>
+    <plurals name="view_x_replies">
+        <item quantity="other">Se %1$d svar til</item>
+    </plurals>
+    <plurals name="voter_count_on_surfaces">
+        <item quantity="other">Stem · %1$s meningsmålingsresultater</item>
+        <item quantity="one">Stem· %1$s meningsmålingsresultat</item>
+    </plurals>
+    <plurals name="voters_count">
+        <item quantity="other">%1$s stemmer</item>
+        <item quantity="one">%1$s stemme</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">%1$d kommentarer er slettet.</item>
+        <item quantity="one">Kommentaren er slettet.</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$s dager</item>
+        <item quantity="one">%1$s dag</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">for %1$s dager siden</item>
+        <item quantity="one">for %1$s dag siden</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s timer</item>
+        <item quantity="one">%1$s time</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">for %1$s timer siden</item>
+        <item quantity="one">for %1$s time siden</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s minutter</item>
+        <item quantity="one">%1$s minutt</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">for %1$s minutter siden</item>
+        <item quantity="one">for %1$s minutt siden</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d personer</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="x_reactions">
+        <item quantity="other">%1$s reaksjoner</item>
+        <item quantity="one">%1$s reaksjon</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s sekunder</item>
+        <item quantity="one">%1$s sekund</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">for %1$s sekunder siden</item>
+        <item quantity="one">for %1$s sekund siden</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">1 er valgt</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">%1$d personer har respondert.</item>
+        <item quantity="one">1 person har svart.</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s uker</item>
+        <item quantity="one">%1$s uke</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">for %1$s uker siden</item>
+        <item quantity="one">for %1$s uke siden</item>
+    </plurals>
+</resources>

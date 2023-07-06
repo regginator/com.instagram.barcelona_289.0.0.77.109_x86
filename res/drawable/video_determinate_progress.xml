@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape android:shape="ring" android:useLevel="false" android:innerRadius="@dimen/clips_controls_with_attached_scrubber_hairline_height" android:thickness="@dimen/audition_audio_item_selected_stroke_border_width">
+            <solid android:color="@color/white_10_transparent" />
+            <size android:height="@dimen/avatar_reel_ring_size_extra_large" android:width="@dimen/avatar_reel_ring_size_extra_large" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <shape android:shape="ring" android:useLevel="true" android:innerRadius="@dimen/clips_controls_with_attached_scrubber_hairline_height" android:thickness="@dimen/audition_audio_item_selected_stroke_border_width">
+            <solid android:color="@color/design_dark_default_color_on_background" />
+            <size android:height="@dimen/avatar_reel_ring_size_extra_large" android:width="@dimen/avatar_reel_ring_size_extra_large" />
+        </shape>
+    </item>
+</layer-list>

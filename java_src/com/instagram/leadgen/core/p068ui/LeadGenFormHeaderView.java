@@ -1,0 +1,52 @@
+package com.instagram.leadgen.core.p068ui;
+
+import android.content.Context;
+import android.util.AttributeSet;
+import androidx.constraintlayout.widget.ConstraintLayout;
+import com.instagram.barcelona.R;
+import com.instagram.common.p046ui.base.IgTextView;
+import com.instagram.common.p046ui.widget.imageview.CircularImageView;
+import com.instagram.common.p046ui.widget.imageview.IgImageView;
+import kotlin.jvm.internal.DefaultConstructorMarker;
+import p000X.C0OR;
+import p000X.C25920wp;
+import p000X.C25970wu;
+/* renamed from: com.instagram.leadgen.core.ui.LeadGenFormHeaderView */
+/* loaded from: classes3.dex */
+public final class LeadGenFormHeaderView extends ConstraintLayout {
+    public final IgTextView A00;
+    public final IgTextView A01;
+    public final IgTextView A02;
+    public final IgTextView A03;
+    public final CircularImageView A04;
+    public final IgImageView A05;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public LeadGenFormHeaderView(Context context, AttributeSet attributeSet, int i) {
+        super(context, attributeSet, i);
+        C0OR.A0B(context, 1);
+        ConstraintLayout.inflate(context, R.layout.lead_gen_view_form_header, this);
+        this.A05 = (IgImageView) C25920wp.A0J(this, R.id.lead_form_header_image);
+        this.A01 = (IgTextView) C25920wp.A0J(this, R.id.num_questions_text_view);
+        this.A03 = (IgTextView) C25920wp.A0J(this, R.id.welcome_message_text_view);
+        this.A04 = (CircularImageView) C25920wp.A0J(this, R.id.lead_form_profile_image);
+        this.A02 = (IgTextView) C25920wp.A0J(this, R.id.username_text_view);
+        this.A00 = (IgTextView) C25920wp.A0J(this, R.id.follower_number_text_view);
+    }
+
+    public /* synthetic */ LeadGenFormHeaderView(Context context, AttributeSet attributeSet, int i, int i2, DefaultConstructorMarker defaultConstructorMarker) {
+        this(context, C25970wu.A0H(attributeSet, i2), C25970wu.A01(i2, i));
+    }
+
+    /* JADX WARN: 'this' call moved to the top of the method (can break code semantics) */
+    public LeadGenFormHeaderView(Context context, AttributeSet attributeSet) {
+        this(context, attributeSet, 0);
+        C0OR.A0B(context, 1);
+    }
+
+    /* JADX WARN: 'this' call moved to the top of the method (can break code semantics) */
+    public LeadGenFormHeaderView(Context context) {
+        this(context, null, 0);
+        C0OR.A0B(context, 1);
+    }
+}

@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">سيتمكن المشاهدون من التمرير لأعلى لزيارة هذا الرابط. لا يمكنك إضافة أكثر من رابط تمرير لأعلى واحد فقط.</item>
+        <item quantity="one">سيتمكن المشاهدون من التمرير لأعلى لزيارة هذا الرابط.</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">تمت إضافة عمليات ذِكر باستخدام @.</item>
+        <item quantity="one">تمت إضافة ذِكر.</item>
+    </plurals>
+    <plurals name="alt_text_popup_description">
+        <item quantity="other">صف صورك للأشخاص ذوي الإعاقات البصرية.</item>
+        <item quantity="one">صف صورتك للأشخاص ذوي الإعاقات البصرية.</item>
+    </plurals>
+    <plurals name="anonymous_comments_message">
+        <item quantity="other">يمكنك رؤية %1$d من التعليقات على {original_post}.</item>
+        <item quantity="one">يمكنك رؤية تعليق واحد على {original_post}.</item>
+    </plurals>
+    <plurals name="anonymous_likers_message">
+        <item quantity="other">يمكنك رؤية %1$d من تسجيلات الإعجاب على {original_post}.</item>
+        <item quantity="one">يمكنك رؤية تسجيل إعجاب واحد على {original_post}.</item>
+    </plurals>
+    <plurals name="appended_poll_vote_count_label_on_feed">
+        <item quantity="other">%1$s من نتائج استطلاع الرأي</item>
+        <item quantity="one">%1$s نتيجة استطلاع رأي</item>
+    </plurals>
+    <plurals name="appreciation_funding_a11y_star_balance">
+        <item quantity="other">يُقدر رصيدك بعدد %1$d من النجوم</item>
+        <item quantity="one">رصيدك نجمة واحدة</item>
+    </plurals>
+    <plurals name="appreciation_gifting_a11y_balance">
+        <item quantity="other">الرصيد: %1$d نجمة</item>
+        <item quantity="one">الرصيد: نجمة واحدة</item>
+        <item quantity="two">الرصيد: نجمتان</item>
+        <item quantity="few">الرصيد: %1$d نجوم</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_body">
+        <item quantity="other">لقد قمت بتحديد %1$d من التعليقات. وفي حالة الموافقة على أحد الردود، ستتم أيضًا الموافقة على التعليق الأصلي.</item>
+        <item quantity="one">لقد قمت بتحديد تعليق واحد. وفي حالة الموافقة على أحد الردود، ستتم أيضًا الموافقة على التعليق الأصلي.</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_primary_button">
+        <item quantity="other">الموافقة على التعليقات</item>
+        <item quantity="one">الموافقة على التعليق</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_title">
+        <item quantity="other">هل تريد الموافقة على %1$d من التعليقات؟</item>
+        <item quantity="one">هل تريد الموافقة على تعليق واحد؟</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">%1$d شخص</item>
+        <item quantity="one">شخص واحد</item>
+        <item quantity="two">شخصان</item>
+        <item quantity="few">%1$d أشخاص</item>
+        <item quantity="many">%1$d شخصًا</item>
+    </plurals>
+    <plurals name="average_time_spent_hours">
+        <item quantity="other">%1$d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">%1$d ساعات</item>
+    </plurals>
+    <plurals name="average_time_spent_minutes">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%1$d دقائق</item>
+    </plurals>
+    <plurals name="barcelona_expand_replies">
+        <item quantity="other">%1$s رد</item>
+        <item quantity="one">رد واحد</item>
+        <item quantity="two">ردان</item>
+        <item quantity="few">%1$s ردود</item>
+        <item quantity="many">%1$s ردًا</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_follower_tab_count">
+        <item quantity="other">%1$s متابع</item>
+        <item quantity="one">متابع واحد</item>
+        <item quantity="two">متابعان</item>
+        <item quantity="few">%1$s متابعين</item>
+        <item quantity="many">%1$s متابعًا</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_following_tab_count">
+        <item quantity="other">%1$s متابع</item>
+        <item quantity="one">متابع واحد</item>
+        <item quantity="two">متابعان</item>
+        <item quantity="few">%1$s متابعين</item>
+        <item quantity="many">%1$s متابعًا</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_pending_tab_count">
+        <item quantity="other">%1$s من الحسابات المعلقة. ستبدأ في متابعة هذه الحسابات عندما تنضم إلى %2$s. %3$s</item>
+        <item quantity="one">حساب واحد معلق. ستبدأ في متابعة هذا الحساب عندما ينضم إلى %2$s. %3$s</item>
+    </plurals>
+    <plurals name="barcelona_onboarding_following_screen__pending_tab_subtitle">
+        <item quantity="other">لم تنضم هذه الحسابات (%1$s) إلى %2$s حتى الآن أو تحتاج إلى الموافقة على طلب المتابعة الخاص بك.</item>
+        <item quantity="one">لم ينضم هذا الحساب إلى %2$s حتى الآن أو يحتاج إلى الموافقة على طلب المتابعة الخاص بك.</item>
+    </plurals>
+    <plurals name="barcelona_post_like_count">
+        <item quantity="other">%1$s تسجيل إعجاب</item>
+        <item quantity="one">تسجيل إعجاب واحد</item>
+        <item quantity="two">تسجيلا إعجاب</item>
+        <item quantity="few">%1$s تسجيلات إعجاب</item>
+    </plurals>
+    <plurals name="barcelona_profile_follower_count">
+        <item quantity="other">%1$s متابع</item>
+        <item quantity="one">متابع واحد</item>
+    </plurals>
+    <plurals name="barcelona_search_follower_count">
+        <item quantity="other">%1$s متابع</item>
+        <item quantity="one">متابع واحد</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">تعذر تأكيد طلبات المتابعة الخاصة بك في الوقت الحالي. يرجى إعادة المحاولة لاحقًا.</item>
+        <item quantity="one">تعذر تأكيد طلب المتابعة الخاص بك في الوقت الحالي. يرجى إعادة المحاولة لاحقًا.</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">تعذر حذف طلبات المتابعة الخاصة بك في الوقت الحالي. يرجى إعادة المحاولة لاحقًا.</item>
+        <item quantity="one">تعذر حذف طلب المتابعة الخاص بك في الوقت الحالي. يرجى إعادة المحاولة لاحقًا.</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">فشل طلبك لمتابعة هؤلاء المستخدمين. يرجى إعادة المحاولة لاحقًا.</item>
+        <item quantity="one">فشل طلبك لمتابعة هذا المستخدم. يرجى إعادة المحاولة لاحقًا.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">فشل طلبك لإزالة هؤلاء المتابعين. يرجى إعادة المحاولة لاحقًا.</item>
+        <item quantity="one">فشل طلبك لإزالة هذا المتابع. يرجى إعادة المحاولة لاحقًا.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">تمت إزالة %1$s من المتابعين</item>
+        <item quantity="one">تمت إزالة متابع واحد</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">%1$d طلب</item>
+        <item quantity="one">طلب واحد</item>
+        <item quantity="two">طلبان</item>
+        <item quantity="few">%1$d طلبات</item>
+        <item quantity="many">%1$d طلبًا</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s شخص</item>
+        <item quantity="one">شخص واحد</item>
+        <item quantity="two">شخصان</item>
+        <item quantity="few">%1$s أشخاص</item>
+        <item quantity="many">%1$s شخصًا</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_body">
+        <item quantity="other">لقد قمت بتحديد %1$d من الحسابات. لن يتمكنوا من العثور على ملفك الشخصي أو منشوراتك أو قصتك على Instagram.</item>
+        <item quantity="one">لقد قمت بتحديد حساب واحد. لن يتمكن من العثور على ملفك الشخصي أو منشوراتك أو قصتك على Instagram.</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_primary_button">
+        <item quantity="other">حظر الحسابات</item>
+        <item quantity="one">حظر الحساب</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_title">
+        <item quantity="other">هل تريد حظر %1$d من الحسابات؟</item>
+        <item quantity="one">هل تريد حظر حساب واحد؟</item>
+    </plurals>
+    <plurals name="blocked_story_photos_delete_button_text">
+        <item quantity="other">حذف %1$d من الصور</item>
+        <item quantity="one">حذف صورة واحدة</item>
+    </plurals>
+    <plurals name="blocked_story_videos_delete_button_text">
+        <item quantity="other">حذف %1$d من مقاطع الفيديو</item>
+        <item quantity="one">حذف فيديو واحد</item>
+    </plurals>
+    <plurals name="bonuses_tagging_reels_welcome_bonus_reels_left">
+        <item quantity="other">يمكن احتساب %1$d من مقطع ريلز الأخرى ضمن هذه المكافأة</item>
+        <item quantity="one">يمكن احتساب مقطع ريلز واحد آخر ضمن هذه المكافأة</item>
+    </plurals>
+    <plurals name="bulk_block_confirmation_toast">
+        <item quantity="other">تم حظر الحسابات</item>
+        <item quantity="one">تم حظر الحساب</item>
+    </plurals>
+    <plurals name="bulk_restrict_confirmation_toast">
+        <item quantity="other">تم تقييد الحسابات</item>
+        <item quantity="one">تم تقييد الحساب</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">منذ %1$d سنة...</item>
+        <item quantity="one">منذ سنة واحدة...</item>
+        <item quantity="two">منذ سنتين...</item>
+        <item quantity="few">منذ %1$d سنوات...</item>
+    </plurals>
+    <plurals name="cart_sold_out_and_unavailable_items_status_message">
+        <item quantity="other">%1$d من العناصر الموجودة في عربة تسوقك لم تعد متوفرة.</item>
+        <item quantity="one">أحد العناصر المضافة إلى عربة تسوقك لم يعد متوفرًا.</item>
+    </plurals>
+    <plurals name="chat_badge">
+        <item quantity="other">%1$d دردشة</item>
+        <item quantity="one">دردشة واحدة</item>
+        <item quantity="two">دردشتان</item>
+        <item quantity="few">%1$d دردشات</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">%1$s عضو</item>
+        <item quantity="one">عضو واحد</item>
+        <item quantity="two">عضوان</item>
+        <item quantity="few">%1$s أعضاء</item>
+        <item quantity="many">%1$s عضوًا</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d رد</item>
+        <item quantity="one">رد واحد</item>
+        <item quantity="two">ردان</item>
+        <item quantity="few">%1$d ردود</item>
+        <item quantity="many">%1$d ردًا</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">%1$d صديق مقرب على فيسبوك</item>
+        <item quantity="one">صديق واحد مقرب على فيسبوك</item>
+        <item quantity="two">صديقان مقربان على فيسبوك</item>
+        <item quantity="few">%1$d أصدقاء مقربين على فيسبوك</item>
+        <item quantity="many">%1$d صديقًا مقربًا على فيسبوك</item>
+    </plurals>
+    <plurals name="comment_badge">
+        <item quantity="other">%1$d تعليق</item>
+        <item quantity="one">تعليق واحد</item>
+        <item quantity="two">تعليقان</item>
+        <item quantity="few">%1$d تعليقات</item>
+        <item quantity="many">%1$d تعليقًا</item>
+    </plurals>
+    <plurals name="comment_count_label_on_feed">
+        <item quantity="other">%1$s تعليق</item>
+        <item quantity="one">تعليق واحد</item>
+        <item quantity="two">تعليقان</item>
+        <item quantity="few">%1$s تعليقات</item>
+        <item quantity="many">%1$s تعليقًا</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">تم التعليق بواسطة %1$s و&lt;b>%2$s من الأشخاص الآخرين&lt;/b></item>
+        <item quantity="one">تم التعليق بواسطة %1$s و&lt;b>شخص واحد آخر&lt;/b></item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">تم التعليق بواسطة %1$s وآخرين</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">تم التعليق بواسطة %1$s و%2$s و%3$s و&lt;b>%4$s من الأشخاص الآخرين&lt;/b></item>
+        <item quantity="one">تم التعليق بواسطة %1$s و%2$s و%3$s و&lt;b>شخص واحد آخر&lt;/b></item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">تم التعليق بواسطة %1$s و%2$s و%3$s وآخرين</item>
+    </plurals>
+    <plurals name="comments_from_facebook_title">
+        <item quantity="other">عرض %1$d من التعليقات من فيسبوك</item>
+        <item quantity="one">رؤية تعليق واحد من فيسبوك</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">هل تريد تأكيد طلبات المتابعة (%1$s)؟</item>
+        <item quantity="one">هل تريد تأكيد طلب المتابعة؟</item>
+    </plurals>
+    <plurals name="connect_page_num_like">
+        <item quantity="other">%1$d تسجيلات إعجاب</item>
+        <item quantity="one">%1$d تسجيل إعجاب</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">أيام</item>
+        <item quantity="one">يوم</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">ساعات</item>
+        <item quantity="one">ساعة</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">دقائق</item>
+        <item quantity="one">دقيقة</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">شهور</item>
+        <item quantity="one">شهر</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">ثوانٍ</item>
+        <item quantity="one">ثانية</item>
+    </plurals>
+    <plurals name="custom_comment_filter_upsell_toast_message">
+        <item quantity="other">تمت إضافة %1$d عنصر إلى قائمة الكلمات المخفية الخاصة بك.</item>
+        <item quantity="one">تمت إضافة عنصر واحد إلى قائمة الكلمات المخفية الخاصة بك.</item>
+        <item quantity="two">تمت إضافة عنصرين إلى قائمة الكلمات المخفية الخاصة بك.</item>
+        <item quantity="few">تمت إضافة %1$d عناصر إلى قائمة الكلمات المخفية الخاصة بك.</item>
+        <item quantity="many">تمت إضافة %1$d عنصرًا إلى قائمة الكلمات المخفية الخاصة بك.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_message">
+        <item quantity="other">لن تتمكن من رؤية مقاطع الفيديو هذه بعد ذلك.</item>
+        <item quantity="one">لن تتمكن من رؤية هذا الفيديو بعد ذلك.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_title">
+        <item quantity="other">هل تريد حذف %1$d من مقاطع الفيديو؟</item>
+        <item quantity="one">هل تريد حذف هذا الفيديو؟</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">هل تريد حذف طلبات المتابعة (%1$s)؟</item>
+        <item quantity="one">هل تريد حذف طلب المتابعة؟</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">لن تتم الموافقة على هذه الطلبات عند التبديل إلى حساب عام.</item>
+        <item quantity="one">لن تتم الموافقة على هذا الطلب عند التبديل إلى حساب عام.</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">هل تريد حذف طلبات المتابعة؟</item>
+        <item quantity="one">هل تريد حذف طلب المتابعة هذا؟</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">يمكنهم رؤية كل الرسائل السابقة من هذه المحادثة.</item>
+        <item quantity="one">بإمكان %1$s رؤية كل الرسائل السابقة من هذه المحادثة.</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message_without_all">
+        <item quantity="other">يمكنهم رؤية الرسائل السابقة من هذه المحادثة.</item>
+        <item quantity="one">بإمكان %1$s رؤية الرسائل السابقة من هذه المحادثة.</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_hours_ago">
+        <item quantity="other">نشط منذ %1$d س</item>
+        <item quantity="one">كان نشطًا منذ ساعة</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_mins_ago">
+        <item quantity="other">نشط منذ %1$d د</item>
+        <item quantity="one">نشط منذ دقيقة واحدة</item>
+    </plurals>
+    <plurals name="direct_faq_import_bottom_button_footer">
+        <item quantity="other">تحديد %1$d من الأسئلة كحد أقصى</item>
+        <item quantity="one">تحديد سؤال واحد كحد أقصى</item>
+    </plurals>
+    <plurals name="direct_faq_import_max_limit_reached_message">
+        <item quantity="other">لا يمكن استيراد أكثر من %1$d من الأسئلة</item>
+        <item quantity="one">لا يمكن استيراد أكثر من سؤال واحد</item>
+    </plurals>
+    <plurals name="direct_max_recipients_in_chat_reached_body">
+        <item quantity="other">إجمالي عدد الأشخاص الذين يمكن أن ينضموا إلى دردشة هو %1$s. يرجى ألا يزيد عدد الأشخاص عن %1$s، بما في ذلك أنت، لإكمال إنشاء هذه الدردشة.</item>
+    </plurals>
+    <plurals name="direct_max_recipients_reached_body">
+        <item quantity="other">إجمالي عدد الأشخاص الذين يمكن أن يكونوا ضمن مجموعة هو %1$s. يرجى تعيين حد لعدد الأشخاص إلى %1$s، بما في ذلك أنت، لإكمال إنشاء هذه المجموعة.</item>
+    </plurals>
+    <plurals name="direct_media_composer_send_button_description">
+        <item quantity="other">إرسال %1$s</item>
+        <item quantity="one">إرسال</item>
+    </plurals>
+    <plurals name="direct_welcome_message_edit_character_limit_reached_error">
+        <item quantity="other">لا يمكن أن تحتوي الرسالة الترحيبية على أكثر من %1$d من الأحرف.</item>
+        <item quantity="one">لا يمكن أن تحتوي الرسالة الترحيبية على أكثر من حرف واحد.</item>
+    </plurals>
+    <plurals name="discard_x_drafts">
+        <item quantity="other">هل تريد تجاهل %1$d من المسودات؟</item>
+        <item quantity="one">هل تريد تجاهل مسودة واحدة؟</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">تم استخدام %1$s بواسطة &lt;b>%2$s من الأصدقاء&lt;/b></item>
+        <item quantity="one">تم استخدام %1$s بواسطة &lt;b> صديق واحد&lt;/b></item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">تم استخدام %1$s بواسطة &lt;b>%2$s شخص&lt;/b></item>
+        <item quantity="one">تم استخدام %1$s بواسطة &lt;b>شخص واحد&lt;/b></item>
+        <item quantity="two">تم استخدام %1$s بواسطة &lt;b>شخصين&lt;/b></item>
+        <item quantity="few">تم استخدام %1$s بواسطة &lt;b>%2$s أشخاص&lt;/b></item>
+        <item quantity="many">تم استخدام %1$s بواسطة &lt;b>%2$s شخصًا&lt;/b></item>
+    </plurals>
+    <plurals name="fan_club_content_preview_settings_detail">
+        <item quantity="other">%1$d منشور</item>
+        <item quantity="one">منشور واحد</item>
+        <item quantity="two">منشوران</item>
+        <item quantity="few">%1$d منشورات</item>
+        <item quantity="many">%1$d منشورًا</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">عرض %1$d من المشتركين</item>
+        <item quantity="one">عرض %1$d مشترك</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_subtitle">
+        <item quantity="other">الزر \"اشتراك\" موجود الآن على ملفك الشخصي. سيتم إرسال إشعارات إلى متابعيك تلقائيًا بشأن اشتراكك في غضون %1$d من الأيام.</item>
+        <item quantity="one">الزر \"اشتراك\" موجود الآن على ملفك الشخصي. سيتم إرسال إشعارات إلى متابعيك تلقائيًا بشأن اشتراكك في غضون يوم واحد.</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_title">
+        <item quantity="other">سيتم إرسال إشعارات إلى متابعيك في غضون %1$d من الأيام</item>
+        <item quantity="one">سيتم إرسال إشعارات إلى متابعيك في غضون يوم واحد</item>
+    </plurals>
+    <plurals name="fb_page_num_like_label">
+        <item quantity="other">%1$s تسجيل إعجاب</item>
+        <item quantity="one">تسجيل إعجاب واحد</item>
+        <item quantity="two">تسجيلا إعجاب</item>
+        <item quantity="few">%1$s تسجيلات إعجاب</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">يوجد %2$d من العناصر في %1$s، و%3$s، %4$s</item>
+        <item quantity="one">يوجد %2$d عنصر في %1$s، و%3$s، %4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">هل تريد رد متابعة %1$s مستخدم؟</item>
+        <item quantity="one">هل تريد رد متابعة مستخدم واحد؟</item>
+        <item quantity="two">هل تريد رد متابعة مستخدمين؟</item>
+        <item quantity="few">هل تريد رد متابعة %1$s مستخدمين؟</item>
+        <item quantity="many">هل تريد رد متابعة %1$s مستخدمًا؟</item>
+    </plurals>
+    <plurals name="follow_badge">
+        <item quantity="other">%1$d متابعة</item>
+        <item quantity="one">متابعة واحدة</item>
+        <item quantity="two">متابعتان</item>
+        <item quantity="few">%1$d متابعات</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$d متابعة</item>
+        <item quantity="one">متابعة واحدة</item>
+        <item quantity="two">متابعتان</item>
+        <item quantity="few">%1$d متابعات</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">يتابعها %1$s من الأشخاص</item>
+        <item quantity="one">يتابعها شخص واحد</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">يتابعها %1$s و&lt;font face=sans-serif-medium>%2$s من الأشخاص الآخرين&lt;/font></item>
+        <item quantity="one">تمت المتابعة بواسطة %1$s و&lt;font face=sans-serif-medium>شخص واحد آخر&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">يتابعها %1$s و%2$s من الأشخاص الآخرين</item>
+        <item quantity="one">يتابعها %1$s وشخص واحد آخر</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">تمت المتابعة بواسطة %1$s و%2$s و&lt;font face=sans-serif-medium>%3$s من الأشخاص الآخرين&lt;/font></item>
+        <item quantity="one">تمت المتابعة بواسطة %1$s و%2$s و&lt;font face=sans-serif-medium>شخص واحد آخر&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">تمت المتابعة بواسطة %1$s و%2$s و%3$s و&lt;font face=sans-serif-medium>%4$s من الأشخاص الآخرين&lt;/font></item>
+        <item quantity="one">تمت المتابعة بواسطة %1$s و%2$s و%3$s و&lt;font face=sans-serif-medium>شخص واحد آخر&lt;/font></item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">%1$s متابع</item>
+        <item quantity="one">متابع واحد</item>
+        <item quantity="two">متابعان</item>
+        <item quantity="few">%1$s متابعين</item>
+        <item quantity="many">%1$s متابعًا</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos">
+        <item quantity="other">%1$d صورة</item>
+        <item quantity="one">صورة واحدة</item>
+        <item quantity="two">صورتان</item>
+        <item quantity="few">%1$d صور</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos_one_video">
+        <item quantity="other">%1$d من الصور وفيديو واحد</item>
+        <item quantity="one">%1$d صورة ومقطع فيديو واحد</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_videos">
+        <item quantity="other">%1$d مقطع فيديو</item>
+        <item quantity="one">مقطع فيديو واحد</item>
+        <item quantity="two">مقطعا فيديو</item>
+        <item quantity="few">%1$d مقاطع فيديو</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_one_photo_n_videos">
+        <item quantity="other">صورة واحدة و%1$d من مقاطع الفيديو</item>
+        <item quantity="one">صورة واحدة و%1$d مقطع فيديو</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_months_ago">
+        <item quantity="other">منذ %1$d شهر</item>
+        <item quantity="one">منذ شهر واحد</item>
+        <item quantity="two">منذ شهرين</item>
+        <item quantity="few">منذ %1$d شهور</item>
+        <item quantity="many">منذ %1$d شهرًا</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_weeks_ago">
+        <item quantity="other">منذ %1$d أسبوع</item>
+        <item quantity="one">منذ أسبوع واحد</item>
+        <item quantity="two">منذ أسبوعين</item>
+        <item quantity="few">منذ %1$d أسابيع</item>
+        <item quantity="many">منذ %1$d أسبوعًا</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_years_ago">
+        <item quantity="other">منذ %1$d سنة</item>
+        <item quantity="one">منذ سنة واحدة</item>
+        <item quantity="two">منذ سنتين</item>
+        <item quantity="few">منذ %1$d سنوات</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_day">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يومًا</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_minute">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%1$d دقائق</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_month">
+        <item quantity="other">%1$d شهر</item>
+        <item quantity="one">شهر واحد</item>
+        <item quantity="two">شهران</item>
+        <item quantity="few">%1$d شهور</item>
+        <item quantity="many">%1$d شهرًا</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_week">
+        <item quantity="other">%1$d أسبوع</item>
+        <item quantity="one">أسبوع واحد</item>
+        <item quantity="two">أسبوعان</item>
+        <item quantity="few">%1$d أسابيع</item>
+        <item quantity="many">%1$d أسبوعًا</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_year">
+        <item quantity="other">%1$d سنة</item>
+        <item quantity="one">سنة واحدة</item>
+        <item quantity="two">سنتان</item>
+        <item quantity="few">%1$d سنوات</item>
+    </plurals>
+    <plurals name="granted_extension_time_hours">
+        <item quantity="other">%1$d من الساعات الإضافية</item>
+        <item quantity="one">%1$d ساعات إضافية</item>
+    </plurals>
+    <plurals name="granted_extension_time_minutes">
+        <item quantity="other">%1$d دقيقة إضافية</item>
+        <item quantity="one">دقيقة إضافية واحدة</item>
+        <item quantity="two">دقيقتان إضافيتان</item>
+        <item quantity="few">%1$d دقائق إضافية</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">%1$d من الصور وفيديو واحد من %2$s في الصف %3$d، العمود %4$d</item>
+        <item quantity="one">%1$d صورة وفيديو واحد من %2$s في الصف %3$d، العمود %4$d</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">صورة واحدة و%1$d من مقاطع الفيديو من %2$s في الصف %3$d، العمود %4$d</item>
+        <item quantity="one">صورة واحدة و%1$d فيديو من %2$s في الصف %3$d، العمود %4$d</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">%1$d مشترك</item>
+        <item quantity="one">مشترك واحد</item>
+        <item quantity="two">مشتركان</item>
+        <item quantity="few">%1$d مشتركين</item>
+        <item quantity="many">%1$d مشتركًا</item>
+    </plurals>
+    <plurals name="guide_detail_text_accounts">
+        <item quantity="other">%1$s حساب</item>
+        <item quantity="one">حساب واحد</item>
+        <item quantity="two">حسابان</item>
+        <item quantity="few">%1$s حسابات</item>
+        <item quantity="many">%1$s حسابًا</item>
+    </plurals>
+    <plurals name="guide_detail_text_locations">
+        <item quantity="other">%1$s مكان</item>
+        <item quantity="one">مكان واحد</item>
+        <item quantity="two">مكانان</item>
+        <item quantity="few">%1$s أماكن</item>
+        <item quantity="many">%1$s مكانًا</item>
+    </plurals>
+    <plurals name="guide_detail_text_media">
+        <item quantity="other">%1$s منشور</item>
+        <item quantity="one">منشور واحد</item>
+        <item quantity="two">منشوران</item>
+        <item quantity="few">%1$s منشورات</item>
+        <item quantity="many">%1$s منشورًا</item>
+    </plurals>
+    <plurals name="guide_detail_text_products">
+        <item quantity="other">%1$s منتج</item>
+        <item quantity="one">منتج واحد</item>
+        <item quantity="two">منتجان</item>
+        <item quantity="few">%1$s منتجات</item>
+        <item quantity="many">%1$s منتجًا</item>
+    </plurals>
+    <plurals name="guide_drafts_count">
+        <item quantity="other">%1$s مسودة دليل</item>
+        <item quantity="one">مسودة دليل واحدة</item>
+        <item quantity="two">مسودتا دليل</item>
+        <item quantity="few">%1$s مسودات دليل</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_attempts_left_error">
+        <item quantity="other">لديك %1$d من المحاولات الأخرى لإدخال رمز PIN قبل أن يتوقف عن العمل تمامًا.</item>
+        <item quantity="one">لديك %1$d محاولة أخرى لإدخال رمز PIN قبل أن يتوقف عن العمل تمامًا.</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_hours_popup_title_text">
+        <item quantity="other">%1$d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">%1$d ساعات</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_minutes_popup_title_text">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%1$d دقائق</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_seconds_popup_title_text">
+        <item quantity="other">%1$d ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="two">ثانيتان</item>
+        <item quantity="few">%1$d ثوانٍ</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">يتم افتراضيًا حظر الإعلانات من %1$s، مثل المقامرة والمواعدة. ويمكنك تحديد ما يصل إلى %2$d من الفئات الإعلانية الإضافية التي تريد منع ظهورها في مقاطع ريلز الخاصة بك.</item>
+        <item quantity="one">يتم افتراضيًا حظر الإعلانات من %1$s، مثل المقامرة والمواعدة. ويمكنك تحديد ما يصل إلى فئة إعلانية إضافية واحدة تريد منع ظهورها في مقاطع ريلز الخاصة بك.</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s و%2$s و%3$s و%4$s و%5$s و%6$d من الحسابات الأخرى</item>
+        <item quantity="one">%1$s و%2$s و%3$s و%4$s و%5$s وحساب واحد آخر</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s و%2$s و%3$s و%4$s و%5$s و%6$d من الفئات الأخرى</item>
+        <item quantity="one">%1$s و%2$s و%3$s و%4$s و%5$s وفئة واحدة أخرى</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">يتم افتراضيًا حظر إعلانات من %1$s، مثل المقامرة والمواعدة. ويمكنك تحديد ما يصل إلى %2$d من فئات إعلانية إضافية تريد منع ظهورها في موجز ملفك الشخصي.</item>
+        <item quantity="one">يتم افتراضيًا حظر إعلانات من %1$s، مثل المقامرة والمواعدة. ويمكنك تحديد ما يصل إلى فئة إعلانية إضافية واحدة تريد منع ظهورها في موجز ملفك الشخصي.</item>
+    </plurals>
+    <plurals name="iglive_audience_mode_close_friends_edit_option_close_friends_added">
+        <item quantity="other">%1$d شخص</item>
+        <item quantity="one">شخص واحد</item>
+        <item quantity="two">شخصان</item>
+        <item quantity="few">%1$d أشخاص</item>
+        <item quantity="many">%1$d شخصًا</item>
+    </plurals>
+    <plurals name="iglive_presence_text">
+        <item quantity="other">%1$d متابع نشط الآن</item>
+        <item quantity="one">متابع واحد نشط الآن</item>
+        <item quantity="two">متابعان نشطان الآن</item>
+        <item quantity="few">%1$d متابعين نشطين الآن</item>
+        <item quantity="many">%1$d متابعًا نشطًا الآن</item>
+    </plurals>
+    <plurals name="igtv_series_episode">
+        <item quantity="other">%1$s حلقة</item>
+        <item quantity="one">حلقة واحدة</item>
+        <item quantity="two">حلقتان</item>
+        <item quantity="few">%1$s حلقات</item>
+    </plurals>
+    <plurals name="igtv_video_minute_duration_description">
+        <item quantity="other">%1$s دقيقة و%2$s ثانية</item>
+        <item quantity="one">%1$s دقيقة وثانية واحدة</item>
+    </plurals>
+    <plurals name="igtv_video_seconds_duration_description_one_min">
+        <item quantity="other">دقيقة واحدة و%1$s ثانية</item>
+        <item quantity="one">دقيقة واحدة وثانية واحدة</item>
+        <item quantity="two">دقيقة واحدة وثانيتان</item>
+        <item quantity="few">دقيقة واحدة و%1$s ثوانٍ</item>
+    </plurals>
+    <plurals name="lead_gen_available_forms_number_of_custom_questions">
+        <item quantity="other">%1$d سؤال</item>
+        <item quantity="one">سؤال واحد</item>
+        <item quantity="two">سؤالان</item>
+        <item quantity="few">%1$d أسئلة</item>
+        <item quantity="many">%1$d سؤالاً</item>
+    </plurals>
+    <plurals name="lead_gen_form_num_questions">
+        <item quantity="other">%1$d سؤال</item>
+        <item quantity="one">سؤال واحد</item>
+        <item quantity="two">سؤالان</item>
+        <item quantity="few">%1$d أسئلة</item>
+        <item quantity="many">%1$d سؤالاً</item>
+    </plurals>
+    <plurals name="like_badge">
+        <item quantity="other">%1$d تسجيل إعجاب</item>
+        <item quantity="one">تسجيل إعجاب واحد</item>
+        <item quantity="two">تسجيلا إعجاب</item>
+        <item quantity="few">%1$d تسجيلات إعجاب</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d تسجيل إعجاب</item>
+        <item quantity="one">تسجيل إعجاب واحد</item>
+        <item quantity="two">تسجيلا إعجاب</item>
+        <item quantity="few">%1$d تسجيلات إعجاب</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">حاز على إعجاب %1$s و&lt;font face=sans-serif-medium>%2$s آخرين&lt;/font></item>
+        <item quantity="one">حاز على إعجاب %1$s و&lt;font face=sans-serif-medium>شخص واحد آخر&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">حاز على إعجاب %1$s و%2$s و&lt;font face=sans-serif-medium>%3$s آخرين&lt;/font></item>
+        <item quantity="one">حاز على إعجاب %1$s و%2$s و&lt;font face=sans-serif-medium>شخص واحد آخر&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">حاز على إعجاب %1$s و%2$s و%3$s و&lt;font face=sans-serif-medium>%4$s آخرين&lt;/font></item>
+        <item quantity="one">حاز على إعجاب %1$s و%2$s و%3$s و&lt;font face=sans-serif-medium>شخص واحد آخر&lt;/font></item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_day">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يومًا</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_week">
+        <item quantity="other">%1$d أسبوع</item>
+        <item quantity="one">أسبوع واحد</item>
+        <item quantity="two">أسبوعان</item>
+        <item quantity="few">%1$d أسابيع</item>
+        <item quantity="many">%1$d أسبوعًا</item>
+    </plurals>
+    <plurals name="live_question_like_count">
+        <item quantity="other">%1$d تسجيل إعجاب</item>
+        <item quantity="one">تسجيل إعجاب واحد</item>
+        <item quantity="two">تسجيلا إعجاب</item>
+        <item quantity="few">%1$d تسجيلات إعجاب</item>
+    </plurals>
+    <plurals name="live_streak_subtitle_post_live_streak_increased">
+        <item quantity="other">لقد قمت بعرض بث مباشر على مدار %1$d من الأسابيع على التوالي! تعرف على عدد الأسابيع الأخرى التي يمكنك فيها عرض بث مباشر على التوالي.</item>
+        <item quantity="one">أحسنت! يمكنك تعيين سجل شخصي جديد من خلال معرفة عدد الأسابيع التي يمكنك فيها عرض بث مباشر على التوالي.</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">تم عرض بث مباشر بواسطة %1$s و%2$s</item>
+        <item quantity="one">تم عرض بث مباشر بواسطة %1$s</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">%1$d شارة</item>
+        <item quantity="one">شارة واحدة</item>
+        <item quantity="two">شارتان</item>
+        <item quantity="few">%1$d شارات</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d شارة</item>
+        <item quantity="one">شارة واحدة</item>
+        <item quantity="two">شارتان</item>
+        <item quantity="few">%1$d شارات</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">تم إرسال طلب بواسطة %1$s و%2$d من الأشخاص الآخرين للانضمام إلى فيديو البث المباشر الخاص بك.</item>
+        <item quantity="one">تم إرسال طلب بواسطة %1$s و%2$d شخص آخر للانضمام إلى فيديو البث المباشر الخاص بك.</item>
+    </plurals>
+    <plurals name="location_list_title">
+        <item quantity="other">%1$d مكان</item>
+        <item quantity="one">مكان واحد</item>
+        <item quantity="two">%1$d مكانان</item>
+        <item quantity="few">%1$d أماكن</item>
+        <item quantity="many">%1$d مكانًا</item>
+    </plurals>
+    <plurals name="member_count_text">
+        <item quantity="other">%1$s عضو</item>
+        <item quantity="one">عضو واحد</item>
+        <item quantity="two">عضوان</item>
+        <item quantity="few">%1$s أعضاء</item>
+        <item quantity="many">%1$s عضوًا</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">تبقى %1$d ساعة</item>
+        <item quantity="one">تبقى ساعة واحدة</item>
+        <item quantity="two">تبقى ساعتان</item>
+        <item quantity="few">تبقى %1$d ساعات</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">تبقى %1$d دقيقة</item>
+        <item quantity="one">تبقى دقيقة واحدة</item>
+        <item quantity="two">تبقى دقيقتان</item>
+        <item quantity="few">تبقى %1$d دقائق</item>
+    </plurals>
+    <plurals name="msys_ds_4xu0wn">
+        <item quantity="other">تم إرسال %1$d من الصور</item>
+        <item quantity="one">تم إرسال صورة</item>
+    </plurals>
+    <plurals name="msys_ds_Tey2G">
+        <item quantity="other">تم إرسال %2$d من الصور بواسطة %1$s</item>
+        <item quantity="one">تم إرسال صورة بواسطة %1$s</item>
+    </plurals>
+    <plurals name="msys_ds_l81ip">
+        <item quantity="other">لقد أرسلت %1$d صورة</item>
+        <item quantity="one">لقد أرسلت صورة واحدة</item>
+        <item quantity="two">لقد أرسلت صورتين</item>
+        <item quantity="few">لقد أرسلت %1$d صور</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">هل تريد الإبلاغ عن دردشة مع %1$s و%2$s و%3$d من الأشخاص الآخرين؟</item>
+        <item quantity="one">هل تريد الإبلاغ عن دردشة مع %1$s و%2$s و%3$d شخص آخر؟</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">لقد أضفت %1$s و%2$d من الأشخاص الآخرين إلى المجموعة.</item>
+        <item quantity="one">لقد أضفت %1$s و%2$d شخص آخر إلى المجموعة.</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">لقد قمت بإزالة %1$s و%2$d من المشاركين الآخرين من المجموعة.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">تمت إضافة %1$d من تأثيرات %2$s النصية %3$s</item>
+        <item quantity="one">تمت إضافة %1$d تأثير %2$s نصي %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">لقد قمت بتغيير %1$d من التأثيرات النصية.</item>
+        <item quantity="one">لقد قمت بتغيير %1$d تأثير نصي.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">تم تغيير %2$d من التأثيرات النصية بواسطة %1$s.</item>
+        <item quantity="one">تم تغيير %2$d تأثير نصي بواسطة %1$s.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">لقد قمت بتعيين %1$d من التأثيرات النصية \"%2$s\"</item>
+        <item quantity="one">لقد قمت بتعيين %1$d تأثير نصي \"%2$s\"</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">تم تعيين %2$d من التأثيرات النصية \"%3$s\" بواسطة %1$s</item>
+        <item quantity="one">تم تعيين %2$d تأثير نصي \"%3$s\" بواسطة %1$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">لقد قمت بإزالة %1$d من التأثيرات النصية.</item>
+        <item quantity="one">لقد قمت بإزالة %1$d تأثير نصي.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">تمت إزالة %2$d من التأثيرات النصية بواسطة %1$s.</item>
+        <item quantity="one">تمت إزالة %2$d تأثير نصي بواسطة %1$s.</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يومًا</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">%1$d ساعات</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%1$d دقائق</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="two">ثانيتان</item>
+        <item quantity="few">%1$d ثوانٍ</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">تمت إضافتك و%2$d من الأشخاص الآخرين إلى المجموعة بواسطة %1$s.</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">تمت إضافة %2$s و%3$d من الأشخاص الآخرين إلى المجموعة بواسطة %1$s.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">تمت إزالتك و%2$d من الأشخاص الآخرين من المجموعة بواسطة %1$s.</item>
+        <item quantity="one">%1$s أزالك و%2$d من المشاركين الآخرين من المجموعة.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">تمت إزالة %2$s و%3$d شخص آخر من المجموعة بواسطة %1$s.</item>
+        <item quantity="one">تمت إزالة %2$s وشخص آخر من المجموعة بواسطة %1$s.</item>
+        <item quantity="two">تمت إزالة %2$s وشخصين آخرين من المجموعة بواسطة %1$s.</item>
+        <item quantity="few">تمت إزالة %2$s و%3$d أشخاص آخرين من المجموعة بواسطة %1$s.</item>
+        <item quantity="many">تمت إزالة %2$s و%3$d شخصًا آخر من المجموعة بواسطة %1$s.</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">سيتمكن هؤلاء الأشخاص من رؤية سجل الدردشات</item>
+        <item quantity="one">سيتمكن هذا الشخص من رؤية سجل الدردشات</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">تمت إضافتك و%1$d من الأشخاص الآخرين إلى المجموعة.</item>
+        <item quantity="one">تمت إضافتك و%1$d شخص آخر إلى المجموعة.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">تمت إضافة %1$s و%2$d من المشاركين الآخرين إلى المجموعة.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">تمت إزالتك و%1$d من الأشخاص الآخرين من المجموعة.</item>
+        <item quantity="one">تمت إزالتك و%1$d شخص آخر من المجموعة.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">تمت إزالة %1$s و%2$d من الأشخاص الآخرين من المجموعة.</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">لقد أضفت %1$d من الأشخاص</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">لقد أضفت %1$s و%2$s و%3$d من الأشخاص الآخرين</item>
+        <item quantity="one">لقد أرسلت دعوة إلى %1$s و%2$s وشخص آخر</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">أرسلت %1$d من الصور.</item>
+        <item quantity="one">لقد أرسلت صورة.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">توجد صورتك في قصة %1$s و%2$s من القصص الأخرى.</item>
+        <item quantity="one">توجد صورتك في قصة %1$s وقصة أخرى.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">يوجد الفيديو الخاص بك في قصة %1$s و%2$s من القصص الأخرى.</item>
+        <item quantity="one">يوجد الفيديو الخاص بك في قصة %1$s وقصة أخرى.</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">تمت إضافة صورتك إلى %1$s من قصص الهاشتاج</item>
+        <item quantity="one">تمت إضافة صورتك إلى قصة هاشتاج</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">تمت إضافة صورتك إلى %1$s من قصص الموقع</item>
+        <item quantity="one">تمت إضافة صورتك إلى قصة موقع</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">تمت إضافة الفيديو الخاص بك إلى %1$s من قصص الهاشتاج</item>
+        <item quantity="one">تمت إضافة الفيديو الخاص بك إلى قصة هاشتاج</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">تمت إضافة الفيديو الخاص بك إلى %1$s من قصص الموقع</item>
+        <item quantity="one">تمت إضافة الفيديو الخاص بك إلى قصة الموقع</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">&lt;b>%1$s&lt;/b> بواسطة %2$s و%3$s من التأثيرات الأخرى</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> بواسطة %2$s و%3$s تأثير آخر</item>
+    </plurals>
+    <plurals name="n_additionalDiscounts">
+        <item quantity="other">%1$d ترويج إضافي</item>
+        <item quantity="one">ترويج واحد إضافي</item>
+        <item quantity="two">عمليتا ترويج إضافيتان</item>
+        <item quantity="few">%1$d عمليات ترويج إضافية</item>
+        <item quantity="many">%1$d ترويجًا إضافيًا</item>
+    </plurals>
+    <plurals name="n_additionalDiscountsOffers">
+        <item quantity="other">%1$d من التأثيرات الأخرى</item>
+        <item quantity="one">%1$d عرض آخر</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">لديك %1$d من العملاء المحتملين الجدد.</item>
+        <item quantity="one">لديك عميل محتمل واحد جديد.</item>
+    </plurals>
+    <plurals name="new_post_badge">
+        <item quantity="other">منشورات جديدة</item>
+        <item quantity="one">منشور واحد جديد</item>
+    </plurals>
+    <plurals name="notification_badge">
+        <item quantity="other">%1$d إشعار</item>
+        <item quantity="one">إشعار واحد</item>
+        <item quantity="two">إشعاران</item>
+        <item quantity="few">%1$d إشعارات</item>
+        <item quantity="many">%1$d إشعارًا</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">%1$d رسالة غير مقروءة أخرى</item>
+        <item quantity="one">رسالة غير مقروءة أخرى</item>
+        <item quantity="two">رسالتان غير مقروءتين أخرتان</item>
+        <item quantity="few">%1$d رسائل غير مقروءة أخرى</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d رسالة غير مقروءة</item>
+        <item quantity="one">رسالة غير مقروءة واحدة</item>
+        <item quantity="two">رسالتان غير مقروءتين</item>
+        <item quantity="few">%1$d رسائل غير مقروءة</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">%1$d تشكيلة منتجات</item>
+        <item quantity="one">تشكيلة منتجات واحدة</item>
+        <item quantity="two">تشكيلتا منتجات</item>
+        <item quantity="few">%1$d تشكيلات منتجات</item>
+    </plurals>
+    <plurals name="num_pdp_attributes_discounts_formatted">
+        <item quantity="other">%1$s و%2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">%1$d منتج</item>
+        <item quantity="one">منتج واحد</item>
+        <item quantity="two">منتجان</item>
+        <item quantity="few">%1$d منتجات</item>
+        <item quantity="many">%1$d منتجًا</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">%1$s تعليق</item>
+        <item quantity="one">تعليق واحد</item>
+        <item quantity="two">تعليقان</item>
+        <item quantity="few">%1$s تعليقات</item>
+        <item quantity="many">%1$s تعليقًا</item>
+    </plurals>
+    <plurals name="number_of_comments_with_specific_emoji">
+        <item quantity="other">%1$s تعليق باستخدام %2$s</item>
+        <item quantity="one">تعليق واحد باستخدام %2$s</item>
+        <item quantity="two">تعليقان باستخدام %2$s</item>
+        <item quantity="few">%1$s تعليقات باستخدام %2$s</item>
+        <item quantity="many">%1$s تعليقًا باستخدام %2$s</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">%1$s تسجيل إعجاب</item>
+        <item quantity="one">تسجيل إعجاب واحد</item>
+        <item quantity="two">تسجيلا إعجاب</item>
+        <item quantity="few">%1$s تسجيلات إعجاب</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">%1$s مرة تشغيل</item>
+        <item quantity="one">مرة تشغيل واحدة</item>
+        <item quantity="two">مرتا تشغيل</item>
+        <item quantity="few">%1$s مرات تشغيل</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s منشور</item>
+        <item quantity="one">منشور واحد</item>
+        <item quantity="two">منشوران</item>
+        <item quantity="few">%1$s منشورات</item>
+        <item quantity="many">%1$s منشورًا</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">%1$s منشور عام</item>
+        <item quantity="one">منشور عام واحد</item>
+        <item quantity="two">منشوران عامان</item>
+        <item quantity="few">%1$s منشورات عامة</item>
+        <item quantity="many">%1$s منشورًا عامًا</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">%1$s من تسجيلات الإعجاب والتفاعلات</item>
+        <item quantity="one">%1$s تسجيل إعجاب أو تفاعل</item>
+    </plurals>
+    <plurals name="number_of_reels_in_chain">
+        <item quantity="other">%1$d مقطع ريلز</item>
+        <item quantity="one">مقطع ريلز واحد</item>
+        <item quantity="two">مقطعا ريلز</item>
+        <item quantity="few">%1$d مقاطع ريلز</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">%1$s مشاركة</item>
+        <item quantity="one">مشاركة واحدة</item>
+        <item quantity="two">مشاركتان</item>
+        <item quantity="few">%1$s مشاركات</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">%1$s مشاهد</item>
+        <item quantity="two">%1$s مشاهدان</item>
+        <item quantity="few">%1$s مشاهدين</item>
+        <item quantity="many">%1$s مشاهدًا</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">%1$s مشاهدة</item>
+        <item quantity="one">مشاهدة واحدة</item>
+        <item quantity="two">مشاهدتان</item>
+        <item quantity="few">%1$s مشاهدات</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">منذ %1$d سنة من اليوم.</item>
+        <item quantity="one">منذ سنة واحدة من اليوم.</item>
+        <item quantity="two">منذ سنتين من اليوم.</item>
+        <item quantity="few">منذ %1$d سنوات من اليوم.</item>
+    </plurals>
+    <plurals name="on_x_countries">
+        <item quantity="other">في (%1$d من البلدان)</item>
+        <item quantity="one">في (بلد واحد)</item>
+    </plurals>
+    <plurals name="other_badges">
+        <item quantity="other">%1$d دردشة أخرى</item>
+        <item quantity="one">دردشة واحدة أخرى</item>
+        <item quantity="two">دردشتان أخريان</item>
+        <item quantity="few">%1$d دردشات أخرى</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">لديك %1$d من الإعلانات المعلقة.</item>
+        <item quantity="one">لديك إعلان معلّق واحد.</item>
+    </plurals>
+    <plurals name="people_tagging_x_people_plurals">
+        <item quantity="other">%2$d شخص</item>
+        <item quantity="one">شخص واحد</item>
+        <item quantity="two">شخصان</item>
+        <item quantity="few">%2$d أشخاص</item>
+        <item quantity="many">%2$d شخصًا</item>
+    </plurals>
+    <plurals name="plays_user_list_title">
+        <item quantity="other">%1$d مرة تشغيل</item>
+        <item quantity="one">مرة تشغيل واحدة</item>
+        <item quantity="two">مرتا تشغيل</item>
+        <item quantity="few">%1$d مرات تشغيل</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">%1$s من المصوّتين من الترويج</item>
+        <item quantity="one">مصوّت واحد من الترويج</item>
+    </plurals>
+    <plurals name="post_live_broadcaster_user_pay_summary_info">
+        <item quantity="other">لقد ربحت مبلغ %1$s تقديريًا من %2$s من الشارات.</item>
+        <item quantity="one">لقد ربحت مبلغ %1$s تقديريًا من شراء شارة واحدة.</item>
+    </plurals>
+    <plurals name="post_live_viewer_count">
+        <item quantity="other">تمت مشاهدة فيديو البث المباشر الخاص بك بواسطة %1$s و%2$s و%3$d من الأشخاص الآخرين.</item>
+        <item quantity="one">تمت مشاهدة فيديو البث المباشر الخاص بك بواسطة %1$s.</item>
+    </plurals>
+    <plurals name="post_live_viewer_user_pay_summary_info">
+        <item quantity="other">لقد اشتريت %2$d من الشارات. سيرى %1$s قائمة بكل الأشخاص الذين اشتروا شارات.</item>
+        <item quantity="one">لقد اشتريت شارة. سيرى %1$s قائمة بجميع الأشخاص الذين اشتروا شارات.</item>
+    </plurals>
+    <plurals name="product_guide_shop_row_subtitle">
+        <item quantity="other">%1$d منتج</item>
+        <item quantity="one">منتج واحد</item>
+        <item quantity="two">منتجان</item>
+        <item quantity="few">%1$d منتجات</item>
+        <item quantity="many">%1$d منتجًا</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">تتوفر اقتراحات</item>
+        <item quantity="one">يتوفر اقتراح</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_facebook_others">
+        <item quantity="other">%1$s و%2$d رابط آخر</item>
+        <item quantity="one">%1$s ورابط واحد آخر</item>
+        <item quantity="two">%1$s ورابطان آخران</item>
+        <item quantity="few">%1$s و%2$d روابط أخرى</item>
+        <item quantity="many">%1$s و%2$d رابطًا آخر</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_others">
+        <item quantity="other">%1$s و%2$d آخرين</item>
+        <item quantity="one">%1$s وشخص آخر</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_admins_with_count">
+        <item quantity="other">%1$s مسؤول</item>
+        <item quantity="one">مسؤول واحد</item>
+        <item quantity="two">مسؤولان</item>
+        <item quantity="few">%1$s مسؤولين</item>
+        <item quantity="many">%1$s مسؤولاً</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_blocked_with_count">
+        <item quantity="other">تم حظر %1$s</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_members_with_count">
+        <item quantity="other">%1$s عضو</item>
+        <item quantity="one">عضو واحد</item>
+        <item quantity="two">عضوان</item>
+        <item quantity="few">%1$s أعضاء</item>
+        <item quantity="many">%1$s عضوًا</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">تمت إضافة عناصر إلى هذا المحتوى بواسطة &lt;b>%1$s&lt;/b> و&lt;b>%2$s شخص آخر&lt;/b></item>
+        <item quantity="one">تمت إضافة عناصر إلى هذا المحتوى بواسطة &lt;b>%1$s&lt;/b> و&lt;b>شخص آخر&lt;/b></item>
+        <item quantity="two">تمت إضافة عناصر إلى هذا المحتوى بواسطة &lt;b>%1$s&lt;/b> و&lt;b>شخصين آخرين&lt;/b></item>
+        <item quantity="few">تمت إضافة عناصر إلى هذا المحتوى بواسطة &lt;b>%1$s&lt;/b> و&lt;b>%2$s أشخاص آخرين&lt;/b></item>
+        <item quantity="many">تمت إضافة عناصر إلى هذا المحتوى بواسطة &lt;b>%1$s&lt;/b> و&lt;b>%2$s شخصًا آخر&lt;/b></item>
+    </plurals>
+    <plurals name="quickshare_add_topics_pill_text">
+        <item quantity="other">%1$d موضوع</item>
+        <item quantity="one">موضوع واحد</item>
+        <item quantity="two">موضوعان</item>
+        <item quantity="few">%1$d موضوعات</item>
+        <item quantity="many">%1$d موضوعًا</item>
+    </plurals>
+    <plurals name="recipient_picker_close_friends_count">
+        <item quantity="other">%1$s شخص</item>
+        <item quantity="one">شخص واحد</item>
+        <item quantity="two">شخصان</item>
+        <item quantity="few">%1$s أشخاص</item>
+        <item quantity="many">%1$s شخصًا</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">قام %1$s من الأشخاص الآخرين بعرض هذه القصة على فيسبوك. وبما أنك تشاركها للعامة على فيسبوك فقد تمكّن الأشخاص الذين ليسوا ضمن أصدقائك من رؤيتها.</item>
+        <item quantity="one">قام شخص واحد آخر بعرض هذه القصة على فيسبوك. وبما أنك تشاركها للعامة على فيسبوك فقد تمكّن شخص ليس ضمن أصدقائك من رؤيتها.</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">%1$s من المشاهدات الأخرى على فيسبوك</item>
+        <item quantity="one">مشاهدة واحدة أخرى على فيسبوك</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">الأصوات لصالح %1$s</item>
+        <item quantity="one">صوت لصالح %1$s</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">تمت الإجابة بواسطة %1$d من الأشخاص. هذا هو متوسط الإجابات.</item>
+        <item quantity="one">تمت الإجابة بواسطة شخص واحد. هذا هو متوسط الإجابات.</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">تم إنشاء ريمكس بواسطة &lt;b>%1$s من الأصدقاء&lt;/b></item>
+        <item quantity="one">تم إنشاء ريمكس بواسطة &lt;b>صديق واحد&lt;/b></item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">تم إنشاء ريمكس بواسطة &lt;b>%1$s من الأشخاص&lt;/b></item>
+        <item quantity="one">تم إنشاء ريمكس بواسطة &lt;b>شخص واحد&lt;/b></item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_message">
+        <item quantity="other">أنت على وشك إزالة %1$d من مقاطع الفيديو من أبرز القصص.</item>
+        <item quantity="one">أنت على وشك إزالة فيديو واحد من أبرز القصص.</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_title">
+        <item quantity="other">هل تريد إزالة %1$d من مقاطع الفيديو من أبرز القصص؟</item>
+        <item quantity="one">هل تريد إزالة فيديو من أبرز القصص؟</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">هل تريد إزالة %1$s متابع؟</item>
+        <item quantity="one">هل تريد إزالة متابع واحد؟</item>
+        <item quantity="two">هل تريد إزالة متابعين؟</item>
+        <item quantity="few">هل تريد إزالة %1$s متابعين؟</item>
+        <item quantity="many">هل تريد إزالة %1$s متابعًا؟</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">تمت إزالة %1$d من المنتجات</item>
+        <item quantity="one">تمت إزالة منتج واحد</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_body">
+        <item quantity="other">لقد قمت بتحديد %1$d من الحسابات. لن يتمكن أي شخص غيرك أنت والشخص الذي تقيده من رؤية تعليقاته الجديدة على منشوراتك.</item>
+        <item quantity="one">لقد قمت بتحديد حساب واحد. لن يتمكن أي شخص غيرك أنت والشخص الذي تقيده من رؤية تعليقاته الجديدة على منشوراتك.</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_primary_button">
+        <item quantity="other">تقييد الحسابات</item>
+        <item quantity="one">تقييد الحساب</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_title">
+        <item quantity="other">هل تريد تقييد %1$d من الحسابات؟</item>
+        <item quantity="one">هل تريد تقييد حساب واحد؟</item>
+    </plurals>
+    <plurals name="rolodex_hour">
+        <item quantity="other">%1$d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">%1$d ساعات</item>
+    </plurals>
+    <plurals name="rolodex_minute">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%1$d دقائق</item>
+    </plurals>
+    <plurals name="rolodex_second">
+        <item quantity="other">%1$d ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="two">ثانيتان</item>
+        <item quantity="few">%1$d ثوانٍ</item>
+    </plurals>
+    <plurals name="rtc_effects_removed_multipeer_effect_max_participant_exceed">
+        <item quantity="other">تدعم البيئة %1$s %2$d من الأشخاص بحد أقصى.</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">%1$s من المنشورات المحفوظة</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">لا يمكن إضافة منشورات</item>
+        <item quantity="one">لا يمكن إضافة منشور</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">تمت إضافة %2$s من المنشورات إلى %1$s</item>
+        <item quantity="one">تمت إضافة المنشور إلى %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">لا يمكن نقل المنشورات</item>
+        <item quantity="one">لا يمكن نقل المنشور</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">تم نقل %2$s من المنشورات إلى %1$s</item>
+        <item quantity="one">تم نقل المنشور إلى %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">سيؤدي هذا إلى إزالة المنشورات من هذه المجموعة ونقلها إلى \"%1$s\". وسيتم حفظ المنشورات في \"كل العناصر المحفوظة\".</item>
+        <item quantity="one">سيؤدي هذا إلى إزالة المنشور من هذه المجموعة ونقله إلى \"%1$s\". وسيتم حفظ المنشور في \"كل العناصر المحفوظة\".</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">سيؤدي إلغاء حفظ المنشورات أيضًا إلى إزالتها من أي مجموعات.</item>
+        <item quantity="one">سيؤدي إلغاء حفظ هذا المنشور أيضًا إلى إزالته من أي مجموعات.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">هل تريد إلغاء حفظ المنشورات؟</item>
+        <item quantity="one">هل تريد إلغاء حفظ المنشور؟</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">لا يمكن إزالة المنشورات</item>
+        <item quantity="one">لا يمكن إزالة المنشور</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">تمت إزالة %2$s من المنشورات من %1$s</item>
+        <item quantity="one">تمت إزالة المنشور من %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">لا يمكن إلغاء حفظ المنشورات</item>
+        <item quantity="one">لا يمكن إلغاء حفظ المنشور</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">تم إلغاء حفظ %1$s من المنشورات</item>
+        <item quantity="one">تم إلغاء حفظ المنشور</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">تم تحديد %1$d</item>
+        <item quantity="one">تم تحديد عنصر واحد</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="one">عنصر واحد</item>
+        <item quantity="two">عنصران</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصرًا</item>
+    </plurals>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">تبقى %1$d ثانية\"</item>
+        <item quantity="one">تبقى ثانية واحدة\"</item>
+        <item quantity="two">تبقى ثانيتان\"</item>
+        <item quantity="few">تبقى %1$d ثوانٍ\"</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">منشورات جديدة</item>
+        <item quantity="one">منشور جديد</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s منشور جديد</item>
+        <item quantity="one">منشور جديد واحد</item>
+        <item quantity="two">منشوران جديدان</item>
+        <item quantity="few">%1$s منشورات جديدة</item>
+        <item quantity="many">%1$s منشورًا جديدًا</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_subtitle">
+        <item quantity="other">تم حظر %1$d من مقاطع الفيديو في بعض البلدان.</item>
+        <item quantity="one">تم حظر فيديو واحد في بعض البلدان.</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_title">
+        <item quantity="other">تم حظر %1$d من مقاطع الفيديو في بعض البلدان</item>
+        <item quantity="one">تم حظر فيديو واحد في بعض البلدان</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_subtitle">
+        <item quantity="other">تم حظر %1$d من مقاطع الفيديو</item>
+        <item quantity="one">تم حظر فيديو واحد.</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_title">
+        <item quantity="other">تم حظر %1$d من مقاطع الفيديو</item>
+        <item quantity="one">تم حظر فيديو واحد</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_subtitle">
+        <item quantity="other">يتوفر %1$d من مقاطع الفيديو فقط في بعض البلدان.</item>
+        <item quantity="one">يتوفر فيديو واحد فقط في بعض البلدان.</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_title">
+        <item quantity="other">يتوفر %1$d من مقاطع الفيديو فقط في بعض البلدان</item>
+        <item quantity="one">يتوفر فيديو واحد فقط في بعض البلدان</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">يمكنك اختيار %1$d من التعليقات كل مرة.</item>
+        <item quantity="one">يمكنك اختيار تعليق واحد فقط في المرة.</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">ستتم الموافقة على كل طلبات المتابعة المعلقة تلقائيًا ما لم تقم بحذفها الآن. راجع %1$s من طلبات المتابعة المعلقة.</item>
+        <item quantity="one">ستتم الموافقة على كل طلبات المتابعة المعلقة تلقائيًا ما لم تقم بحذفها الآن. راجع %1$s طلب متابعة معلق.</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">%1$s منتج</item>
+        <item quantity="one">منتج واحد</item>
+        <item quantity="two">منتجان</item>
+        <item quantity="few">%1$s منتجات</item>
+        <item quantity="many">%1$s منتجًا</item>
+    </plurals>
+    <plurals name="shopping_cart_count_content_description">
+        <item quantity="other">%1$d من العناصر في عربة التسوق</item>
+        <item quantity="one">عنصر واحد في عربة التسوق</item>
+    </plurals>
+    <plurals name="shopping_cart_num_items">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="one">عنصر واحد</item>
+        <item quantity="two">عنصران</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصرًا</item>
+    </plurals>
+    <plurals name="shopping_cart_subtotal_title_text">
+        <item quantity="other">الإجمالي الفرعي (%1$d من العناصر)</item>
+        <item quantity="one">الإجمالي الفرعي (عنصر واحد)</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">%1$s و&lt;b>%2$s من الأشخاص الآخرين&lt;/b> ضمن الأعضاء</item>
+        <item quantity="one">%1$s و&lt;b>شخص آخر&lt;/b> ضمن الأعضاء</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">%1$s و%2$s و&lt;b>%3$s من الأشخاص الآخرين&lt;/b> ضمن الأعضاء</item>
+        <item quantity="one">%1$s و%2$s و&lt;b>شخص آخر&lt;/b> are members</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">%1$s و%2$s و%3$s و&lt;b>%4$s من الأشخاص الآخرين&lt;/b> ضمن الأعضاء</item>
+        <item quantity="one">%1$s و%2$s و%3$s و&lt;b>شخص آخر&lt;/b> ضمن الأعضاء</item>
+    </plurals>
+    <plurals name="standalone_fundraiser_with_cohost_label">
+        <item quantity="other">&lt;b>%1$s&lt;/b> و&lt;b>%2$s others&lt;/b></item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> و&lt;b>1 other&lt;/b></item>
+    </plurals>
+    <plurals name="sticker_count_limit">
+        <item quantity="other">لا يمكنك إضافة هذا الملصق أكثر من %1$d مرة لكل قصة.</item>
+        <item quantity="one">لا يمكنك إضافة هذا الملصق أكثر من مرة واحدة لكل قصة.</item>
+        <item quantity="two">لا يمكنك إضافة هذا الملصق أكثر من مرتين لكل قصة.</item>
+        <item quantity="few">لا يمكنك إضافة هذا الملصق أكثر من %1$d مرات لكل قصة.</item>
+    </plurals>
+    <plurals name="story_drafts_confirmation_title">
+        <item quantity="other">هل تريد حذف المسودات؟</item>
+        <item quantity="one">هل تريد حذف المسودة؟</item>
+    </plurals>
+    <plurals name="subscriptions_shoutout_bottom_sheet_title">
+        <item quantity="other">ذكر %1$d من المشتركين</item>
+        <item quantity="one">ذكر %1$d مشترك</item>
+    </plurals>
+    <plurals name="suggested_hidden_words_toast_text">
+        <item quantity="other">تمت إضافة %1$d كلمة إلى قائمة الكلمات المخفية</item>
+        <item quantity="one">تمت إضافة كلمة واحدة إلى قائمة الكلمات المخفية</item>
+        <item quantity="two">تمت إضافة كلمتين إلى قائمة الكلمات المخفية</item>
+        <item quantity="few">تمت إضافة %1$d كلمات إلى قائمة الكلمات المخفية</item>
+    </plurals>
+    <plurals name="suggested_products_count">
+        <item quantity="other">%1$d منتج مقترح</item>
+        <item quantity="one">منتج مقترح واحد</item>
+        <item quantity="two">منتجان مقترحان</item>
+        <item quantity="few">%1$d منتجات مقترحة</item>
+        <item quantity="many">%1$d منتجًا مقترحًا</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos">
+        <item quantity="other">صور جماعية من عطلة نهاية الأسبوع الماضي</item>
+        <item quantity="one">صورة جماعية من عطلة نهاية الأسبوع الماضي</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos_with_location">
+        <item quantity="other">صور جماعية من عطلة نهاية الأسبوع الماضي في %1$s</item>
+        <item quantity="one">صورة جماعية من عطلة نهاية الأسبوع الماضي في %1$s</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos">
+        <item quantity="other">صور جماعية من اليوم</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos_with_location">
+        <item quantity="other">صور جماعية من اليوم في %1$s</item>
+        <item quantity="one">صورة جماعية من اليوم في %1$s</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos">
+        <item quantity="other">صور جماعية من الأمس</item>
+        <item quantity="one">صورة جماعية من الأمس</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos_with_location">
+        <item quantity="other">صور جماعية من الأمس في %1$s</item>
+        <item quantity="one">صورة جماعية من الأمس في %1$s</item>
+    </plurals>
+    <plurals name="suggestion_your_recent_favorites">
+        <item quantity="other">العناصر المفضّلة من الأسبوع الماضي</item>
+        <item quantity="one">عنصر مفضّل من الأسبوع الماضي</item>
+    </plurals>
+    <plurals name="tagged_accounts_plural">
+        <item quantity="other">حسابات تمت الإشارة إليها:</item>
+        <item quantity="one">حساب تمت الإشارة إليه:</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">تم استخدام القالب بواسطة &lt;b>%1$s من الأصدقاء&lt;/b></item>
+        <item quantity="one">القالب مستخدَم بواسطة &lt;b>صديق واحد&lt;/b></item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">القالب مستخدَم بواسطة &lt;b>%1$s من الأشخاص&lt;/b></item>
+        <item quantity="one">القالب مستخدَم بواسطة &lt;b>شخص واحد&lt;/b></item>
+    </plurals>
+    <plurals name="thread_title_suffix_n_others">
+        <item quantity="other">… و%1$d من الأشخاص الآخرين</item>
+        <item quantity="one">… وشخص آخر</item>
+    </plurals>
+    <plurals name="thread_title_x_and_n_others">
+        <item quantity="other">%1$s و%2$d من الأشخاص الآخرين</item>
+        <item quantity="one">%1$s وشخص آخر</item>
+    </plurals>
+    <plurals name="thread_title_x_y_and_n_others">
+        <item quantity="other">%1$s و%2$s و%3$s من الأشخاص الآخرين</item>
+        <item quantity="one">%1$s و%2$s وشخص آخر</item>
+    </plurals>
+    <plurals name="unseen_like_notification">
+        <item quantity="other">لديك %1$d من تسجيلات الإعجاب الجديدة</item>
+        <item quantity="one">لديك إعجاب واحد جديد</item>
+    </plurals>
+    <plurals name="upcoming_event_subtitle_template">
+        <item quantity="other">%1$d منتج · %2$s</item>
+        <item quantity="one">منتج واحد · %2$s</item>
+        <item quantity="two">منتجان · %2$s</item>
+        <item quantity="few">%1$d منتجات · %2$s</item>
+        <item quantity="many">%1$d منتجًا · %2$s</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_list_supporters_title">
+        <item quantity="other">%1$d مقدم دعم</item>
+        <item quantity="one">مقدم دعم واحد</item>
+        <item quantity="two">مقدما دعم</item>
+        <item quantity="few">%1$d مقدمي دعم</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">سيتلقى %1$d من مقدمي الدعم إشعارًا في النشاطات</item>
+        <item quantity="one">سيتلقى مقدم دعم واحد إشعارًا في النشاطات</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notified_supporters_number">
+        <item quantity="other">سيتم إرسال إشعار إلى %1$d من مقدمي الدعم بالشارات من آخر فيديو بث مباشر لك عندما تقوم بمشاركة هذه القصة. عرض</item>
+        <item quantity="one">سيتم إرسال إشعار إلى مقدم دعم بالشارات واحد من آخر فيديو بث مباشر لك عندما تقوم بمشاركة هذه القصة. عرض</item>
+    </plurals>
+    <plurals name="user_pay_fanclub_all_subscribers_header">
+        <item quantity="other">كل المشتركين (%1$d)</item>
+        <item quantity="one">كل المشتركين</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d مشاهدة</item>
+        <item quantity="one">مشاهدة واحدة</item>
+        <item quantity="two">مشاهدتان</item>
+        <item quantity="few">%1$d مشاهدات</item>
+    </plurals>
+    <plurals name="view_x_more_replies">
+        <item quantity="other">عرض %1$d من الردود الإضافية</item>
+        <item quantity="one">عرض %1$d رد إضافي</item>
+    </plurals>
+    <plurals name="view_x_previous_replies">
+        <item quantity="other">عرض %1$d من الردود السابقة</item>
+        <item quantity="one">عرض %1$d رد سابق</item>
+    </plurals>
+    <plurals name="view_x_replies">
+        <item quantity="other">عرض %1$d من الردود الإضافية</item>
+        <item quantity="one">عرض %1$d رد إضافي</item>
+    </plurals>
+    <plurals name="voter_count_on_surfaces">
+        <item quantity="other">التصويت · %1$s من نتائج استطلاع الرأي</item>
+        <item quantity="one">التصويت · %1$s نتيجة استطلاع رأي</item>
+    </plurals>
+    <plurals name="voters_count">
+        <item quantity="other">%1$s صوت</item>
+        <item quantity="one">صوت واحد</item>
+        <item quantity="two">صوتان</item>
+        <item quantity="few">%1$s أصوات</item>
+        <item quantity="many">%1$s صوتًا</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">تم حذف %1$d من التعليقات.</item>
+        <item quantity="one">تم حذف التعليق.</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$s يوم</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان</item>
+        <item quantity="few">%1$s أيام</item>
+        <item quantity="many">%1$s يومًا</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">منذ %1$s يوم</item>
+        <item quantity="one">منذ يوم واحد</item>
+        <item quantity="two">منذ يومين</item>
+        <item quantity="few">منذ %1$s أيام</item>
+        <item quantity="many">منذ %1$s يومًا</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">%1$s ساعات</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">منذ %1$s ساعة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعتين</item>
+        <item quantity="few">منذ %1$s ساعات</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%1$s دقائق</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">منذ %1$s دقيقة</item>
+        <item quantity="one">منذ دقيقة واحدة</item>
+        <item quantity="two">منذ دقيقتين</item>
+        <item quantity="few">منذ %1$s دقائق</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d شخص</item>
+        <item quantity="one">شخص واحد</item>
+        <item quantity="two">شخصان</item>
+        <item quantity="few">%1$d أشخاص</item>
+        <item quantity="many">%1$d شخصًا</item>
+    </plurals>
+    <plurals name="x_reactions">
+        <item quantity="other">%1$s تفاعل</item>
+        <item quantity="one">تفاعل واحد</item>
+        <item quantity="two">تفاعلان</item>
+        <item quantity="few">%1$s تفاعلات</item>
+        <item quantity="many">%1$s تفاعلاً</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s ثانية</item>
+        <item quantity="one">ثانية واحدة</item>
+        <item quantity="two">ثانيتان</item>
+        <item quantity="few">%1$s ثوانٍ</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">منذ %1$s من الثواني</item>
+        <item quantity="one">منذ %1$s ثانية</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">تم تحديد %1$d</item>
+        <item quantity="one">تم تحديد عنصر واحد</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">استجاب %1$d من الأشخاص</item>
+        <item quantity="one">استجاب شخص واحد.</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s أسبوع</item>
+        <item quantity="one">أسبوع واحد</item>
+        <item quantity="two">أسبوعان</item>
+        <item quantity="few">%1$s أسابيع</item>
+        <item quantity="many">%1$s أسبوعًا</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">منذ %1$s أسبوع</item>
+        <item quantity="one">منذ أسبوع واحد</item>
+        <item quantity="two">منذ أسبوعين</item>
+        <item quantity="few">منذ %1$s أسابيع</item>
+        <item quantity="many">منذ %1$s أسبوعًا</item>
+    </plurals>
+</resources>

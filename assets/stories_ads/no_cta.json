@@ -1,0 +1,215 @@
+{
+  "id":"no_cta",
+  "latest_reel_media":null,
+  "expiring_at":9569972268,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":true,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk":3485744780,
+    "username":"fordbrasil",
+    "full_name":"Ford Motor Company | Brasil",
+    "is_private":false,
+    "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id":"2080144079137358153_3485744780",
+    "is_verified":true
+  },
+  "items":[
+    {
+      "taken_at":1569620215,
+      "pk":2142452111370963500,
+      "id":"no_cta",
+      "device_timestamp":1569620215,
+      "media_type":2,
+      "code":"B27hNgWjUmS",
+      "client_cache_key":"MjE0MjQ1MjExMTM3MDk2MzM0Ng==.2",
+      "filter_type":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":1285,
+            "height":722,
+            "url":"https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png",
+            "estimated_scans_sizes":[
+              6579,
+              13158,
+              19737,
+              26316,
+              32896,
+              59213,
+              59213,
+              59213,
+              59213
+            ]
+          }
+        ]
+      },
+      "original_width":1280,
+      "original_height":720,
+      "is_dash_eligible":1,
+      "video_versions":[
+        {
+          "type":101,
+          "width":1280,
+          "height":720,
+          "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "id":"18053562115157882"
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#5C5245"
+        },
+        "bottom":{
+          "background_color":"#F5F2ED"
+        }
+      },
+      "has_audio":true,
+      "video_duration":15.000,
+      "view_count":397899,
+      "user":{
+        "pk":3485744780,
+        "username":"fordbrasil",
+        "full_name":"Ford Motor Company | Brasil",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id":"2080144079137358153_3485744780",
+        "is_verified":true,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":false,
+        "is_favorite":false
+      },
+      "caption":null,
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":0,
+      "has_liked":false,
+      "likers":[
+
+      ],
+      "photo_of_you":false,
+      "fb_page_url":"https://www.facebook.com/FordBrasil/",
+      "collapse_comments":false,
+      "top_followers":[
+        "placeholder"
+      ],
+      "top_followers_count":1,
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNzMyNGE3Y2QwMjI4NGUzNDkyNjI1ZTkzODA3MzhhYjgyMTQyNDUyMTExMzcwOTYzMzQ2Iiwic2VydmVyX3Rva2VuIjoiMTU2OTg4NTg2ODkyOHwyMTQyNDUyMTExMzcwOTYzMzQ2fDU0ODU2MTAyMTl8ZWEyNzkyNTQ1Mjk2MGI4OGFiY2UxOWFjZjk0OTUyYWJjYmIyMzhlNGFjMGRiMjgwNDNmM2RjZGZiMWQyMGZjNiJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at":9569972268,
+      "can_reshare":true,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQJ8DXSWrn1_huBJqrEqV4oMNzgKtqjkge95C4HVt5Yaf71rxt-KKc4cLupaVk3U_P81zN5rDLjUvU4EeCSQ9zfg",
+        "show_ad_choices":false,
+        "ad_title":"Ford Brasil",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":6125455861563,
+        "direct_share":true,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":"{}",
+              "serializedImpOrganicScoreMap":"{}"
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=10SBncHbKnKBeiWmJ.AWXLdAoDc71uOFd37AjFCFf6pxo.Bdko6r..AAA.0.0.Bdko6r.AWWAoIga; expires=Tue, 29 Sep 2020 23:24:27 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "is_reel_media":true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

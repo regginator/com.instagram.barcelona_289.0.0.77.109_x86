@@ -1,0 +1,797 @@
+{
+  "id": "story_ad_with_multi_products_tag",
+  "latest_reel_media": null,
+  "expiring_at": 19618941001,
+  "seen": null,
+  "can_reply": false,
+  "can_gif_quick_reply": true,
+  "can_reshare": true,
+  "reel_type": "ads_reel",
+  "is_sensitive_vertical_ad": false,
+  "user": {
+    "pk": 90010135660647,
+    "username": "ig.ca.biz",
+    "full_name": "Biz",
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "1814283376876563268_224223453",
+    "is_private": false,
+    "is_verified": false
+  },
+  "items": [
+    {
+      "taken_at": 1617682884,
+      "pk": 2545631000289896000,
+      "id": "story_ad_with_multi_products_tag_square_image",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":3024,
+            "height":3024,
+            "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+          }
+        ]
+      },
+      "original_width":3024,
+      "original_height":3024,
+      "user": {
+        "pk": 90010135660647,
+        "username": "ig.ca.biz",
+        "full_name": "Biz",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_private": false,
+        "is_verified": false
+      },
+      "reel_media_background":{
+        "top":{
+          "background_color":"#005478"
+        },
+        "bottom":{
+          "background_color":"#1a5d80"
+        }
+      },
+      "story_multi_product_items": [
+        {
+          "x": 0.497333333333333,
+          "y": 0.4474686335631,
+          "z": 0,
+          "width": 0.40475818701526,
+          "height": 0.034967855838056006,
+          "rotation": 0,
+          "is_pinned": 0,
+          "is_hidden": 0,
+          "is_sticker": 1,
+          "is_fb_sticker": 0,
+          "multi_product_sticker": {
+            "user_id": 90010135660647,
+            "media_id": 2461942288811005000,
+            "id": "product_item_sticker_id",
+            "stickers": [
+              {
+                "id": "product_item_text_sticker_vibrant"
+              }
+            ],
+            "links": [
+              {
+                "linkType": 12,
+                "destinationContext": "In This Photo"
+              }
+            ],
+            "multi_product_items": [
+              {
+                "name": "Green bike updated!",
+                "price": "$400.00",
+                "current_price": "$400.00",
+                "full_price": "$400.00",
+                "product_id": 2611003865631409,
+                "merchant": {
+                  "pk": 90010135660647,
+                  "username": "ig.ca.biz"
+                },
+                "compound_product_id": "2611003865631409_90010135660647",
+                "description": "Green Bike ",
+                "has_viewer_saved": false,
+                "main_image": {
+                  "image_versions2":{
+                    "candidates":[
+                      {
+                        "width":3024,
+                        "height":3024,
+                        "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+                      }
+                    ]
+                  }
+                },
+                "thumbnail_image": {
+                  "image_versions2":{
+                    "candidates":[
+                      {
+                        "width":3024,
+                        "height":3024,
+                        "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+                      }
+                    ]
+                  }
+                },
+                "review_status": "approved",
+                "external_url": "https://www.tredz.co.uk/.Frog-69-26w-2019-Hybrid-Sports-Bike_75475.htm?sku=341512&utm_campaign=google_shopping&gclid=CjwKCAjw7anqBRALEiwAgvGgm4o3lB7QCxjb3WMfU8wHxT1h_eYcITVbwWFS_x2CNk3SbCEPlGZ9UhoCzgAQAvD_BwE&utm_source=IGShopping&utm_medium=Social",
+                "checkout_style": "native_checkout",
+                "can_share_to_story": true,
+                "full_price_stripped": "$400",
+                "current_price_stripped": "$400",
+                "checkout_properties": {
+                  "currency_amount": {
+                    "currency": "USD",
+                    "amount": "400.00",
+                    "amount_with_offset": "40000",
+                    "offset": 100
+                  },
+                  "receiver_id": 90010135660647,
+                  "inventory_quantity": 10,
+                  "has_free_shipping": false,
+                  "can_add_to_bag": true,
+                  "can_enable_restock_reminder": false,
+                  "viewer_purchase_limit": -1,
+                  "product_group_has_inventory": true,
+                  "shipping_and_return": {
+                    "shipping_cost": {
+                      "currency": "USD",
+                      "amount": "1.00",
+                      "amount_with_offset": "100",
+                      "offset": 100
+                    },
+                    "shipping_cost_stripped": "$1",
+                    "is_final_sale": false,
+                    "return_policy_time": 3
+                  },
+                  "is_shopify_merchant": false,
+                  "is_purchase_protected": true,
+                  "has_free_two_day_shipping": false,
+                  "two_day_shipping_metadata": 0,
+                  "ig_referrer_fbid": 90010135660647
+                },
+                "launch_information": {
+                  "launch_date": 1617174000,
+                  "has_launched": true,
+                  "is_ig_exclusive": false,
+                  "drops_campaign_id": 475358213613506
+                },
+                "incentive_information": {
+                  "incentives": []
+                },
+                "ig_is_product_editable_on_mobile": true
+              },
+              {
+                "name": "Jasmine Green Tea",
+                "price": "$0.50",
+                "current_price": "$0.50",
+                "full_price": "$0.50",
+                "product_id": 2387241238068407,
+                "merchant": {
+                  "pk": 90010135660647,
+                  "username": "ig.ca.biz"
+                },
+                "compound_product_id": "2387241238068407_90010135660647",
+                "description": "Unsweetened Jasmine Green Tea",
+                "has_viewer_saved": false,
+                "main_image": {
+                  "image_versions2":{
+                    "candidates":[
+                      {
+                        "width":3024,
+                        "height":3024,
+                        "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+                      }
+                    ]
+                  }
+                },
+                "thumbnail_image": {
+                  "image_versions2":{
+                    "candidates":[
+                      {
+                        "width":3024,
+                        "height":3024,
+                        "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+                      }
+                    ]
+                  }
+                },
+                "review_status": "approved",
+                "external_url": "http://www.google.com/?utm_source=IGShopping&utm_medium=Social",
+                "checkout_style": "native_checkout",
+                "can_share_to_story": true,
+                "full_price_stripped": "$0.50",
+                "current_price_stripped": "$0.50",
+                "checkout_properties": {
+                  "currency_amount": {
+                    "currency": "USD",
+                    "amount": "0.50",
+                    "amount_with_offset": "50",
+                    "offset": 100
+                  },
+                  "receiver_id": 90010135660647,
+                  "inventory_quantity": 10,
+                  "has_free_shipping": false,
+                  "can_add_to_bag": true,
+                  "can_enable_restock_reminder": false,
+                  "viewer_purchase_limit": -1,
+                  "product_group_has_inventory": true,
+                  "shipping_and_return": {
+                    "shipping_cost": {
+                      "currency": "USD",
+                      "amount": "1.00",
+                      "amount_with_offset": "100",
+                      "offset": 100
+                    },
+                    "shipping_cost_stripped": "$1",
+                    "is_final_sale": false,
+                    "return_policy_time": 30
+                  },
+                  "is_shopify_merchant": false,
+                  "is_purchase_protected": true,
+                  "has_free_two_day_shipping": false,
+                  "two_day_shipping_metadata": 0,
+                  "ig_referrer_fbid": 90010135660647
+                },
+                "launch_information": {
+                  "launch_date": 1616785200,
+                  "has_launched": true,
+                  "is_ig_exclusive": false,
+                  "drops_campaign_id": 264591215219312
+                },
+                "incentive_information": {
+                  "incentives": []
+                },
+                "ig_is_product_editable_on_mobile": false
+              }
+            ],
+            "text": "2 Products",
+            "text_review_status": "approved"
+          }
+        }
+      ],
+      "product_tags": {
+        "in": [
+          {
+            "product": {
+              "name": "Jasmine Green Tea",
+              "price": "$0.50",
+              "current_price": "$0.50",
+              "full_price": "$0.50",
+              "product_id": 2387241238068407,
+              "merchant": {
+                "pk": 90010135660647,
+                "username": "ig.ca.biz"
+              },
+              "compound_product_id": "2387241238068407_90010135660647",
+              "description": "Unsweetened Jasmine Green Tea",
+              "has_viewer_saved": false,
+              "main_image": {
+                "image_versions2":{
+                  "candidates":[
+                    {
+                      "width":3024,
+                      "height":3024,
+                      "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+                    }
+                  ]
+                }
+              },
+              "thumbnail_image": {
+                "image_versions2":{
+                  "candidates":[
+                    {
+                      "width":3024,
+                      "height":3024,
+                      "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+                    }
+                  ]
+                }
+              },
+              "review_status": "approved",
+              "external_url": "http://www.google.com/?utm_source=IGShopping&utm_medium=Social",
+              "checkout_style": "external_link",
+              "can_share_to_story": true,
+              "full_price_stripped": "$0.50",
+              "current_price_stripped": "$0.50",
+              "checkout_properties": null,
+              "launch_information": {
+                "launch_date": 1616785200,
+                "has_launched": true,
+                "is_ig_exclusive": false,
+                "drops_campaign_id": 264591215219312
+              },
+              "incentive_information": {
+                "incentives": []
+              },
+              "ig_is_product_editable_on_mobile": false
+            },
+            "position": [
+              0.511111083984375,
+              0.608
+            ]
+          }
+        ]
+      },
+      "can_see_insights_as_brand": false,
+      "caption": null,
+      "organic_post_id": 2542649985570513400,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "link": "https://www.google.com/?fbclid=PAAaY5oksxOgsL7L66Q-l_w7b4HEAsMtGi5Zt1DwF_wYBEILuymNefyRxbf70_aem_AUJjFdmka6xJPnM3yw-E3vadMDTy3o_mjwTkJ3VbRfnknpXOIiOUvNgZX2M7AdjOK-IgbMey88J9JgU8eDtTrb5GW_sSui2mDz2Yzen7rOaU7lJOUmKEksEiRBNzzp6q0x4",
+      "link_text": "Shop Now",
+      "ad_action": "webclick",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "iab_autofill_optout_info": {
+        "domain": "google.com",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "PAAaY5oksxOgsL7L66Q-l_w7b4HEAsMtGi5Zt1DwF_wYBEILuymNefyRxbf70_aem_AUJjFdmka6xJPnM3yw-E3vadMDTy3o_mjwTkJ3VbRfnknpXOIiOUvNgZX2M7AdjOK-IgbMey88J9JgU8eDtTrb5GW_sSui2mDz2Yzen7rOaU7lJOUmKEksEiRBNzzp6q0x4",
+      "force_overlay": true,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "IG Ads Business Page",
+      "overlay_subtitle": "Go to google.com",
+      "dominant_color": "#569134",
+      "top_followers": [
+        "leesh682",
+        "byronmwong",
+        "ashthewho"
+      ],
+      "top_followers_count": 4,
+      "follower_count": 570,
+      "post_count": 412,
+      "fb_page_url": "https://www.facebook.com/IG-Ads-Business-Page-1760806210687773/",
+      "can_viewer_save": false,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjI3NzM4YmIyYTM2NDMxNjg1ODFhNjUzZTA0ODBmNjAyNTQ1NjMxMDAwMjg5ODk1OTE1Iiwic2VydmVyX3Rva2VuIjoiMTYxODg1NDYwMTc2OXwyNTQ1NjMxMDAwMjg5ODk1OTE1fDE3NjU3OTI5Nzl8MjIzZjM1ZGJkOTA2MjBkNTYwNWY2NWE2MDc0NTE3Mzk0ODA4NDBhZjI4ZDhjMGQ2MmRiYzc1MWU1NWI1MGQ3NCJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at": 19618941001,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "product_type": "ad",
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "deleted_reason": 0,
+      "integrity_review_decision": "pending",
+      "direct_share": false,
+      "can_reshare": true,
+      "can_reply": false,
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 1,
+              "webUri": "https://www.google.com/?fbclid=PAAaY5oksxOgsL7L66Q-l_w7b4HEAsMtGi5Zt1DwF_wYBEILuymNefyRxbf70_aem_AUJjFdmka6xJPnM3yw-E3vadMDTy3o_mjwTkJ3VbRfnknpXOIiOUvNgZX2M7AdjOK-IgbMey88J9JgU8eDtTrb5GW_sSui2mDz2Yzen7rOaU7lJOUmKEksEiRBNzzp6q0x4",
+              "contentId": 0,
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8FadTqLVUSSDO8XJEYE7n1ta10PPh7eQu9qd7Mj7On08iqKg58O4w1EpUBoLtCLq4QFHRhOiPlKOtaf3WuhqXvHpP5aJG-xBAddIxu11KQv21x_M34nzOsyULZRx4vh3T9sGwrSqoG0e9FCc8FuZoNHyNQp2kJOThpdrEQVsLvHhSHu3yV-eT7zYTw52DFCwfqLDh7FjfCKoF-lf-UL6Vrn2cjj6_OEUWGggoNQfuEZthd1b80-wMAxLpAMePywJaC-B9KQz-iaT_7cTp4d2fpDhEqZ-bc-GvESWh539J0k5gS6tlhgkXvXnVn3gKU0WNQMWfzYjfgot_u3fqKVYl1XUwa9EMr_VDBg-j-pzOnMmR3E5DAUSwdXDi8NoDfp_kIYQywX_BaXnsw1WuF1wQloy-AqGPw6lG19obm13SDaMdUWy5iCDmQoMEf19jT_LDUzh3rqyQIcKzG4GE7G9py&a=1&hash=Ad-fa4Gz4Wi4nAYUrE4",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "skAdNetworkMetadata": null,
+              "destinationContext": "Visit Website",
+              "tapAndHoldContext": "Swipe up to view google.com"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true,
+      "story_ad_headline": {
+        "text": "Google",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "text_size": 16,
+        "background_color_alpha": "00"
+      },
+      "supports_reel_reactions": true,
+      "can_send_custom_emojis": true,
+      "show_one_tap_fb_share_tooltip": false
+    },
+    {
+      "taken_at": 1617682884,
+      "pk": 2545631000289896000,
+      "id": "story_ad_with_multi_products_tag_portrait_image",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":1200,
+            "height":1500,
+            "url":"https://images.unsplash.com/photo-1562183241-b937e95585b6?w=1200"
+          }
+        ]
+      },
+      "original_width":1200,
+      "original_height":1500,
+      "user": {
+        "pk": 90010135660647,
+        "username": "ig.ca.biz",
+        "full_name": "Biz",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_private": false,
+        "is_verified": false
+      },
+      "reel_media_background":{
+        "top":{
+          "background_color":"#cecece"
+        },
+        "bottom":{
+          "background_color":"#a1a1a1"
+        }
+      },
+      "story_multi_product_items": [
+        {
+          "x": 0.497333333333333,
+          "y": 0.4474686335631,
+          "z": 0,
+          "width": 0.40475818701526,
+          "height": 0.034967855838056006,
+          "rotation": 0,
+          "is_pinned": 0,
+          "is_hidden": 0,
+          "is_sticker": 1,
+          "is_fb_sticker": 0,
+          "multi_product_sticker": {
+            "user_id": 90010135660647,
+            "media_id": 2461942288811005000,
+            "id": "product_item_sticker_id",
+            "stickers": [
+              {
+                "id": "product_item_text_sticker_vibrant"
+              }
+            ],
+            "links": [
+              {
+                "linkType": 12,
+                "destinationContext": "In This Photo"
+              }
+            ],
+            "multi_product_items": [
+              {
+                "name": "Green bike updated!",
+                "price": "$400.00",
+                "current_price": "$400.00",
+                "full_price": "$400.00",
+                "product_id": 2611003865631409,
+                "merchant": {
+                  "pk": 90010135660647,
+                  "username": "ig.ca.biz"
+                },
+                "compound_product_id": "2611003865631409_90010135660647",
+                "description": "Green Bike ",
+                "has_viewer_saved": false,
+                "main_image": {
+                  "image_versions2":{
+                    "candidates":[
+                      {
+                        "width":1200,
+                        "height":1500,
+                        "url":"https://images.unsplash.com/photo-1562183241-b937e95585b6?w=1200"
+                      }
+                    ]
+                  }
+                },
+                "thumbnail_image": {
+                  "image_versions2":{
+                    "candidates":[
+                      {
+                        "width":1200,
+                        "height":1500,
+                        "url":"https://images.unsplash.com/photo-1562183241-b937e95585b6?w=1200"
+                      }
+                    ]
+                  }
+                },
+                "review_status": "approved",
+                "external_url": "https://www.tredz.co.uk/.Frog-69-26w-2019-Hybrid-Sports-Bike_75475.htm?sku=341512&utm_campaign=google_shopping&gclid=CjwKCAjw7anqBRALEiwAgvGgm4o3lB7QCxjb3WMfU8wHxT1h_eYcITVbwWFS_x2CNk3SbCEPlGZ9UhoCzgAQAvD_BwE&utm_source=IGShopping&utm_medium=Social",
+                "checkout_style": "native_checkout",
+                "can_share_to_story": true,
+                "full_price_stripped": "$400",
+                "current_price_stripped": "$400",
+                "checkout_properties": {
+                  "currency_amount": {
+                    "currency": "USD",
+                    "amount": "400.00",
+                    "amount_with_offset": "40000",
+                    "offset": 100
+                  },
+                  "receiver_id": 90010135660647,
+                  "inventory_quantity": 10,
+                  "has_free_shipping": false,
+                  "can_add_to_bag": true,
+                  "can_enable_restock_reminder": false,
+                  "viewer_purchase_limit": -1,
+                  "product_group_has_inventory": true,
+                  "shipping_and_return": {
+                    "shipping_cost": {
+                      "currency": "USD",
+                      "amount": "1.00",
+                      "amount_with_offset": "100",
+                      "offset": 100
+                    },
+                    "shipping_cost_stripped": "$1",
+                    "is_final_sale": false,
+                    "return_policy_time": 3
+                  },
+                  "is_shopify_merchant": false,
+                  "is_purchase_protected": true,
+                  "has_free_two_day_shipping": false,
+                  "two_day_shipping_metadata": 0,
+                  "ig_referrer_fbid": 90010135660647
+                },
+                "launch_information": {
+                  "launch_date": 1617174000,
+                  "has_launched": true,
+                  "is_ig_exclusive": false,
+                  "drops_campaign_id": 475358213613506
+                },
+                "incentive_information": {
+                  "incentives": []
+                },
+                "ig_is_product_editable_on_mobile": true
+              },
+              {
+                "name": "Jasmine Green Tea",
+                "price": "$0.50",
+                "current_price": "$0.50",
+                "full_price": "$0.50",
+                "product_id": 2387241238068407,
+                "merchant": {
+                  "pk": 90010135660647,
+                  "username": "ig.ca.biz"
+                },
+                "compound_product_id": "2387241238068407_90010135660647",
+                "description": "Unsweetened Jasmine Green Tea",
+                "has_viewer_saved": false,
+                "main_image": {
+                  "image_versions2":{
+                    "candidates":[
+                      {
+                        "width":1200,
+                        "height":1500,
+                        "url":"https://images.unsplash.com/photo-1562183241-b937e95585b6?w=1200"
+                      }
+                    ]
+                  }
+                },
+                "thumbnail_image": {
+                  "image_versions2":{
+                    "candidates":[
+                      {
+                        "width":1200,
+                        "height":1500,
+                        "url":"https://images.unsplash.com/photo-1562183241-b937e95585b6?w=1200"
+                      }
+                    ]
+                  }
+                },
+                "review_status": "approved",
+                "external_url": "http://www.google.com/?utm_source=IGShopping&utm_medium=Social",
+                "checkout_style": "native_checkout",
+                "can_share_to_story": true,
+                "full_price_stripped": "$0.50",
+                "current_price_stripped": "$0.50",
+                "checkout_properties": {
+                  "currency_amount": {
+                    "currency": "USD",
+                    "amount": "0.50",
+                    "amount_with_offset": "50",
+                    "offset": 100
+                  },
+                  "receiver_id": 90010135660647,
+                  "inventory_quantity": 10,
+                  "has_free_shipping": false,
+                  "can_add_to_bag": true,
+                  "can_enable_restock_reminder": false,
+                  "viewer_purchase_limit": -1,
+                  "product_group_has_inventory": true,
+                  "shipping_and_return": {
+                    "shipping_cost": {
+                      "currency": "USD",
+                      "amount": "1.00",
+                      "amount_with_offset": "100",
+                      "offset": 100
+                    },
+                    "shipping_cost_stripped": "$1",
+                    "is_final_sale": false,
+                    "return_policy_time": 30
+                  },
+                  "is_shopify_merchant": false,
+                  "is_purchase_protected": true,
+                  "has_free_two_day_shipping": false,
+                  "two_day_shipping_metadata": 0,
+                  "ig_referrer_fbid": 90010135660647
+                },
+                "launch_information": {
+                  "launch_date": 1616785200,
+                  "has_launched": true,
+                  "is_ig_exclusive": false,
+                  "drops_campaign_id": 264591215219312
+                },
+                "incentive_information": {
+                  "incentives": []
+                },
+                "ig_is_product_editable_on_mobile": false
+              }
+            ],
+            "text": "2 Products",
+            "text_review_status": "approved"
+          }
+        }
+      ],
+      "product_tags": {
+        "in": [
+          {
+            "product": {
+              "name": "Jasmine Green Tea",
+              "price": "$0.50",
+              "current_price": "$0.50",
+              "full_price": "$0.50",
+              "product_id": 2387241238068407,
+              "merchant": {
+                "pk": 90010135660647,
+                "username": "ig.ca.biz"
+              },
+              "compound_product_id": "2387241238068407_90010135660647",
+              "description": "Unsweetened Jasmine Green Tea",
+              "has_viewer_saved": false,
+              "main_image": {
+                "image_versions2":{
+                  "candidates":[
+                    {
+                      "width":3024,
+                      "height":3024,
+                      "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+                    }
+                  ]
+                }
+              },
+              "thumbnail_image": {
+                "image_versions2":{
+                  "candidates":[
+                    {
+                      "width":3024,
+                      "height":3024,
+                      "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+                    }
+                  ]
+                }
+              },
+              "review_status": "approved",
+              "external_url": "http://www.google.com/?utm_source=IGShopping&utm_medium=Social",
+              "checkout_style": "external_link",
+              "can_share_to_story": true,
+              "full_price_stripped": "$0.50",
+              "current_price_stripped": "$0.50",
+              "checkout_properties": null,
+              "launch_information": {
+                "launch_date": 1616785200,
+                "has_launched": true,
+                "is_ig_exclusive": false,
+                "drops_campaign_id": 264591215219312
+              },
+              "incentive_information": {
+                "incentives": []
+              },
+              "ig_is_product_editable_on_mobile": false
+            },
+            "position": [
+              0.511111083984375,
+              0.608
+            ]
+          }
+        ]
+      },
+      "can_see_insights_as_brand": false,
+      "caption": null,
+      "organic_post_id": 2542649985570513400,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "link": "https://www.google.com/?fbclid=PAAaY5oksxOgsL7L66Q-l_w7b4HEAsMtGi5Zt1DwF_wYBEILuymNefyRxbf70_aem_AUJjFdmka6xJPnM3yw-E3vadMDTy3o_mjwTkJ3VbRfnknpXOIiOUvNgZX2M7AdjOK-IgbMey88J9JgU8eDtTrb5GW_sSui2mDz2Yzen7rOaU7lJOUmKEksEiRBNzzp6q0x4",
+      "link_text": "Shop Now",
+      "ad_action": "webclick",
+      "link_hint_text": "Tap Photo to Open Page",
+      "iTunesItem": null,
+      "ad_link_type": 0,
+      "ad_header_style": 0,
+      "dr_ad_type": 1,
+      "iab_autofill_optout_info": {
+        "domain": "google.com",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "PAAaY5oksxOgsL7L66Q-l_w7b4HEAsMtGi5Zt1DwF_wYBEILuymNefyRxbf70_aem_AUJjFdmka6xJPnM3yw-E3vadMDTy3o_mjwTkJ3VbRfnknpXOIiOUvNgZX2M7AdjOK-IgbMey88J9JgU8eDtTrb5GW_sSui2mDz2Yzen7rOaU7lJOUmKEksEiRBNzzp6q0x4",
+      "force_overlay": true,
+      "hide_nux_text": true,
+      "overlay_text": "Go to Website",
+      "overlay_title": "IG Ads Business Page",
+      "overlay_subtitle": "Go to google.com",
+      "dominant_color": "#569134",
+      "top_followers": [
+        "leesh682",
+        "byronmwong",
+        "ashthewho"
+      ],
+      "top_followers_count": 4,
+      "follower_count": 570,
+      "post_count": 412,
+      "fb_page_url": "https://www.facebook.com/IG-Ads-Business-Page-1760806210687773/",
+      "can_viewer_save": false,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjI3NzM4YmIyYTM2NDMxNjg1ODFhNjUzZTA0ODBmNjAyNTQ1NjMxMDAwMjg5ODk1OTE1Iiwic2VydmVyX3Rva2VuIjoiMTYxODg1NDYwMTc2OXwyNTQ1NjMxMDAwMjg5ODk1OTE1fDE3NjU3OTI5Nzl8MjIzZjM1ZGJkOTA2MjBkNTYwNWY2NWE2MDc0NTE3Mzk0ODA4NDBhZjI4ZDhjMGQ2MmRiYzc1MWU1NWI1MGQ3NCJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at": 19618941001,
+      "sharing_friction_info": {
+        "should_have_sharing_friction": false,
+        "bloks_app_url": null
+      },
+      "product_type": "ad",
+      "is_in_profile_grid": false,
+      "profile_grid_control_enabled": false,
+      "deleted_reason": 0,
+      "integrity_review_decision": "pending",
+      "direct_share": false,
+      "can_reshare": true,
+      "can_reply": false,
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 1,
+              "webUri": "https://www.google.com/?fbclid=PAAaY5oksxOgsL7L66Q-l_w7b4HEAsMtGi5Zt1DwF_wYBEILuymNefyRxbf70_aem_AUJjFdmka6xJPnM3yw-E3vadMDTy3o_mjwTkJ3VbRfnknpXOIiOUvNgZX2M7AdjOK-IgbMey88J9JgU8eDtTrb5GW_sSui2mDz2Yzen7rOaU7lJOUmKEksEiRBNzzp6q0x4",
+              "contentId": 0,
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8FadTqLVUSSDO8XJEYE7n1ta10PPh7eQu9qd7Mj7On08iqKg58O4w1EpUBoLtCLq4QFHRhOiPlKOtaf3WuhqXvHpP5aJG-xBAddIxu11KQv21x_M34nzOsyULZRx4vh3T9sGwrSqoG0e9FCc8FuZoNHyNQp2kJOThpdrEQVsLvHhSHu3yV-eT7zYTw52DFCwfqLDh7FjfCKoF-lf-UL6Vrn2cjj6_OEUWGggoNQfuEZthd1b80-wMAxLpAMePywJaC-B9KQz-iaT_7cTp4d2fpDhEqZ-bc-GvESWh539J0k5gS6tlhgkXvXnVn3gKU0WNQMWfzYjfgot_u3fqKVYl1XUwa9EMr_VDBg-j-pzOnMmR3E5DAUSwdXDi8NoDfp_kIYQywX_BaXnsw1WuF1wQloy-AqGPw6lG19obm13SDaMdUWy5iCDmQoMEf19jT_LDUzh3rqyQIcKzG4GE7G9py&a=1&hash=Ad-fa4Gz4Wi4nAYUrE4",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "skAdNetworkMetadata": null,
+              "destinationContext": "Visit Website",
+              "tapAndHoldContext": "Swipe up to view google.com"
+            }
+          ]
+        }
+      ],
+      "is_reel_media": true,
+      "story_ad_headline": {
+        "text": "Google",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "text_size": 16,
+        "background_color_alpha": "00"
+      },
+      "supports_reel_reactions": true,
+      "can_send_custom_emojis": true,
+      "show_one_tap_fb_share_tooltip": false
+    }
+  ],
+  "ranked_position": 5,
+  "seen_ranked_position": 5,
+  "muted": false,
+  "prefetch_count": 0,
+  "carousel_rendering_type":"mps",
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 0,
+    "reel_gap_to_previous_netego": 0,
+    "consumed_media_gap_to_previous_ad": 0,
+    "consumed_media_gap_to_previous_netego": 0,
+    "max_reel_gap_to_previous_item": 0,
+    "highest_position_rule": 1,
+    "min_media_gap_to_previous_item": 0,
+    "time_gap_to_previous_item_in_sec": 0,
+    "is_media_based_hp_enabled": true
+  },
+  "priority_index": 0
+}

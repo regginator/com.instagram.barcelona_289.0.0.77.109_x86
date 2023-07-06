@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s hõlmab %2$d kaupa, on %3$s, %4$s</item>
+        <item quantity="one">Kategoorias %1$s on %2$d üksust, %3$s, %4$s</item>
+    </plurals>
+</resources>

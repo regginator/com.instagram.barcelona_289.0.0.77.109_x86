@@ -1,0 +1,9 @@
+package p000X;
+
+import com.facebook.kotlin.compilerplugins.dataclassgenerate.superclass.KtCSuperShape0S1001000_I2;
+import java.util.Map;
+/* renamed from: X.6VS  reason: invalid class name */
+/* loaded from: classes3.dex */
+public final class C6VS {
+    public static final Map A00 = C4V2.A0H(C25930wq.A0m(EnumC1027466a.ALLOW, new KtCSuperShape0S1001000_I2("allow", 0, 0)), C25930wq.A0m(EnumC1027466a.DEFAULT_PURPOSES_OPERATIONAL, new KtCSuperShape0S1001000_I2("default_purposes_operational", 0, 0)), C25930wq.A0m(EnumC1027466a.INFRASTRUCTURE_ANALYTICS, new KtCSuperShape0S1001000_I2("infrastructure_analytics", 0, 0)), C25930wq.A0m(EnumC1027466a.MESSAGE_CONTENT_DATA_TYPE, new KtCSuperShape0S1001000_I2("message_content_data_type", 0, 0)), C25930wq.A0m(EnumC1027466a.MESSAGING_ARMADILLO_METADATA, new KtCSuperShape0S1001000_I2("messaging_armadillo_metadata", 0, 0)), C25930wq.A0m(EnumC1027466a.MESSAGING_CONTENT, new KtCSuperShape0S1001000_I2("messaging_content", 0, 0)), C25930wq.A0m(EnumC1027466a.MESSAGING_TRAFFIC_METADATA, new KtCSuperShape0S1001000_I2("messaging_traffic_metadata", 0, 0)), C25930wq.A0m(EnumC1027466a.MOBILE_ACCESS_TOKEN, new KtCSuperShape0S1001000_I2("mobile_access_token", 0, 0)), C25930wq.A0m(EnumC1027466a.MOBILE_FAMILY_ACCOUNTING, new KtCSuperShape0S1001000_I2("mobile_family_accounting", 0, 0)), C25930wq.A0m(EnumC1027466a.MOBILE_LOCATION, new KtCSuperShape0S1001000_I2("mobile_location", 0, 0)), C25930wq.A0m(EnumC1027466a.MOBILE_MESSAGING_CONTENT_DEBUGGING, new KtCSuperShape0S1001000_I2("mobile_messaging_content_debugging", 0, 0)), C25930wq.A0m(EnumC1027466a.MOBILE_MESSAGING_CONTENT_E2EE, new KtCSuperShape0S1001000_I2("mobile_messaging_content_e2ee", 0, 0)), C25930wq.A0m(EnumC1027466a.MOBILE_MESSAGING_CONTENT_OPEN, new KtCSuperShape0S1001000_I2("mobile_messaging_content_open", 0, 0)), C25930wq.A0m(EnumC1027466a.SENSITIVE_DATA_NO_ADS, new KtCSuperShape0S1001000_I2("sensitive_data_no_ads", 0, 0)));
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/countdown_sticker_title_text_color" />
+    <corners android:topLeftRadius="@dimen/abc_floating_window_z" android:topRightRadius="@dimen/abc_floating_window_z" />
+</shape>

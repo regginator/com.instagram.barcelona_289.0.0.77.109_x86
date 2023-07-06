@@ -1,0 +1,25 @@
+package p000X;
+/* renamed from: X.7Wj  reason: invalid class name */
+/* loaded from: classes3.dex */
+public final class C7Wj implements C8b1 {
+    public final C943557t A00;
+
+    public C7Wj(C943557t c943557t) {
+        C0OR.A0B(c943557t, 1);
+        this.A00 = c943557t;
+    }
+
+    @Override // p000X.C8b1
+    public final AbstractC70103cS create(Class cls) {
+        C0OR.A0B(cls, 0);
+        if (cls.isAssignableFrom(AnonymousClass588.class)) {
+            return new AnonymousClass588(this.A00);
+        }
+        throw C25950ws.A0k(C25930wq.A0e("Unknown ViewModel class: ", cls));
+    }
+
+    @Override // p000X.C8b1
+    public final /* synthetic */ AbstractC70103cS create(Class cls, AbstractC117146ly abstractC117146ly) {
+        return C8b1.A00(this, cls);
+    }
+}

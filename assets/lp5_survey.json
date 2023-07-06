@@ -1,0 +1,160 @@
+{
+  "navbar_title": "Survey",
+  "survey_type": "landing_page_quality_survey",
+  "survey_id": "7deb2a4ff8d94013b23955803b330187",
+  "pages": [
+    {
+      "id": "{\"ad_id\": \"6229404901902\", \"advertiser_name\": \"eBay\", \"survey_type\": \"landing_page_quality_survey\"}",
+      "modules": [
+        {
+          "question_list": {
+            "module_type": "question_list",
+            "id": "95c7529d0ba64738831f9f1bba161ff7",
+            "enable_navigation": false,
+            "vertical_padding": 25,
+            "enable_indexing": false,
+            "questions": [
+              {
+                "module_type": "single",
+                "id": "initial_lp5_question",
+                "title": "Was the website worth your time?",
+                "type": "single",
+                "answers": [
+                  {
+                    "text": "Completely",
+                    "id": 5,
+                    "next_id": "positive_follow_up_question"
+                  },
+                  {
+                    "text": "Mostly",
+                    "id": 4,
+                    "next_id": "positive_follow_up_question"
+                  },
+                  {
+                    "text": "Somewhat",
+                    "id": 3,
+                    "next_id": "positive_follow_up_question"
+                  },
+                  {
+                    "text": "Barely",
+                    "id": 2,
+                    "next_id": "negative_follow_up_question"
+                  },
+                  {
+                    "text": "Not at all",
+                    "id": 1,
+                    "next_id": "negative_follow_up_question"
+                  }
+                ],
+                "isHidden": false,
+                "disclaimer_text": "Your feedback is anonymous and will be used to help Instagram create a better ads experience."
+              },
+              {
+                "module_type": "single",
+                "id": "positive_follow_up_question",
+                "title": "What was the main reason that the website was worth your time?",
+                "type": "single",
+                "answers": [
+                  {
+                    "text": "Useful information",
+                    "id": "useful_info",
+                    "next_id": "thank_you_screen"
+                  },
+                  {
+                    "text": "Easy to use",
+                    "id": "easy_to_use",
+                    "next_id": "thank_you_screen"
+                  },
+                  {
+                    "text": "Like how it looked",
+                    "id": "like_the_look",
+                    "next_id": "thank_you_screen"
+                  },
+                  {
+                    "text": "Increased my trust in this brand",
+                    "id": "increase_trust",
+                    "next_id": "thank_you_screen"
+                  },
+                  {
+                    "text": "Other",
+                    "id": "other",
+                    "next_id": "thank_you_screen"
+                  }
+                ],
+                "isHidden": false,
+                "disclaimer_text": "Your feedback is anonymous and will be used to help Instagram create a better ads experience."
+              },
+              {
+                "module_type": "single",
+                "id": "negative_follow_up_question",
+                "title": "What was the main reason that the website was not worth your time?",
+                "type": "single",
+                "answers": [
+                  {
+                    "text": "I see too many ads about this topic",
+                    "id": "see_the_topic_too_often",
+                    "next_id": "thank_you_screen"
+                  },
+                  {
+                    "text": "I'm not interested in the topic of this ad",
+                    "id": "not_interested",
+                    "next_id": "thank_you_screen"
+                  },
+                  {
+                    "text": "I don't think this ad should be allowed on Instagram",
+                    "id": "should_not_allow",
+                    "next_id": "thank_you_screen"
+                  },
+                  {
+                    "text": "I find the topic in this ad sensitive",
+                    "id": "sensitive_topic",
+                    "next_id": "thank_you_screen"
+                  },
+                  {
+                    "text": "Other",
+                    "id": "other",
+                    "next_id": "thank_you_screen"
+                  }
+                ],
+                "isHidden": false,
+                "disclaimer_text": "Your feedback is anonymous and will be used to help Instagram create a better ads experience."
+              }
+            ],
+            "extra_question": null,
+            "unlock_question": 0,
+            "has_submit": false
+          }
+        }
+      ]
+    }
+  ],
+  "navbar_count_pages": true,
+  "ending_screen": {
+    "type": "thank_you",
+    "simple_action": {
+      "action_type": "landing_page_quality_survey",
+      "title": "Thanks for your help!",
+      "message": "Your feedback improves the quality of people's experiences on Instagram.",
+      "button_text": "",
+      "has_dismiss": false,
+      "extra_data_token": "",
+      "icon_url": null,
+      "dismiss_text": null
+    },
+    "navbar_title": ""
+  },
+  "has_skip": true,
+  "has_X": true,
+  "navbar_count_pages_offset": null,
+  "simple_action": {
+    "action_type": "landing_page_quality_survey",
+    "title": "[FB-only] What do you think of eBay's website?",
+    "message": "Take a moment to tell us about your experience.",
+    "button_text": "Rate Website",
+    "has_dismiss": true,
+    "extra_data_token": "{\"detailed_survey_type\": [\"landing_page_quality_survey\"], \"qp_id\": \"4019271734790508\"}",
+    "icon_url": null,
+    "dismiss_text": "Not Now"
+  },
+  "status": "ok"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/igds_elevated_background" />
+    <stroke android:width="@dimen/account_recs_header_image_margin" android:color="@color/igds_elevated_separator" />
+    <corners android:radius="@dimen/account_section_text_margin_horizontal" />
+</shape>

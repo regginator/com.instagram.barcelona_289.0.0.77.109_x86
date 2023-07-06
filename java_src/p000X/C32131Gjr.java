@@ -1,0 +1,36 @@
+package p000X;
+
+import com.instagram.service.session.UserSession;
+import com.instagram.video.live.mvvm.model.repository.IgLiveLikesRepository;
+import com.instagram.video.live.mvvm.model.repository.core.IgLiveBroadcastInfoManager;
+import com.instagram.video.live.mvvm.model.repository.core.IgLiveHeartbeatManager;
+/* renamed from: X.Gjr  reason: case insensitive filesystem */
+/* loaded from: classes6.dex */
+public final class C32131Gjr implements C8b1 {
+    public final InterfaceC19580l7 A00;
+    public final UserSession A01;
+
+    @Override // p000X.C8b1
+    public final /* synthetic */ AbstractC70103cS create(Class cls, AbstractC117146ly abstractC117146ly) {
+        return C6D4.A00(this, cls);
+    }
+
+    @Override // p000X.C8b1
+    public final AbstractC70103cS create(Class cls) {
+        UserSession userSession = this.A01;
+        FYV A00 = C30520FrQ.A00(userSession);
+        InterfaceC19580l7 interfaceC19580l7 = this.A00;
+        C29441FXb A002 = C30516FrM.A00(interfaceC19580l7, userSession);
+        IgLiveBroadcastInfoManager A03 = C31909Gd1.A03(A00);
+        IgLiveHeartbeatManager igLiveHeartbeatManager = ((C31909Gd1) A00).A04;
+        C31692GTw c31692GTw = ((C31909Gd1) A00).A03;
+        DH8 A08 = A00.A08();
+        return new C29504FZo(interfaceC19580l7, A002.A00, userSession, (G6F) A002.A08.getValue(), (IgLiveLikesRepository) A00.A0A.getValue(), (C31001FzR) A00.A02.getValue(), A03, c31692GTw, igLiveHeartbeatManager, A08);
+    }
+
+    public C32131Gjr(InterfaceC19580l7 interfaceC19580l7, UserSession userSession) {
+        C25920wp.A1R(userSession, interfaceC19580l7);
+        this.A01 = userSession;
+        this.A00 = interfaceC19580l7;
+    }
+}

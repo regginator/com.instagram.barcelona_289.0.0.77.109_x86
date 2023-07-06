@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="10.0dip" android:width="21.0dip" android:viewportWidth="21.0" android:viewportHeight="10.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M0,9.5L21,9.5" android:strokeColor="@color/igds_loading_shimmer_light" android:strokeWidth="1.0" />
+    <path android:fillColor="@color/igds_loading_shimmer_light" android:pathData="M21,9C17,9 13.181,1 10.5,1C7.8185,1 3.9995,9 0,9L10.5,9L21,9Z" android:strokeColor="@color/igds_loading_shimmer_light" android:strokeWidth="1.0" android:fillType="evenOdd" />
+    <path android:fillColor="#00000000" android:pathData="M21,9C17,9 13.181,1 10.5,1C7.8185,1 3.9995,9 0,9" android:strokeColor="@color/igds_status_pill_ripple" android:strokeWidth="1.0" />
+    <path android:fillColor="#00000000" android:pathData="M21,9C17,9 13.181,1 10.5,1C7.8185,1 3.9995,9 0,9" android:strokeColor="@color/igds_status_pill_ripple" android:strokeWidth="1.0" android:strokeAlpha="0.2" />
+</vector>

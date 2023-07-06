@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circular_avatar_stroke_width">1.0px</dimen>
+    <dimen name="photo_grid_spacing">3.0px</dimen>
+    <dimen name="tab_bar_height_panorama">44.0dip</dimen>
+</resources>

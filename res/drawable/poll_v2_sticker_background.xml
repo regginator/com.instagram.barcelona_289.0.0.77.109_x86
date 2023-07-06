@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/poll_v2_sticker_background" />
+    <corners android:topLeftRadius="@dimen/abc_select_dialog_padding_start_material" android:topRightRadius="@dimen/abc_select_dialog_padding_start_material" android:bottomLeftRadius="@dimen/abc_select_dialog_padding_start_material" android:bottomRightRadius="@dimen/abc_select_dialog_padding_start_material" />
+</shape>

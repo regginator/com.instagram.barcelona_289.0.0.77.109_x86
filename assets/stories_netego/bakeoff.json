@@ -1,0 +1,102 @@
+{
+  "id":"bakeoff",
+  "reel_type":"netego_reel",
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "netego_type":"ads_bakeoff_survey_in_story",
+  "netego_background_media": {
+    "taken_at": 1513691298,
+    "pk": 1673286351624484400,
+    "id": "bakeoff",
+    "device_timestamp": 1513691278113,
+    "media_type": 1,
+    "code": "Bc4tRJEFjYT",
+    "client_cache_key": "MTY3MzI4NjM1MTYyNDQ4NDM3MQ==.2",
+    "filter_type": 24,
+    "image_versions2": {
+      "candidates": [
+        {
+          "width": 900,
+          "height": 1600,
+          "url": "https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png"
+        }
+      ]
+    },
+    "original_width": 1080,
+    "original_height": 1080,
+    "can_viewer_reshare": true,
+    "caption_is_edited": false,
+    "direct_reply_to_author_enabled": true,
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": false,
+    "max_num_visible_preview_comments": 2,
+    "can_view_more_preview_comments": false,
+    "comment_count": 0,
+    "inline_composer_display_condition": "impression_trigger",
+    "inline_composer_imp_trigger_time": 4,
+    "like_count": 17,
+    "has_liked": false,
+    "top_likers": [
+      "rkvedula"
+    ],
+    "photo_of_you": false,
+    "fb_user_tags": {
+      "in": []
+    },
+    "can_viewer_save": true,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2M0Nzg1ZTY4YTRlNGJmMzllZmU1NGEyMjgwMzZlNmIxNjczMjg2MzUxNjI0NDg0MzcxIiwic2VydmVyX3Rva2VuIjoiMTU1OTU5MzI4NjI3NHwxNjczMjg2MzUxNjI0NDg0MzcxfDU0ODU2MTAyMTl8MDE0YWI4ZjRhNzI0YWExZDNiZDQwZTQyMzU0MTQ0NDVmNTU4YTkwMTNlYzdhZTIxZGFmYzQxZTE0MzdiNDdlYyJ9LCJzaWduYXR1cmUiOiIifQ=="
+  },
+  "expiring_at":9691269142,
+  "simple_action":{
+    "action_type":"bake_off",
+    "title":"Tell Us What You Like",
+    "message":"Quickly tell us what you like better to help us make ads more relevant on Instagram.",
+    "button_text":"Get Started",
+    "has_dismiss":false,
+    "extra_data_token":"{\"bakeoff_type\": \"ad_vs_ad_bakeoff_timeline\", \"bakeoff_page_type\": \"bakeoff_story_ads\"}",
+    "icon_url":null,
+    "id":"86876413977457",
+    "tracking_token":"eyJ1dWlkIjoiNzNiNjdhM2Y2MDRiNDE2N2JhODY0ZDFkZTUwOGQxMGMiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MTAsImZiX3VzZXJfaWQiOjUwODE0MjgzOSwibmV0X2Vnb190eXBlIjo2LCJnbG9iYWxfcG9zaXRpb24iOjEsImVjcG1fcHJpY2UiOjE4MTIuMCwicGFjaW5nX3FlX2luZm8iOiJkZWZhdWx0IiwidXNlcl9kb2xsYXJfdmFsdWUiOjEuNzA4MzkyNDc2NiwiaXNfbmV3X2luc2VydGlvbiI6dHJ1ZSwiaXNfZnJvbV9uZWVkeV91c2VyIjpmYWxzZX19"
+  },
+  "ranked_position":1,
+  "seen_ranked_position":1
+}

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">இந்த இணைப்பைப் பார்வையிட பயனர்கள் ஸ்வைப் செய்யலாம். நீங்கள் ஒரு ஸ்வைப் அப் இணைப்பை மட்டுமே சேர்க்க முடியும்.</item>
+        <item quantity="one">பார்வையாளர்கள் மேலே ஸ்வைப் செய்து இந்த இணைப்பைப் பார்க்க முடியும்.</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">குறிப்பிடல்கள் சேர்க்கப்பட்டன.</item>
+        <item quantity="one">குறிப்பிடல் சேர்க்கப்பட்டது.</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">%1$d பேர்</item>
+        <item quantity="one">1 நபர்</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">உங்கள் பின்தொடர்தல் கோரிக்கைகளைத் தற்போது உறுதிசெய்ய முடியாது. பிறகு மீண்டும் முயலவும்.</item>
+        <item quantity="one">உங்கள் பின்தொடர்தல் கோரிக்கையை தற்போது உறுதிசெய்ய முடியாது. பிறகு மீண்டும் முயலவும்.</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">உங்கள் பின்தொடர்தல் கோரிக்கையை தற்போது நீக்க முடியாது. பிறகு மீண்டும் முயலவும்.</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">உங்களைப் பின்தொடர்ந்த இந்தப் பயனர்களைப் பின்தொடர்வதற்கான உங்கள் கோரிக்கை தோல்வியடைந்தது. பிறகு மீண்டும் முயலவும்.</item>
+        <item quantity="one">உங்களைப் பின்தொடர்ந்த இந்தப் பயனரைப் பின்தொடர்வதற்கான உங்கள் கோரிக்கை தோல்வியடைந்தது. பிறகு மீண்டும் முயலவும்.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">இந்தப் பயனர்களை அகற்றுவதற்கான உங்கள் கோரிக்கை தோல்வியடைந்தது. பிறகு மீண்டும் முயலவும்.</item>
+        <item quantity="one">இந்தப் பயனரை அகற்றுவதற்கான உங்கள் கோரிக்கை தோல்வியடைந்தது. பிறகு மீண்டும் முயலவும்.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">%1$s பின்தொடர்பவர்கள் அகற்றப்பட்டனர்</item>
+        <item quantity="one">1 பின்தொடர்பவர் அகற்றப்பட்டார்</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">%1$d கோரிக்கைகள்</item>
+        <item quantity="one">%1$d கோரிக்கை</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s பேர்</item>
+        <item quantity="one">1 நபர்</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">%1$d வருடங்களுக்கு முன்...</item>
+        <item quantity="one">1 வருடம் முன்பு…</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">%1$s உறுப்பினர்கள்</item>
+        <item quantity="one">%1$s உறுப்பினர்</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d பதில்கள்</item>
+        <item quantity="one">%1$d பதில்</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">%1$d Facebook நெருங்கிய நண்பர்கள்</item>
+        <item quantity="one">1 Facebook நெருங்கிய நண்பர்</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">%1$s மற்றும் &lt;b>%2$s பேர்&lt;/b> கருத்து தெரிவித்துள்ளனர்</item>
+        <item quantity="one">%1$s மற்றும் &lt;b>1 நபர்&lt;/b> கருத்து தெரிவித்துள்ளனர்</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">%1$s மற்றும் பலர் கருத்து தெரிவித்துள்ளனர்</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s மற்றும் &lt;b>%4$s பேர்&lt;/b> கருத்து தெரிவித்துள்ளனர்</item>
+        <item quantity="one">%1$s, %2$s, %3$s மற்றும் &lt;b>1 நபர்&lt;/b> கருத்து தெரிவித்துள்ளனர்</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">%1$s, %2$s, %3$s மற்றும் பலர் கருத்து தெரிவித்துள்ளனர்</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">%1$s பின்தொடர்தல் கோரிக்கைகளை உறுதிசெய்ய விரும்புகிறீர்களா?</item>
+        <item quantity="one">1 பின்தொடர்தல் கோரிக்கையை உறுதிசெய்ய விரும்புகிறீர்களா?</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">நாட்கள்</item>
+        <item quantity="one">நாள்</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">மணிநேரம்</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">நிமிடங்கள்</item>
+        <item quantity="one">நிமிடம்</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">மாதங்கள்</item>
+        <item quantity="one">மாதம்</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">விநாடிகள்</item>
+        <item quantity="one">வினாடி</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">%1$s பின்தொடர்தல் கோரிக்கைகளை நீக்க விரும்புகிறீர்களா?</item>
+        <item quantity="one">1 பின்தொடர்தல் கோரிக்கையை நீக்க விரும்புகிறீர்களா?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">நீங்கள் பொதுக் கணக்கிற்கு மாறும்போது இந்தக் கோரிக்கைகள் அனுமதிக்கப்படாது.</item>
+        <item quantity="one">நீங்கள் பொதுக் கணக்கிற்கு மாறும்போது இந்தக் கோரிக்கை அனுமதிக்கப்படாது.</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">பின்தொடர்தல் கோரிக்கைகளை நீக்க வேண்டுமா?</item>
+        <item quantity="one">இந்தப் பின்தொடர்தல் கோரிக்கையை நீக்குக</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">&lt;b>%2$s நண்பர்கள்&lt;/b> %1$s பயன்படுத்தியுள்ளார்</item>
+        <item quantity="one">&lt;b>1 நண்பர்&lt;/b> %1$s பயன்படுத்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">&lt;b>%2$s பேர்&lt;/b> %1$s பயன்படுத்தியுள்ளனர்</item>
+        <item quantity="one">&lt;b>1 நபர்&lt;/b> %1$s பயன்படுத்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">%1$d சந்தாதாரர்களைக் காட்டு</item>
+        <item quantity="one">%1$d சந்தாதாரரைக் காட்டு</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%3$s அன்று %1$s இல் %2$d பொருட்கள் உள்ளன, %4$s</item>
+        <item quantity="one">%3$s அன்று %1$s இல் %2$d பொருள் உள்ளது, %4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">%1$s பயனர்களைப் பின்தொடர விரும்புகிறீர்களா?</item>
+        <item quantity="one">1 பயனரை பின்தொடர விரும்புகிறீர்களா?</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">%1$s பேர் பின்தொடர்கிறார்கள்</item>
+        <item quantity="one">1 நபர் பின்தொடர்கிறார்</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">%1$s மற்றும் &lt;font face=sans-serif-medium>%2$s பேர்&lt;/font> பின்தொடர்கிறார்கள்</item>
+        <item quantity="one">%1$s மற்றும் &lt;font face=sans-serif-medium>1 நபர்&lt;/font> பின்தொடர்கிறார்</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">%1$s மற்றும் %2$s பேர் பின்தொடர்கிறார்கள்</item>
+        <item quantity="one">%1$s மற்றும் 1 நபர் பின்தொடர்கிறார்</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">Followed by %1$s, %2$s and &lt;font face=sans-serif-medium>%3$s others&lt;/font></item>
+        <item quantity="one">%1$s, %2$s மற்றும் &lt;font face=sans-serif-medium>1 நபர்&lt;/font> பின்தொடர்கிறார்கள்</item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s மற்றும் &lt;font face=sans-serif-medium>%4$s பேர்&lt;/font> பின்தொடர்கிறார்கள்</item>
+        <item quantity="one">Followed by %1$s, %2$s, %3$s and &lt;font face=sans-serif-medium>1 other&lt;/font></item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">%1$s பேர் பின்தொடர்கின்றனர்</item>
+        <item quantity="one">%1$s நபர் பின்தொடர்கிறார்</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">%3$d வரிசை %4$d நெடுவரிசையில் %2$s இன் %1$d படங்கள் மற்றும் 1 வீடியோ</item>
+        <item quantity="one">%3$d வரிசை %4$d நெடுவரிசையில் %2$s இன் %1$d படம் மற்றும் 1 வீடியோ</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">%3$d வரிசை %4$d நெடுவரிசையில் %2$s இன் 1 படம் மற்றும் %1$d வீடியோக்கள்</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">%1$d சந்தாதாரர்கள்</item>
+        <item quantity="one">%1$d சந்தாதாரர்</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">சூதாட்டம், டேட்டிங் போன்ற %1$s விளம்பரங்கள் இயல்பாகவே தடைசெய்யப்பட்டிருக்கும். உங்கள் ரீல்ஸில் காட்டப்படாமல் இருக்க வேண்டுமென விரும்பும் %2$d கூடுதல் விளம்பர வகைகள் வரை நீங்கள் தேர்ந்தெடுக்கலாம்.</item>
+        <item quantity="one">சூதாட்டம், டேட்டிங் போன்ற %1$s விளம்பரங்கள் இயல்பாகவே தடைசெய்யப்பட்டிருக்கும். உங்கள் ரீல்ஸில் காட்டப்படாமல் இருக்க வேண்டுமென விரும்பும் 1 கூடுதல் விளம்பர வகை வரை நீங்கள் தேர்ந்தெடுக்கலாம்.</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s மற்றும் %6$d கணக்குகள்</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$sமற்றும் 1 கணக்கு</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s மற்றும் %6$d வகைகள்</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s மற்றும் 1 வகைப்பிரிவு</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">சூதாட்டம், டேட்டிங் போன்ற %1$s உள்ள விளம்பரங்கள் இயல்பாகவே தடைசெய்யப்பட்டிருக்கும். உங்கள் சுயவிவர ஃபீடில் காட்டப்படாமல் இருக்க வேண்டுமென விரும்பும் %2$d கூடுதல் விளம்பர வகைகள் வரை நீங்கள் தேர்ந்தெடுக்கலாம்.</item>
+        <item quantity="one">சூதாட்டம், டேட்டிங் போன்ற %1$s உள்ள விளம்பரங்கள் இயல்பாகவே தடைசெய்யப்பட்டிருக்கும். உங்கள் சுயவிவர ஃபீடில் காட்டப்படாமல் இருக்க வேண்டுமென விரும்பும் 1 கூடுதல் விளம்பர வகை வரை நீங்கள் தேர்ந்தெடுக்கலாம்.</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d விருப்பங்கள்</item>
+        <item quantity="one">1 விருப்பம்</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">%1$s மற்றும் &lt;font face=sans-serif-medium>%2$s பேர்&lt;/font> விரும்பினர்</item>
+        <item quantity="one">%1$s மற்றும் &lt;font face=sans-serif-medium>1 நபர்&lt;/font> விரும்பினர்</item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s மற்றும் &lt;font face=sans-serif-medium>%3$s பேர்&lt;/font> விரும்பினர்</item>
+        <item quantity="one">%1$s, %2$s மற்றும் &lt;font face=sans-serif-medium>1 நபர்&lt;/font> விரும்பினர்</item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s மற்றும் &lt;font face=sans-serif-medium>%4$s பலர்&lt;/font> விரும்பியுள்ளனர்</item>
+        <item quantity="one">%1$s, %2$s, %3$s மற்றும் &lt;font face=sans-serif-medium>1 நபர்&lt;/font> விரும்பினர்</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">%1$s மற்றும் %2$s நேரலையில் இருந்தனர்</item>
+        <item quantity="one">%1$s நேரலையில் இருந்தார்</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">%1$d பேட்ஜ்கள்</item>
+        <item quantity="one">1 பேட்ஜ்</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d பேட்ஜ்கள்</item>
+        <item quantity="one">1 பேட்ஜ்</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">%1$s மற்றும் %2$d பேர் உங்கள் நேரலை வீடியோவில் சேர்வதற்கு கோரிக்கை அனுப்பியுள்ளனர்.</item>
+        <item quantity="one">%1$s மற்றும் %2$d பேர் உங்கள் நேரலை வீடியோவில் சேர்வதற்கான கோரிக்கையை அனுப்பியுள்ளனர்.</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">%1$d மணிநேரம் மீதமுள்ளன</item>
+        <item quantity="one">இன்னும் %1$d மணிநேரம் உள்ளது</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">%1$d நிமிடங்கள் மீதமுள்ளன</item>
+        <item quantity="one">%1$d நிமிடம் உள்ளது</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">%1$s, %2$s மற்றும் %3$d பங்கேற்பாளர்களுடனான கலந்துரையாடலைப் புகாரளிக்கவா?</item>
+        <item quantity="one">%1$s, %2$s மற்றும் %3$d பங்கேற்பாளருடனான கலந்துரையாடலைப் புகாரளிக்கவா?</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">%1$s மற்றும் %2$d பேரை குழுவில் சேர்த்துள்ளீர்கள்.</item>
+        <item quantity="one">%1$s மற்றும் %2$d நபரைக் குழுவில் சேர்த்துள்ளீர்கள்.</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">%1$s என்பவரையும் %2$d பேரையும் குழுவிலிருந்து அகற்றியுள்ளீர்கள்.</item>
+        <item quantity="one">%1$s என்பவரையும் %2$d நபரையும் குழுவிலிருந்து அகற்றியுள்ளீர்கள்.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">%2$s இலிருந்து %1$d வார்த்தை அலங்காரங்கள் சேர்க்கப்பட்டன %3$s</item>
+        <item quantity="one">%2$s இலிருந்து %1$d வார்த்தை அலங்காரம் சேர்க்கப்பட்டது %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">%1$d வார்த்தை அலங்காரங்களை மாற்றியுள்ளீர்கள்.</item>
+        <item quantity="one">%1$d வார்த்தை அலங்காரத்தை மாற்றியுள்ளீர்கள்.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">%2$d வார்த்தை அலங்காரங்களை %1$s மாற்றியுள்ளார்.</item>
+        <item quantity="one">%2$d வார்த்தை அலங்காரத்தை %1$s மாற்றிள்ளார்.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">%1$d வார்த்தை அலங்காரங்களை அமைத்துள்ளீர்கள் %2$s</item>
+        <item quantity="one">%1$d வார்த்தை அலங்காரத்தை அமைத்துள்ளீர்கள் %2$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">%2$d வார்த்தை அலங்காரங்களை %1$s அமைத்துள்ளார் %3$s</item>
+        <item quantity="one">%2$d வார்த்தை அலங்காரத்தை %1$s அமைத்துள்ளார் %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">%1$d வார்த்தை அலங்காரங்களை அகற்றியுள்ளீர்கள்.</item>
+        <item quantity="one">%1$d வார்த்தை அலங்காரத்தை அகற்றியுள்ளீர்கள்.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">%2$d வார்த்தை அலங்காரங்களை %1$s அகற்றியுள்ளார்.</item>
+        <item quantity="one">%2$d வார்த்தை அலங்காரத்தை %1$s அகற்றியுள்ளார்.</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d நாட்கள்</item>
+        <item quantity="one">%1$d நாள்</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d மணிநேரம்</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d நிமிடங்கள்</item>
+        <item quantity="one">%1$d நிமிடம்</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d நொடிகள்</item>
+        <item quantity="one">%1$d நொடி</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">%1$s அவர்கள் உங்களையும் %2$d பேரையும் குழுவில் சேர்த்துள்ளார்.</item>
+        <item quantity="one">%1$s அவர்கள் உங்களையும் %2$d நபரையும் குழுவில் சேர்த்துள்ளார்.</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">%1$s அவர்கள் %2$s மற்றும் %3$d பேரைக் குழுவில் சேர்த்துள்ளார்.</item>
+        <item quantity="one">%1$s அவர்கள் குழுவில் %2$s மற்றும் %3$d நபரைச் சேர்த்துள்ளார்.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">%1$s அவர்கள் குழுவிலிருந்து உங்களையும் %2$d பேரையும் அகற்றியுள்ளார்.</item>
+        <item quantity="one">%1$s அவர்கள் உங்களையும் %2$d நபரையும் குழுவிலிருந்து அகற்றியுள்ளார்.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">%1$s அவர்கள் %2$s மற்றும் %3$d பேரை குழுவிலிருந்து அகற்றியுள்ளார்.</item>
+        <item quantity="one">%1$s அவர்கள் %2$s என்பவரையும் %3$d நபரையும் குழுவிலிருந்து அகற்றியுள்ளார்.</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">இவர்களால் அரட்டை வரலாற்றைப் பார்க்க முடியும்</item>
+        <item quantity="one">இவரால் அரட்டை வரலாற்றைப் பார்க்க முடியும்</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">நீங்களும் %1$d பேரும் குழுவில் சேர்க்கப்பட்டுள்ளீர்கள்.</item>
+        <item quantity="one">நீங்களும் %1$d நபரும் குழுவில் சேர்க்கப்பட்டுள்ளீர்கள்.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">%1$s அவர்களும் %2$d பேரும் குழுவில் சேர்க்கப்பட்டுள்ளனர்.</item>
+        <item quantity="one">%1$s மற்றும் %2$d நபர் குழுவில் சேர்க்கப்பட்டுள்ளனர்.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">குழுவிலிருந்து நீங்களும் %1$d பேரும் அகற்றப்பட்டுள்ளீர்கள்.</item>
+        <item quantity="one">நீங்களும் %1$d நபரும் குழுவிலிருந்து அகற்றப்பட்டுள்ளீர்கள்.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">%1$s மற்றும் %2$d பேர் குழுவிலிருந்து அகற்றப்பட்டுள்ளனர்.</item>
+        <item quantity="one">%1$s மற்றும் %2$d நபர் குழுவிலிருந்து அகற்றப்பட்டுள்ளனர்.</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">%1$d பேரைச் சேர்த்துள்ளீர்கள்</item>
+        <item quantity="one">%1$d நபரைச் சேர்த்துள்ளீர்கள்</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">%1$s, %2$s மற்றும் %3$d பேரைச் சேர்த்துள்ளீர்கள்</item>
+        <item quantity="one">%1$s, %2$s மற்றும் ஒருவரைச் சேர்த்துள்ளீர்கள்</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">%1$d படங்களை அனுப்பியுள்ளீர்கள்.</item>
+        <item quantity="one">படத்தை அனுப்பியுள்ளீர்கள்.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">உங்கள் படம் %1$s கதை மற்றும் பிற %2$s கதைகளில் உள்ளது.</item>
+        <item quantity="one">%1$s மற்றும் ஒருவரின் கதையில் உங்கள் படம் உள்ளது.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">உங்கள் வீடியோ %1$s மற்றும் %2$s பேரின் கதைகளில் உள்ளது.</item>
+        <item quantity="one">உங்கள் வீடியோ %1$s கதை மற்றும் ஒரு கதையில் உள்ளது.</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">உங்கள் படம் %1$s ஹேஷ்டேக் கதைகளில் சேர்க்கப்பட்டது</item>
+        <item quantity="one">உங்கள் படம் ஹேஷ்டேக் கதையில் சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">உங்கள் படம் %1$s இருப்பிடக் கதைகளில் சேர்க்கப்பட்டது</item>
+        <item quantity="one">உங்கள் படம் இருப்பிடக் கதையில் சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">%1$s ஹேஷ்டேக் கதைகளுடன் உங்கள் வீடியோ சேர்க்கப்பட்டது</item>
+        <item quantity="one">உங்கள் வீடியோ ஹேஷ்டேக் கதையில் சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">உங்கள் வீடியோ %1$s இருப்பிடக் கதைகளில் சேர்க்கப்பட்டது</item>
+        <item quantity="one">உங்கள் வீடியோ இருப்பிடக் கதையில் சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">%2$s ஆல் &lt;b>%1$s&lt;/b> மற்றும் %3$s பிற எஃபெக்ட்ஸ்</item>
+        <item quantity="one">%2$s மற்றும் %3$s ஆல் உருவாக்கப்பட்ட &lt;b>%1$s&lt;/b></item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">%1$d புதிய லீட்களைப் பெற்றுள்ளீர்கள்.</item>
+        <item quantity="one">1 புதிய லீடைப் பெற்றுள்ளீர்கள்.</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">%1$d அல்லது மேலும் படிக்காத செய்திகள்</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d படிக்காத செய்திகள்</item>
+        <item quantity="one">%1$d படிக்காத செய்தி</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">%1$d தயாரிப்புத் தொகுப்புகள்</item>
+        <item quantity="one">1 தயாரிப்புத் தொகுப்பு</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">%1$d தயாரிப்புகள்</item>
+        <item quantity="one">1 தயாரிப்பு</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">%1$s கருத்துகள்</item>
+        <item quantity="one">%1$s கருத்து</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">%1$s விருப்பங்கள்</item>
+        <item quantity="one">%1$s விருப்பம்</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">%1$s இயக்கங்கள்</item>
+        <item quantity="one">%1$s இயக்கம்</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s இன் இடுகைகள்</item>
+        <item quantity="one">%1$s இன் இடுகை</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">%1$s இன் பொது இடுகைகள்</item>
+        <item quantity="one">%1$s இன் பொது இடுகை</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">%1$s விருப்பங்கள் மற்றும் உணர்ச்சிகள்</item>
+        <item quantity="one">%1$s விருப்பம் அல்லது உணர்ச்சி</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">%1$s பகிர்வுகள்</item>
+        <item quantity="one">%1$s பகிர்வு</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">%1$s பார்வையாளர்கள்</item>
+        <item quantity="one">1 பார்வையாளர்</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">%1$s பார்வைகள்</item>
+        <item quantity="one">%1$s பார்வை</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">இன்றைக்கு %1$d ஆண்டுகளுக்கு முன்பு</item>
+        <item quantity="one">1 ஆண்டுக்கு முன்பு இன்று.</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">உங்களிடம் %1$d விளம்பரங்கள் நிலுவையில் உள்ளன.</item>
+        <item quantity="one">உங்களிடம் 1 விளம்பரம் நிலுவையிலுள்ளது.</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">விளம்பரப்படுத்துதலில் இருந்து %1$s வாக்காளர்கள்</item>
+        <item quantity="one">விளம்பரத்தில் இருந்து 1 வாக்காளர்</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">பரிந்துரைகள் உள்ளன</item>
+        <item quantity="one">பரிந்துரை உள்ளது</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">&lt;b>%1$s&lt;/b> மற்றும் &lt;b> %2$sபிறர்&lt;/b> இதில் சேர்க்கபட்டுள்ளீர்கள்.</item>
+        <item quantity="one">&lt;b> %1$s&lt;/b> மற்றும் &lt;b> 1 நபர்&lt;/b> இந்த கதையில் சேர்க்கபட்டுள்ளது.</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">%1$s பேர் Facebook இல் இந்தக் கதையைப் பார்த்துள்ளனர். Facebook இல் பொதுவில் அதைப் பகிர்கிறீர்கள் என்பதால், உங்களுடன் நண்பர்களாக இல்லாதவர்களும் அதைப் பார்த்தனர்.</item>
+        <item quantity="one">மேலும் ஒருவர் Facebook இல் இந்தக் கதையைப் பார்த்துள்ளார். Facebook இல் பொதுவில் இதைப் பகிர்ந்துள்ளீர்கள் என்பதால், உங்களுடன் நண்பர்களாக இல்லாதவர்களும் பார்த்துள்ளனர்.</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">%1$s Facebook இல் பிற பார்வைகள்</item>
+        <item quantity="one">Facebook இல் மேலும் 1 பார்வை</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">%1$sக்கான வாக்குகள்</item>
+        <item quantity="one">%1$sக்கான வாக்கு</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">%1$d பேர் பதிலளித்துள்ளனர். இது சராசரியான பதில்.</item>
+        <item quantity="one">1 நபர் பதிலளித்துள்ளார். இது சராசரி பதில்.</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">&lt;b>%1$s நண்பர்கள்&lt;/b> ரீமிக்ஸ் செய்துள்ளனர்</item>
+        <item quantity="one">&lt;b>1 நண்பர்&lt;/b> ரீமிக்ஸ் செய்துள்ளார்</item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">&lt;b>%1$s பேர்&lt;/b> ரீமிக்ஸ் செய்துள்ளனர்</item>
+        <item quantity="one">&lt;b>1 நபர்&lt;/b> ரீமிஸ் செய்துள்ளார்</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">%1$s பின்தொடர்பவர்களை அகற்ற விரும்புகிறீர்களா?</item>
+        <item quantity="one">1 பின்தொடர்பவரை அகற்ற விரும்புகிறீர்களா?</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">%1$d தயாரிப்புகள் அகற்றப்பட்டன</item>
+        <item quantity="one">1 தயாரிப்பு அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">சேமித்த இடுகைகள்: %1$s</item>
+        <item quantity="one">சேமிக்கப்பட்ட இடுகை: %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">இடுகைகளை சேர்க்க முடியவில்லை</item>
+        <item quantity="one">இடுகையைச் சேர்க்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">%2$s இடுகைகள் %1$sக்கு சேர்க்கப்பட்டது</item>
+        <item quantity="one">%1$s இல் இடுகை சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">இடுகைகளை நகர்த்த முடியவில்லை</item>
+        <item quantity="one">இடுகையை நகர்த்த முடியவில்லை</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">%2$s இடுகைகள் %1$sக்கு நகர்த்தப்பட்டது</item>
+        <item quantity="one">%1$sக்கு இடுகை நகர்த்தப்பட்டது</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">இந்தச் சேகரிப்பிலிருந்து இடுகைகளை இது அகற்றி %1$sக்கு நகர்த்தும். சேமித்தவை அனைத்தும் என்ற விருப்பத்தில், இடுகைகள் இன்னும் சேமிக்கப்படும்.</item>
+        <item quantity="one">இந்தச் சேகரிப்பிலிருந்து இடுகையை இது அகற்றி %1$sக்கு நகர்த்தும். சேமித்தவை அனைத்தும் என்ற விருப்பத்தில், இடுகை இன்னும் சேமிக்கப்படும்.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">இந்த இடுகையைச் சேமிக்காமல் இருப்பது அவற்றை எல்லாச் சேகரிப்புகளிலிருந்தும் அகற்றும்.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">இடுகைகளைச் சேமிக்க வேண்டாமா?</item>
+        <item quantity="one">இடுகையைச் சேமிக்க வேண்டாமா?</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">இடுகைகளை நீக்க முடியவில்லை</item>
+        <item quantity="one">இடுகைகளை அகற்ற முடியவில்லை</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">%1$s இலிருந்து %2$s இடுகைகள் அகற்றப்பட்டது</item>
+        <item quantity="one">%1$s இலிருந்து இடுகை அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">சேமிக்கப்படாத இடுகைகளைச் சேமிக்க முடியவில்லை</item>
+        <item quantity="one">சேமிக்கப்படாத இடுகையைச் சேமிக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">%1$s இடுகைகள் சேமிக்கப்படவில்லை</item>
+        <item quantity="one">இடுகை சேமிக்கப்படவில்லை</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">தேர்ந்தெடுக்கப்பட்டவை: %1$d</item>
+        <item quantity="one">1 உருப்படி தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">%1$d உருப்படிகள்</item>
+        <item quantity="one">1 உருப்படி</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">புதிய பதிவுகள்</item>
+        <item quantity="one">புதிய பதிவு</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s புதிய பதிவுகள்</item>
+        <item quantity="one">1 புதிய பதிவு</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">நிலுவையில் உள்ள பின்தொடர்தல் கோரிக்கைகள் அனைத்தும் நீங்கள் இப்போது நீக்கும் வரை தானாகவே அனுமதிக்கப்படும். நிலுவையில் உள்ள %1$s பின்தொடர்தல் கோரிக்கைகளை மதிப்பாய்வு செய்யவும்.</item>
+        <item quantity="one">நிலுவையில் உள்ள பின்தொடர்தல் கோரிக்கைகள் அனைத்தும் நீங்கள் இப்போது நீக்கும் வரை தானாகவே அனுமதிக்கப்படும். நிலுவையில் உள்ள %1$s பின்தொடர்தல் கோரிக்கையை மதிப்பாய்வு செய்யவும்</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">%1$s தயாரிப்புகள்</item>
+        <item quantity="one">%1$s தயாரிப்பு</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">%1$s மற்றும் &lt;b>%2$s பேர்&lt;/b> உறுப்பினர்களாக உள்ளனர்</item>
+        <item quantity="one">%1$s மற்றும் &lt;b>ஒருவர்&lt;/b> உறுப்பினர்களாக உள்ளனர்</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s மற்றும் &lt;b>%3$s பேர்&lt;/b> உறுப்பினர்களாக உள்ளனர்</item>
+        <item quantity="one">%1$s, %2$s மற்றும் &lt;b>ஒருவர்&lt;/b> are members</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s மற்றும் &lt;b>%4$s பேர்&lt;/b> உறுப்பினர்களாக உள்ளனர்</item>
+        <item quantity="one">%1$s, %2$s, %3$s மற்றும் &lt;b>ஒருவர்&lt;/b> உறுப்பினர்களாக உள்ளனர்</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">&lt;b> %1$s நண்பர்கள்&lt;/b> டெம்ப்ளேட் பயன்படுத்தியுள்ளனர்</item>
+        <item quantity="one">&lt;b>1 நண்பர்&lt;/b> டெம்ப்ளேட் பயன்படுத்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">&lt;b>%1$s பேர்&lt;/b> டெம்ப்ளேட்டைப் பயன்படுத்தியுள்ளனர்</item>
+        <item quantity="one">&lt;b>1 நபர்&lt;/b> டெம்ப்ளேட்டைப் பயன்படுத்தியுள்ளார்</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">செயல்பாட்டில் %1$d ஆதரவாளர்கள் அறிவிப்பைப் பெறுவார்கள்</item>
+        <item quantity="one">செயல்பாட்டில் 1 ஆதரவாளர் அறிவிப்பைப் பெறுவார்</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d பார்வைகள்</item>
+        <item quantity="one">1 பார்வை</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">%1$d கருத்துகள் நீக்கப்பட்டன.</item>
+        <item quantity="one">கருத்து நீக்கப்பட்டது.</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$sநாட்கள்</item>
+        <item quantity="one">%1$s நாள்</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">%1$s நாட்களுக்கு முன்பு</item>
+        <item quantity="one">%1$s நாள் முன்பு</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s மணிநேரம்</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">%1$s மணிநேரம் முன்பு</item>
+        <item quantity="one">%1$s மணிநேரம்</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s நிமிடங்கள்</item>
+        <item quantity="one">%1$s நிமிடம்</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">%1$s நிமிடங்களுக்கு முன்பு</item>
+        <item quantity="one">%1$s நிமிடம் முன்பு</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d பேர்</item>
+        <item quantity="one">1 பயனர்</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s வினாடிகள்</item>
+        <item quantity="one">%1$s வினாடி</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">%1$s நொடிகளுக்கு முன்பு</item>
+        <item quantity="one">%1$s நொடி முன்பு</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s வாரங்கள்</item>
+        <item quantity="one">%1$s வாரம்</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">%1$s வாரங்களுக்கு முன்பு</item>
+        <item quantity="one">%1$s வாரம் முன்பு</item>
+    </plurals>
+</resources>

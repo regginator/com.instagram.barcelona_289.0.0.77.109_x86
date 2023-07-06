@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/igds_highlight_background" />
+    <corners android:radius="@dimen/abc_action_bar_elevation_material" />
+    <padding android:left="@dimen/abc_button_padding_horizontal_material" android:top="@dimen/abc_action_bar_elevation_material" android:right="@dimen/abc_button_padding_horizontal_material" android:bottom="@dimen/abc_action_bar_elevation_material" />
+</shape>

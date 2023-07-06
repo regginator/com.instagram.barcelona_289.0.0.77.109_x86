@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/transparent_button_pressed" />
+    <item android:state_selected="true" android:drawable="@drawable/transparent_button_pressed" />
+    <item>
+        <shape>
+            <solid android:color="@color/design_dark_default_color_on_background" />
+            <corners android:radius="@dimen/abc_action_bar_elevation_material" />
+        </shape>
+    </item>
+</selector>

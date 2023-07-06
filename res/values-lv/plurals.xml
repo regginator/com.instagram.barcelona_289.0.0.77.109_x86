@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s ir %2$d vienumi, %3$s, %4$s</item>
+        <item quantity="zero">%1$s ir %2$d vienumu, %3$s, %4$s</item>
+        <item quantity="one">%1$s ir %2$d vienums, %3$s, %4$s</item>
+    </plurals>
+</resources>

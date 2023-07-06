@@ -1,0 +1,273 @@
+{
+  "media_or_ad": {
+    "taken_at": 1604608389,
+    "pk": 2435954186836506000,
+    "id": "ad_with_clips_video_deeplink",
+    "device_timestamp": 1604608389,
+    "media_type": 1,
+    "code": "CHOP207g_Xh",
+    "client_cache_key": "MjQzNTk1NDE4NjgzNjUwNjA4MQ==.2",
+    "filter_type": 0,
+    "is_unified_video": false,
+    "user": {
+      "pk": 90010190609115,
+      "username": "ig.ny.me",
+      "full_name": "",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+      "profile_pic_id": "profile",
+      "friendship_status": {
+        "following": false,
+        "outgoing_request": false,
+        "is_muting_reel": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": false,
+      "follow_friction_type": 0,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "latest_reel_media": 0,
+      "account_badges": [],
+      "story_reel_media_ids": []
+    },
+    "caption_is_edited": false,
+    "like_and_view_counts_disabled": false,
+    "liker_config": {
+      "is_daisy": false,
+      "hide_view_count": false,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 4,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false,
+      "is_in_daisy_controls": true
+    },
+    "is_commercial": true,
+    "fundraiser_tag": {
+      "has_standalone_fundraiser": false
+    },
+    "is_paid_partnership": false,
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": false,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 0,
+    "hide_view_all_comment_entrypoint": false,
+    "image_versions2": {
+      "candidates": [
+        {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+          "scans_profile": "e15",
+          "estimated_scans_sizes": [
+            24779,
+            49558,
+            74338,
+            99117,
+            123896,
+            223014,
+            223014,
+            223014,
+            223014
+          ]
+        },
+        {
+          "width": 360,
+          "height": 360,
+          "url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+          "scans_profile": "e15",
+          "estimated_scans_sizes": [
+            3731,
+            7463,
+            11194,
+            14926,
+            18657,
+            33584,
+            33584,
+            33584,
+            33584
+          ]
+        }
+      ]
+    },
+    "original_width": 1080,
+    "original_height": 1080,
+    "like_count": 0,
+    "has_liked": false,
+    "top_likers": [],
+    "likers": [],
+    "photo_of_you": false,
+    "can_see_insights_as_brand": false,
+    "caption": {
+      "pk": 17866659281078788,
+      "user_id": 90010190609115,
+      "text": "primary text",
+      "type": 1,
+      "created_at": 1604608390,
+      "created_at_utc": 1604608390,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 90010190609115,
+        "username": "ig.ny.me",
+        "full_name": "",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "profile",
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_muting_reel": false,
+          "is_bestie": false,
+          "is_restricted": false
+        },
+        "is_verified": false,
+        "follow_friction_type": 0,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": 0,
+        "account_badges": [],
+        "story_reel_media_ids": []
+      },
+      "is_covered": false,
+      "media_id": 2435954186836506000,
+      "private_reply_status": 0,
+      "hide_username": false
+    },
+    "injected": {
+      "label": "Sponsored (FB only)",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AQIf9dhuq2c-97CbZwRSK_weqh1WMTilQZAoPn7B1PUVyQhlDTYeS5MNv8WnMBvS1gFhHrh-ZFkqlyB-TtlfaaZ2bgSHbY1WzP7dDdMDxVGPe46EAxiGTUtlL2AgDQY3CSLUkWMS_qnqwvZ2snbztzNSjCzjVyZJcvZBMQWK1iZIURMSq5_PgsBT2gbSMnslprw-_nNFQmABKno4JVEL_osyt8YkSfAO5AMAAZDbnuB4MXYshc8Xa1CM4lWeupCAcwaEXAy5tDzzpEw6S8Ey_MkcaYdpy3-nHc1MDNPiQT6JXudFu7hMKkzm7VmM7c7vYsb1atKOLPuEZ_Nu_hi3Xn4OGEUbm2q06iSxAWlWuVLbNkYWxZxVZwxQr1tiyOtKfaobbz8h-_VRoqXguhVdaOzlz1Z5z-rZBRTv6eFe-oIs4_uqS-kaaJvZ7pRRk5J2gWPSI8wMt5at2PClEje_IkWCh37XSqEPT39auGNOxLEzoI4rfKY_Fb-QszC9oOV2FFUrmIQrKAeArU4qsxpz-cCUc_NCS9NDsW38UuAbjWaMSdg3XcN5hVpuPCRWlMMScKE8AWfyaCAVeQMoGxalLSDSvHEchlOyD-Yvjta7CH_lrfRV0wXWyRenqpXfdh6C1kd_JoLPZ--WX_z4eK8vZgLnN_S5f0YyWwdupa3mgf4WpAMoKmuFs2OtQBubAI8zdNoAxWvDQFysuZOR7WbVUyecl1Pc-3B9Ycgdzo7zxQbOzucqM8gI6A0tHeBp5HAd7BcImzxYubwUvMZwSw7Ex8ZwWFPMX2RminMNLzfGfkpODT9KB_ApSvE8Ut25QyuLVfOK1mJ0FDcprvDwUAlxUnsXi_V4JnbhX_iITgYOA_ld_d8Jw9hW-wu1p_3LREczLn3HUI4uaoL6ZgrF8r_eiH6OVv8kNg_mblbSLqg-HLalKAgT0pLOnc3CebPRnvCHmWxcM8BpuKdwDH1ebJ6bIzAWIxG-nsahQi-cVvxb110thSRzhH2Jy_U8OXXTJ5IGUOTEcQOlfr3x8TMVKeD-6y7to8SDZft3wtCVLo2BPZOvcMinh8tevvY0IPy1G_l4nK7Pysq2vb8aXmBJp_q1zFtWgx62GqnxlD40YOJZULmoD0C1K2XCH2CpnFr5knhvPPkzXXhObQWF7LaKCYS236jX1JDnISXwH3ZWCOh1p3KttMQLtawtgqKvqVT04iI0fre_clsPpFm_6uKFBPhUoO7hDzqTRc0w4cDxPpqHfVIoWYS_g7wt5I2znw0owFsgFqjXs2Uev0ea5Tw2hq-BoYxTdOTmqWdjUwndU3LZSUaPv5HNuoywsUQ3xeIyDJ2kCAQhKrGYodTpaVcTQcF_kwIcUi7oHphmokLCOtxgh24v0M5EVSBuYbm8vDfI4pCKZHk7p4TUq8n7uTX7gBCd4nE2jCk6Ci0g7J-l8RK-i5bH2CleHBty-CjfYHFhIdLE6mdXoc2KZhku1ah-jIoELB3aYksWydOdG08STxtiY1uzVTkLy8gfc5ebE4OsHaF8W5L5z3-M_JhK9w3Eemcb0N7x-bm6hYntv0dtjF6Q6bsHyAXKGQS5bZFPUGTumqJHUC1L0uqkSQhEFZxq7tfU9RXAveJ2sIY_t8dpZYMwv6xKlR0l30RJRM5ejmYsLDa-slJg2MamnJuBvQA2xHBQbtIm_dAUa8v4FW_mb7UlrfxFBkiIJlZusgTx0TmLbVCPI1_-Ldnlg4VHV74N2klpaX_1ZL3F25l3KShtjM5TaVO9uxYxZuR1tIuylfLaXoHOUYZ70R8ohVtKKuV_EBmyq0S-wAGgiDQ_lxZk5FX86wgvE_SeAOOm4XFeayaTrpOQsVwhDKBZtuSgzhIkuZlm9aaZOUN5_sCodQTCVThTmvv6hXvYDOnoCFShpxVNqZBpJZitlPiJoSqibEGYh4rWNAVtKQ-6U3DYK_Zy6e6_6J4u7K_NJfaIu_HV98Vm6mnu3H59K00VAiO58tjNoXKibbRZY22d85LhLxPQm9c088pZpyLG-JbHjhylDAfxc_bfo9taMmUZQXvL6aYYqTk7sw5xoIRFgzm8TKlgz9MWZj3S00wB7nVm02I4bNhuIm7zamTvvDMr0sJKfaZVM5m5oBmHwb7sWewn1Z1A7ohRwcI0oLfrRNEWV_KGK-W1aJyJf7F5X-KAtjCYWK_QO44076BH3O5QyRSjPuQMLCl5H4UFQnrb0BUyUWx3aFj8-WLsTIuXjKCQDVV0zULT-jfdZkeFJgzW0vttDc0v2nF2_LcrNoCtihOZ1DLcI_DSKDqj6x1RiDMTOkI_iAEelb0E-jc18iUxK_V-wmGbYlBJL-GVJpArd7ytd3awfJ6LicV465WMTdaP-iUswUBzehwOGz3cKYEfpx6hiSRBag6AR1pb4pIxt-fsKhNbwawVRmn6NO5-vzChoJERfL8WCQlJbvt5WrccHa6LNqKxlK2cipmClRnnHlKacQMyORUAo7mWnE6iauALIolyfhzC5_vr5vD5oMwPJMKVdLWzcrIktSoisYETLIHhUFCTGR-sY5rFAyNOL_iLOzGkF6ZOADBn9aDirzf5O3Dj_3XT7jhAQ1NQTOQ4yuxIis7IcRwzZ0NWfDpIPFgb51PLfLNTnp3-LWyb0hI0GA4_Lr6duQjLvM1xPR0B2qQxG0HSps7ou8DDobG9_FLpYpLg0vYtOTKcsFScXl1RFJ4n90juC4Fx6zfTqy0E4jiS1GJw7Ofq0EVwk5txyC-ewYphPt4eYKCQShpdTLpTwXLoDofJyGsX0Q0l20TkcZnug8GnUeJTOCM2tNWfaMPpxs5J1t0wSHvDxqeu2PpwWjp8y_sq7H7JOI65kUaGkilULUvpzhRAei3BvQFXojlkv8TNS4Zg6oRPKMerrcJnCffS6p_nFEr7m7lbUhla8PZu4LBntU1IHVWsjaM1WjjuT2lMLWDjKS_zGz_GUbT-MsNEcHeu_4NqoWxBUtLQxFtQM-6LWNchfmX-MVMbG-frZmBWMoT0TtlmcyPgRWjUMNKFmD4HmLiWNVghvbFwEF7dtItXO2-3N9ymYa9Nobnk5juvw3FVXky2yq5eCnqz2kR3e-0FToV-OzlQDStUUx-SQgaX16mKuUiscZQU9pQmkGiIErSM7nkNpBvt7xGZBLBqFq8Z02VFJ9fIX1QWVCwMcdpB6JAkN0sTCLtf_vOudVlAepSpIiJmme57",
+      "show_ad_choices": false,
+      "ad_title": "[FB Test Page] IGBV Media & Entertainment Ads",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 23846985496350336,
+      "display_viewability_eligible": true,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": null,
+            "serializedImpOrganicScoreMap": null
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "should_show_secondary_cta_on_profile": false,
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=12KEB0w2L3DIM5XNu.AWV6zBKJHtmQO0Rlqn-tJInXlGc.Bgy1hx..AAA.0.0.Bgy1hx.AWWDG166pM0; expires=Wed, 15 Sep 2021 14:13:05 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ],
+      "ctd_ads_info": {
+        "business_responsiveness_time_text": null,
+        "welcome_message_text": null,
+        "business_response_time_in_sec": null
+      },
+      "cop_render_output": null
+    },
+    "collapse_comments": false,
+    "ad_metadata": [
+      {
+        "value": "Go to Website",
+        "type": 1
+      }
+    ],
+    "link": "https://www.instagram.com/reel/CHD5WLcDkyH/",
+    "link_text": "Learn More",
+    "ad_action": "deeplink",
+    "link_hint_text": "Tap Photo to Open Page",
+    "iTunesItem": null,
+    "ad_link_type": 1,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "android_links": [
+      {
+        "linkType": 23,
+        "webUri": "",
+        "androidClass": "",
+        "package": "",
+        "deeplinkUri": "instagram://reels_share/?shortcode=CHD5WLcDkyH",
+        "callToActionTitle": "",
+        "redirectUri": null,
+        "leadGenFormId": null,
+        "igUserId": null,
+        "appInstallObjectiveInvalidationBehavior": null
+      }
+    ],
+    "force_overlay": true,
+    "hide_nux_text": true,
+    "overlay_text": "Go to Website",
+    "overlay_title": "[FB Test Page] IGBV Media & Entertainment Ads",
+    "overlay_subtitle": "Go to Website",
+    "dominant_color": "#374F73",
+    "follower_count": 115,
+    "post_count": 56,
+    "fb_page_url": "https://www.facebook.com/FB-Test-Page-IGBV-Media-Entertainment-Ads-585949458755624/",
+    "can_viewer_save": true,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMmY0ODU1ZTIxZDgwNDgwYTliZmMyYWQwYzM3YjI1MzAyNDM1OTU0MTg2ODM2NTA2MDgxIiwic2VydmVyX3Rva2VuIjoiMTYyMzkzOTE4NjQ2NXwyNDM1OTU0MTg2ODM2NTA2MDgxfDI5NzcyMjg1NXw0ZTJjN2UwYzU4NmU3ZjU3MDYwYjIxY2NkZGQwZGZhMTU3NDdkNzllYmY1YTBkZjk2NTgzZmZkNjYwYjY2ZWUzIn0sInNpZ25hdHVyZSI6IiJ9",
+    "expiring_at": 1624025586,
+    "preview": "ACoq58HFBApvSrtvZ7/mk+UHkD1H9KTlbcajfYp8dMVIMMAMDg5yR19uO1bUMMbDairlR1IznPT3+tJ5ETDou7vtOOn9fpWXPd6pmnI1sYbxnJIx64Hp7eopnFacsO07T2+ZT7H/ADhhWUeDWq2TWzM3+JdijDyIp6MRn8q6JjkAjpwGA7jp0/pXOMrJhh1XH5itVHWRPNh49QPfqD/T1rCa1TexrHXTqWSFgO5QVwenrn0POcenFVyVQkrgjGcHsCefwqQndF82MDH4e9VnkWNSMZbA3DOT7fQd6z3/AOAa7bvrrfsQXr8qw7gj8M9R7VQwDSyymRuecfkPYewqEtXTFNJI55NNtlxTJKfl4UevOfy/pS4aI70O09+4P1/+vSLwvFRsa0aT3M72JHvJm4+UD/ZA/OoCXfrxnqe9IOaU1KilsNybE2gUmBS0lWSf/9k=",
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "product_type": "ad",
+    "is_in_profile_grid": false,
+    "profile_grid_control_enabled": false,
+    "deleted_reason": 0,
+    "integrity_review_decision": "pending",
+    "inventory_source": "media_or_ad",
+    "is_seen": true,
+    "is_eof": false
+  }
+}

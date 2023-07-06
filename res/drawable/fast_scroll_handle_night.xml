@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:topLeftRadius="@dimen/add_hashtags_notice_padding_horizontal" android:topRightRadius="@dimen/add_hashtags_notice_padding_horizontal" android:bottomLeftRadius="@dimen/add_hashtags_notice_padding_horizontal" android:bottomRightRadius="@dimen/add_hashtags_notice_padding_horizontal" />
+    <solid android:color="@color/grey_9" />
+    <size android:height="30.0dip" />
+</shape>

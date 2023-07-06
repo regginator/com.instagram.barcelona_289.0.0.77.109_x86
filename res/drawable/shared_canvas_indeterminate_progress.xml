@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="ring" android:useLevel="false" android:innerRadius="@dimen/asset_picker_section_title_horizontal_padding" android:thickness="@dimen/audition_audio_item_selected_stroke_border_width">
+            <solid android:color="@color/cds_white_a20" />
+            <size android:height="@dimen/container_dense_height_row_redesign" android:width="@dimen/container_dense_height_row_redesign" />
+        </shape>
+    </item>
+    <item>
+        <rotate android:fromDegrees="0.0" android:toDegrees="1080.0" android:pivotX="50.0%" android:pivotY="50.0%">
+            <shape android:shape="ring" android:useLevel="false" android:innerRadius="@dimen/asset_picker_section_title_horizontal_padding" android:thickness="@dimen/audition_audio_item_selected_stroke_border_width">
+                <gradient android:startColor="@color/fds_transparent" android:endColor="@color/design_dark_default_color_on_background" android:angle="0.0" android:type="sweep" />
+                <size android:height="@dimen/container_dense_height_row_redesign" android:width="@dimen/container_dense_height_row_redesign" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

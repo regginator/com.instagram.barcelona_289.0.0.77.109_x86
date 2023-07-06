@@ -1,0 +1,8 @@
+package p000X;
+/* renamed from: X.3Lk  reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes2.dex */
+public final class C66133Lk {
+    public static C29501Ul parseFromJson(KJP kjp) {
+        return (C29501Ul) C25920wp.A0f(kjp, 68);
+    }
+}

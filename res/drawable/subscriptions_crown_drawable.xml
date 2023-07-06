@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/clips_gradient_redesign_color_4" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/subscriptions_crown_drawable__app_bitmap_0" android:left="10.0dip" android:top="10.0dip" android:right="10.0dip" android:bottom="10.0dip" />
+</layer-list>

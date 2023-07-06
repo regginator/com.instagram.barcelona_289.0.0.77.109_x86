@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <gradient android:startColor="@color/igds_creation_tools_yellow" android:endColor="@color/igds_creation_tools_pink" android:angle="45.0" android:type="linear" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <stroke android:width="2.0dip" android:color="@color/fds_transparent" />
+            <solid android:color="@color/direct_widget_primary_background" />
+        </shape>
+    </item>
+</layer-list>

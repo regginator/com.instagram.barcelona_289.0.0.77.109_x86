@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:width="@dimen/abc_control_corner_material" />
+    <solid android:color="@color/igds_status_pill_ripple" />
+    <corners android:radius="@dimen/account_recs_header_image_margin" />
+    <padding android:left="@dimen/abc_action_bar_subtitle_top_margin_material" android:top="@dimen/fundraiser_sticker_currency_amount_selector_standalone_cursor_top_padding" android:bottom="@dimen/clips_editor_v3_timeline_transition_selector_margin_negative" />
+</shape>

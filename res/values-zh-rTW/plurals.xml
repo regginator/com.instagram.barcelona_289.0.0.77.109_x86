@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">瀏覽者向上滑動即可前往此連結。你只能新增一個向上滑動連結。</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">已新增提及。</item>
+    </plurals>
+    <plurals name="alt_text_popup_description">
+        <item quantity="other">為視障人士描述你的相片。</item>
+    </plurals>
+    <plurals name="anonymous_comments_message">
+        <item quantity="other">查看{original_post}的%1$d則留言。</item>
+    </plurals>
+    <plurals name="anonymous_likers_message">
+        <item quantity="other">查看{original_post}的%1$d個讚。</item>
+    </plurals>
+    <plurals name="appended_poll_vote_count_label_on_feed">
+        <item quantity="other">%1$s筆票選結果</item>
+    </plurals>
+    <plurals name="appreciation_funding_a11y_star_balance">
+        <item quantity="other">你的餘額為%1$d顆星</item>
+    </plurals>
+    <plurals name="appreciation_gifting_a11y_balance">
+        <item quantity="other">餘額：%1$d顆星星</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_body">
+        <item quantity="other">你選擇了%1$d則留言。如果你批准回覆，原始留言也會獲得批准。</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_primary_button">
+        <item quantity="other">批准留言</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_title">
+        <item quantity="other">要批准%1$d則留言嗎？</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">%1$d人</item>
+    </plurals>
+    <plurals name="average_time_spent_hours">
+        <item quantity="other">%1$d小時</item>
+    </plurals>
+    <plurals name="average_time_spent_minutes">
+        <item quantity="other">%1$d分鐘</item>
+    </plurals>
+    <plurals name="barcelona_expand_replies">
+        <item quantity="other">%1$s則回覆</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_follower_tab_count">
+        <item quantity="other">%1$s位粉絲</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_following_tab_count">
+        <item quantity="other">%1$s人追蹤中</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_pending_tab_count">
+        <item quantity="other">%1$s人待追蹤 • 這些帳號加入%2$s後，你就會開始追蹤他們。%3$s</item>
+    </plurals>
+    <plurals name="barcelona_onboarding_following_screen__pending_tab_subtitle">
+        <item quantity="other">這些%1$s帳號尚未加入%2$s或須批准你的追蹤要求。</item>
+    </plurals>
+    <plurals name="barcelona_post_like_count">
+        <item quantity="other">%1$s個讚</item>
+    </plurals>
+    <plurals name="barcelona_profile_follower_count">
+        <item quantity="other">%1$s位粉絲</item>
+    </plurals>
+    <plurals name="barcelona_search_follower_count">
+        <item quantity="other">%1$s位粉絲</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">目前無法確認你的追蹤要求，請稍後再試。</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">目前無法刪除你的追蹤要求，請稍後再試。</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">你提出要追蹤這些用戶的要求處理失敗，請稍後再試。</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">你提出要移除這些追蹤者的要求處理失敗，請稍後再試。</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">已移除%1$s位追蹤者</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">%1$d個要求</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s人</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_body">
+        <item quantity="other">你選擇了%1$d個帳號。他們將無法在 Instagram 找到你的個人檔案、貼文或限時動態。</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_primary_button">
+        <item quantity="other">封鎖帳號</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_title">
+        <item quantity="other">要封鎖%1$d個帳號嗎？</item>
+    </plurals>
+    <plurals name="blocked_story_photos_delete_button_text">
+        <item quantity="other">刪除%1$d張相片</item>
+    </plurals>
+    <plurals name="blocked_story_videos_delete_button_text">
+        <item quantity="other">刪除%1$d段影片</item>
+    </plurals>
+    <plurals name="bonuses_tagging_reels_welcome_bonus_reels_left">
+        <item quantity="other">還可再將%1$d段連續短片計入此獎金計畫</item>
+    </plurals>
+    <plurals name="bulk_block_confirmation_toast">
+        <item quantity="other">已封鎖帳號</item>
+    </plurals>
+    <plurals name="bulk_restrict_confirmation_toast">
+        <item quantity="other">已限制帳號</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">%1$d年前......</item>
+    </plurals>
+    <plurals name="cart_sold_out_and_unavailable_items_status_message">
+        <item quantity="other">你的購物車有%1$d項商品已無法購買。</item>
+    </plurals>
+    <plurals name="chat_badge">
+        <item quantity="other">%1$d個聊天室</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">%1$s位成員</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d則回覆</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">%1$d位 Facebook 摯友</item>
+    </plurals>
+    <plurals name="comment_badge">
+        <item quantity="other">%1$d則留言</item>
+    </plurals>
+    <plurals name="comment_count_label_on_feed">
+        <item quantity="other">%1$s則留言</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">%1$s和&lt;b>另外%2$s人&lt;/b>都留言回應</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">%1$s和其他人都留言回應</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s、%2$s、%3$s和&lt;b>另外%4$s人&lt;/b>都留言回應</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">%1$s、%2$s、%3$s和其他人都留言回應</item>
+    </plurals>
+    <plurals name="comments_from_facebook_title">
+        <item quantity="other">查看%1$d則 Facebook 留言</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">確認%1$s則追蹤要求？</item>
+    </plurals>
+    <plurals name="connect_page_num_like">
+        <item quantity="other">%1$d個讚</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">天</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">小時</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">分鐘</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">個月</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">秒</item>
+    </plurals>
+    <plurals name="custom_comment_filter_upsell_toast_message">
+        <item quantity="other">已新增%1$d個項目到你的隱藏字詞清單。</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_message">
+        <item quantity="other">你將無法再觀看這些影片。</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_title">
+        <item quantity="other">刪除%1$d段影片？</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">刪除%1$s則追蹤要求？</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">若切換為公開帳號，這些要求都不會予以核准。</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">刪除追蹤要求？</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">他們將看到此對話先前的所有訊息。</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message_without_all">
+        <item quantity="other">他們將看到此對話先前的訊息。</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_hours_ago">
+        <item quantity="other">%1$d小時前在線上</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_mins_ago">
+        <item quantity="other">%1$d分鐘前在線上</item>
+    </plurals>
+    <plurals name="direct_faq_import_bottom_button_footer">
+        <item quantity="other">選擇最多%1$d個問題</item>
+    </plurals>
+    <plurals name="direct_faq_import_max_limit_reached_message">
+        <item quantity="other">最多只能匯入%1$d個問題</item>
+    </plurals>
+    <plurals name="direct_max_recipients_in_chat_reached_body">
+        <item quantity="other">聊天室成員人數上限為%1$s人。請將用戶人數限制為%1$s人（包括你自己），以完成建立聊天室。</item>
+    </plurals>
+    <plurals name="direct_max_recipients_reached_body">
+        <item quantity="other">群組成員人數上限為%1$s人。請將用戶人數限制為%1$s人（包括你自己），以完成建立群組。</item>
+    </plurals>
+    <plurals name="direct_media_composer_send_button_description">
+        <item quantity="other">傳送%1$s張／段</item>
+    </plurals>
+    <plurals name="direct_welcome_message_edit_character_limit_reached_error">
+        <item quantity="other">歡迎訊息僅限%1$d個字元。</item>
+    </plurals>
+    <plurals name="discard_x_drafts">
+        <item quantity="other">捨棄%1$d份草稿？</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">&lt;b>%2$s位朋友&lt;/b>使用%1$s</item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">&lt;b>%2$s位用戶&lt;/b>使用%1$s</item>
+    </plurals>
+    <plurals name="fan_club_content_preview_settings_detail">
+        <item quantity="other">%1$d則貼文</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">查看%1$d位訂閱者</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_subtitle">
+        <item quantity="other">「訂閱」按鈕現在已顯示在你的個人檔案上。粉絲會自動在%1$d天內收到你的訂閱通知。</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_title">
+        <item quantity="other">你的粉絲會在%1$d天內收到通知</item>
+    </plurals>
+    <plurals name="fb_page_num_like_label">
+        <item quantity="other">%1$s個讚</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s擁有%2$d項商品，%3$s，%4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">追蹤已追蹤你的%1$s位用戶？</item>
+    </plurals>
+    <plurals name="follow_badge">
+        <item quantity="other">%1$d人在追蹤</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$d人在追蹤</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">%1$s人追蹤</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">%1$s和&lt;font face=sans-serif-medium>另外%2$s人&lt;/font>都在追蹤</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">%1$s和另外%2$s人都在追蹤</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">%1$s、%2$s和&lt;font face=sans-serif-medium>另外%3$s人&lt;/font>都在追蹤</item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s、%2$s、%3$s和&lt;font face=sans-serif-medium>另外%4$s人&lt;/font>都在追蹤</item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">%1$s位粉絲</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos">
+        <item quantity="other">%1$d張相片</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos_one_video">
+        <item quantity="other">%1$d張相片和 1 段影片</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_videos">
+        <item quantity="other">%1$d段影片</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_one_photo_n_videos">
+        <item quantity="other">1 張相片和%1$d段影片</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_months_ago">
+        <item quantity="other">%1$d個月前</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_weeks_ago">
+        <item quantity="other">%1$d週前</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_years_ago">
+        <item quantity="other">%1$d年前</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_day">
+        <item quantity="other">%1$d天</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_minute">
+        <item quantity="other">%1$d分鐘</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_month">
+        <item quantity="other">%1$d個月</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_week">
+        <item quantity="other">%1$d週</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_year">
+        <item quantity="other">%1$d年</item>
+    </plurals>
+    <plurals name="granted_extension_time_hours">
+        <item quantity="other">再%1$d小時</item>
+    </plurals>
+    <plurals name="granted_extension_time_minutes">
+        <item quantity="other">再%1$d分鐘</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">%2$s的%1$d張相片和 1 段影片，第%3$d橫列、第%4$d直欄</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">%2$s的 1 張相片和%1$d段影片，第%3$d橫列、第%4$d直欄</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">%1$d位訂閱者</item>
+    </plurals>
+    <plurals name="guide_detail_text_accounts">
+        <item quantity="other">%1$s個帳號</item>
+    </plurals>
+    <plurals name="guide_detail_text_locations">
+        <item quantity="other">%1$s個地標</item>
+    </plurals>
+    <plurals name="guide_detail_text_media">
+        <item quantity="other">%1$s則貼文</item>
+    </plurals>
+    <plurals name="guide_detail_text_products">
+        <item quantity="other">%1$s項商品</item>
+    </plurals>
+    <plurals name="guide_drafts_count">
+        <item quantity="other">%1$s則導覽草稿</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_attempts_left_error">
+        <item quantity="other">在 PIN 碼永久失效前，你還可以再嘗試輸入%1$d次 PIN 碼。</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_hours_popup_title_text">
+        <item quantity="other">%1$d小時</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_minutes_popup_title_text">
+        <item quantity="other">%1$d分鐘</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_seconds_popup_title_text">
+        <item quantity="other">%1$d秒</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">系統預設會限制博奕和約會交友等%1$s的廣告。你最多可另外選擇%2$d種廣告類別，避免該類別顯示在你的連續短片中。</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s、%2$s、%3$s、%4$s、%5$s和另外%6$d個帳號</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s、%2$s、%3$s、%4$s、%5$s和另外%6$d個類別</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">系統預設會限制博奕和約會交友等%1$s的廣告。你最多可另外選擇%2$d種廣告類別，避免該類別顯示在你個人檔案的動態消息中。</item>
+    </plurals>
+    <plurals name="iglive_audience_mode_close_friends_edit_option_close_friends_added">
+        <item quantity="other">%1$d人</item>
+    </plurals>
+    <plurals name="iglive_presence_text">
+        <item quantity="other">%1$d位粉絲目前在線上</item>
+    </plurals>
+    <plurals name="igtv_series_episode">
+        <item quantity="other">%1$s集</item>
+    </plurals>
+    <plurals name="igtv_video_minute_duration_description">
+        <item quantity="other">%1$s分%2$s秒</item>
+    </plurals>
+    <plurals name="igtv_video_seconds_duration_description_one_min">
+        <item quantity="other">1 分%1$s秒</item>
+    </plurals>
+    <plurals name="lead_gen_available_forms_number_of_custom_questions">
+        <item quantity="other">%1$d個問題</item>
+    </plurals>
+    <plurals name="lead_gen_form_num_questions">
+        <item quantity="other">%1$d個問題</item>
+    </plurals>
+    <plurals name="like_badge">
+        <item quantity="other">%1$d個讚</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d個讚</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">%1$s和&lt;font face=sans-serif-medium>另外%2$s人&lt;/font>說讚</item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">%1$s、%2$s和&lt;font face=sans-serif-medium>另外%3$s人&lt;/font>說讚</item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s、%2$s、%3$s和&lt;font face=sans-serif-medium>另外%4$s人&lt;/font>說讚</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_day">
+        <item quantity="other">%1$d天</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_week">
+        <item quantity="other">%1$d週</item>
+    </plurals>
+    <plurals name="live_question_like_count">
+        <item quantity="other">%1$d個讚</item>
+    </plurals>
+    <plurals name="live_streak_subtitle_post_live_streak_increased">
+        <item quantity="other">你已連續直播%1$d週！看看自己還可再連續直播幾週。</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">%1$s和%2$s進行了直播</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">%1$d個徽章</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d個徽章</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">%1$s和其他%2$d人都傳送了加入你直播視訊的要求。</item>
+    </plurals>
+    <plurals name="location_list_title">
+        <item quantity="other">%1$d個地標</item>
+    </plurals>
+    <plurals name="member_count_text">
+        <item quantity="other">%1$s個成員</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">還剩%1$d小時</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">還剩%1$d分鐘</item>
+    </plurals>
+    <plurals name="msys_ds_4xu0wn">
+        <item quantity="other">傳送了%1$d張相片</item>
+    </plurals>
+    <plurals name="msys_ds_Tey2G">
+        <item quantity="other">%1$s傳送了%2$d張相片</item>
+    </plurals>
+    <plurals name="msys_ds_l81ip">
+        <item quantity="other">你傳送了%1$d張相片</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">檢舉與%1$s、%2$s和另外%3$d人的聊天室？</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">你將%1$s和其他%2$d人加入了群組。</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">你已從群組移除%1$s和其他%2$d人。</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">已新增%1$d個%2$s文字特效%3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">你已變更%1$d個文字特效。</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">%1$s已變更%2$d個文字特效。</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">你已設定%1$d個文字特效%2$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">%1$s已設定%2$d個文字特效%3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">你已移除%1$d個文字特效。</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">%1$s已移除%2$d個文字特效。</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d天</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d小時</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d分鐘</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d秒</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">%1$s將你和其他%2$d人加入了群組。</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">%1$s將%2$s和其他%3$d人加入了群組。</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">%1$s已從群組移除你和其他%2$d人。</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">%1$s已從群組移除%2$s和其他%3$d人。</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">這些用戶將能看到對話紀錄</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">你和其他%1$d人已被加入群組。</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">%1$s和其他%2$d人已被加入群組。</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">你和其他%1$d人已從群組移除。</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">%1$s和其他%2$d人已從群組移除。</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">你已將%1$d人加入對話</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">你已將%1$s、%2$s和其他%3$d人加入對話</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">你傳送了%1$d張相片。</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">你的相片出現在%1$s的限時動態和其他%2$s則限時動態中。</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">你的影片出現在%1$s的限時動態和其他%2$s則限時動態中。</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">你的相片已新增到%1$s則主題標籤限時動態</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">你的相片已新增到%1$s則地點限時動態</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">你的影片已新增到%1$s則主題標籤限時動態</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">你的影片已新增到%1$s則地點限時動態</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">%2$s建立的&lt;b>%1$s&lt;/b>和其他%3$s個特效</item>
+    </plurals>
+    <plurals name="n_additionalDiscounts">
+        <item quantity="other">另外%1$d項促銷活動</item>
+    </plurals>
+    <plurals name="n_additionalDiscountsOffers">
+        <item quantity="other">其他%1$d項優惠</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">你接收到%1$d位新的潛在顧客。</item>
+    </plurals>
+    <plurals name="new_post_badge">
+        <item quantity="other">新貼文</item>
+    </plurals>
+    <plurals name="notification_badge">
+        <item quantity="other">%1$d則通知</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">%1$d則以上未讀訊息</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d則未讀訊息</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">%1$d個商品精選集</item>
+    </plurals>
+    <plurals name="num_pdp_attributes_discounts_formatted">
+        <item quantity="other">%1$s和%2$s</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">%1$d項商品</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">%1$s則留言</item>
+    </plurals>
+    <plurals name="number_of_comments_with_specific_emoji">
+        <item quantity="other">%1$s則含有%2$s的留言</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">%1$s個讚</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">%1$s次播放</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s則貼文</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">%1$s則公開貼文</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">%1$s個讚和心情</item>
+    </plurals>
+    <plurals name="number_of_reels_in_chain">
+        <item quantity="other">%1$d段連續短片</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">%1$s次分享</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">%1$s位觀看者</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">%1$s次瀏覽</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">%1$d年前的今天。</item>
+    </plurals>
+    <plurals name="on_x_countries">
+        <item quantity="other">開啟（%1$d個國家／地區）</item>
+    </plurals>
+    <plurals name="other_badges">
+        <item quantity="other">其他%1$d個</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">你有%1$d個待審查的廣告。</item>
+    </plurals>
+    <plurals name="people_tagging_x_people_plurals">
+        <item quantity="other">%2$d人</item>
+    </plurals>
+    <plurals name="plays_user_list_title">
+        <item quantity="other">%1$d次播放</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">%1$s位投票者來自推廣活動</item>
+    </plurals>
+    <plurals name="post_live_broadcaster_user_pay_summary_info">
+        <item quantity="other">%2$s人購買了徽章，你可以從中獲得大約%1$s。</item>
+    </plurals>
+    <plurals name="post_live_viewer_count">
+        <item quantity="other">%1$s、%2$s和其他%3$d人都觀看了你的直播視訊。</item>
+    </plurals>
+    <plurals name="post_live_viewer_user_pay_summary_info">
+        <item quantity="other">你購買了%2$d個徽章。%1$s將可查看購買徽章的所有用戶名單。</item>
+    </plurals>
+    <plurals name="product_guide_shop_row_subtitle">
+        <item quantity="other">%1$d項商品</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">有標籤建議</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_facebook_others">
+        <item quantity="other">%1$s和其他%2$d個連結</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_others">
+        <item quantity="other">%1$s和其他%2$d個</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_admins_with_count">
+        <item quantity="other">%1$s位管理員</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_blocked_with_count">
+        <item quantity="other">已封鎖%1$s人</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_members_with_count">
+        <item quantity="other">%1$s位成員</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">&lt;b>%1$s&lt;/b>和&lt;b>另外%2$s人&lt;/b>都在此蓋樓文新增了內容</item>
+    </plurals>
+    <plurals name="quickshare_add_topics_pill_text">
+        <item quantity="other">%1$d個主題</item>
+    </plurals>
+    <plurals name="recipient_picker_close_friends_count">
+        <item quantity="other">%1$s人</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">其他%1$s人在 Facebook 瀏覽了這則限時動態。由於你在 Facebook 上是公開分享，因此不是你朋友的用戶也看過了。</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">Facebook 上的其他%1$s次瀏覽</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">%1$s的票數</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">已有%1$d人回答。這是回答的平均值。</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">&lt;b>%1$s位朋友&lt;/b>混搭</item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">&lt;b>%1$s位用戶&lt;/b>混搭</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_message">
+        <item quantity="other">你即將從精選動態移除%1$d段影片。</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_title">
+        <item quantity="other">從精選動態移除%1$d段影片？</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">移除%1$s位粉絲？</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">%1$d項商品已移除</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_body">
+        <item quantity="other">你選擇了%1$d個帳號。只有你和你限制的用戶可以看到他們對你貼文的新留言。</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_primary_button">
+        <item quantity="other">限制帳號</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_title">
+        <item quantity="other">限制%1$d個帳號？</item>
+    </plurals>
+    <plurals name="rolodex_hour">
+        <item quantity="other">%1$d小時</item>
+    </plurals>
+    <plurals name="rolodex_minute">
+        <item quantity="other">%1$d分鐘</item>
+    </plurals>
+    <plurals name="rolodex_second">
+        <item quantity="other">%1$d秒</item>
+    </plurals>
+    <plurals name="rtc_effects_removed_multipeer_effect_max_participant_exceed">
+        <item quantity="other">佈景主題「%1$s」最多可支援%2$d人。</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">%1$s則珍藏貼文</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">無法新增貼文</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">已新增%2$s則貼文到%1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">無法移動貼文</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">%2$s則貼文已移至%1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">這樣會將貼文由此珍藏分類移至%1$s。貼文仍會儲存在所有珍藏項目中。</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">取消儲存之後，這些貼文也將從所有珍藏分類移除。</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">取消儲存貼文？</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">無法移除貼文</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">已從%1$s移除%2$s則貼文</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">無法取消儲存貼文</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">已取消儲存%1$s則貼文</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">已選%1$d個</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">%1$d項商品</item>
+    </plurals>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">還剩%1$d秒</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">新貼文</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s則新貼文</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_subtitle">
+        <item quantity="other">%1$d段影片在部分國家／地區遭到封鎖。</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_title">
+        <item quantity="other">%1$d段影片在部分國家／地區遭到封鎖</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_subtitle">
+        <item quantity="other">%1$d段影片遭到封鎖</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_title">
+        <item quantity="other">%1$d段影片遭到封鎖</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_subtitle">
+        <item quantity="other">%1$d段影片只能在部分國家／地區播放。</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_title">
+        <item quantity="other">%1$d段影片只能在部分國家／地區播放</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">你一次只能選擇%1$d則留言。</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">除非現在刪除這些追蹤要求，否則所有待批准的追蹤要求都會自動獲得批准。審查%1$s個待批准的追蹤要求。</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">%1$s項商品</item>
+    </plurals>
+    <plurals name="shopping_cart_count_content_description">
+        <item quantity="other">購物車有%1$d項商品</item>
+    </plurals>
+    <plurals name="shopping_cart_num_items">
+        <item quantity="other">%1$d項商品</item>
+    </plurals>
+    <plurals name="shopping_cart_subtotal_title_text">
+        <item quantity="other">小計（%1$d項商品）</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">%1$s和&lt;b>其他%2$s人&lt;/b>都是成員</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">%1$s、%2$s和&lt;b>其他%3$s人&lt;/b>都是成員</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">%1$s、%2$s、%3$s和&lt;b>其他%4$s人&lt;/b>都是成員</item>
+    </plurals>
+    <plurals name="standalone_fundraiser_with_cohost_label">
+        <item quantity="other">&lt;b>%1$s&lt;/b>和&lt;b>%2$s others&lt;/b></item>
+    </plurals>
+    <plurals name="sticker_count_limit">
+        <item quantity="other">每則限時動態最多只能新增此貼圖%1$d次</item>
+    </plurals>
+    <plurals name="story_drafts_confirmation_title">
+        <item quantity="other">刪除草稿？</item>
+    </plurals>
+    <plurals name="subscriptions_shoutout_bottom_sheet_title">
+        <item quantity="other">提及%1$d位訂閱者</item>
+    </plurals>
+    <plurals name="suggested_hidden_words_toast_text">
+        <item quantity="other">已新增%1$d個字詞到隱藏字詞清單</item>
+    </plurals>
+    <plurals name="suggested_products_count">
+        <item quantity="other">%1$d項建議商品</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos">
+        <item quantity="other">上週末的團體照</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos_with_location">
+        <item quantity="other">上個週末在%1$s的團體照</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos">
+        <item quantity="other">今天的團體照</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos_with_location">
+        <item quantity="other">今天在%1$s的團體照</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos">
+        <item quantity="other">昨天的團體照</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos_with_location">
+        <item quantity="other">昨天在%1$s的團體照</item>
+    </plurals>
+    <plurals name="suggestion_your_recent_favorites">
+        <item quantity="other">上週最愛的相片</item>
+    </plurals>
+    <plurals name="tagged_accounts_plural">
+        <item quantity="other">標註的帳號：</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">&lt;b>%1$s位朋友&lt;/b>使用此範本</item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">&lt;b>%1$s位用戶&lt;/b>使用此範本</item>
+    </plurals>
+    <plurals name="thread_title_suffix_n_others">
+        <item quantity="other">......和其他%1$d人</item>
+    </plurals>
+    <plurals name="thread_title_x_and_n_others">
+        <item quantity="other">%1$s和其他%2$d人</item>
+    </plurals>
+    <plurals name="thread_title_x_y_and_n_others">
+        <item quantity="other">%1$s、%2$s和其他%3$s人</item>
+    </plurals>
+    <plurals name="unseen_like_notification">
+        <item quantity="other">你有%1$d個新的讚</item>
+    </plurals>
+    <plurals name="upcoming_event_subtitle_template">
+        <item quantity="other">%1$d項商品 · %2$s</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_list_supporters_title">
+        <item quantity="other">%1$d位支持者</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">%1$d位支持者會在「動態」中收到通知</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notified_supporters_number">
+        <item quantity="other">你最近的直播視訊中有%1$d位購買徽章的支持者會在你分享此限時動態時收到通知。查看</item>
+    </plurals>
+    <plurals name="user_pay_fanclub_all_subscribers_header">
+        <item quantity="other">所有訂閱者（%1$d）</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d次觀看</item>
+    </plurals>
+    <plurals name="view_x_more_replies">
+        <item quantity="other">查看其他%1$d則回覆</item>
+    </plurals>
+    <plurals name="view_x_previous_replies">
+        <item quantity="other">查看之前的%1$d則回覆</item>
+    </plurals>
+    <plurals name="view_x_replies">
+        <item quantity="other">查看其他%1$d則回覆</item>
+    </plurals>
+    <plurals name="voter_count_on_surfaces">
+        <item quantity="other">投票 · %1$s票選結果</item>
+    </plurals>
+    <plurals name="voters_count">
+        <item quantity="other">%1$s票</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">已刪除%1$d則留言。</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$s天</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">%1$s天前</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s小時</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">%1$s小時前</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s分鐘</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">%1$s分鐘前</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d人</item>
+    </plurals>
+    <plurals name="x_reactions">
+        <item quantity="other">%1$s個心情</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s秒</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">%1$s秒前</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">已選擇%1$d則</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">%1$d人回答。</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s週</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">%1$s週前</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/account_item" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/account_group_management_row_text_size" android:textColor="@color/igds_primary_text" android:gravity="center" android:id="@id/account_item_user_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip" android:layout_marginVertical="15.0dip" />
+    <include layout="@layout/appwidget_row_divider" />
+</LinearLayout>

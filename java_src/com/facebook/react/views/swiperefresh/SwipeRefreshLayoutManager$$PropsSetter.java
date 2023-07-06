@@ -1,0 +1,567 @@
+package com.facebook.react.views.swiperefresh;
+
+import android.view.View;
+import ch.boye.httpclientandroidlib.client.utils.Rfc3492Idn;
+import ch.boye.httpclientandroidlib.util.LangUtils;
+import com.facebook.catalyst.modules.cameraroll.CameraRollManager;
+import com.facebook.common.dextricks.JITProfilePQR;
+import com.facebook.react.uimanager.BaseViewManager;
+import com.facebook.react.uimanager.ViewManager;
+import com.facebook.react.uimanager.ViewManagerPropertyUpdater$ViewManagerSetter;
+import com.instagram.debug.devoptions.cam.AnimationSpecKt;
+import com.instagram.debug.devoptions.debughead.linechart.LineChartAxesView;
+import com.instagram.react.modules.base.IgReactQEModule;
+import java.util.Map;
+import p000X.C34901Hvb;
+import p000X.C34902Hvc;
+import p000X.C34903Hvd;
+import p000X.C34904Hve;
+import p000X.C38340K2d;
+import p000X.EnumC35931Iod;
+import p000X.I5I;
+import p097go.Seq;
+/* loaded from: classes7.dex */
+public class SwipeRefreshLayoutManager$$PropsSetter implements ViewManagerPropertyUpdater$ViewManagerSetter {
+    @Override // com.facebook.react.uimanager.ViewManagerPropertyUpdater$Settable
+    public final void B5D(Map map) {
+        map.put("accessibilityActions", "Array");
+        map.put("accessibilityCollection", "Map");
+        map.put("accessibilityCollectionItem", "Map");
+        String A0o = C34901Hvb.A0o(map);
+        String A0r = C34902Hvc.A0r(map);
+        map.put("colors", "ColorArray");
+        map.put("elevation", "number");
+        C34903Hvd.A0z("enabled", "boolean", "String", map);
+        C34901Hvb.A1O("String", map);
+        C34901Hvb.A1K("boolean", "number", map);
+        map.put("progressBackgroundColor", A0r);
+        map.put("progressViewOffset", "number");
+        map.put("refreshing", "boolean");
+        C34901Hvb.A1M("String", "number", map);
+        map.put("shadowColor", A0r);
+        map.put("size", A0o);
+        C34901Hvb.A1G("testID", "String", "number", map);
+        map.put("zIndex", "number");
+    }
+
+    /* JADX WARN: Removed duplicated region for block: B:154:0x01c1  */
+    /* JADX WARN: Removed duplicated region for block: B:156:0x01c9  */
+    /* JADX WARN: Removed duplicated region for block: B:158:0x01cd  */
+    /* JADX WARN: Removed duplicated region for block: B:160:0x01d5  */
+    /* JADX WARN: Removed duplicated region for block: B:162:0x01dd  */
+    /* JADX WARN: Removed duplicated region for block: B:164:0x01e5  */
+    /* JADX WARN: Removed duplicated region for block: B:166:0x01ed  */
+    /* JADX WARN: Removed duplicated region for block: B:168:0x01f5  */
+    /* JADX WARN: Removed duplicated region for block: B:170:0x01fd  */
+    /* JADX WARN: Removed duplicated region for block: B:172:0x0205  */
+    /* JADX WARN: Removed duplicated region for block: B:174:0x020d  */
+    /* JADX WARN: Removed duplicated region for block: B:176:0x0215  */
+    /* JADX WARN: Removed duplicated region for block: B:178:0x021d  */
+    /* JADX WARN: Removed duplicated region for block: B:180:0x0225  */
+    /* JADX WARN: Removed duplicated region for block: B:182:0x022d  */
+    /* JADX WARN: Removed duplicated region for block: B:184:0x0235  */
+    /* JADX WARN: Removed duplicated region for block: B:186:0x023d  */
+    /* JADX WARN: Removed duplicated region for block: B:188:0x0245  */
+    /* JADX WARN: Removed duplicated region for block: B:190:0x024d  */
+    /* JADX WARN: Removed duplicated region for block: B:192:0x0255  */
+    /* JADX WARN: Removed duplicated region for block: B:194:0x025d  */
+    /* JADX WARN: Removed duplicated region for block: B:196:0x0265  */
+    /* JADX WARN: Removed duplicated region for block: B:198:0x026d  */
+    /* JADX WARN: Removed duplicated region for block: B:200:0x0275  */
+    /* JADX WARN: Removed duplicated region for block: B:202:0x027d  */
+    /* JADX WARN: Removed duplicated region for block: B:204:0x0285  */
+    /* JADX WARN: Removed duplicated region for block: B:206:0x028d  */
+    /* JADX WARN: Removed duplicated region for block: B:208:0x0295  */
+    /* JADX WARN: Removed duplicated region for block: B:210:0x029f  */
+    /* JADX WARN: Removed duplicated region for block: B:212:0x02a7  */
+    /* JADX WARN: Removed duplicated region for block: B:214:0x02af  */
+    /* JADX WARN: Removed duplicated region for block: B:225:? A[RETURN, SYNTHETIC] */
+    /* JADX WARN: Removed duplicated region for block: B:70:0x00b8  */
+    /* JADX WARN: Removed duplicated region for block: B:72:0x00c0  */
+    /* JADX WARN: Removed duplicated region for block: B:73:0x00c7  */
+    /* JADX WARN: Removed duplicated region for block: B:74:0x00ce  */
+    /* JADX WARN: Removed duplicated region for block: B:75:0x00d5  */
+    /* JADX WARN: Removed duplicated region for block: B:76:0x00dc  */
+    /* JADX WARN: Removed duplicated region for block: B:77:0x00e3  */
+    /* JADX WARN: Removed duplicated region for block: B:78:0x00ea  */
+    /* JADX WARN: Removed duplicated region for block: B:79:0x00f1  */
+    /* JADX WARN: Removed duplicated region for block: B:80:0x00f8  */
+    /* JADX WARN: Removed duplicated region for block: B:81:0x00ff  */
+    /* JADX WARN: Removed duplicated region for block: B:82:0x0106  */
+    @Override // com.facebook.react.uimanager.ViewManagerPropertyUpdater$ViewManagerSetter
+    /*
+        Code decompiled incorrectly, please refer to instructions dump.
+    */
+    public final /* bridge */ /* synthetic */ void Cp7(View view, ViewManager viewManager, Object obj, String str) {
+        boolean A1Z;
+        EnumC35931Iod enumC35931Iod;
+        char c;
+        SwipeRefreshLayoutManager swipeRefreshLayoutManager = (SwipeRefreshLayoutManager) viewManager;
+        I5I i5i = (I5I) view;
+        switch (str.hashCode()) {
+            case -1898517556:
+                if (!C34904Hve.A1U(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.ENTER_CAPTURE;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case -1721943862:
+                if (!C34903Hvd.A1L(str)) {
+                    return;
+                }
+                c = 4;
+                switch (c) {
+                    case 4:
+                        swipeRefreshLayoutManager.setTranslateX(i5i, C34901Hvb.A02(obj, obj, BaseViewManager.CAMERA_DISTANCE_NORMALIZATION_MULTIPLIER));
+                        return;
+                    case 5:
+                        swipeRefreshLayoutManager.setTranslateY(i5i, C34901Hvb.A02(obj, obj, BaseViewManager.CAMERA_DISTANCE_NORMALIZATION_MULTIPLIER));
+                        return;
+                    case 6:
+                        i5i.setEnabled(C34901Hvb.A1Z(obj, obj, true));
+                        return;
+                    case 7:
+                        swipeRefreshLayoutManager.setShadowColor(i5i, C34901Hvb.A07(i5i, obj, -16777216));
+                        return;
+                    case '\b':
+                        swipeRefreshLayoutManager.setColors(i5i, C34901Hvb.A0Q(obj));
+                        return;
+                    case '\t':
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.CLICK;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case '\n':
+                    case 14:
+                    case 21:
+                    case LangUtils.HASH_OFFSET /* 37 */:
+                    case Rfc3492Idn.skew /* 38 */:
+                    case ',':
+                    case '0':
+                    case '1':
+                    case AnimationSpecKt.IDLE_DURATION /* 50 */:
+                    case '4':
+                    case '5':
+                    case '8':
+                        return;
+                    case 11:
+                        swipeRefreshLayoutManager.setOpacity(i5i, C34901Hvb.A02(obj, obj, 1.0f));
+                        return;
+                    case IgReactQEModule.CONFIG_KEY_OFFSET /* 12 */:
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.OUT_CAPTURE;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case '\r':
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.CLICK_CAPTURE;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case 15:
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.MOVE_CAPTURE;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case 16:
+                        i5i.setScaleX(C34901Hvb.A02(obj, obj, 1.0f));
+                        return;
+                    case LangUtils.HASH_SEED /* 17 */:
+                        i5i.setScaleY(C34901Hvb.A02(obj, obj, 1.0f));
+                        return;
+                    case 18:
+                        swipeRefreshLayoutManager.setProgressBackgroundColor(i5i, C34901Hvb.A0W(i5i, obj));
+                        return;
+                    case 19:
+                        swipeRefreshLayoutManager.setTestId(i5i, C34901Hvb.A0b(obj));
+                        return;
+                    case 20:
+                        swipeRefreshLayoutManager.setZIndex(i5i, C34901Hvb.A02(obj, obj, BaseViewManager.CAMERA_DISTANCE_NORMALIZATION_MULTIPLIER));
+                        return;
+                    case 22:
+                        i5i.setProgressViewOffset(C34901Hvb.A02(obj, obj, BaseViewManager.CAMERA_DISTANCE_NORMALIZATION_MULTIPLIER));
+                        return;
+                    case 23:
+                        i5i.setRefreshing(C34901Hvb.A1Z(obj, obj, false));
+                        return;
+                    case 24:
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.LEAVE_CAPTURE;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case 25:
+                        swipeRefreshLayoutManager.setAccessibilityHint(i5i, C34901Hvb.A0b(obj));
+                        return;
+                    case Rfc3492Idn.tmax /* 26 */:
+                        swipeRefreshLayoutManager.setAccessibilityRole(i5i, C34901Hvb.A0b(obj));
+                        return;
+                    case 27:
+                        swipeRefreshLayoutManager.setRenderToHardwareTexture(i5i, C34901Hvb.A1Z(obj, obj, false));
+                        return;
+                    case 28:
+                        i5i.setRotation(C34901Hvb.A02(obj, obj, BaseViewManager.CAMERA_DISTANCE_NORMALIZATION_MULTIPLIER));
+                        return;
+                    case CameraRollManager.IMAGES_MEDIA_LATITUDE_LONGITUDE_DEPRECATED_API_LEVEL /* 29 */:
+                        swipeRefreshLayoutManager.setElevation(i5i, C34901Hvb.A02(obj, obj, BaseViewManager.CAMERA_DISTANCE_NORMALIZATION_MULTIPLIER));
+                        return;
+                    case 30:
+                        swipeRefreshLayoutManager.setRole(i5i, C34901Hvb.A0b(obj));
+                        return;
+                    case 31:
+                        swipeRefreshLayoutManager.setSize(i5i, C38340K2d.A00(obj));
+                        return;
+                    case ' ':
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.ENTER;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case '!':
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.LEAVE;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case '\"':
+                        swipeRefreshLayoutManager.setAccessibilityLiveRegion(i5i, C34901Hvb.A0b(obj));
+                        return;
+                    case '#':
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.OVER_CAPTURE;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case Rfc3492Idn.base /* 36 */:
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.OUT;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case '\'':
+                        swipeRefreshLayoutManager.setImportantForAccessibility(i5i, C34901Hvb.A0b(obj));
+                        return;
+                    case LineChartAxesView.AXIS_TICK_OFFSET /* 40 */:
+                        swipeRefreshLayoutManager.setTransform(i5i, C34901Hvb.A0Q(obj));
+                        return;
+                    case Seq.NULL_REFNUM /* 41 */:
+                        swipeRefreshLayoutManager.setAccessibilityLabel(i5i, C34901Hvb.A0b(obj));
+                        return;
+                    case Seq.RefTracker.REF_OFFSET /* 42 */:
+                        swipeRefreshLayoutManager.setViewState(i5i, C34901Hvb.A0R(obj));
+                        return;
+                    case '+':
+                        swipeRefreshLayoutManager.setAccessibilityValue(i5i, C34901Hvb.A0R(obj));
+                        return;
+                    case '-':
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.MOVE;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case JITProfilePQR.MEGA_ZIP_NAME_PREFIX_LEN /* 46 */:
+                        A1Z = C34901Hvb.A1Z(obj, obj, false);
+                        enumC35931Iod = EnumC35931Iod.OVER;
+                        BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                        return;
+                    case '/':
+                        swipeRefreshLayoutManager.setBackgroundColor(i5i, C34901Hvb.A07(i5i, obj, 0));
+                        return;
+                    case '3':
+                        swipeRefreshLayoutManager.setAccessibilityActions(i5i, C34901Hvb.A0Q(obj));
+                        return;
+                    case '6':
+                        swipeRefreshLayoutManager.setAccessibilityCollection(i5i, C34901Hvb.A0R(obj));
+                        return;
+                    case '7':
+                        C38340K2d.A01(i5i, swipeRefreshLayoutManager, obj);
+                        return;
+                    case '9':
+                        swipeRefreshLayoutManager.setAccessibilityCollectionItem(i5i, C34901Hvb.A0R(obj));
+                        return;
+                    default:
+                        swipeRefreshLayoutManager.setNativeId(i5i, C34901Hvb.A0b(obj));
+                        return;
+                }
+            case -1721943861:
+                if (!C34903Hvd.A1M(str)) {
+                    return;
+                }
+                c = 5;
+                switch (c) {
+                }
+            case -1609594047:
+                if (!str.equals("enabled")) {
+                    return;
+                }
+                i5i.setEnabled(C34901Hvb.A1Z(obj, obj, true));
+                return;
+            case -1589741021:
+                if (!C34903Hvd.A1N(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setShadowColor(i5i, C34901Hvb.A07(i5i, obj, -16777216));
+                return;
+            case -1354842768:
+                if (!str.equals("colors")) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setColors(i5i, C34901Hvb.A0Q(obj));
+                return;
+            case -1351902487:
+                if (!C34904Hve.A1L(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.CLICK;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case -1267206133:
+                if (!C34903Hvd.A1G(str)) {
+                    return;
+                }
+                c = 11;
+                switch (c) {
+                }
+            case -1247970794:
+                if (!C34904Hve.A1T(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.OUT_CAPTURE;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case -1219666915:
+                if (!C34904Hve.A1P(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.CLICK_CAPTURE;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case -1036769289:
+                if (!C34904Hve.A1W(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.MOVE_CAPTURE;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case -908189618:
+                if (!C34903Hvd.A1D(str)) {
+                    return;
+                }
+                c = 16;
+                switch (c) {
+                }
+            case -908189617:
+                if (!C34903Hvd.A1E(str)) {
+                    return;
+                }
+                c = 17;
+                switch (c) {
+                }
+            case -885150488:
+                if (!str.equals("progressBackgroundColor")) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setProgressBackgroundColor(i5i, C34901Hvb.A0W(i5i, obj));
+                return;
+            case -877170387:
+                if (!C34903Hvd.A1F(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setTestId(i5i, C34901Hvb.A0b(obj));
+                return;
+            case -731417480:
+                if (!C34903Hvd.A1C(str)) {
+                    return;
+                }
+                c = 20;
+                switch (c) {
+                }
+            case -416037467:
+                if (!str.equals("progressViewOffset")) {
+                    return;
+                }
+                c = 22;
+                switch (c) {
+                }
+            case -321826009:
+                if (!str.equals("refreshing")) {
+                    return;
+                }
+                i5i.setRefreshing(C34901Hvb.A1Z(obj, obj, false));
+                return;
+            case -112141555:
+                if (!C34904Hve.A1V(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.LEAVE_CAPTURE;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case -101663499:
+                if (!C34903Hvd.A1P(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setAccessibilityHint(i5i, C34901Hvb.A0b(obj));
+                return;
+            case -101359900:
+                if (!C34903Hvd.A1Q(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setAccessibilityRole(i5i, C34901Hvb.A0b(obj));
+                return;
+            case -80891667:
+                if (!C34903Hvd.A1Y(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setRenderToHardwareTexture(i5i, C34901Hvb.A1Z(obj, obj, false));
+                return;
+            case -40300674:
+                if (!C34903Hvd.A1I(str)) {
+                    return;
+                }
+                c = 28;
+                switch (c) {
+                }
+            case -4379043:
+                if (!C34903Hvd.A1J(str)) {
+                    return;
+                }
+                c = 29;
+                switch (c) {
+                }
+            case 3506294:
+                if (!C34903Hvd.A1B(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setRole(i5i, C34901Hvb.A0b(obj));
+                return;
+            case 3530753:
+                if (!str.equals("size")) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setSize(i5i, C38340K2d.A00(obj));
+                return;
+            case 17941018:
+                if (!C34904Hve.A1Q(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.ENTER;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case 24119801:
+                if (!C34904Hve.A1R(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.LEAVE;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case 36255470:
+                if (!C34903Hvd.A1V(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setAccessibilityLiveRegion(i5i, C34901Hvb.A0b(obj));
+                return;
+            case 132353428:
+                if (!C34904Hve.A1X(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.OVER_CAPTURE;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case 317346576:
+                if (!C34904Hve.A1M(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.OUT;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case 746986311:
+                if (!C34903Hvd.A1X(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setImportantForAccessibility(i5i, C34901Hvb.A0b(obj));
+                return;
+            case 1052666732:
+                if (!C34903Hvd.A1K(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setTransform(i5i, C34901Hvb.A0Q(obj));
+                return;
+            case 1146842694:
+                if (!C34903Hvd.A1R(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setAccessibilityLabel(i5i, C34901Hvb.A0b(obj));
+                return;
+            case 1153872867:
+                if (!C34903Hvd.A1S(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setViewState(i5i, C34901Hvb.A0R(obj));
+                return;
+            case 1156088003:
+                if (!C34904Hve.A1S(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setAccessibilityValue(i5i, C34901Hvb.A0R(obj));
+                return;
+            case 1247744079:
+                if (!C34904Hve.A1N(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.MOVE;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case 1247809874:
+                if (!C34904Hve.A1O(str)) {
+                    return;
+                }
+                A1Z = C34901Hvb.A1Z(obj, obj, false);
+                enumC35931Iod = EnumC35931Iod.OVER;
+                BaseViewManager.setPointerEventsFlag(i5i, enumC35931Iod, A1Z);
+                return;
+            case 1287124693:
+                if (!C34903Hvd.A1O(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setBackgroundColor(i5i, C34901Hvb.A07(i5i, obj, 0));
+                return;
+            case 1505602511:
+                if (!C34903Hvd.A1W(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setAccessibilityActions(i5i, C34901Hvb.A0Q(obj));
+                return;
+            case 1761903244:
+                if (!C34903Hvd.A1T(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setAccessibilityCollection(i5i, C34901Hvb.A0R(obj));
+                return;
+            case 1865277756:
+                if (!C34903Hvd.A1U(str)) {
+                    return;
+                }
+                C38340K2d.A01(i5i, swipeRefreshLayoutManager, obj);
+                return;
+            case 1993034687:
+                if (!C34903Hvd.A1A(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setAccessibilityCollectionItem(i5i, C34901Hvb.A0R(obj));
+                return;
+            case 2045685618:
+                if (!C34903Hvd.A1H(str)) {
+                    return;
+                }
+                swipeRefreshLayoutManager.setNativeId(i5i, C34901Hvb.A0b(obj));
+                return;
+            default:
+                return;
+        }
+    }
+}

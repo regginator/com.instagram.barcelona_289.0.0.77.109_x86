@@ -1,0 +1,10 @@
+package p000X;
+
+import com.instagram.service.session.UserSession;
+/* renamed from: X.30U  reason: invalid class name */
+/* loaded from: classes2.dex */
+public final class C30U {
+    public static Long A00(UserSession userSession) {
+        return C70763jC.A07(C0TD.A05, userSession, 36599842985807130L);
+    }
+}

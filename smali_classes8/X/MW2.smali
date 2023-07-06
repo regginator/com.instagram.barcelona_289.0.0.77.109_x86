@@ -1,0 +1,67 @@
+.class public final LX/MW2;
+.super LX/MWB;
+.source ""
+
+
+# instance fields
+.field public volatile owner:Ljava/lang/Object;
+
+
+# direct methods
+.method public constructor <init>(Ljava/lang/Object;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0}, LX/MWB;-><init>()V
+
+    .line 1
+    .line 2
+    .line 3
+    iput-object p1, p0, LX/MW2;->owner:Ljava/lang/Object;
+
+    .line 4
+    .line 5
+    return-void
+.end method
+
+
+# virtual methods
+.method public final toString()Ljava/lang/String;
+    .locals 2
+
+    .line 0
+    const-string v0, "LockedQueue["
+
+    .line 1
+    .line 2
+    invoke-static {v0}, LX/0wr;->A0m(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    .line 3
+    .line 4
+    .line 5
+    move-result-object v1
+
+    .line 6
+    iget-object v0, p0, LX/MW2;->owner:Ljava/lang/Object;
+
+    .line 7
+    .line 8
+    invoke-virtual {v1, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+
+    .line 9
+    .line 10
+    .line 11
+    const/16 v0, 0x5d
+
+    .line 12
+    .line 13
+    invoke-static {v1, v0}, LX/4uT;->A10(Ljava/lang/StringBuilder;C)Ljava/lang/String;
+
+    .line 14
+    .line 15
+    .line 16
+    move-result-object v0
+
+    .line 17
+    return-object v0
+.end method

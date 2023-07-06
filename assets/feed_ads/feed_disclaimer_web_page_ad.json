@@ -1,0 +1,223 @@
+{
+  "media_or_ad": {
+    "taken_at": 15859344351,
+    "pk": 22793057044297935161,
+    "id": "22793057044297935951_17849258461",
+    "device_timestamp": 15859344351,
+    "media_type": 1,
+    "code": "B-huHY_DzE7",
+    "client_cache_key": "MjI3OTMwNTcwNDQyOTc5MzU5NQ==.2",
+    "filter_type": 0,
+    "image_versions2": {
+      "candidates": [
+        {
+          "width": 1080,
+          "height": 1080,
+          "url":  "https://i.ibb.co/gtd1WVm/pbia-1.jpg"
+        }
+      ]
+    },
+    "original_width": 1080,
+    "original_height": 1080,
+    "user": {
+      "pk": 17849258461,
+      "username": "pharmacy_002",
+      "full_name": "Pharmacy 002",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+      "profile_pic_id": "22776814113579589781_17849258991",
+      "friendship_status": {
+        "following": false,
+        "outgoing_request": false,
+        "is_muting_reel": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": true,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "latest_reel_media": 0
+    },
+    "caption_is_edited": false,
+    "liker_config": {
+      "is_daisy": true,
+      "hide_view_count": false,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 1,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false
+    },
+    "direct_reply_to_author_enabled": true,
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": true,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 98,
+    "like_count": 23733,
+    "bucketed_like_count": null,
+    "ads_bucketed_like_count": 1,
+    "has_liked": false,
+    "top_likers": [],
+    "photo_of_you": false,
+    "caption": {
+      "pk": 181348420570611661,
+      "user_id": 17849258461,
+      "text": "Pharmacy 002. Best Pharmacy in the world. Come and get your prescriptions at lowest price.",
+      "type": 1,
+      "created_at": 15859344361,
+      "created_at_utc": 15859344361,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 17849258461,
+        "username": "pharmacy_002",
+        "full_name": "Pharmacy 002",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "22776814113579589781_17849258461",
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_muting_reel": false,
+          "is_bestie": false,
+          "is_restricted": false
+        },
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": 0
+      },
+      "media_id": 2279305704429738935001
+    },
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQITYH9rS6_z6txG91LujC1EFVbplL-oJYHj8LMQtxWb7_KkvfxjUXfu0iXEzfAr1s8mK4Y_atJUB1cN4TOtXdza",
+      "show_ad_choices": false,
+      "ad_title": "Pharmacy 002",
+      "about_ad_params": "",
+      "direct_share": false,
+      "ad_id": 238445564750701161,
+      "display_viewability_eligible": true,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": "{}",
+            "serializedImpOrganicScoreMap": "{}"
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "display_fb_page_name": true,
+      "ad_disclaimer_info": {
+        "title": "health_disclaimer",
+        "url": "https://www.amneal.com/copyright-and-legal-disclaimer/"
+      },
+      "contextual_label_info": " ",
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=1OU0sNoEcRNuvlcK2.AWW8F4eHdyb8-iyVK_CpDqBpX6k.BekRdY..AAA.0.0.BekRdY.AWVUHIdz; expires=Fri, 10 Jul 2020 01:03:20 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ]
+    },
+    "collapse_comments": true,
+    "ad_metadata": [
+      {
+        "value": "pharmacy002",
+        "type": 1
+      }
+    ],
+    "link": "https://ad.doubleclick.net/ddm/trackclk/N1116785.785337FACEBOOK.COMADVER/B23871919.269442972;dc_trk_aid=464617952;dc_trk_cid=130127524;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=",
+    "link_text": "Learn More",
+    "ad_action": "webclick",
+    "link_hint_text": "Tap Photo to Open Page",
+    "iTunesItem": null,
+    "ad_link_type": 0,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "android_links": [
+      {
+        "linkType": 1,
+        "webUri": "https://ad.doubleclick.net/ddm/trackclk/N1116785.785337FACEBOOK.COMADVER/B23871919.269442972;dc_trk_aid=464617952;dc_trk_cid=130127524;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=",
+        "androidClass": "",
+        "package": "",
+        "deeplinkUri": "",
+        "callToActionTitle": "",
+        "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8-VXQS-bP4HhhxTga5SI1N2gB8CniYuYAyHkxIyQePzEuMwRBqJRc5AFNG7TPY5EB0IKzNFwDr4Ki9bS4dt13_Vi7iGisUNr4JHy52uOKOlRB95q4wsMWAK-Kz4wZY4THEayAyvErwxqxcSJ8u8NIIP7byyfqCJlGkgfUaLWTRuqSUZjeiuXoMeUNTdbm5dipO6eHLof7qFMoniNRNQFv4ejs_NCLmyaabN1Yec_LPBLW5b4uk3WmB3mEcD01OQGp9YSY3WQyqVPFOnbOaSsckZu1ycgjRTVkYQyJ9VL3bMn_u7MeT8sl3xATUkafuqAPgotSmFaQ3yhukRpOnNkP5Xbiz7xxdD48yx7QHik24ka93pHRNwiZqhdAEBiRSMSu22XgPgbUhQH61vLSpz-xfFsUN64i3LeFzSIcLVJLJ0Q&a=1&hash=Ad_u-PD-q8fm-9Vv",
+        "leadGenFormId": null,
+        "igUserId": null,
+        "appInstallObjectiveInvalidationBehavior": null
+      }
+    ],
+    "iab_autofill_optout_info": {
+      "domain": "facebook.com",
+      "is_iab_autofill_optout": false
+    },
+    "click_id": "IwAR04nZQpjBDB_Ja0RsY-9Jirdll_gUd6zv1EKiNe_THYtUPBKXRGzei1M2U",
+    "force_overlay": true,
+    "hide_nux_text": true,
+    "overlay_text": "Go to Website",
+    "overlay_title": "Pharmacy 002",
+    "overlay_subtitle": "Go to Pharmacy002",
+    "dominant_color": "#6789BA",
+    "follower_count": 21296,
+    "post_count": 844,
+    "fb_page_url": "https://www.facebook.com/",
+    "can_viewer_save": false,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTI1ZmViOWQ2NGY4NDU2Nzk0NzJhMTA2OGI2MzM2ZmQyMjc5MzA1NzA0NDI5NzkzNTk1Iiwic2VydmVyX3Rva2VuIjoiMTU4NjU2NzAwMTYyMnwyMjc5MzA1NzA0NDI5NzkzNTk1fDkwNDU4MjM3MjV8NTJmNjZjNjZhNzBhMmU0ZDM1MjZlZjYyODExYTlhZGFjMjEwOTE3YzBlYTQ2ZDIyNWVjNmUyMGM4YzA1ZGExOSJ9LCJzaWduYXR1cmUiOiIifQ==",
+    "expiring_at": 1586653401,
+    "preview": "ACoq3DcxjuKb9ri9RXOCbzCdgyR2JAH/ANfNVROScHp6AfpU2ZWh1Rv4R3z7CozqcQGSG/If41zYEjsQOvXH+fb9KnmhdSCzHPt/Ie/16+tMRtNq8S9m/HFRf20n939f/rVz0m4Ntzz9c4+vbNBnkz1piFCDHBwp7/WpYoM/MG5B46j8cioVl/Kp3y4xnH+fX/GgCQkry43cYBGCPzHT2zTmk3YUE7eQeuRwcY/EVWiQofm5B7VJI8aD5Rgkjj6c0WApsSFC9B16ck+/rio81IwU8g4+v+IqPFAChsc9RUxfJHNVzTo6AL27aPVaicK3TmmDvSp92mBEY/Sk2mp6bQB//9k=",
+    "inventory_source": "media_or_ad",
+    "is_seen": false,
+    "is_eof": false,
+    "media_debug_info": null
+  }
+}

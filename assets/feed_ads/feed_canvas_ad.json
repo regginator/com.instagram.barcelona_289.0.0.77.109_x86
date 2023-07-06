@@ -1,0 +1,254 @@
+{
+  "media_or_ad": {
+    "id": "2285029786946715561_1332667940",
+    "taken_at": 1586616807,
+    "pk": 2285029786946715600,
+    "media_type": 10,
+    "dynamic_item_id": 3727930827249337,
+    "user": {
+      "pk": 1332667940,
+      "username": "adidascl",
+      "full_name": "adidas Chile",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+      "profile_pic_id": "1896518056522126142_1332667940",
+      "friendship_status": {
+        "following": false,
+        "followed_by": false,
+        "blocking": false,
+        "muting": false,
+        "is_private": false,
+        "incoming_request": false,
+        "outgoing_request": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": true,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "latest_reel_media": 1586607769
+    },
+    "caption": {
+      "content_type": "comment",
+      "user": {
+      "pk": 1332667940,
+      "username": "adidascl",
+      "full_name": "adidas Chile",
+      "is_private": false,
+      "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s150x150/43284764_314512406041780_3520323622944112640_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=TsgCt_MeA2EAX8303fz&oh=165102099402470af342d4a88441509b&oe=5EBC4A45",
+      "profile_pic_id": "1896518056522126142_1332667940",
+      "is_verified": true
+      },
+      "user_id": 1332667940,
+      "pk": "2285029786946715561_caption",
+      "text": "Conoce nuestras ofertas de final de temporada ¡Hasta 60% en productos seleccionados!",
+      "type": 1,
+      "created_at": 1586616807,
+      "created_at_utc": 1586591607,
+      "media_id": 2285029786946715600,
+      "bit_flags": 0,
+      "status": "Active"
+    },
+    "headline": {
+      "content_type": "comment",
+      "user": {
+        "pk": 1332667940,
+        "username": "adidascl",
+        "full_name": "adidas Chile",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1896518056522126142_1332667940",
+        "is_verified": true
+      },
+      "user_id": 1332667940,
+      "pk": "3727930827249337_headline",
+      "text": "Envíos gratis a todo el país.",
+      "type": 1,
+      "created_at": 1586616807,
+      "created_at_utc": 1586591607,
+      "media_id": 2285029786946715600,
+      "bit_flags": 0,
+      "status": "Active"
+    },
+    "can_viewer_save": true,
+    "like_count": 0,
+    "has_liked": false,
+    "has_more_comments": false,
+    "comment_count": 0,
+    "max_num_visible_preview_comments": 2,
+    "comments": [],
+    "caption_is_edited": false,
+    "photo_of_you": false,
+    "liker_config": {
+    "is_daisy": true,
+    "hide_view_count": true,
+    "show_count_in_likers_list": false,
+    "show_view_count_in_likers_list": false,
+    "show_daisy_liker_list_header": false,
+    "show_learn_more": false,
+    "ads_display_mode": 1,
+    "display_mode": 0,
+    "disable_liker_list_navigation": false,
+    "show_author_view_likes_button": false
+    },
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQIo3qAeWDBac0oPJdBBmvevjMvbnYxjg9uPwqIctfy8f9bRZjf7fCEMwoIMeFTeMro1e9rlCi1EY_5ykg8_QH9O",
+      "show_ad_choices": false,
+      "ad_title": "adidas",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 23844362402950450,
+      "display_viewability_eligible": true,
+      "ads_debug_info": null,
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=14ejv3c9UImnZhKPw.AWVU7tlf-sRN2aAA6Bl7r0JcK-Y.Bekdnl..AAA.0.0.Bekdnl.AWWUCl8z; expires=Fri, 10 Jul 2020 14:53:25 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ],
+      "cta_style": 2
+    },
+    "collapse_comments": false,
+    "link": "https://www.adidas.cl",
+    "link_text": "Learn More",
+    "ad_action": "canvas",
+    "link_hint_text": "Tap Photo to Open App",
+    "iTunesItem": 0,
+    "ad_link_type": 1,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "android_links": [
+      {
+        "linkType": 6,
+        "canvasDocId": "bmF0aXZlZG9jdW1lbnQ6NjQ4NDExMTU1NzIyOTcyXzIzODQ0MzYyNDAyOTUwNDQ3X18yMzg0NDM2MjQwMTQ2MDQ0N19bMzcyNzkzMDgyNzI0OTMzNywyNzYzNjcwNzE3MDEwNzUwLDMxNDA0MTI1NzkzNjYxMTYsMjcwOTE0NzExMjQ2NTQ1NiwyMzU5NjAxMDgwODI4NzY1LDI5NjA0Mzc1MzA2NTI0NDIsMzM5MTc3NjYzNDE5NTY3NiwyODEwOTUyOTA1NTgyNzUwLDMwNjUwNzI2MTM1MDMyODMsMzMzMTE3NjQxMzYyMDU0OCwzNTk3NDQ0ODMwMjY5MzE0LDMxNzUxNDE3OTU4OTIzNTMsMjMyNjE0NDk5MDgyNzgzMSwyNDE5NTkyODY0ODE5OTgwLDMxMTQzMzg3NDE5MTQzNDEsMjUyNTM0OTc1MDg4OTcxMiwyNjM0ODM2Mzc5OTA4MzgyLDI2OTA1NjQ4NTc2NjQwODEsMjcwNzQ0NzY5OTM3MzAwOCwyNjk0MDUwMjgzOTY2NzcyLDI5MzczMTE5Mjk2NDY3MTEsMjczODU4NTI3MjgyODkwOCwyNjEwNzc5NjQyMzQxMTQwLDI1NTMyNDQ3NzgxMzAxMzQsMjgyMTc5MjkwNzg1NDc2NywyMDkyNzkwMDE3NDkxMTc0LDI2NTk0NTY1NDQxMDUwMDYsMjg2NjE1NTcwNjc2MTIxOCwzNTY0Njg1MDkwMjcyMzU2LDI3NDI0NjcyOTU4NDYxMjcsMjc4ODE0MTk2NDU3ODU0NSwzNTAzMDUwMDg5NzcwMzExLDI3MzkyMjgzMDk1MjM3NjgsMjU0ODM5NzI0NTI3NjU2NSwyNTIxNTM3Njc0NTc4ODg3LDI4MTI5MzAxNzU0MzA1ODYsMjU3ODg0Mzg3NTU3ODQ1OSwzMDcyNjA4MTEyNzU2NDY3LDI4Mzg0NTQ4OTk1NTI3NjQsMzAyMTUxMDQ3Nzg3ODM1MywyMzI2MTIyOTA0MTU2MjkxLDMyMDc2MDUxMzkzMTE0NjksMjQyNTc4NTQ3MDg2NzYxNCwzMTA3NTcyMzE5MjU4NDE5LDM0MTU0NjU3NTE4Mjg3NDgsMzE3Njk0MjU3NTcwOTY5NiwyOTI4NTc2OTQwNTA0MzUxLDI0NjE3NzcyMDM4OTkyMjEsMjc1MDc5NzU3ODI3NTY0NCwyNjgwMTIyNDAyMDY3MjEwLDI2Nzk2MjQwMDg3NjQxODEsMjY1MjE1MjY0MTUxMjg2MCwzMTc0NjY2MTc5Mjc1MjEzLDI0NDI0ODMwMjU4NTkzMTIsNDEwMzAwMDI5NjM5Mjc3OCwyMzk1NDUyNjgzODg2Mjg4LDMxNTU3MTY0MDc4MzQ4MTMsMjE2NTMwNzYxNjkwNjEyNywyNzE2ODYyMTY4NDAzMzE5LDMxNjY5ODUzMTMzMzA4MjIsMzE0NzY0NTE3NTMwNjk5NywzMzUyNDA4ODM0Nzk5MTU5LDI4NDIyNDI0OTkxMjIwMTUsMzE3NDQxNjc0OTI2NjI4MCwzMDEyODYyNzE4NzQ4MTU0LDI1MDg2NTIzMTI1OTYxOTEsMjYzMTQ4ODU0MzYxMDM5MCwzNzM5OTgxNjE5MzUyNjUyLDI2NjgxNTk3ODMyMjAxMDIsMzE4NjgyNDM0MTM1ODk2OCwzMjY4OTU5NDA5ODQyMjIwLDMzODcxMDE5NzEzNjMxODEsMjYwMTQwMTU5NjYyMDk4MSwyNTE1MTY0MzgxOTAyMTc3LDI1MDA4MjM0NTY2MzMxMzYsMjgwNjkwOTIwOTM0MTc0MCwzMDUzODI2OTc3OTY3OTM1LDI4NjQ4MzE3NTY4NjA2ODksMzA4MjM2MDkyMTgyNzcyNiwzMDc0ODI0NDk1OTI1OTkyLDMxNjA5MTQ3MDA1OTEzNTQsMjc3NTUxOTEwOTEyNzE5MiwyOTMwODQ0NTA2OTM5MTk2LDIzOTk2MDExNjM0OTk3MTAsMzI0MjAzMzA3NTg2OTczNCwzMTI1Mjc2MzQwODMyNDI2LDI2NDkxOTY2MTUxNTY1NTksMzU2MzY1NjE0MzcwNzAxNCwyNjQxNDkxMDM5MjM3MjY5LDI0NDQzODU4Mzg5MzA2MjEsMjU5OTA4OTM0Njg4MzE3MiwzNTI1OTc5MzI0MTQxNjg2LDI4MTE1OTgyMTg5MDQyMzYsMTkyNTA3MjQ1MDkyOTQzOSwyMzQxMTA1ODg2MDE1NjY2LDI3MjAyODMxMDE0MTkxNjQsMjQ0MDAwMzk1OTQ1NDMxNywyMzI2NDU4OTA0MTQ4ODk1LDI1NDk2MjE0MDE3NjI2MjUsMjczMDkxNDI3Njk3MDUwMV1fXzFfX19f"
+      }
+    ],
+    "force_overlay": false,
+    "hide_nux_text": true,
+    "overlay_text": "Tap to Open",
+    "overlay_title": "adidas",
+    "overlay_subtitle": "Tap to Open",
+    "ios_links": [
+      {
+        "linkType": 6,
+        "canvasDocId": "bmF0aXZlZG9jdW1lbnQ6NjQ4NDExMTU1NzIyOTcyXzIzODQ0MzYyNDAyOTUwNDQ3X18yMzg0NDM2MjQwMTQ2MDQ0N19bMzcyNzkzMDgyNzI0OTMzNywyNzYzNjcwNzE3MDEwNzUwLDMxNDA0MTI1NzkzNjYxMTYsMjcwOTE0NzExMjQ2NTQ1NiwyMzU5NjAxMDgwODI4NzY1LDI5NjA0Mzc1MzA2NTI0NDIsMzM5MTc3NjYzNDE5NTY3NiwyODEwOTUyOTA1NTgyNzUwLDMwNjUwNzI2MTM1MDMyODMsMzMzMTE3NjQxMzYyMDU0OCwzNTk3NDQ0ODMwMjY5MzE0LDMxNzUxNDE3OTU4OTIzNTMsMjMyNjE0NDk5MDgyNzgzMSwyNDE5NTkyODY0ODE5OTgwLDMxMTQzMzg3NDE5MTQzNDEsMjUyNTM0OTc1MDg4OTcxMiwyNjM0ODM2Mzc5OTA4MzgyLDI2OTA1NjQ4NTc2NjQwODEsMjcwNzQ0NzY5OTM3MzAwOCwyNjk0MDUwMjgzOTY2NzcyLDI5MzczMTE5Mjk2NDY3MTEsMjczODU4NTI3MjgyODkwOCwyNjEwNzc5NjQyMzQxMTQwLDI1NTMyNDQ3NzgxMzAxMzQsMjgyMTc5MjkwNzg1NDc2NywyMDkyNzkwMDE3NDkxMTc0LDI2NTk0NTY1NDQxMDUwMDYsMjg2NjE1NTcwNjc2MTIxOCwzNTY0Njg1MDkwMjcyMzU2LDI3NDI0NjcyOTU4NDYxMjcsMjc4ODE0MTk2NDU3ODU0NSwzNTAzMDUwMDg5NzcwMzExLDI3MzkyMjgzMDk1MjM3NjgsMjU0ODM5NzI0NTI3NjU2NSwyNTIxNTM3Njc0NTc4ODg3LDI4MTI5MzAxNzU0MzA1ODYsMjU3ODg0Mzg3NTU3ODQ1OSwzMDcyNjA4MTEyNzU2NDY3LDI4Mzg0NTQ4OTk1NTI3NjQsMzAyMTUxMDQ3Nzg3ODM1MywyMzI2MTIyOTA0MTU2MjkxLDMyMDc2MDUxMzkzMTE0NjksMjQyNTc4NTQ3MDg2NzYxNCwzMTA3NTcyMzE5MjU4NDE5LDM0MTU0NjU3NTE4Mjg3NDgsMzE3Njk0MjU3NTcwOTY5NiwyOTI4NTc2OTQwNTA0MzUxLDI0NjE3NzcyMDM4OTkyMjEsMjc1MDc5NzU3ODI3NTY0NCwyNjgwMTIyNDAyMDY3MjEwLDI2Nzk2MjQwMDg3NjQxODEsMjY1MjE1MjY0MTUxMjg2MCwzMTc0NjY2MTc5Mjc1MjEzLDI0NDI0ODMwMjU4NTkzMTIsNDEwMzAwMDI5NjM5Mjc3OCwyMzk1NDUyNjgzODg2Mjg4LDMxNTU3MTY0MDc4MzQ4MTMsMjE2NTMwNzYxNjkwNjEyNywyNzE2ODYyMTY4NDAzMzE5LDMxNjY5ODUzMTMzMzA4MjIsMzE0NzY0NTE3NTMwNjk5NywzMzUyNDA4ODM0Nzk5MTU5LDI4NDIyNDI0OTkxMjIwMTUsMzE3NDQxNjc0OTI2NjI4MCwzMDEyODYyNzE4NzQ4MTU0LDI1MDg2NTIzMTI1OTYxOTEsMjYzMTQ4ODU0MzYxMDM5MCwzNzM5OTgxNjE5MzUyNjUyLDI2NjgxNTk3ODMyMjAxMDIsMzE4NjgyNDM0MTM1ODk2OCwzMjY4OTU5NDA5ODQyMjIwLDMzODcxMDE5NzEzNjMxODEsMjYwMTQwMTU5NjYyMDk4MSwyNTE1MTY0MzgxOTAyMTc3LDI1MDA4MjM0NTY2MzMxMzYsMjgwNjkwOTIwOTM0MTc0MCwzMDUzODI2OTc3OTY3OTM1LDI4NjQ4MzE3NTY4NjA2ODksMzA4MjM2MDkyMTgyNzcyNiwzMDc0ODI0NDk1OTI1OTkyLDMxNjA5MTQ3MDA1OTEzNTQsMjc3NTUxOTEwOTEyNzE5MiwyOTMwODQ0NTA2OTM5MTk2LDIzOTk2MDExNjM0OTk3MTAsMzI0MjAzMzA3NTg2OTczNCwzMTI1Mjc2MzQwODMyNDI2LDI2NDkxOTY2MTUxNTY1NTksMzU2MzY1NjE0MzcwNzAxNCwyNjQxNDkxMDM5MjM3MjY5LDI0NDQzODU4Mzg5MzA2MjEsMjU5OTA4OTM0Njg4MzE3MiwzNTI1OTc5MzI0MTQxNjg2LDI4MTE1OTgyMTg5MDQyMzYsMTkyNTA3MjQ1MDkyOTQzOSwyMzQxMTA1ODg2MDE1NjY2LDI3MjAyODMxMDE0MTkxNjQsMjQ0MDAwMzk1OTQ1NDMxNywyMzI2NDU4OTA0MTQ4ODk1LDI1NDk2MjE0MDE3NjI2MjUsMjczMDkxNDI3Njk3MDUwMV1fXzFfX19f"
+      }
+    ],
+    "follower_count": 406228,
+    "post_count": 1114,
+    "collection_media_type": 1,
+    "collection_media": [
+      {
+        "video_duration": 8.458999633789062,
+        "original_height": 720,
+        "original_width": 720,
+        "video_versions": [
+          {
+            "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "width": 720,
+            "height": 720,
+            "type": 101
+          },
+          {
+            "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "width": 426,
+            "height": 426,
+            "type": 102
+          }
+        ],
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png",
+              "width": 720,
+              "height": 720
+            }
+          ]
+        },
+        "has_audio": false,
+        "media_type": 2,
+        "id": "2285029786946715561_1332667940_main",
+        "pk": 2285029786946715600,
+        "collection_parent_id": "2285029786946715561_1332667940",
+        "collection_media_role": 1
+      },
+      {
+        "collection_parent_id": "2285029786946715561_1332667940",
+        "collection_media_role": 2,
+        "id": "3727930827249337_1332667940",
+        "pk": 3727930827249337,
+        "media_type": 1,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      },
+      {
+        "collection_parent_id": "2285029786946715561_1332667940",
+        "collection_media_role": 2,
+        "id": "2763670717010750_1332667940",
+        "pk": 2763670717010750,
+        "media_type": 1,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      },
+      {
+        "collection_parent_id": "2285029786946715561_1332667940",
+        "collection_media_role": 2,
+        "id": "3140412579366116_1332667940",
+        "pk": 3140412579366116,
+        "media_type": 1,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    ],
+    "fb_page_url": "https://www.facebook.com/adidasCL/",
+    "inventory_source": "media_or_ad",
+    "is_seen": false,
+    "is_eof": false,
+    "media_debug_info": null
+  }
+}

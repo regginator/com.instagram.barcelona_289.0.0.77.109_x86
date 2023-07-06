@@ -1,0 +1,28 @@
+package p000X;
+
+import com.facebook.litho.annotations.Prop;
+import java.util.List;
+/* renamed from: X.LAo  reason: case insensitive filesystem */
+/* loaded from: classes8.dex */
+public final class C40322LAo extends LAM {
+    @Prop(optional = true)
+    public EnumC36031Iqp A00;
+    @Prop(optional = true)
+    public EnumC35998IqA A01;
+    @Prop(optional = true)
+    public List A02;
+    @Prop(optional = true)
+    public boolean A03;
+
+    public C40322LAo(EnumC36031Iqp enumC36031Iqp, EnumC35998IqA enumC35998IqA, List list, boolean z) {
+        super("Row");
+        this.A00 = enumC36031Iqp;
+        this.A01 = enumC35998IqA;
+        this.A03 = z;
+        this.A02 = list;
+    }
+
+    public C40322LAo() {
+        super("Row");
+    }
+}

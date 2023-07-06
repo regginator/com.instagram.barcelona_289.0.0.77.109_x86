@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:topLeftRadius="@dimen/autofill_optimization_title_top_margin" android:topRightRadius="@dimen/autofill_optimization_title_top_margin" android:bottomLeftRadius="@dimen/autofill_optimization_title_top_margin" android:bottomRightRadius="@dimen/autofill_optimization_title_top_margin" />
+    <solid android:color="@color/fds_white_alpha60" />
+    <size android:height="@dimen/add_hashtags_notice_padding_horizontal" android:width="@dimen/accent_edge_thickness" />
+</shape>

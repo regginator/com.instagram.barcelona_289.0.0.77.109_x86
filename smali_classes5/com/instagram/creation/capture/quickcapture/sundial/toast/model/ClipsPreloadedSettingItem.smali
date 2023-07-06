@@ -1,0 +1,169 @@
+.class public final Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Landroid/os/Parcelable;
+
+
+# static fields
+.field public static final CREATOR:Landroid/os/Parcelable$Creator;
+
+
+# instance fields
+.field public A00:Ljava/lang/String;
+
+.field public A01:Ljava/lang/String;
+
+.field public A02:Ljava/lang/String;
+
+.field public A03:Ljava/lang/String;
+
+.field public final A04:LX/9eK;
+
+.field public final A05:Lcom/instagram/common/typedurl/ImageUrl;
+
+.field public final A06:Ljava/lang/String;
+
+.field public final A07:Ljava/lang/String;
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 1
+
+    .line 0
+    const/16 v0, 0x26
+
+    .line 1
+    .line 2
+    invoke-static {v0}, LX/Bs7;->A0R(I)Lcom/facebook/redex/PCreatorCreatorShape11S0000000_I2_11;
+
+    .line 3
+    .line 4
+    .line 5
+    move-result-object v0
+
+    .line 6
+    sput-object v0, Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;->CREATOR:Landroid/os/Parcelable$Creator;
+
+    .line 7
+    .line 8
+    return-void
+    .line 9
+.end method
+
+.method public constructor <init>(LX/9eK;Lcom/instagram/common/typedurl/ImageUrl;Ljava/lang/String;Ljava/lang/String;)V
+    .locals 0
+
+    .line 0
+    invoke-static {p3, p4}, LX/0wp;->A1R(Ljava/lang/Object;Ljava/lang/Object;)V
+
+    .line 1
+    .line 2
+    .line 3
+    invoke-static {p2, p1}, LX/4uR;->A1T(Ljava/lang/Object;Ljava/lang/Object;)V
+
+    .line 4
+    .line 5
+    .line 6
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 7
+    .line 8
+    .line 9
+    iput-object p3, p0, Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;->A07:Ljava/lang/String;
+
+    .line 10
+    .line 11
+    iput-object p4, p0, Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;->A06:Ljava/lang/String;
+
+    .line 12
+    .line 13
+    iput-object p2, p0, Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;->A05:Lcom/instagram/common/typedurl/ImageUrl;
+
+    .line 14
+    .line 15
+    iput-object p1, p0, Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;->A04:LX/9eK;
+
+    .line 16
+    .line 17
+    return-void
+    .line 18
+    .line 19
+    .line 20
+    .line 21
+    .line 22
+    .line 23
+    .line 24
+    .line 25
+    .line 26
+    .line 27
+    .line 28
+    .line 29
+    .line 30
+    .line 31
+.end method
+
+
+# virtual methods
+.method public final describeContents()I
+    .locals 1
+
+    const/4 v0, 0x0
+
+    return v0
+.end method
+
+.method public final writeToParcel(Landroid/os/Parcel;I)V
+    .locals 1
+
+    .line 0
+    const/4 v0, 0x0
+
+    .line 1
+    invoke-static {p1, v0}, LX/0OR;->A0B(Ljava/lang/Object;I)V
+
+    .line 2
+    .line 3
+    .line 4
+    iget-object v0, p0, Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;->A07:Ljava/lang/String;
+
+    .line 5
+    .line 6
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeString(Ljava/lang/String;)V
+
+    .line 7
+    .line 8
+    .line 9
+    iget-object v0, p0, Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;->A06:Ljava/lang/String;
+
+    .line 10
+    .line 11
+    invoke-virtual {p1, v0}, Landroid/os/Parcel;->writeString(Ljava/lang/String;)V
+
+    .line 12
+    .line 13
+    .line 14
+    iget-object v0, p0, Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;->A05:Lcom/instagram/common/typedurl/ImageUrl;
+
+    .line 15
+    .line 16
+    invoke-virtual {p1, v0, p2}, Landroid/os/Parcel;->writeParcelable(Landroid/os/Parcelable;I)V
+
+    .line 17
+    .line 18
+    .line 19
+    iget-object v0, p0, Lcom/instagram/creation/capture/quickcapture/sundial/toast/model/ClipsPreloadedSettingItem;->A04:LX/9eK;
+
+    .line 20
+    .line 21
+    invoke-static {p1, v0}, LX/4uR;->A1A(Landroid/os/Parcel;Ljava/lang/Enum;)V
+
+    .line 22
+    .line 23
+    .line 24
+    return-void
+    .line 25
+    .line 26
+.end method

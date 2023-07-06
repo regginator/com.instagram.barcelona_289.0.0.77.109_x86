@@ -1,0 +1,129 @@
+{
+  "id":"ad4ad_video",
+  "latest_reel_media":null,
+  "expiring_at":9561498833,
+  "seen":null,
+  "can_reply":null,
+  "can_reshare":null,
+  "reel_type":"netego_reel",
+  "ad4ad":{
+    "title":"Reach More People",
+    "message":"Promote a photo or video from an archived story to increase your reach.",
+    "action_text":"Promote This Video",
+    "id":"49103750630367",
+    "tracking_token":"eyJ1dWlkIjoiZjA2NmFlZmMyMWMwNDMzNDgyYjkwNmU0NmEyNjAyOWYiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MSwiZmJfdXNlcl9pZCI6MTAwMDAzNzU5NTI2NjQwLCJuZXRfZWdvX3R5cGUiOjQwLCJnbG9iYWxfcG9zaXRpb24iOjEsImVjcG1fcHJpY2UiOjQzNy4wLCJwYWNpbmdfcWVfaW5mbyI6ImlnX2FkNGFkX3N0b3JpZXNfYnVkZ2V0X3Y0fGJ1ZGdldF8yMF8zMCIsInVzZXJfZG9sbGFyX3ZhbHVlIjowLjc3NDYwMjIxNiwiaXNfbmV3X2luc2VydGlvbiI6dHJ1ZSwiaXNfZnJvbV9uZWVkeV91c2VyIjpmYWxzZSwiYXVjdGlvbl9wcmljZV9vdXRjb21lIjozfX0="
+  },
+  "netego_type":"ad4ad_in_story",
+  "netego_background_media":{
+    "taken_at":1560662408,
+    "pk":2067308596862226200,
+    "id":"ad4ad_video",
+    "device_timestamp":1560662408171859,
+    "media_type":2,
+    "code":"Bywjjc9FY7C",
+    "client_cache_key":"MjA2NzMwODU5Njg2MjIyNjExNA==.2",
+    "filter_type":0,
+    "image_versions2":{
+      "candidates":[
+        {
+          "width":1285,
+          "height":722,
+          "url":"https://i.ibb.co/3ks2yK7/Screen-Shot-2019-08-16-at-3-26-25-PM.png",
+          "estimated_scans_sizes":[
+            6579,
+            13158,
+            19737,
+            26316,
+            32896,
+            59213,
+            59213,
+            59213,
+            59213
+          ]
+        }
+      ]
+    },
+    "original_width":828,
+    "original_height":1472,
+    "video_versions":[
+      {
+        "type":101,
+        "width":1280,
+        "height":720,
+        "url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "id":"18053562115157882"
+      }
+    ],
+    "has_audio":true,
+    "video_duration":15,
+    "user":{
+      "pk":1483351393,
+      "username":"dbarablin",
+      "full_name":"Dmitry",
+      "is_private":false,
+      "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+      "has_anonymous_profile_picture":false,
+      "can_boost_post":true,
+      "can_see_organic_insights":true,
+      "show_insights_terms":false,
+      "reel_auto_archive":"on",
+      "is_unpublished":false,
+      "allowed_commenter_type":"any"
+    },
+    "caption_is_edited":false,
+    "caption_position":0,
+    "is_reel_media":true,
+    "timezone_offset":-25200,
+    "boosted_status":"not_boosted",
+    "photo_of_you":false,
+    "caption":null,
+    "can_viewer_save":true,
+    "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMWVhOGEzNzQxYTIwNDI1NWJhZWU0MTkxMzI1ZjEyMjYyMDY3MzA4NTk2ODYyMjI2MTE0Iiwic2VydmVyX3Rva2VuIjoiMTU2MTQxMjQzMjY2MnwyMDY3MzA4NTk2ODYyMjI2MTE0fDE0ODMzNTEzOTN8YTBmY2Y2NDgzMWRjYjU4YjdhYmNmYWNkMmNmZTU5N2Q1MzE1NTE5ZWE4YzgwN2U2MzIxNDIyZmU1NjE1MzhlZSJ9LCJzaWduYXR1cmUiOiIifQ==",
+    "expiring_at":9560748808,
+    "imported_taken_at":1558204437
+  },
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "prefetch_count":0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":1
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="?elevatedBackgroundColor" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/exit_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:src="@drawable/direct_widget_x_outline_44" android:tint="@color/fundraiser_sticker_consumption_sheet_donation_disclaimer_bold_text_color" android:layout_marginHorizontal="8.0dip" />
+    <TextView android:textSize="@dimen/backup_codes_text_size" android:textStyle="bold" android:textColor="@color/fundraiser_sticker_consumption_sheet_donation_disclaimer_bold_text_color" android:id="@id/header_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="12.0dip" android:layout_marginBottom="12.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f1100cc" android:layout_marginVertical="12.0dip" />
+</LinearLayout>

@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">ผู้ชมจะสามารถปัดขึ้นเพื่อไปที่ลิงก์นี้ได้ คุณสามารถเพิ่มลิงก์ปัดขึ้นได้ลิงก์เดียวเท่านั้น</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">เพิ่มการกล่าวถึงแล้ว</item>
+    </plurals>
+    <plurals name="alt_text_popup_description">
+        <item quantity="other">อธิบายรูปภาพของคุณให้กับผู้บกพร่องทางการมองเห็น</item>
+    </plurals>
+    <plurals name="anonymous_comments_message">
+        <item quantity="other">ดู %1$d ความคิดเห็นใน {original_post}</item>
+    </plurals>
+    <plurals name="anonymous_likers_message">
+        <item quantity="other">ดูการกดถูกใจ %1$d ครั้งใน {original_post}</item>
+    </plurals>
+    <plurals name="appended_poll_vote_count_label_on_feed">
+        <item quantity="other">ผลโพลล์ %1$s คะแนน</item>
+    </plurals>
+    <plurals name="appreciation_funding_a11y_star_balance">
+        <item quantity="other">ยอดดาวของคุณคือ %1$d ดวง</item>
+    </plurals>
+    <plurals name="appreciation_gifting_a11y_balance">
+        <item quantity="other">ยอดคงเหลือ: ดาว %1$d ดวง</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_body">
+        <item quantity="other">คุณเลือกความคิดเห็น %1$d รายการ หากคุณอนุมัติข้อความตอบกลับ ความคิดเห็นเดิมจะได้รับการอนุมัติด้วย</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_primary_button">
+        <item quantity="other">อนุมัติความคิดเห็น</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_title">
+        <item quantity="other">อนุมัติความคิดเห็น %1$d รายการใช่ไหม</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">%1$d คน</item>
+    </plurals>
+    <plurals name="average_time_spent_hours">
+        <item quantity="other">%1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="average_time_spent_minutes">
+        <item quantity="other">%1$d นาที</item>
+    </plurals>
+    <plurals name="barcelona_expand_replies">
+        <item quantity="other">การตอบกลับ %1$s รายการ</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_follower_tab_count">
+        <item quantity="other">ผู้ติดตาม %1$s คน</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_following_tab_count">
+        <item quantity="other">กำลังติดตาม %1$s คน</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_pending_tab_count">
+        <item quantity="other">รอดำเนินการ %1$s คน • คุณจะเริ่มติดตามบัญชีเหล่านี้เมื่อเขาเริ่มใช้งาน %2$s %3$s</item>
+    </plurals>
+    <plurals name="barcelona_onboarding_following_screen__pending_tab_subtitle">
+        <item quantity="other">%1$s บัญชีนี้ยังไม่ได้ใช้งาน %2$s หรือต้องอนุมัติคำขอติดตามของคุณ</item>
+    </plurals>
+    <plurals name="barcelona_post_like_count">
+        <item quantity="other">ถูกใจ %1$s คน</item>
+    </plurals>
+    <plurals name="barcelona_profile_follower_count">
+        <item quantity="other">ผู้ติดตาม %1$s คน</item>
+    </plurals>
+    <plurals name="barcelona_search_follower_count">
+        <item quantity="other">ผู้ติดตาม %1$s คน</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">ไม่สามารถยืนยันคำขอติดตามของคุณได้ในขณะนี้ โปรดลองอีกครั้งในภายหลัง</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">ไม่สามารถลบคำขอติดตามของคุณได้ในขณะนี้ โปรดลองอีกครั้งในภายหลัง</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">ส่งคำขอติดตามกลับผู้ใช้เหล่านี้ไม่สำเร็จ ลองอีกครั้งในภายหลัง</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">ส่งคำขอลบผู้ติดตามเหล่านี้ไม่สำเร็จ ลองอีกครั้งในภายหลัง</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">ลบผู้ติดตามออกแล้ว %1$s คน</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">คำขอ %1$d รายการ</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s คน</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_body">
+        <item quantity="other">คุณเลือกไว้ %1$d บัญชี ซึ่งบัญชีเหล่านั้นจะไม่สามารถค้นหาโปรไฟล์ โพสต์ หรือสตอรี่ของคุณบน Instagram ได้</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_primary_button">
+        <item quantity="other">บล็อกบัญชี</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_title">
+        <item quantity="other">ต้องการบล็อก %1$d บัญชีใช่ไหม</item>
+    </plurals>
+    <plurals name="blocked_story_photos_delete_button_text">
+        <item quantity="other">ลบรูปภาพ %1$d รูป</item>
+    </plurals>
+    <plurals name="blocked_story_videos_delete_button_text">
+        <item quantity="other">ลบวิดีโอ %1$d รายการ</item>
+    </plurals>
+    <plurals name="bonuses_tagging_reels_welcome_bonus_reels_left">
+        <item quantity="other">คลิป Reels อีก %1$d คลิปสามารถนับรวมในโบนัสนี้ได้</item>
+    </plurals>
+    <plurals name="bulk_block_confirmation_toast">
+        <item quantity="other">บล็อกบัญชีแล้ว</item>
+    </plurals>
+    <plurals name="bulk_restrict_confirmation_toast">
+        <item quantity="other">จำกัดบัญชีแล้ว</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">%1$d ปีที่แล้ว...</item>
+    </plurals>
+    <plurals name="cart_sold_out_and_unavailable_items_status_message">
+        <item quantity="other">สินค้า %1$d รายการในรถเข็นของคุณไม่มีจำหน่ายแล้ว</item>
+    </plurals>
+    <plurals name="chat_badge">
+        <item quantity="other">%1$d แชท</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">สมาชิก %1$s คน</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d ข้อความตอบกลับ</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">เพื่อนสนิทบน Facebook %1$d คน</item>
+    </plurals>
+    <plurals name="comment_badge">
+        <item quantity="other">%1$d ความคิดเห็น</item>
+    </plurals>
+    <plurals name="comment_count_label_on_feed">
+        <item quantity="other">ความคิดเห็น %1$s รายการ</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">%1$s และ&lt;b>คนอื่นๆ อีก %2$s คน&lt;/b>แสดงความคิดเห็น</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">%1$s และคนอื่นๆ แสดงความคิดเห็น</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s และ&lt;b>คนอื่นๆ อีก %4$s คน&lt;/b>แสดงความคิดเห็น</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">%1$s, %2$s, %3$s และคนอื่นๆ แสดงความคิดเห็น</item>
+    </plurals>
+    <plurals name="comments_from_facebook_title">
+        <item quantity="other">ดูความคิดเห็น %1$d ข้อความจาก Facebook</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">ยืนยันคำขอติดตาม %1$s รายการไหม</item>
+    </plurals>
+    <plurals name="connect_page_num_like">
+        <item quantity="other">%1$d คนถูกใจ</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">วัน</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">ชั่วโมง</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">นาที</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">เดือน</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">วินาที</item>
+    </plurals>
+    <plurals name="custom_comment_filter_upsell_toast_message">
+        <item quantity="other">เพิ่ม %1$d รายการลงในรายการคำที่ซ่อนไว้แล้ว</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_message">
+        <item quantity="other">คุณจะมองไม่เห็นวิดีโอเหล่านี้อีกต่อไป</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_title">
+        <item quantity="other">ลบวิดีโอ %1$d รายการหรือไม่</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">ลบคำขอติดตาม %1$s รายการไหม</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">คำขอเหล่านี้จะไม่ได้รับการอนุมัติเมื่อคุณเปลี่ยนเป็นบัญชีสาธารณะ</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">ลบคำขอติดตามใช่ไหม</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">พวกเขาจะเห็นข้อความก่อนหน้านี้ทั้งหมดจากการสนทนานี้</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message_without_all">
+        <item quantity="other">พวกเขาจะเห็นข้อคววามก่อนหน้าจากการสนทนานี้</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_hours_ago">
+        <item quantity="other">ใช้งานเมื่อ %1$d ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_mins_ago">
+        <item quantity="other">ใช้งานเมื่อ %1$d นาทีที่แล้ว</item>
+    </plurals>
+    <plurals name="direct_faq_import_bottom_button_footer">
+        <item quantity="other">เลือกคำถามไม่เกิน %1$d ข้อ</item>
+    </plurals>
+    <plurals name="direct_faq_import_max_limit_reached_message">
+        <item quantity="other">คุณสามารถนำเข้าคำถามได้ไม่เกิน %1$d ข้อ</item>
+    </plurals>
+    <plurals name="direct_max_recipients_in_chat_reached_body">
+        <item quantity="other">แชทสามารถมีสมาชิกได้ไม่เกิน %1$s คน โปรดจำกัดจำนวนคนไว้ที่ %1$s คนโดยให้นับรวมตัวคุณเองด้วยเพื่อสร้างแชทนี้ให้เสร็จ</item>
+    </plurals>
+    <plurals name="direct_max_recipients_reached_body">
+        <item quantity="other">กลุ่มสามารถมีสมาชิกได้ไม่เกิน %1$s ในการสร้างกลุ่มนี้ให้เสร็จสิ้น โปรดจำกัดจำนวนคนไว้ที่ %1$s โดยให้นับรวมตัวคุณเองด้วย</item>
+    </plurals>
+    <plurals name="direct_media_composer_send_button_description">
+        <item quantity="other">ส่ง %1$s</item>
+    </plurals>
+    <plurals name="direct_welcome_message_edit_character_limit_reached_error">
+        <item quantity="other">ข้อความต้อนรับมีความยาวจำกัด %1$d อักขระ</item>
+    </plurals>
+    <plurals name="discard_x_drafts">
+        <item quantity="other">ทิ้งฉบับร่าง %1$d ฉบับใช่ไหม</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">&lt;b>เพื่อน %2$s คน&lt;/b>ใช้ %1$s</item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">&lt;b>มี %2$s คน&lt;/b>ใช้ %1$s</item>
+    </plurals>
+    <plurals name="fan_club_content_preview_settings_detail">
+        <item quantity="other">%1$d โพสต์</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">ดูสมาชิก %1$d คน</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_subtitle">
+        <item quantity="other">ปุ่มสมัครสมาชิกแสดงบนโปรไฟล์ของคุณแล้ว ผู้ติดตามของคุณจะได้รับแจ้งเตือนเกี่ยวกับโปรแกรมสมาชิกใน %1$d วัน</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_title">
+        <item quantity="other">ผู้ติดตามของคุณจะได้รับแจ้งเตือนใน %1$d วัน</item>
+    </plurals>
+    <plurals name="fb_page_num_like_label">
+        <item quantity="other">ถูกใจ %1$s ครั้ง</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s มีสินค้า %2$d รายการ %3$s ราคา %4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">ติดตามผู้ใช้ %1$s คนกลับใช่ไหม</item>
+    </plurals>
+    <plurals name="follow_badge">
+        <item quantity="other">%1$d คนติดตาม</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">จำนวนการติดตาม %1$d คน</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">%1$s คนติดตามอยู่</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">ติดตามโดย %1$s และ&lt;font face=sans-serif-medium>คนอื่นๆ อีก %2$s คน&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">ติดตามโดย %1$s และคนอื่นๆ อีก %2$s คน</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">ติดตามโดย %1$s, %2$s และ&lt;font face=sans-serif-medium>คนอื่นๆ อีก %3$s คน&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">ติดตามโดย %1$s, %2$s, %3$s และ&lt;font face=sans-serif-medium>คนอื่นๆ อีก %4$s คน&lt;/font></item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">ผู้ติดตาม %1$s คน</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos">
+        <item quantity="other">รูปภาพ %1$d รูป</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos_one_video">
+        <item quantity="other">รูปภาพ %1$d รูปและวิดีโอ 1 วิดีโอ</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_videos">
+        <item quantity="other">วิดีโอ %1$d วิดีโอ</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_one_photo_n_videos">
+        <item quantity="other">รูปภาพ 1 รูปและวิดีโอ %1$d วิดีโอ</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_months_ago">
+        <item quantity="other">%1$d เดือนที่แล้ว</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_weeks_ago">
+        <item quantity="other">%1$d สัปดาห์ที่แล้ว</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_years_ago">
+        <item quantity="other">%1$d ปีที่แล้ว</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_day">
+        <item quantity="other">%1$d วัน</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_minute">
+        <item quantity="other">%1$d นาที</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_month">
+        <item quantity="other">%1$d เดือน</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_week">
+        <item quantity="other">%1$d สัปดาห์</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_year">
+        <item quantity="other">%1$d ปี</item>
+    </plurals>
+    <plurals name="granted_extension_time_hours">
+        <item quantity="other">อีก %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="granted_extension_time_minutes">
+        <item quantity="other">อีก %1$d นาที</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">รูปภาพ %1$d รูป และวิดีโอ 1 รายการจาก %2$s ที่แถว %3$d คอลัมน์ %4$d</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">รูปภาพ 1 รูปและวิดีโอ %1$d รายการจาก %2$s ที่แถว %3$d คอลัมน์ %4$d</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">สมาชิก %1$d คน</item>
+    </plurals>
+    <plurals name="guide_detail_text_accounts">
+        <item quantity="other">%1$s บัญชี</item>
+    </plurals>
+    <plurals name="guide_detail_text_locations">
+        <item quantity="other">สถานที่ %1$s แห่ง</item>
+    </plurals>
+    <plurals name="guide_detail_text_media">
+        <item quantity="other">%1$s โพสต์</item>
+    </plurals>
+    <plurals name="guide_detail_text_products">
+        <item quantity="other">สินค้า %1$s รายการ</item>
+    </plurals>
+    <plurals name="guide_drafts_count">
+        <item quantity="other">%1$s ไกด์ฉบับร่าง</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_attempts_left_error">
+        <item quantity="other">คุณลองป้อน PIN ได้อีก %1$d ครั้งก่อนที่ PIN จะใช้งานไม่ได้อีก</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_hours_popup_title_text">
+        <item quantity="other">%1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_minutes_popup_title_text">
+        <item quantity="other">%1$d นาที</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_seconds_popup_title_text">
+        <item quantity="other">%1$d วินาที</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">โฆษณาจาก%1$s เช่น หมวดหมู่การพนันและการหาคู่ถูกจำกัดไว้ตามค่าเริ่มต้น คุณสามารถเลือกหมวดหมู่โฆษณาเพิ่มเติมที่คุณต้องการป้องกันไม่ให้แสดงในคลิป Reels ของคุณได้สูงสุด %2$d หมวด</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s และบัญชีอื่นๆ อีก %6$d บัญชี</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s และหมวดหมู่อื่นๆ อีก %6$d รายการ</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">โดยค่าเริ่มต้น ระบบจะจำกัดโฆษณาจาก%1$s เช่น การพนันและการหาคู่ คุณสามารถเลือกหมวดหมู่โฆษณาเพิ่มเติมได้สูงสุด %2$d หมวดหมู่ที่คุณต้องการป้องกันไม่ให้ปรากฏในฟีดโปรไฟล์ของคุณได้</item>
+    </plurals>
+    <plurals name="iglive_audience_mode_close_friends_edit_option_close_friends_added">
+        <item quantity="other">%1$d คน</item>
+    </plurals>
+    <plurals name="iglive_presence_text">
+        <item quantity="other">%1$d ผู้ติดตามกำลังใช้งาน</item>
+    </plurals>
+    <plurals name="igtv_series_episode">
+        <item quantity="other">%1$s ตอน</item>
+    </plurals>
+    <plurals name="igtv_video_minute_duration_description">
+        <item quantity="other">%1$s นาทีกับ %2$s วินาที</item>
+    </plurals>
+    <plurals name="igtv_video_seconds_duration_description_one_min">
+        <item quantity="other">1 นาทีกับ %1$s วินาที</item>
+    </plurals>
+    <plurals name="lead_gen_available_forms_number_of_custom_questions">
+        <item quantity="other">คำถาม %1$d ข้อ</item>
+    </plurals>
+    <plurals name="lead_gen_form_num_questions">
+        <item quantity="other">%1$d คำถาม</item>
+    </plurals>
+    <plurals name="like_badge">
+        <item quantity="other">%1$d คนถูกใจ</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d คนถูกใจ</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">ถูกใจโดย %1$s และ&lt;font face=sans-serif-medium>คนอื่นๆ อีก %2$s คน&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">ถูกใจโดย %1$s, %2$s และ&lt;font face=sans-serif-medium>คนอื่นๆ อีก %3$s คน&lt;/font></item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">ถูกใจโดย %1$s, %2$s, %3$s และ&lt;font face=sans-serif-medium>คนอื่นๆ อีก %4$s คน&lt;/font></item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_day">
+        <item quantity="other">%1$d วัน</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_week">
+        <item quantity="other">%1$d สัปดาห์</item>
+    </plurals>
+    <plurals name="live_question_like_count">
+        <item quantity="other">ถูกใจ %1$d คน</item>
+    </plurals>
+    <plurals name="live_streak_subtitle_post_live_streak_increased">
+        <item quantity="other">คุณถ่ายทอดสดไปแล้วต่อเนื่องกันเป็นเวลา %1$d สัปดาห์! ดูว่าคุณจะสามารถเริ่มถ่ายทอดสดต่อเนื่องกันได้อีกกี่สัปดาห์</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">%1$s และ %2$s ได้ถ่ายทอดสดไปแล้ว</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">%1$d เครื่องหมาย</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d เครื่องหมาย</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">%1$s และคนอื่นๆ อีก %2$d คนส่งคำขอเข้าร่วมวิดีโอถ่ายทอดสดของคุณ</item>
+    </plurals>
+    <plurals name="location_list_title">
+        <item quantity="other">สถานที่ %1$d แห่ง</item>
+    </plurals>
+    <plurals name="member_count_text">
+        <item quantity="other">สมาชิก %1$s คน</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">เหลืออีก %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">เหลืออีก %1$d นาที</item>
+    </plurals>
+    <plurals name="msys_ds_4xu0wn">
+        <item quantity="other">ส่งรูปภาพ %1$d รูป</item>
+    </plurals>
+    <plurals name="msys_ds_Tey2G">
+        <item quantity="other">%1$s ส่งรูปภาพ %2$d รูป</item>
+    </plurals>
+    <plurals name="msys_ds_l81ip">
+        <item quantity="other">คุณส่งรูปภาพ %1$d รูป</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">รายงานแชทกับ %1$s, %2$s และคนอื่นๆ อีก %3$d คนใช่ไหม</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">คุณเพิ่ม %1$s และผู้เข้าร่วมคนอื่นๆ อีก %2$d คนลงในกลุ่ม</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">คุณลบ %1$s และผู้เข้าร่วมคนอื่นๆ อีก %2$d คนออกจากกลุ่ม</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">เพิ่มเอ็ฟเฟ็กต์คำ %3$s %1$d รายการจาก %2$s แล้ว</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">คุณเปลี่ยนเอ็ฟเฟ็กต์คำ %1$d รายการ</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">%1$s เปลี่ยนเอ็ฟเฟ็กต์คำ %2$d รายการ</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">คุณตั้งค่าเอ็ฟเฟ็กต์คำ %2$s %1$d รายการ</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">%1$s ตั้งค่าเอ็ฟเฟ็กต์คำ %3$s %2$d รายการ</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">คุณลบเอ็ฟเฟ็กต์คำออก %1$d รายการ</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">%1$s ลบเอ็ฟเฟ็กต์คำออก %2$d รายการ</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d วัน</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d นาที</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d วินาที</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">%1$s เพิ่มคุณและผู้เข้าร่วมคนอื่นๆ อีก %2$d คนลงในกลุ่ม</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">%1$s เพิ่ม %2$s และผู้เข้าร่วมคนอื่นๆ อีก %3$d คนลงในกลุ่ม</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">%1$s ลบคุณและผู้เข้าร่วมคนอื่นๆ อีก %2$d คนออกจากกลุ่ม</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">%1$s ลบ %2$s และผู้เข้าร่วมคนอื่นๆ อีก %3$d คนออกจากกลุ่ม</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">บุคคลเหล่านี้จะสามารถดูประวัติการแชท</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">เพิ่มคุณและผู้เข้าร่วมคนอื่นๆ อีก %1$d คนลงในกลุ่มแล้ว</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">เพิ่ม %1$s และผู้เข้าร่วมคนอื่นๆ อีก %2$d คนลงในกลุ่มแล้ว</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">คุณและผู้เข้าร่วมคนอื่นๆ อีก %1$d คนถูกลบออกจากกลุ่ม</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">%1$s และผู้เข้าร่วมคนอื่นๆ อีก %2$d คนถูกลบออกจากกลุ่ม</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">คุณเพิ่ม %1$d คน</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">คุณเพิ่ม %1$s, %2$s และคนอื่นๆ อีก %3$d คน</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">คุณส่งรูปภาพ %1$d รูป</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">รูปภาพของคุณอยู่ในสตอรี่ของ %1$s และอีก %2$s คน</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">วิดีโอของคุณอยู่ในสตอรี่ของ %1$s และอีก %2$s คน</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">ได้มีการเพิ่มรูปภาพของคุณลงในสตอรี่แฮชแท็ก %1$s สตอรี่</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">ได้มีการเพิ่มรูปภาพของคุณลงในสตอรี่ตำแหน่ง %1$s รายการ</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">ได้มีการเพิ่มวิดีโอของคุณลงในสตอรี่แฮชแท็ก %1$s สตอรี่</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">ได้มีการเพิ่มวิดีโอของคุณลงในสตอรี่ตำแหน่ง %1$s รายการ</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">&lt;b>%1$s&lt;/b> โดย %2$s และเอ็ฟเฟ็กต์อื่นๆ อีก %3$s รายการ</item>
+    </plurals>
+    <plurals name="n_additionalDiscounts">
+        <item quantity="other">โปรโมชั่นอีก %1$d รายการ</item>
+    </plurals>
+    <plurals name="n_additionalDiscountsOffers">
+        <item quantity="other">ข้อเสนออีก %1$d รายการ</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">คุณได้รับข้อมูลลูกค้าใหม่ %1$d รายการ</item>
+    </plurals>
+    <plurals name="new_post_badge">
+        <item quantity="other">โพสต์ใหม่</item>
+    </plurals>
+    <plurals name="notification_badge">
+        <item quantity="other">%1$d การแจ้งเตือน</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">มากกว่า %1$d ข้อความที่ยังไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d ข้อความที่ยังไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">คอลเลกชั่นสินค้า %1$d รายการ</item>
+    </plurals>
+    <plurals name="num_pdp_attributes_discounts_formatted">
+        <item quantity="other">%1$s และ %2$s</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">สินค้า %1$d รายการ</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">ความคิดเห็น %1$s รายการ</item>
+    </plurals>
+    <plurals name="number_of_comments_with_specific_emoji">
+        <item quantity="other">%1$s ความคิดเห็นที่มี %2$s</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">ถูกใจ %1$s คน</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">เล่น %1$s ครั้ง</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s โพสต์</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">โพสต์สาธารณะ %1$s รายการ</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">มีคน %1$s คนถูกใจและแสดงความรู้สึก</item>
+    </plurals>
+    <plurals name="number_of_reels_in_chain">
+        <item quantity="other">คลิป Reels %1$d รายการ</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">แชร์ %1$s ครั้ง</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">ผู้รับชม %1$s คน</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">รับชม %1$s ครั้ง</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">วันนี้เมื่อ %1$d ปีที่แล้ว</item>
+    </plurals>
+    <plurals name="on_x_countries">
+        <item quantity="other">เปิดใช้งาน (%1$d ประเทศ)</item>
+    </plurals>
+    <plurals name="other_badges">
+        <item quantity="other">อื่นๆ อีก %1$d รายการ</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">คุณมีโฆษณาที่รอดำเนินการอยู่ %1$d รายการ</item>
+    </plurals>
+    <plurals name="people_tagging_x_people_plurals">
+        <item quantity="other">%2$d คน</item>
+    </plurals>
+    <plurals name="plays_user_list_title">
+        <item quantity="other">การเล่น %1$d ครั้ง</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">ผู้โหวต %1$s คนจากการโปรโมท</item>
+    </plurals>
+    <plurals name="post_live_broadcaster_user_pay_summary_info">
+        <item quantity="other">คุณมีรายได้โดยประมาณ %1$s จากเครื่องหมาย %2$s รายการ</item>
+    </plurals>
+    <plurals name="post_live_viewer_count">
+        <item quantity="other">%1$s, %2$s และคนอื่นๆ อีก %3$d คนดูวิดีโอถ่ายทอดสดของคุณ</item>
+    </plurals>
+    <plurals name="post_live_viewer_user_pay_summary_info">
+        <item quantity="other">คุณซื้อเครื่องหมาย %2$d รายการ %1$s จะเห็นรายชื่อของทุกคนที่ซื้อเครื่องหมาย</item>
+    </plurals>
+    <plurals name="product_guide_shop_row_subtitle">
+        <item quantity="other">สินค้า %1$d รายการ</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">มีการแนะนำ</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_facebook_others">
+        <item quantity="other">%1$sและลิงก์อื่นๆ อีก %2$d รายการ</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_others">
+        <item quantity="other">%1$sและอื่นๆ อีก %2$d รายการ</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_admins_with_count">
+        <item quantity="other">ผู้ดูแล ผู้ดูแล%1$s คน</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_blocked_with_count">
+        <item quantity="other">%1$s คนถูกบล็อก</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_members_with_count">
+        <item quantity="other">สมาชิก %1$s คน</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">&lt;b>%1$s&lt;/b> และ &lt;b>คนอื่นๆ อีก %2$s คน&lt;/b>ได้เพิ่มลงในหัวข้อชวนคุยนี้</item>
+    </plurals>
+    <plurals name="quickshare_add_topics_pill_text">
+        <item quantity="other">%1$d หัวข้อ</item>
+    </plurals>
+    <plurals name="recipient_picker_close_friends_count">
+        <item quantity="other">%1$s คน</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">มีอีก %1$s คนได้ดูสตอรี่นี้บน Facebook เนื่องจากคุณแชร์สตอรี่นี้เป็นสาธารณะบน Facebook คนที่ไม่ได้เป็นเพื่อนกับคุณจึงเห็นสตอรี่นี้</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">คนอื่นๆ %1$s คนดูบน Facebook</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">คะแนนโหวตสำหรับ %1$s</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">ตอบแล้ว %1$d คน นี่คือคำตอบโดยเฉลี่ย</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">รีมิกซ์โดย&lt;b>เพื่อน %1$s คน&lt;/b></item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">รีมิกซ์โดย &lt;b>%1$s คน&lt;/b></item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_message">
+        <item quantity="other">คุณกำลังลบวิดีโอ %1$d รายการออกจากไฮไลท์</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_title">
+        <item quantity="other">ลบวิดีโอ %1$d รายการออกจากไฮไลท์หรือไม่</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">ลบผู้ติดตามออก %1$s คนออกใช่ไหม</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">ลบสินค้า %1$d รายการออกแล้ว</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_body">
+        <item quantity="other">คุณได้เลือก %1$d บัญชี เมื่อคนที่คุณจำกัดไว้แสดงความคิดเห็นใหม่บนโพสต์ของคุณ ความคิดเห็นนั้นจะเห็นได้โดยพวกเขาและคุณเท่านั้น</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_primary_button">
+        <item quantity="other">จำกัดบัญชี</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_title">
+        <item quantity="other">ต้องการจำกัด %1$d บัญชีใช่ไหม</item>
+    </plurals>
+    <plurals name="rolodex_hour">
+        <item quantity="other">%1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="rolodex_minute">
+        <item quantity="other">%1$d นาที</item>
+    </plurals>
+    <plurals name="rolodex_second">
+        <item quantity="other">%1$d วินาที</item>
+    </plurals>
+    <plurals name="rtc_effects_removed_multipeer_effect_max_participant_exceed">
+        <item quantity="other">สภาพแวดล้อม %1$s รองรับคนได้สูงสุด %2$d คน</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">โพสต์ที่บันทึกไว้ %1$s โพสต์</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">ไม่สามารถเพิ่มโพสต์ได้</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">เพิ่มโพสต์ %2$s โพสต์ไปยัง %1$s แล้ว</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">ไม่สามารถย้ายโพสต์ได้</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">ย้าย %2$s โพสต์ไปยัง %1$s แล้ว</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">การดำเนินการนี้จะลบโพสต์ออกจากคอลเลกชั่นนี้และย้ายไปยัง %1$s โพสต์จะยังถูกบันทึกไว้ใน \"ที่บันทึกไว้ทั้งหมด\" อยู่</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">การเลิกบันทึกโพสต์จะเป็นการลบโพสต์ออกจากคอลเลกชั่นทั้งหมดด้วย</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">ต้องการเลิกบันทึกโพสต์หรือไม่</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">ไม่สามารถลบโพสต์ออกได้</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">ลบ %2$s โพสต์ออกจาก %1$s แล้ว</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">ไม่สามารถเลิกบันทึกโพสต์ได้</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">เลิกบันทึก %1$s โพสต์แล้ว</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">เลือกแล้ว %1$d รายการ</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">%1$d รายการ</item>
+    </plurals>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">เหลืออีก %1$d วินาที</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">โพสต์ใหม่</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s โพสต์ใหม่</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_subtitle">
+        <item quantity="other">วิดีโอ %1$d รายการถูกบล็อกในบางประเทศ</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_title">
+        <item quantity="other">วิดีโอ %1$d รายการถูกบล็อกในบางประเทศ</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_subtitle">
+        <item quantity="other">วิดีโอ %1$d รายการถูกบล็อก</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_title">
+        <item quantity="other">วิดีโอ %1$d รายการถูกบล็อก</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_subtitle">
+        <item quantity="other">วิดีโอ %1$d รายการสามารถรับชมได้ในบางประเทศเท่านั้น</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_title">
+        <item quantity="other">วิดีโอ %1$d รายการสามารถรับชมได้ในบางประเทศเท่านั้น</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">คุณสามารถเลือกความคิดเห็นได้ครั้งละ %1$d รายการเท่านั้น</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">คำขอติดตามที่รอดำเนินการอยู่ทั้งหมดจะได้รับการอนุมัติโดยอัตโนมัติ เว้นแต่ว่าคุณจะลบคำขอเหล่านั้นในตอนนี้ ตรวจสอบคำขอติดตามที่รอดำเนินการ %1$s รายการ</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">สินค้า %1$s รายการ</item>
+    </plurals>
+    <plurals name="shopping_cart_count_content_description">
+        <item quantity="other">สินค้า %1$d รายการในรถเข็นของคุณ</item>
+    </plurals>
+    <plurals name="shopping_cart_num_items">
+        <item quantity="other">%1$d รายการ</item>
+    </plurals>
+    <plurals name="shopping_cart_subtotal_title_text">
+        <item quantity="other">ยอดรวม (%1$d รายการ)</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">%1$s และ&lt;b>คนอื่นๆ อีก %2$s คน&lt;/b>เป็นสมาชิก</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s และ&lt;b>คนอื่นๆ อีก %3$s คน&lt;/b>เป็นสมาชิก</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s และ&lt;b>คนอื่นๆ อีก %4$s คน&lt;/b>เป็นสมาชิก</item>
+    </plurals>
+    <plurals name="standalone_fundraiser_with_cohost_label">
+        <item quantity="other">&lt;b>%1$s&lt;/b> และผู้จัดร่วมคนอื่นๆ อีก &lt;b>%2$s others&lt;/b> คน</item>
+    </plurals>
+    <plurals name="sticker_count_limit">
+        <item quantity="other">คุณไม่สามารถเพิ่มสติกเกอร์นี้ได้มากกว่า %1$d ครั้งต่อสตอรี่</item>
+    </plurals>
+    <plurals name="story_drafts_confirmation_title">
+        <item quantity="other">ลบฉบับร่างใช่ไหม</item>
+    </plurals>
+    <plurals name="subscriptions_shoutout_bottom_sheet_title">
+        <item quantity="other">กล่าวถึงสมาชิก %1$d คน</item>
+    </plurals>
+    <plurals name="suggested_hidden_words_toast_text">
+        <item quantity="other">เพิ่ม %1$d คำลงในรายการคำที่ซ่อนไว้แล้ว</item>
+    </plurals>
+    <plurals name="suggested_products_count">
+        <item quantity="other">สินค้าที่แนะนำ %1$d รายการ</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos">
+        <item quantity="other">รูปภาพกลุ่มจากสุดสัปดาห์ที่แล้ว</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos_with_location">
+        <item quantity="other">รูปภาพกลุ่มจากสุดสัปดาห์ที่แล้วใน %1$s</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos">
+        <item quantity="other">รูปภาพกลุ่มจากวันนี้</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos_with_location">
+        <item quantity="other">รูปภาพกลุ่มวันนี้ใน %1$s</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos">
+        <item quantity="other">รูปภาพกลุ่มจากเมื่อวานนี้</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos_with_location">
+        <item quantity="other">รูปภาพกลุ่มจากเมื่อวานนี้ใน %1$s</item>
+    </plurals>
+    <plurals name="suggestion_your_recent_favorites">
+        <item quantity="other">รายการโปรดจากสัปดาห์ที่แล้ว</item>
+    </plurals>
+    <plurals name="tagged_accounts_plural">
+        <item quantity="other">บัญชีที่แท็ก:</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">&lt;b>เพื่อน %1$s คน&lt;/b>ใช้เทมเพลตนี้</item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">มีคนใช้เทมเพลต &lt;b>%1$s คน&lt;/b></item>
+    </plurals>
+    <plurals name="thread_title_suffix_n_others">
+        <item quantity="other">...และคนอื่นๆ อีก %1$d คน</item>
+    </plurals>
+    <plurals name="thread_title_x_and_n_others">
+        <item quantity="other">%1$s และคนอื่นๆ อีก %2$d คน</item>
+    </plurals>
+    <plurals name="thread_title_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s และคนอื่นๆ อีก %3$s คน</item>
+    </plurals>
+    <plurals name="unseen_like_notification">
+        <item quantity="other">คุณมีคนกดถูกใจใหม่ %1$d คน</item>
+    </plurals>
+    <plurals name="upcoming_event_subtitle_template">
+        <item quantity="other">สินค้า %1$d รายการ · %2$s</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_list_supporters_title">
+        <item quantity="other">ผู้สนับสนุน %1$d คน</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">ผู้สนับสนุน %1$d คนจะได้รับการแจ้งเตือนในส่วนกิจกรรม</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notified_supporters_number">
+        <item quantity="other">ผู้สนับสนุนเครื่องหมาย %1$d คนจากวิดีโอถ่ายทอดสดล่าสุดของคุณจะได้รับการแจ้งเตือนเมื่อคุณแชร์สตอรี่นี้ ดู</item>
+    </plurals>
+    <plurals name="user_pay_fanclub_all_subscribers_header">
+        <item quantity="other">สมาชิกทั้งหมด (%1$d คน)</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">รับชม %1$d ครั้ง</item>
+    </plurals>
+    <plurals name="view_x_more_replies">
+        <item quantity="other">ดูข้อความตอบกลับอีก %1$d รายการ</item>
+    </plurals>
+    <plurals name="view_x_previous_replies">
+        <item quantity="other">ดูข้อความตอบกลับก่อนหน้า %1$d รายการ</item>
+    </plurals>
+    <plurals name="view_x_replies">
+        <item quantity="other">ดูข้อความตอบกลับอีก %1$d รายการ</item>
+    </plurals>
+    <plurals name="voter_count_on_surfaces">
+        <item quantity="other">โหวต · %1$s ผลโพลล์</item>
+    </plurals>
+    <plurals name="voters_count">
+        <item quantity="other">%1$s คะแนนโหวต</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">ลบความคิดเห็นออกแล้ว %1$d รายการ</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$s วัน</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">%1$s วันที่แล้ว</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s ชั่วโมง</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">%1$s ชั่วโมงที่แล้ว</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s นาที</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">%1$s นาทีที่แล้ว</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d คน</item>
+    </plurals>
+    <plurals name="x_reactions">
+        <item quantity="other">%1$s ความรู้สึก</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s วินาที</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">%1$s วินาทีที่แล้ว</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">%1$d คนตอบแล้ว</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s สัปดาห์</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">%1$s สัปดาห์ที่แล้ว</item>
+    </plurals>
+</resources>

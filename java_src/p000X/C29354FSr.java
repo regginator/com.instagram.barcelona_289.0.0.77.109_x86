@@ -1,0 +1,108 @@
+package p000X;
+
+import android.content.Context;
+import com.facebook.rsys.audio.gen.AudioOutputRoute;
+import com.instagram.service.session.UserSession;
+import java.util.Set;
+import kotlin.jvm.internal.KtLambdaShape100S0100000_I2_80;
+import kotlin.jvm.internal.KtLambdaShape113S0100000_I2_93;
+import kotlin.jvm.internal.KtLambdaShape49S0100000_I2_29;
+/* renamed from: X.FSr  reason: case insensitive filesystem */
+/* loaded from: classes6.dex */
+public final class C29354FSr extends AbstractC31753GXh {
+    public Set A00;
+    public boolean A01;
+    public final Context A02;
+    public final C32540GrW A03;
+    public final C32875Gxs A04;
+    public final C37511yy A05;
+    public final G9P A06;
+    public final C30903Fxr A07;
+    public final C30904Fxs A08;
+    public final G2Y A09;
+    public final C30913Fy1 A0A;
+    public final C31093G2f A0B;
+    public final C31764GXu A0C;
+    public final G82 A0D;
+    public final UserSession A0E;
+    public final InterfaceC12130Pj A0F;
+    public final InterfaceC12130Pj A0G;
+    public final C0ZU A0H;
+    public final C0YM A0I;
+    public final C0YM A0J;
+    public final InterfaceC91484uO A0K;
+    public final InterfaceC91484uO A0L;
+    public final InterfaceC91484uO A0M;
+    public final InterfaceC91484uO A0N;
+    public final InterfaceC91484uO A0O;
+    public final InterfaceC91484uO A0P;
+    public final InterfaceC91484uO A0Q;
+    public final InterfaceC91484uO A0R;
+    public final InterfaceC91504uQ A0S;
+    public final InterfaceC91504uQ A0T;
+    public final InterfaceC91504uQ A0U;
+    public final InterfaceC91504uQ A0V;
+    public final InterfaceC91504uQ A0W;
+    public final InterfaceC91504uQ A0X;
+    public final InterfaceC91504uQ A0Y;
+    public final InterfaceC91504uQ A0Z;
+    public final InterfaceC91504uQ A0a;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public /* synthetic */ C29354FSr(Context context, C37511yy c37511yy, C30906Fxu c30906Fxu, C30913Fy1 c30913Fy1, UserSession userSession, C0YM c0ym, C0YM c0ym2) {
+        super(c30906Fxu);
+        G2Y g2y = new G2Y(context, userSession);
+        C31764GXu c31764GXu = new C31764GXu(userSession);
+        C31093G2f c31093G2f = new C31093G2f(userSession);
+        G82 g82 = (G82) userSession.A01(G82.class, new KtLambdaShape113S0100000_I2_93(userSession, 32));
+        G9P g9p = new G9P(userSession);
+        KtLambdaShape100S0100000_I2_80 ktLambdaShape100S0100000_I2_80 = new KtLambdaShape100S0100000_I2_80(userSession, 38);
+        C0OR.A0B(c37511yy, 6);
+        C0OR.A0B(g82, 11);
+        this.A02 = context;
+        this.A0E = userSession;
+        this.A0I = c0ym;
+        this.A0A = c30913Fy1;
+        this.A05 = c37511yy;
+        this.A0J = c0ym2;
+        this.A09 = g2y;
+        this.A0C = c31764GXu;
+        this.A0B = c31093G2f;
+        this.A0D = g82;
+        this.A06 = g9p;
+        this.A0H = ktLambdaShape100S0100000_I2_80;
+        C81Q c81q = C81Q.A00;
+        this.A00 = c81q;
+        EZ6 A0w = C25940wr.A0w(false);
+        this.A0L = A0w;
+        EZ6 A0w2 = C25940wr.A0w(false);
+        this.A0M = A0w2;
+        EZ6 A0w3 = C25940wr.A0w(EnumC23658ChO.SYNCED);
+        this.A0Q = A0w3;
+        EZ6 A0w4 = C25940wr.A0w(C24726CzR.A01);
+        this.A0O = A0w4;
+        EZ6 A0w5 = C25940wr.A0w(new C28838F0l(AudioOutputRoute.UNKNOWN, AnonymousClass006.A0Y));
+        this.A0N = A0w5;
+        EZ6 A0w6 = C25940wr.A0w(false);
+        this.A0P = A0w6;
+        EZ6 A0w7 = C25940wr.A0w(c81q);
+        this.A0K = A0w7;
+        EZ6 A0w8 = C25940wr.A0w(EnumC29689Fd0.SOLO);
+        this.A0R = A0w8;
+        this.A03 = C30002Fis.A00(userSession);
+        this.A04 = (C32875Gxs) userSession.A01(C32875Gxs.class, new KtLambdaShape49S0100000_I2_29(userSession, 46));
+        this.A0F = C28354Emp.A0u(this, 39);
+        this.A0W = c31764GXu.A07;
+        this.A0Z = C25960wt.A0v(null, A0w3);
+        this.A0T = C25960wt.A0v(null, A0w);
+        this.A0U = C25960wt.A0v(null, A0w2);
+        this.A0X = C25960wt.A0v(null, A0w4);
+        this.A0V = C25960wt.A0v(null, A0w5);
+        this.A0Y = C25960wt.A0v(null, A0w6);
+        this.A0S = C25960wt.A0v(null, A0w7);
+        this.A0a = C25960wt.A0v(null, A0w8);
+        this.A08 = new C30904Fxs(this);
+        this.A07 = new C30903Fxr(this);
+        this.A0G = C70473iS.A07(C1442689u.A00);
+    }
+}

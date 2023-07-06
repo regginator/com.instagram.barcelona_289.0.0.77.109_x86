@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/abc_control_corner_material" android:color="@color/igds_icon_on_color" />
+    <size android:height="@dimen/appreciation_reels_grid_item_width" android:width="@dimen/appreciation_reels_grid_item_width" />
+</shape>

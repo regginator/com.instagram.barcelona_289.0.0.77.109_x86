@@ -1,0 +1,8 @@
+package p000X;
+
+import java.util.List;
+/* renamed from: X.1Vd  reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes2.dex */
+public final class C29681Vd extends C1n7 {
+    public List A00 = C0ZV.A00;
+}

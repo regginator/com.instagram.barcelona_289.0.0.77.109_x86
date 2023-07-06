@@ -1,0 +1,17 @@
+.class public final LX/C2U;
+.super LX/LsI;
+.source ""
+
+
+# direct methods
+.method public constructor <init>(Lcom/instagram/igds/components/mediabutton/IgdsMediaButton;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0, p1}, LX/LsI;-><init>(Landroid/view/View;)V
+
+    .line 1
+    .line 2
+    .line 3
+    return-void
+.end method

@@ -1,0 +1,11 @@
+.class public interface abstract LX/0ZU;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lkotlin/Function;
+
+
+# virtual methods
+.method public abstract invoke()Ljava/lang/Object;
+.end method

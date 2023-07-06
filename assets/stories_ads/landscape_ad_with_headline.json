@@ -1,0 +1,574 @@
+{
+  "id":"landscape_ad_with_headline",
+  "latest_reel_media":null,
+  "expiring_at":9564178697,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":false,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk":20269764,
+    "username":"adidas",
+    "full_name":"adidas",
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "1814283376876563268_224223453",
+    "is_verified":true
+  },
+  "cop_render_output": [
+    {
+      "optimization_type": "22",
+      "option_value": "220001"
+    }
+  ],
+  "items":[
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844400,
+      "id":"landscape_ad_with_headline_only",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":3024,
+            "height":3024,
+            "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+          }
+        ]
+      },
+      "original_width":3024,
+      "original_height":3024,
+      "user":{
+        "pk":20269764,
+        "username":"adidas",
+        "full_name":"adidas",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified":true
+      },
+      "story_ad_headline": {
+        "text": "This is the headline",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "text_size": 28,
+        "background_color_alpha": "00",
+        "show_headline" : true
+      },
+      "can_viewer_save":true,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.adidas.com/",
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#005478"
+        },
+        "bottom":{
+          "background_color":"#1a5d80"
+        }
+      },
+      "is_reel_media":true
+    },
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844401,
+      "id":"landscape_ad_with_short_headline",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":3024,
+            "height":3024,
+            "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+          }
+        ]
+      },
+      "original_width":3024,
+      "original_height":3024,
+      "user":{
+        "pk":20269764,
+        "username":"adidas",
+        "full_name":"adidas",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified":true
+      },
+      "caption":{
+        "content_type":"comment",
+        "pk":"2095662360135844325_headline",
+        "text":"This is a long caption. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space.",
+        "type":1,
+        "background_color":"#0f374c",
+        "background_color_alpha":"FF",
+        "text_color":"#FFFFFF",
+        "text_size":16
+      },
+      "story_ad_headline": {
+        "text": "This is the #headline",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "text_size": 28,
+        "background_color_alpha": "00",
+        "show_headline" : true
+      },
+      "can_viewer_save":true,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.adidas.com/",
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#005478"
+        },
+        "bottom":{
+          "background_color":"#1a5d80"
+        }
+      },
+      "is_reel_media":true
+    },
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844402,
+      "id":"landscape_ad_with_long_headline",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":3024,
+            "height":3024,
+            "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+          }
+        ]
+      },
+      "original_width":3024,
+      "original_height":3024,
+      "user":{
+        "pk":20269764,
+        "username":"adidas",
+        "full_name":"adidas",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified":true
+      },
+      "caption":{
+        "content_type":"comment",
+        "pk":"2095662360135844325_headline",
+        "text":"This is a long caption. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space.",
+        "type":1,
+        "background_color":"#0f374c",
+        "background_color_alpha":"FF",
+        "text_color":"#FFFFFF",
+        "text_size":16
+      },
+      "story_ad_headline": {
+        "text": "This is a long headline which may take 2 lines",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "text_size": 28,
+        "background_color_alpha": "00",
+        "show_headline" : true
+      },
+      "can_viewer_save":true,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.adidas.com/",
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#005478"
+        },
+        "bottom":{
+          "background_color":"#1a5d80"
+        }
+      },
+      "is_reel_media":true
+    },
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844403,
+      "id":"landscape_ad_with_truncated_headline",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":3024,
+            "height":3024,
+            "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+          }
+        ]
+      },
+      "original_width":3024,
+      "original_height":3024,
+      "user":{
+        "pk":20269764,
+        "username":"adidas",
+        "full_name":"adidas",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified":true
+      },
+      "caption":{
+        "content_type":"comment",
+        "pk":"2095662360135844325_headline",
+        "text":"This is a long caption. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space.",
+        "type":1,
+        "background_color":"#0f374c",
+        "background_color_alpha":"FF",
+        "text_color":"#FFFFFF",
+        "text_size":16
+      },
+      "story_ad_headline": {
+        "text": "This is a very long headline, which is hopefully taking more than 2 lines. This headline should be truncated automatically.",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "text_size": 28,
+        "background_color_alpha": "00",
+        "show_headline" : true
+      },
+      "can_viewer_save":true,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.adidas.com/",
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#005478"
+        },
+        "bottom":{
+          "background_color":"#1a5d80"
+        }
+      },
+      "is_reel_media":true
+    },
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844401,
+      "id":"landscape_ad_with_short_headline_and_translated_caption",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":3024,
+            "height":3024,
+            "url":"https://images.unsplash.com/photo-1584545284372-f22510eb7c26"
+          }
+        ]
+      },
+      "original_width":3024,
+      "original_height":3024,
+      "user":{
+        "pk":20269764,
+        "username":"adidas",
+        "full_name":"adidas",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified":true
+      },
+      "caption":{
+        "content_type":"comment",
+        "pk":"2095662360135844325_headline",
+        "text":"This is a long caption. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space.",
+        "type":1,
+        "background_color":"#0f374c",
+        "background_color_alpha":"FF",
+        "text_color":"#FFFFFF",
+        "text_size":16
+      },
+      "story_ad_headline": {
+        "text": "This is the headline",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "text_size": 28,
+        "background_color_alpha": "00",
+        "show_headline" : true
+      },
+      "can_viewer_save":true,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688,
+        "is_autotranslated": true
+      },
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.adidas.com/",
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#005478"
+        },
+        "bottom":{
+          "background_color":"#1a5d80"
+        }
+      },
+      "is_reel_media":true
+    },
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844402,
+      "id":"landscape_ad_with_landscape_image_and_headline",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":1050,
+            "height":700,
+            "url":"https://images.unsplash.com/photo-1555274175-6cbf6f3b137b?w=1050"
+          }
+        ]
+      },
+      "original_width":1050,
+      "original_height":700,
+      "user":{
+        "pk":20269764,
+        "username":"adidas",
+        "full_name":"adidas",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified":true
+      },
+      "caption":{
+        "content_type":"comment",
+        "pk":"2095662360135844325_headline",
+        "text":"This is a long caption. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space.",
+        "type":1,
+        "background_color":"#575757",
+        "background_color_alpha":"FF",
+        "text_color":"#FFFFFF",
+        "text_size":16
+      },
+      "story_ad_headline": {
+        "text": "This is the headline",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "text_size": 28,
+        "background_color_alpha": "00",
+        "show_headline" : true
+      },
+      "can_viewer_save":true,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.adidas.com/",
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#cecece"
+        },
+        "bottom":{
+          "background_color":"#a1a1a1"
+        }
+      },
+      "is_reel_media":true
+    },
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844402,
+      "id":"landscape_ad_with_portrait_image_and_headline",
+      "media_type":1,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":1200,
+            "height":1500,
+            "url":"https://images.unsplash.com/photo-1562183241-b937e95585b6?w=1200"
+          }
+        ]
+      },
+      "original_width":1200,
+      "original_height":1500,
+      "user":{
+        "pk":20269764,
+        "username":"adidas",
+        "full_name":"adidas",
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified":true
+      },
+      "caption":{
+        "content_type":"comment",
+        "pk":"2095662360135844325_headline",
+        "text":"This is a long caption. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space. Here is a sentence to take up space.",
+        "type":1,
+        "background_color":"#28241E",
+        "background_color_alpha":"FF",
+        "text_color":"#FFFFFF",
+        "text_size":16
+      },
+      "story_ad_headline": {
+        "text": "This is the headline",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "text_size": 28,
+        "background_color_alpha": "00",
+        "show_headline" : true
+      },
+      "can_viewer_save":true,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "ad_id":6143732361688
+      },
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.adidas.com/",
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#cecece"
+        },
+        "bottom":{
+          "background_color":"#a1a1a1"
+        }
+      },
+      "is_reel_media":true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "carousel_rendering_type":"mps",
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

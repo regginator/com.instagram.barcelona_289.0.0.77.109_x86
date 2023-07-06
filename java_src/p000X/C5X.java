@@ -1,0 +1,5 @@
+package p000X;
+/* renamed from: X.C5X */
+/* loaded from: classes5.dex */
+public final class C5X extends AbstractC25770wY {
+}

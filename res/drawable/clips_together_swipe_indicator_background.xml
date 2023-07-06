@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:padding="20.0dip" android:startColor="@color/black_60_transparent" android:endColor="@color/fds_transparent" android:angle="0.0" android:type="radial" android:gradientRadius="@dimen/audience_controls_footer_button_radius" android:centerColor="@color/black_60_transparent" />
+</shape>

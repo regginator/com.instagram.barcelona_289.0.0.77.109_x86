@@ -1,0 +1,883 @@
+{
+  "id": 28283432637097,
+  "latest_reel_media": null,
+  "expiring_at": 1646771191,
+  "seen": null,
+  "can_reply": null,
+  "can_gif_quick_reply": true,
+  "can_reshare": null,
+  "reel_type": "netego_reel",
+  "ad_expiry_timestamp_in_millis": null,
+  "is_cta_sticker_available": null,
+  "products_for_you_in_story": {
+    "type": 94,
+    "netego_type": "products_for_you_in_story",
+    "is_unit_dismissable": true,
+    "id": "28283432637097",
+    "tracking_token": "eyJ1dWlkIjoiODBkODU0ODlkNmFjNDIxMjhlMTUyZTZlNjIyMWU2ZjgiLCJwYXlsb2FkIjp7InV1aWQiOjE1ODE5NTk2OTIsIm5ldF9lZ29fdHlwZSI6OTQsImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MC4wMzYwNTM0NTM0LCJmYl91c2VyX2lkIjo3MzcyNTU5NzIsImdsb2JhbF9wb3NpdGlvbiI6OSwiZ2FwX3J1bGVfdmFsdWUiOjEsInJpZ2h0X2dhcF9ydWxlX3ZhbHVlIjoxLCJoaWdoZXN0X25ldGVnb19wb3NpdGlvbiI6MSwiZWNwbV9wcmljZSI6MzkzNi4wLCJwYWNpbmdfcWVfaW5mbyI6InByb2R1Y3RzX2Zvcl95b3Vfc3RvcnlfYnVkZ2V0X3Rlc3R8dGVzdCIsInVzZXJfZG9sbGFyX3ZhbHVlIjozLjQ3ODk0MjU2NiwiaXNfbmV3X2luc2VydGlvbiI6dHJ1ZSwiaXNfZnJvbV9uZWVkeV91c2VyIjpmYWxzZSwiYXVjdGlvbl9wcmljZV9vdXRjb21lIjozLCJxcF9pZCI6Njk2NzA2Njg0Njk3NDQ2fX0=",
+    "global_position": null,
+    "icon": "shopping_bag",
+    "title": {
+      "rich_text": "Products for you",
+      "destination": null
+    },
+    "subtitle": null,
+    "bottom_cta": {
+      "rich_text": "See more products",
+      "destination": "instagram://shopping_home?prior_module=reel_feed_timeline\u0026entry_point=products_for_you_in_story\u0026title=Suggested%20for%20You\u0026destination=products_for_you"
+    },
+    "description_text": null,
+    "duration": 15,
+    "suggestion_type": "products",
+    "products": [
+      {
+        "micro_product": {
+          "name": "Champion Sweatpants Large",
+          "price": "$30.00",
+          "current_price": "$30.00",
+          "full_price": "$30.00",
+          "product_id": "3783413678349491",
+          "compound_product_id": "3783413678349491_2238461388",
+          "merchant": {
+            "pk": 2238461388,
+            "username": "vintagesponsor",
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/188933311_582041672760613_4067987070771845772_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=101\u0026_nc_ohc=p2L-FY7JlbcAX9Ap02F\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026oh=00_AT85iTsmAZu0Abuysk40qJU11Wu0pH2HoAFgMHCf3daHhg\u0026oe=622D2849\u0026_nc_sid=e4e9cf",
+            "disabled_sharing_products_to_guides": false
+          },
+          "description": "Great condition",
+          "rich_text_description": [
+            {
+              "block_type": "PARAGRAPH",
+              "depth": 0,
+              "text_with_entities": {
+                "text": "Great condition",
+                "inline_style_ranges": []
+              }
+            }
+          ],
+          "retailer_id": "16043456888875",
+          "has_viewer_saved": false,
+          "main_image": {
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251057104_4631929330199140_6573154763524084440_n.jpg?stp=dst-jpg_p403x403\u0026_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=jlvQLt9XXskAX8VgneU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9Ey-itd50sFCa72nmBNqH7oHdDECn3kNw3fYCIo5iB8g\u0026oe=622C1638",
+                  "width": 403,
+                  "height": 403
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251057104_4631929330199140_6573154763524084440_n.jpg?stp=dst-jpg_p600x600\u0026_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=jlvQLt9XXskAX8VgneU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9wMswq8MRdlgyxb3oXzdsD-s-YuHaOEjBoAf1RbLv-KQ\u0026oe=622C1638",
+                  "width": 600,
+                  "height": 600
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251057104_4631929330199140_6573154763524084440_n.jpg?stp=dst-jpg_p843x403\u0026_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=jlvQLt9XXskAX8VgneU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9xzUVBw4TZgGOx_Ybl1V2BYb0Qi1mFLoVKCm0BkXFk4g\u0026oe=622C1638",
+                  "width": 843,
+                  "height": 843
+                },
+                {
+                  "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/251057104_4631929330199140_6573154763524084440_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=103&ccb=1-5&_nc_sid=c48759&_nc_ohc=MKe7LQBJWnwAX_IdzeL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT-9dyLFpSmN0d-ektHMAom7hCJTvn6bC4D1k7r8K_soUg&oe=6251A8F8",
+                  "width": 2048,
+                  "height": 2048
+                }
+              ]
+            },
+            "preview": null
+          },
+          "main_image_id": "4631929320199141",
+          "thumbnail_image": {
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251057104_4631929330199140_6573154763524084440_n.jpg?stp=c0.0.3024.3024a_dst-jpg_s150x150\u0026_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=jlvQLt9XXskAX8VgneU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9cYdObt29a0BWlTeRBdSvrr2B4xt8xab5SbGvg7mbmzQ\u0026oe=622C1638",
+                  "width": 150,
+                  "height": 150
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251057104_4631929330199140_6573154763524084440_n.jpg?stp=c0.0.3024.3024a_dst-jpg_s225x225\u0026_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=jlvQLt9XXskAX8VgneU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT8lfxZUviR3eUG63I-xTZg-Ucq55xmt5XxkhK99GhhmEA\u0026oe=622C1638",
+                  "width": 225,
+                  "height": 225
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251057104_4631929330199140_6573154763524084440_n.jpg?stp=c0.0.3024.3024a_dst-jpg_s300x300\u0026_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=jlvQLt9XXskAX8VgneU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT8MrGe_4ilJoS9o-beUXjUrNuOgscLMHNMN4YubyCAIKA\u0026oe=622C1638",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251057104_4631929330199140_6573154763524084440_n.jpg?stp=c0.0.3024.3024a_dst-jpg_s450x450\u0026_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=jlvQLt9XXskAX8VgneU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT-JpaczxHScNzGHHMH3KfjcTr5_pmXA9b4UyQfIOgVFqg\u0026oe=622C1638",
+                  "width": 450,
+                  "height": 450
+                }
+              ]
+            },
+            "preview": null
+          },
+          "review_status": "approved",
+          "external_url": "https://vintagesponsor.com/?utm_source=IGShopping\u0026utm_medium=Social",
+          "checkout_style": "external_link",
+          "can_share_to_story": true,
+          "full_price_stripped": "$30",
+          "current_price_stripped": "$30",
+          "full_price_amount": "30.00",
+          "current_price_amount": "30.00",
+          "is_in_stock": false,
+          "has_variants": false,
+          "ig_is_product_editable_on_mobile": false,
+          "aggregated_rating": {
+            "value": 0.0,
+            "rating_count": 0
+          },
+          "commerce_review_statistics": {
+            "average_rating": 0.0,
+            "review_count": 0,
+            "rating_stars": [
+              "EMPTY",
+              "EMPTY",
+              "EMPTY",
+              "EMPTY",
+              "EMPTY"
+            ]
+          },
+          "can_viewer_see_rnr": true,
+          "image_quality_metadata": {
+            "goodness": [
+              {
+                "id": "3489980181095281",
+                "score": 0.99999237060547
+              },
+              {
+                "id": "4325122590914910",
+                "score": 0.5768678188324
+              },
+              {
+                "id": "4582386191822415",
+                "score": 0.99455958604813
+              }
+            ],
+            "lifestyle_background": [
+              {
+                "id": "3489980181095281",
+                "score": 0.11804454028606
+              },
+              {
+                "id": "4325122590914910",
+                "score": 0.88120061159134
+              },
+              {
+                "id": "4582386191822415",
+                "score": 0.80942928791046
+              }
+            ]
+          },
+          "size_calibration_score_num_reviews": 0,
+          "product_images": [
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251057104_4631929330199140_6573154763524084440_n.jpg?stp=dst-jpg_p960x960\u0026_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=jlvQLt9XXskAX8VgneU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT_XRQoR2XkByQ9A-Qb8TzwXHTyZh-Mga35Yb8VeIze9Mg\u0026oe=622C1638",
+                    "width": 960,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": null
+            },
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/253809970_4585634724816540_6552196218279827997_n.jpg?stp=dst-jpg_p960x960\u0026_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=xvpFSqEiEBQAX92hmPS\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT_nmIgFwzOO6xwhO2tDblRfRhjFo0noHtGRX-VHUKIkFg\u0026oe=622AC643",
+                    "width": 960,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": null
+            },
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/252717668_4326648454049110_923963486637796125_n.jpg?stp=dst-jpg_p960x960\u0026_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=Ecxn-j7VL2UAX9hauQW\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9BcQcQAeNEO7inQGMT5ciijhvIDZCewbhuum7YzUjupQ\u0026oe=622B3E97",
+                    "width": 960,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": "ACoqk0a5yDC3Ucj6f/WP863q4WGUwuJB1U/p3FdtHIJFDryGGaGBh6rZrkyoMMOWA7jvx6jrWEDXbTR+YPcfqPSuNniMLlD26fTtTQiOnCRhwCfzpmaXNMBDXQaNc5UwN1Xlfp3H4GuerZsLKRGErZBxwPr6+nrSYHR5rJ1S085dyffHT39R+P8AOtLJ70ZqRnM22lyzH5/kX1PU/T/GtcaRBjv+dX91GaYGba6WIfnY7n+nA+nvWiPlGBTzUZpAGaSiigAqLz4x/Ev5isO4kZpCCSR6EnFRVDlY0Ubn/9k="
+            }
+          ]
+        },
+        "cta": {
+          "rich_text": "View Product",
+          "destination": "instagram://product_display_page?product_id=3783413678349491\u0026business_user_id=2238461388\u0026merchant_name=vintagesponsor\u0026prior_module=reel_feed_timeline\u0026entry_point=products_for_you_in_story\u0026checkout_style='null'"
+        }
+      },
+      {
+        "micro_product": {
+          "name": "Dream Away - Final Sale",
+          "price": "$148.00",
+          "current_price": "$118.00",
+          "full_price": "$148.00",
+          "product_id": "3551203308321372",
+          "compound_product_id": "3551203308321372_5764761120",
+          "merchant": {
+            "pk": 5764761120,
+            "username": "butterclothshirt",
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/106024438_3251679074888490_8179198862487967779_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=106\u0026_nc_ohc=Ai7rhl8eve8AX9SWrg4\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026oh=00_AT9IEWqw6eGX436MmI_2FqYB5rO0zLHSSov8KG3uL6-PPQ\u0026oe=622DBE56\u0026_nc_sid=e4e9cf",
+            "disabled_sharing_products_to_guides": false
+          },
+          "description": "The Dream Away pullover comes in a rich burgundy color that you'll love each time that you catch a glimpse of your reflection. Unlike a conventional pullover, you can now enjoy real comfort and movement, with the soft hand feel of long fiber cotton, 6-way stretch, and Buttercloth's trademark double-sided construction. Equally important, you'll look amazing in our signature tailored fit. Step with confidence into a meeting or out to a dinner party with coworkers, looking every inch the dapper gentleman that you are.\nModel is 6'2\" with a 40\" Chest and is wearing size M, Regular fit",
+          "rich_text_description": [
+            {
+              "block_type": "PARAGRAPH",
+              "depth": 0,
+              "text_with_entities": {
+                "text": "The Dream Away pullover comes in a rich burgundy color that you'll love each time that you catch a glimpse of your reflection. Unlike a conventional pullover, you can now enjoy real comfort and movement, with the soft hand feel of long fiber cotton, 6-way stretch, and Buttercloth's trademark double-sided construction. Equally important, you'll look amazing in our signature tailored fit. Step with confidence into a meeting or out to a dinner party with coworkers, looking every inch the dapper gentleman that you are.",
+                "inline_style_ranges": []
+              }
+            },
+            {
+              "block_type": "PARAGRAPH",
+              "depth": 0,
+              "text_with_entities": {
+                "text": "Model is 6'2\" with a 40\" Chest and is wearing size M, Regular fit",
+                "inline_style_ranges": []
+              }
+            }
+          ],
+          "retailer_id": "38569619325109",
+          "has_viewer_saved": false,
+          "main_image": {
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251376565_6555070257867153_3391425737078166341_n.jpg?stp=dst-jpg_s403x403\u0026_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=idMgTF1qcAsAX-TAgRL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT8mucseHLC9HnA3mMad_sqmJyQBXGpFiBenXbayMWaA8g\u0026oe=622B5FDE",
+                  "width": 268,
+                  "height": 403
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251376565_6555070257867153_3391425737078166341_n.jpg?stp=dst-jpg_s600x600\u0026_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=idMgTF1qcAsAX-TAgRL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT-0xX3MdAuG_nnJTHTr-NMbBdKPHLD8QroIybJqdlkwwg\u0026oe=622B5FDE",
+                  "width": 400,
+                  "height": 600
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251376565_6555070257867153_3391425737078166341_n.jpg?stp=dst-jpg_p552x414\u0026_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=idMgTF1qcAsAX-TAgRL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT8C0o8Cku2bXgqZ3FET0jxJ6DsAQ_0BTCmYNCRGXOJbAA\u0026oe=622B5FDE",
+                  "width": 552,
+                  "height": 828
+                },
+                {
+                  "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/251376565_6555070257867153_3391425737078166341_n.jpg?stp=dst-jpg_p843x403&_nc_cat=107&ccb=1-5&_nc_sid=c48759&_nc_ohc=NbECkJmPCx0AX8fqAPf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT9zdCncGrzY0yGaJSeIOGoT6jlFx-ulQi_U311QVOWwhA&oe=6250F29E",
+                  "width": 843,
+                  "height": 1264
+                }
+              ]
+            },
+            "preview": null
+          },
+          "main_image_id": "6555070254533820",
+          "thumbnail_image": {
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251376565_6555070257867153_3391425737078166341_n.jpg?stp=c0.80.900.900a_dst-jpg_s150x150\u0026_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=idMgTF1qcAsAX-TAgRL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT_fKULlDWBHWW_Zu9k56LKHLLw1tqiOINRLIcwwEqKbqw\u0026oe=622B5FDE",
+                  "width": 150,
+                  "height": 150
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251376565_6555070257867153_3391425737078166341_n.jpg?stp=c0.80.900.900a_dst-jpg_s225x225\u0026_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=idMgTF1qcAsAX-TAgRL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9Vbd1BZZBXHaZRNUvzrYMR3ieAuTN_XE7nZGjCZ4S_hg\u0026oe=622B5FDE",
+                  "width": 225,
+                  "height": 225
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251376565_6555070257867153_3391425737078166341_n.jpg?stp=c0.80.900.900a_dst-jpg_s300x300\u0026_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=idMgTF1qcAsAX-TAgRL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9ogMi7orv3ubHWOQ3dy_yEwYmUMa3wNbxk75YeSt-nvQ\u0026oe=622B5FDE",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251376565_6555070257867153_3391425737078166341_n.jpg?stp=c0.80.900.900a_dst-jpg_s450x450\u0026_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=idMgTF1qcAsAX-TAgRL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9nS3npX7saLWzGBTW5xnE3B6CPBPi4hJs7nUI9Tbdkhw\u0026oe=622B5FDE",
+                  "width": 450,
+                  "height": 450
+                }
+              ]
+            },
+            "preview": null
+          },
+          "review_status": "approved",
+          "external_url": "https://buttercloth.com/products/dream-away-in-sonoma-wine?utm_content=Facebook_UA\u0026variant=38569619325109\u0026utm_source=IGShopping\u0026utm_medium=Social",
+          "checkout_style": "external_link",
+          "can_share_to_story": true,
+          "full_price_stripped": "$148",
+          "current_price_stripped": "$118",
+          "full_price_amount": "148.00",
+          "current_price_amount": "118.00",
+          "is_in_stock": true,
+          "has_variants": false,
+          "arts_labels": {
+            "labels": [
+              {
+                "label_type": "SALE",
+                "label_display_value": "20% off"
+              }
+            ]
+          },
+          "ig_is_product_editable_on_mobile": false,
+          "aggregated_rating": {
+            "value": 4.962962962963,
+            "rating_count": 27
+          },
+          "commerce_review_statistics": {
+            "average_rating": 4.962962962963,
+            "review_count": 27,
+            "rating_stars": [
+              "FULL",
+              "FULL",
+              "FULL",
+              "FULL",
+              "FULL"
+            ]
+          },
+          "can_viewer_see_rnr": true,
+          "image_quality_metadata": {
+            "goodness": [
+              {
+                "id": "5219244228128298",
+                "score": 0.9999942779541
+              }
+            ],
+            "lifestyle_background": [
+              {
+                "id": "5219244228128298",
+                "score": 0.034797962754965
+              }
+            ]
+          },
+          "size_calibration_score_num_reviews": 0,
+          "product_images": [
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251376565_6555070257867153_3391425737078166341_n.jpg?stp=dst-jpg_p640x640\u0026_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=idMgTF1qcAsAX-TAgRL\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT8-oRE9hiOuBARn7vcSVi8a1irVwX-d1HWfWmXit66Ylg\u0026oe=622B5FDE",
+                    "width": 640,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": null
+            },
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251028705_4519832618073131_4437346065058016644_n.jpg?stp=dst-jpg_p640x640\u0026_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=GS6F7m5Piz8AX_oGg4J\u0026_nc_oc=AQmfcKXhRrLfR2IoN9OXIHoU_HAbu3yHPk5slM9WyKNPvxyA_A4DCem3TcXtvHErZkZ6qYJIsO0ha3D0SL1gFR3l\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT-G-Zyd5zuU121uuBZx64e9ZiMGiMr0hfl-TwRutHnVBw\u0026oe=622B8758",
+                    "width": 640,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": null
+            },
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251053641_4532868046770033_3265069446574376054_n.jpg?stp=dst-jpg_p640x640\u0026_nc_cat=110\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=On3CGi8YL68AX8EvoxA\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9_3EOX8YCuIZ-bOLJ4yUdaO-wQ3VX7T9wjs70E5Fm-EQ\u0026oe=622BF127",
+                    "width": 640,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": "ABwq36z55UW4QM+0jHc9CDwR0APHJ9q0RXH3mfMYnksSQeemTjr+XHHagaOvpKz9JlMkG09Yzt/DqPyzitGgQVyVyA00hJIwTtwOnP6Dr0711prmruLE0ncAbj9CRQBv28KwRiNOg79yT1J+tTU2Ngyhl5BGR9KdQAmaygoa8dDzmPBH5Vq1Wto1VdwADEnJAGT9TQBBppKxtE3PlOVz7da0M1HGiqDtAGSScDGT6/Wn0wP/2Q=="
+            },
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251073010_4411939912234854_7196276372590048404_n.jpg?stp=dst-jpg_p640x640\u0026_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=uVe2WS76pkgAX9XIZBg\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT89l3ToVTj8SgA_qhiq9pMe4ivFELhk51kvRgnmf8y-Pw\u0026oe=622B7EFF",
+                    "width": 640,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": "ABwq2rlQY2JxwMgmsVnRuWbYRwQTj/P1ov8AUROvlxghe7HqcdAB2H1qit47KSUVioGT+OM/njpUtGi03N3T5FcsO/BGeu3pn8T/AErRrjYbqSOTzgct+hHpj0reTWISMuGU9xjI/A1S0JZz1NI/Wn0lBQmKKWigBCaKSloASjNFIaAP/9k="
+            },
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/251113524_4244911392284041_8408460439489801157_n.jpg?stp=dst-jpg_p640x640\u0026_nc_cat=104\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=jZ1smpKQ1jkAX8qiFPt\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT_Dwg5KxIPRvBcBaF4Ih7lrjALqzwvUlZGH_FseSObDmA\u0026oe=622B3A26",
+                    "width": 640,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": "ABwqnvtS8omOL7w6t6ew9T6+lVbS6nnl2sxZQCxHA6D2xWdFbyTB5F+7HyxP8h6nHJpmTjjigv0JmuAknI3IGJKnocnn/P511FvcxzoHjIx0wcAj2x/kVxoTfyelKRjpSSsDVzsY4Fhh8pegUj6nHJPue9cgTgV115J5cDsc9Mcdcnj/AD7VxzGmJDs9AO5prHmhOucdKXBPQE/hQUXp1nu34BZV4GeF44z6c9fWqkkfksUk6j06fnW43C4HAA4HpUOjqHldmAJHQnkj6VKfQTSWpjFyenAqSK3mlGYgSAcHB7/5xTZO/wBTXVaWMWyY4yCT9cmqJvc//9k="
+            }
+          ]
+        },
+        "cta": {
+          "rich_text": "View Product",
+          "destination": "instagram://product_display_page?product_id=3551203308321372\u0026business_user_id=5764761120\u0026merchant_name=butterclothshirt\u0026prior_module=reel_feed_timeline\u0026entry_point=products_for_you_in_story\u0026checkout_style='null'"
+        }
+      },
+      {
+        "micro_product": {
+          "name": "Men's The Legacy",
+          "price": "$110.00",
+          "current_price": "$110.00",
+          "full_price": "$110.00",
+          "product_id": "4956876037685710",
+          "compound_product_id": "4956876037685710_1803853387",
+          "merchant": {
+            "pk": 1803853387,
+            "username": "suavsshoes",
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/100931760_3132595250126223_1204553024458981376_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=1\u0026_nc_ohc=BBgMeG97-UEAX86hm7Z\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026oh=00_AT9APpeK-Tdxlg0v99cvHfedoW5WyBhOhU2aw1HyEdhXPw\u0026oe=622D470E\u0026_nc_sid=e4e9cf",
+            "disabled_sharing_products_to_guides": false
+          },
+          "description": "Description\nEasy to slip on high tops that can be dressed up like boots, worn like sneakers, and feel like comfy socks.  Designed with a natural toe box, weather proof toe cap, and an ankle hugging upper, these versatile shoes are made for going anywhere and doing anything.\n\nWide, Natural Toe Box\nEasy to Slip On without Untying/Unlacing\nRubber toe cap keeps your toes dry in rainy weather\nSoft ankle hugging Upper\nMoisture Wicking and Breathable Materials (For wearing with or without socks)\nWashable \u0026 Dries Quick\nPacks Flat (Perfect for any bag or your travels)\nMade Sustainably with 100% Post-Consumer Recycled Threads\n\nMinimalist sole with 3-5 mm heel to toe drop\n\n\n\n \nFitting\nFits true to size.  Half sizes should size up.\nIf you need more help with sizing or fitting, please email us at contact@suavs.com.\n \nMaterials\n\nPremium Digital Knit Upper made from Post-Consumer Recycled Water Bottles.\nSoft Rubber toe cap.\nCotton Laces.\nRemovable \u0026 washable foam insole lined with micro towel for moisture absorption.\nFlexible, stitched rubber sole bends right along with your feet's movements.\nVegan Friendly.",
+          "retailer_id": "32979217285143",
+          "has_viewer_saved": false,
+          "main_image": {
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/160012846_3618973871557703_2451754935197756657_n.jpg?stp=dst-jpg_p403x403\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=nRPFXJlMgBkAX-6gYqV\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9LtaxaBZOBTSeLa8GCrtnLBrebHJTt7jRsOjlwHDC5zQ\u0026oe=622ADE65",
+                  "width": 403,
+                  "height": 403
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/160012846_3618973871557703_2451754935197756657_n.jpg?stp=dst-jpg_p600x600\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=nRPFXJlMgBkAX-6gYqV\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT-7VC-7pchDxiLc4cNoirc1tDtC7tmAT70oKkiY7uqWTw\u0026oe=622ADE65",
+                  "width": 600,
+                  "height": 600
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/160012846_3618973871557703_2451754935197756657_n.jpg?stp=dst-jpg_p843x403\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=nRPFXJlMgBkAX-6gYqV\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT86bNqInxRpKVc4ga0TICW352gNuxNxjsdJx9X4ctjcsw\u0026oe=622ADE65",
+                  "width": 843,
+                  "height": 843
+                },
+                {
+                  "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/160012846_3618973871557703_2451754935197756657_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=c48759&_nc_ohc=Xqb_tVCukWgAX9x_vHj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT9KS5nPNxoHKN4ERc8F1mxAWHZoj7ZIwNDI4EfDYKVDCw&oe=62526B65",
+                  "width": 1080,
+                  "height": 1080
+                }
+              ]
+            },
+            "preview": "ACoq6Giiq8tx5Z24yaALFFRRSbx7j/OaloAKKKKACsqRwzE+9atQG2iP8I/Wl6D06lJH2nIPNW1uBj5vzpfssX939T/jSfZIvTP4n/GjXy+//gBp5/d/wSdHDgMOhp1IAFGBwBS0xBRRRQAUUUUAFFFFAH//2Q=="
+          },
+          "main_image_id": "3618973868224370",
+          "thumbnail_image": {
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/160012846_3618973871557703_2451754935197756657_n.jpg?stp=c0.0.1080.1080a_dst-jpg_s150x150\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=nRPFXJlMgBkAX-6gYqV\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT_4OssxQvvhCfupLnGRrEiFj-UjNTUeEvnxrN6LGAUXBg\u0026oe=622ADE65",
+                  "width": 150,
+                  "height": 150
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/160012846_3618973871557703_2451754935197756657_n.jpg?stp=c0.0.1080.1080a_dst-jpg_s225x225\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=nRPFXJlMgBkAX-6gYqV\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT-W54Uxwbq3tU6n-bjTV2YPYWhIQRsUlWbKtcAD73O0mg\u0026oe=622ADE65",
+                  "width": 225,
+                  "height": 225
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/160012846_3618973871557703_2451754935197756657_n.jpg?stp=c0.0.1080.1080a_dst-jpg_s300x300\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=nRPFXJlMgBkAX-6gYqV\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT8SAWG6XdYcB7TpYw8LfrpNjxLgDnTnvdB9uK9ZOFIVOw\u0026oe=622ADE65",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/160012846_3618973871557703_2451754935197756657_n.jpg?stp=c0.0.1080.1080a_dst-jpg_s450x450\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=nRPFXJlMgBkAX-6gYqV\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT8y1XGLhLL1WILzAS2psvn6yMXH8lK18qLRRKt-_AVPug\u0026oe=622ADE65",
+                  "width": 450,
+                  "height": 450
+                }
+              ]
+            },
+            "preview": "ACoq6Giiq8tx5Z24yaALFFRRSbx7j/OaloAKKKKACsqRwzE+9atQG2iP8I/Wl6D06lJH2nIPNW1uBj5vzpfssX939T/jSfZIvTP4n/GjXy+//gBp5/d/wSdHDgMOhp1IAFGBwBS0xBRRRQAUUUUAFFFFAH//2Q=="
+          },
+          "review_status": "approved",
+          "external_url": "https://www.suavshoes.com/products/mens-the-legacy?variant=32979217285143\u0026utm_source=IGShopping\u0026utm_medium=Social",
+          "checkout_style": "external_link",
+          "can_share_to_story": true,
+          "full_price_stripped": "$110",
+          "current_price_stripped": "$110",
+          "full_price_amount": "110.00",
+          "current_price_amount": "110.00",
+          "is_in_stock": true,
+          "has_variants": false,
+          "ig_is_product_editable_on_mobile": false,
+          "commerce_review_statistics": {
+            "average_rating": 0.0,
+            "review_count": 0,
+            "rating_stars": [
+              "EMPTY",
+              "EMPTY",
+              "EMPTY",
+              "EMPTY",
+              "EMPTY"
+            ]
+          },
+          "image_quality_metadata": {
+            "goodness": [
+              {
+                "id": "3618973868224370",
+                "score": 0.99999952316284
+              }
+            ],
+            "lifestyle_background": [
+              {
+                "id": "3618973868224370",
+                "score": 0.17242063581944
+              }
+            ]
+          },
+          "size_calibration_score_num_reviews": 0,
+          "product_images": [
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/160012846_3618973871557703_2451754935197756657_n.jpg?stp=dst-jpg_p960x960\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=nRPFXJlMgBkAX-6gYqV\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT_yLxiSn1vM87ZWmwCC5vki9GXLcfzdsFhTvvPVNK3Zuw\u0026oe=622ADE65",
+                    "width": 960,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": "ACoq6Giiq8tx5Z24yaALFFRRSbx7j/OaloAKKKKACsqRwzE+9atQG2iP8I/Wl6D06lJH2nIPNW1uBj5vzpfssX939T/jSfZIvTP4n/GjXy+//gBp5/d/wSdHDgMOhp1IAFGBwBS0xBRRRQAUUUUAFFFFAH//2Q=="
+            }
+          ]
+        },
+        "cta": {
+          "rich_text": "View Product",
+          "destination": "instagram://product_display_page?product_id=4956876037685710\u0026business_user_id=1803853387\u0026merchant_name=suavsshoes\u0026prior_module=reel_feed_timeline\u0026entry_point=products_for_you_in_story\u0026checkout_style='null'"
+        }
+      },
+      {
+        "micro_product": {
+          "name": "Pickup Sweatpant",
+          "price": "$88.00",
+          "current_price": "$26.00",
+          "full_price": "$88.00",
+          "product_id": "3895499250566488",
+          "compound_product_id": "3895499250566488_182149706",
+          "merchant": {
+            "pk": 182149706,
+            "username": "outdoorvoices",
+            "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/44827909_458195177920103_3936630791445938176_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=1\u0026_nc_ohc=CVCi1PA0_wIAX_WbuSI\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026oh=00_AT-qXXGTPEO4k_kvgWAUMEuZnzJS6btbiaik2l0HRx9__g\u0026oe=622D186D\u0026_nc_sid=e4e9cf",
+            "disabled_sharing_products_to_guides": false
+          },
+          "description": "\"Real\" pants need not apply. From pickup games to errands after work, these relaxed fit joggers made in a Soft Cotton Terry will take you anywhere you need to go. Pair with our matching hoodie or sweatshirt for the ultimate sweatsuit.",
+          "rich_text_description": [
+            {
+              "block_type": "PARAGRAPH",
+              "depth": 0,
+              "text_with_entities": {
+                "text": "\"Real\" pants need not apply. From pickup games to errands after work, these relaxed fit joggers made in a Soft Cotton Terry will take you anywhere you need to go. Pair with our matching hoodie or sweatshirt for the ultimate sweatsuit.",
+                "inline_style_ranges": []
+              }
+            }
+          ],
+          "retailer_id": "39338362273870",
+          "has_viewer_saved": false,
+          "main_image": {
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/248452047_4800174333377157_4826227252876672334_n.jpg?stp=dst-jpg_s403x403\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=bYfQx3GQfHMAX_l1eP5\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT-_gudFOnahmDl6vphvZW9eZk_b8RTgZzz3qyDqwARtBA\u0026oe=622BBD6C",
+                  "width": 302,
+                  "height": 403
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/248452047_4800174333377157_4826227252876672334_n.jpg?stp=dst-jpg_s600x600\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=bYfQx3GQfHMAX_l1eP5\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT8veoTYaA4tVw5VzR16PIUCk8tpF4LFrq_ApxgQfxTfRw\u0026oe=622BBD6C",
+                  "width": 450,
+                  "height": 600
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/248452047_4800174333377157_4826227252876672334_n.jpg?stp=dst-jpg_p600x600\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=bYfQx3GQfHMAX_l1eP5\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT_XtjJviK6fxYb49pPYd3ggrUtWPnFLVtpNh11Q9TkBFw\u0026oe=622BBD6C",
+                  "width": 600,
+                  "height": 800
+                },
+                {
+                  "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.5328-4/248452047_4800174333377157_4826227252876672334_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=c48759&_nc_ohc=TfbSAerEkbgAX8qbkjP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-iad3-2.xx&oh=00_AT9IaqfE6gNdpmQYKM0WJPZtzcRVtHRSbL8Bzf_teUpwOQ&oe=6251502C",
+                  "width": 900,
+                  "height": 1200
+                }
+              ]
+            },
+            "preview": "AB8q3q5a9bFxJgd66quY1LCzN69/x/8ArUFxKcaeY2CduenGa6HT7MwAu/Mj/oPT6nqfwFc5XaAYAHtSHIUVx8265nI7u+P1x+grrxXPWCb7tm7JuP4k4H86ZK6lW/t/s8hQfdIBX6dP511Q6D6D+VYes8tGPY/zFbvSgHqkVLu5eBf3aNIx6YGQD79/89azdLjljkZpEKhl6kY5zn/P0rbpKCTAuZZLqdQEbZGfTk8jJJ7DjgVvFs0tJQB//9k="
+          },
+          "main_image_id": "4800174330043824",
+          "thumbnail_image": {
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/248452047_4800174333377157_4826227252876672334_n.jpg?stp=c0.150.900.900a_dst-jpg_s150x150\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=bYfQx3GQfHMAX_l1eP5\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT83DY2wK5m5j0jyeaJOjaER01EtTXmWcrtT-anTGSxTkQ\u0026oe=622BBD6C",
+                  "width": 150,
+                  "height": 150
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/248452047_4800174333377157_4826227252876672334_n.jpg?stp=c0.150.900.900a_dst-jpg_s225x225\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=bYfQx3GQfHMAX_l1eP5\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9j79QMTBV9Doun-CummxLUgtxXjUybf95Ec6wBVVkyow\u0026oe=622BBD6C",
+                  "width": 225,
+                  "height": 225
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/248452047_4800174333377157_4826227252876672334_n.jpg?stp=c0.150.900.900a_dst-jpg_s300x300\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=bYfQx3GQfHMAX_l1eP5\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT_VVM27QdPMlEYjv3wufvwYN1wMrQn_X0ia-C8qJzEMxg\u0026oe=622BBD6C",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/248452047_4800174333377157_4826227252876672334_n.jpg?stp=c0.150.900.900a_dst-jpg_s450x450\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=bYfQx3GQfHMAX_l1eP5\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT_IXY1lbzSI4PQ7Torea7L3b0_dHtZYdoAIlhbiPGCxUw\u0026oe=622BBD6C",
+                  "width": 450,
+                  "height": 450
+                }
+              ]
+            },
+            "preview": "AB8q3q5a9bFxJgd66quY1LCzN69/x/8ArUFxKcaeY2CduenGa6HT7MwAu/Mj/oPT6nqfwFc5XaAYAHtSHIUVx8265nI7u+P1x+grrxXPWCb7tm7JuP4k4H86ZK6lW/t/s8hQfdIBX6dP511Q6D6D+VYes8tGPY/zFbvSgHqkVLu5eBf3aNIx6YGQD79/89azdLjljkZpEKhl6kY5zn/P0rbpKCTAuZZLqdQEbZGfTk8jJJ7DjgVvFs0tJQB//9k="
+          },
+          "review_status": "approved",
+          "external_url": "https://www.outdoorvoices.com/products/m-pickup-sweatpant?utm_content=Facebook_UA\u0026variant=39338362273870\u0026utm_source=IGShopping\u0026utm_medium=Social",
+          "checkout_style": "external_link",
+          "can_share_to_story": true,
+          "full_price_stripped": "$88",
+          "current_price_stripped": "$26",
+          "full_price_amount": "88.00",
+          "current_price_amount": "26.00",
+          "is_in_stock": true,
+          "has_variants": false,
+          "arts_labels": {
+            "labels": [
+              {
+                "label_type": "FREE_SHIPPING",
+                "label_display_value": "Free shipping"
+              },
+              {
+                "label_type": "SALE",
+                "label_display_value": "70% off"
+              }
+            ]
+          },
+          "ig_is_product_editable_on_mobile": false,
+          "aggregated_rating": {
+            "value": 5.0,
+            "rating_count": 1
+          },
+          "commerce_review_statistics": {
+            "average_rating": 5.0,
+            "review_count": 1,
+            "rating_stars": [
+              "FULL",
+              "FULL",
+              "FULL",
+              "FULL",
+              "FULL"
+            ]
+          },
+          "can_viewer_see_rnr": true,
+          "image_quality_metadata": {
+            "goodness": [
+              {
+                "id": "4518459241568779",
+                "score": 0.99999940395355
+              }
+            ],
+            "lifestyle_background": [
+              {
+                "id": "4518459241568779",
+                "score": 0.3214259147644
+              }
+            ]
+          },
+          "size_calibration_score_num_reviews": 0,
+          "product_images": [
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/248452047_4800174333377157_4826227252876672334_n.jpg?stp=dst-jpg_p720x720\u0026_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=bYfQx3GQfHMAX_l1eP5\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9iAVn75K9OZNfQ28eRx9WYHDXkRw1U1Kak2ZogI12Kqw\u0026oe=622BBD6C",
+                    "width": 720,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": "AB8q3q5a9bFxJgd66quY1LCzN69/x/8ArUFxKcaeY2CduenGa6HT7MwAu/Mj/oPT6nqfwFc5XaAYAHtSHIUVx8265nI7u+P1x+grrxXPWCb7tm7JuP4k4H86ZK6lW/t/s8hQfdIBX6dP511Q6D6D+VYes8tGPY/zFbvSgHqkVLu5eBf3aNIx6YGQD79/89azdLjljkZpEKhl6kY5zn/P0rbpKCTAuZZLqdQEbZGfTk8jJJ7DjgVvFs0tJQB//9k="
+            },
+            {
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t45.5328-4/248956240_4250784241711555_8922428512730416103_n.jpg?stp=dst-jpg_p720x720\u0026_nc_cat=108\u0026ccb=1-5\u0026_nc_sid=c48759\u0026_nc_ohc=BzcwrBw2Z7MAX9iX58w\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_ht=scontent-sjc3-1.xx\u0026oh=00_AT9Kz5rHlNfPOZRW4W1kiYDnnjP8FYuELumsHU0jtZQV0g\u0026oe=622B2992",
+                    "width": 720,
+                    "height": 960
+                  }
+                ]
+              },
+              "preview": "AB8q3AKiuGKLkHH+eP8A69TisHVpSZRH/CoB/E55/LikUtWbUUiyruQhh0JHrT8VhaQ5MrDsV/kR/jW9TE1ZgK5zVlImyejKMfhXRCsrVU3GI/7e0/jiga3DSYkVWdSSeASeO2SB+PetY1m6YAFkA6CQgfStE0Ce4Vm6mSUUKrM4YMNoJxjrn/DvWnRQIytKdTG3PzbyWHpnp/n8K0qeVA5A5PWm0Af/2Q=="
+            }
+          ]
+        },
+        "cta": {
+          "rich_text": "View Product",
+          "destination": "instagram://product_display_page?product_id=3895499250566488\u0026business_user_id=182149706\u0026merchant_name=outdoorvoices\u0026prior_module=reel_feed_timeline\u0026entry_point=products_for_you_in_story\u0026checkout_style='null'"
+        }
+      }
+    ]
+  },
+  "netego_type": "products_for_you_in_story",
+  "netego_background_media": {
+    "taken_at": 1646684574,
+    "pk": 2788914827404178242,
+    "id": "2788914827404178242_593046060",
+    "device_timestamp": 1646684574865790,
+    "media_type": 1,
+    "code": "Ca0N0JcPvNC",
+    "client_cache_key": "Mjc4ODkxNDgyNzQwNDE3ODI0Mg==.2",
+    "filter_type": 0,
+    "is_unified_video": false,
+    "user": {
+      "pk": 593046060,
+      "username": "larry_gao",
+      "full_name": "Larry Gao",
+      "is_private": false,
+      "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/255713989_4418379264876939_1833564662545297788_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=1\u0026_nc_ohc=nMLSAi1rXE8AX9trds7\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026oh=00_AT_IkHQKwSJ7ejBKEFhMr-WostcPlpblgyugIf1k5Hn-Tw\u0026oe=622D459C\u0026_nc_sid=e4e9cf",
+      "profile_pic_id": "2706304404075971762_593046060",
+      "friendship_status": {
+        "following": true,
+        "outgoing_request": false,
+        "is_bestie": false,
+        "is_restricted": false,
+        "is_feed_favorite": false
+      },
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "has_highlight_reels": false
+    },
+    "caption_is_edited": false,
+    "commerciality_status": "not_commercial",
+    "fundraiser_tag": {
+      "has_standalone_fundraiser": false
+    },
+    "is_paid_partnership": false,
+    "is_visual_reply_commenter_notice_enabled": true,
+    "original_media_has_visual_reply_media": false,
+    "comment_likes_enabled": false,
+    "comment_threading_enabled": false,
+    "has_more_comments": false,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 0,
+    "hide_view_all_comment_entrypoint": false,
+    "image_versions2": {
+      "candidates": [
+        {
+          "width": 1170,
+          "height": 2080,
+          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/275278225_138536448659347_5414105499412791226_n.jpg?se=7\u0026stp=dst-jpg_e35\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=EDitzp9xYRgAX_8ZUGU\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026ig_cache_key=Mjc4ODkxNDgyNzQwNDE3ODI0Mg%3D%3D.2-ccb7-4\u0026oh=00_AT_SzihTravhNrT3gAoFWoYJUuilmXFF5l8NDJziSKEHfQ\u0026oe=6228EBAA\u0026_nc_sid=e4e9cf",
+          "scans_profile": "e35",
+          "estimated_scans_sizes": [
+            32646,
+            65292,
+            97938,
+            130584,
+            163230,
+            182654,
+            232434,
+            264173,
+            293815
+          ]
+        },
+        {
+          "width": 360,
+          "height": 640,
+          "url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/275278225_138536448659347_5414105499412791226_n.jpg?stp=dst-jpg_e35_p360x360\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=107\u0026_nc_ohc=EDitzp9xYRgAX_8ZUGU\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026ig_cache_key=Mjc4ODkxNDgyNzQwNDE3ODI0Mg%3D%3D.2-ccb7-4\u0026oh=00_AT_Mb9RXv0Tn68k-QKm0T9ytzt8modH-u41IuZ4h-1YR-w\u0026oe=6228EBAA\u0026_nc_sid=e4e9cf",
+          "scans_profile": "e35",
+          "estimated_scans_sizes": [
+            4915,
+            9831,
+            14746,
+            19662,
+            24577,
+            29590,
+            853930,
+            44240,
+            44240
+          ]
+        }
+      ]
+    },
+    "original_width": 1170,
+    "original_height": 2080,
+    "caption_position": 0.0,
+    "is_reel_media": true,
+    "like_count": 0,
+    "has_liked": false,
+    "likers": [],
+    "caption": {
+      "pk": 18129448195256294,
+      "user_id": 593046060,
+      "text": "$44 $35 $26 LARRY $26",
+      "type": 1,
+      "created_at": 1646684578,
+      "created_at_utc": 1646684578,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 593046060,
+        "username": "larry_gao",
+        "full_name": "Larry Gao",
+        "is_private": false,
+        "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/255713989_4418379264876939_1833564662545297788_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=scontent-sjc3-1.cdninstagram.com\u0026_nc_cat=1\u0026_nc_ohc=nMLSAi1rXE8AX9trds7\u0026edm=ANct6CgBAAAA\u0026ccb=7-4\u0026oh=00_AT_IkHQKwSJ7ejBKEFhMr-WostcPlpblgyugIf1k5Hn-Tw\u0026oe=622D459C\u0026_nc_sid=e4e9cf",
+        "profile_pic_id": "2706304404075971762_593046060",
+        "friendship_status": {
+          "following": true,
+          "outgoing_request": false,
+          "is_bestie": false,
+          "is_restricted": false,
+          "is_feed_favorite": false
+        },
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "has_highlight_reels": false
+      },
+      "is_covered": false,
+      "media_id": 2788914827404178242,
+      "private_reply_status": 0
+    },
+    "can_viewer_save": false,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYTk0ZjZjN2Y1MGM4NDlkN2IxMzEwMWFkMmU5ZDY3ZDcyNzg4OTE0ODI3NDA0MTc4MjQyIiwic2VydmVyX3Rva2VuIjoiMTY0NjY4NDc5MTAxNnwyNzg4OTE0ODI3NDA0MTc4MjQyfDE1ODE5NTk2OTJ8YzE1M2VkYjBjMmFmOGE4ODNiNDgzOTYyNTA4YmQ0NTZiZmNhOWIwMDViNjRjNDVjNjcxNjQ2ZDJkMmFhNTQyNiJ9LCJzaWduYXR1cmUiOiIifQ==",
+    "expiring_at": 1646770974,
+    "imported_taken_at": 1646669690,
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "comment_inform_treatment": {
+      "should_have_inform_treatment": false,
+      "text": ""
+    },
+    "product_type": "story",
+    "deleted_reason": 0,
+    "integrity_review_decision": "pending",
+    "music_metadata": null
+  },
+  "ranked_position": 9,
+  "seen_ranked_position": 9,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 3,
+    "consumed_media_gap_to_previous_netego": 3,
+    "max_reel_gap_to_previous_item": 4,
+    "highest_position_rule": 1,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 12.0,
+    "is_media_based_hp_enabled": true,
+    "carry_over_highest_position_rule": null
+  },
+  "priority_index": 41
+}

@@ -1,0 +1,246 @@
+{
+  "id":"political_ad",
+  "latest_reel_media":null,
+  "expiring_at":9564177206,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":true,
+  "reel_type":"ads_reel",
+  "is_sensitive_vertical_ad": true,
+  "user":{
+    "pk":249072115,
+    "username":"americasnavy",
+    "full_name":"America's Navy",
+    "is_private":false,
+    "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id":"1663442789965726235_249072115",
+    "is_verified":true
+  },
+  "items":[
+    {
+      "taken_at":1553908945,
+      "pk":2010656419522768100,
+      "id":"political_ad",
+      "device_timestamp":1553908945,
+      "media_type":0,
+      "code":"BvnSVxTA2zj",
+      "client_cache_key":"MjAxMDY1NjQxOTUyMjc2ODA5OQ==.2",
+      "filter_type":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png"
+          }
+        ]
+      },
+      "original_width":900,
+      "original_height":1600,
+      "is_dash_eligible":1,
+      "has_audio":true,
+      "view_count":80372,
+      "user":{
+        "pk":249072115,
+        "username":"americasnavy",
+        "full_name":"America's Navy",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id":"1663442789965726235_249072115",
+        "is_verified":true,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":false,
+        "is_favorite":false,
+        "latest_reel_media":null
+      },
+      "caption":null,
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":0,
+      "has_liked":false,
+      "likers":[
+
+      ],
+      "photo_of_you":false,
+      "fb_page_url":"https://www.facebook.com/americasnavy/",
+      "collapse_comments":false,
+      "top_followers":[
+        "placeholder"
+      ],
+      "top_followers_count":1,
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZWJlYjc4NDdhZWMyNDdhY2FmY2YxODg5NzE1NzRjZWQyMDEwNjU2NDE5NTIyNzY4MDk5Iiwic2VydmVyX3Rva2VuIjoiMTU2NDA5MDgwNjIyNXwyMDEwNjU2NDE5NTIyNzY4MDk5fDU0ODU2MTAyMTl8YzlhNGZhYzBhNTdiYjI0MDA1NjE2MzkyNDQxZDQzZTA4MDEwZTQzYWNmNjk2NzEzYzlhNDJmYzBhY2NjYzU5ZiJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at":9564177206,
+      "can_reshare":true,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQKsRgIvWPpxjsSAgSlg7tY69zPSdENfksCkcLXOY-W4NvUkR-O43ShNvthdnN1VSSi7Lsunnpbvb-oFQ4klG3Ef",
+        "show_ad_choices":false,
+        "ad_title":"America's Navy",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":23844001041600659,
+        "direct_share":true,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":"{}",
+              "serializedImpOrganicScoreMap":"{}"
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=1wGTzCL4RhkJws5tG.AWV7tB25_LymiizKOQ8ivbGA1wo.BdOiG1..AAA.0.0.BdOiG1.AWUC_5f6; expires=Fri, 24 Jul 2020 21:40:05 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ],
+        "display_fb_page_name":true,
+        "political_context":{
+          "byline_text":"Paid for by America's Navy"
+        },
+        "contextual_label_info":" "
+      },
+      "android_links":[
+        {
+          "linkType":1,
+          "webUri":"https://www.navy.com/life-in-the-navy/life-as-a-sailor?activity=1238383&fbclid=IwAR2lDOiS4yPvrQF5OhCxmUxUMCgQd0B7y2shBisJM7VapvH3ZOvTOjcb1uw",
+          "androidClass":"",
+          "package":"",
+          "deeplinkUri":"",
+          "callToActionTitle":"",
+          "redirectUri":"https://www.facebook.com/ads/ig_redirect/?d=Ad8ggjk1F2DVt6IZEIuLOS0r06-9egEFi7Rkq-lmJwsFXQBojjIQiHtNDdeMIqV8lop1aPjgVwAV6_2x2kVjWhghUHB3ED6VdYJM-5S8b3eSiyQ_AhGOF6MhTXxSiLh-OGKBk3fQr0IUNo_odEO8gJlcbxSgbc1B3jkfYcAiAyTSnyJ6ujxHhnKxXRP7xF8gcwVLw-TmMOM1ceDyJb5fFcRJSe578ctFI1cz27s1w3wVCAzxHxx6Ts65J7VDFJGeUhoGoMoBzx5THJjjE1Nay4KsH6gttZXgInCUz0qRzVpIJKOTaX2qzvQ9E0BYB8GaWZ1VICPMKvjgQoUJFs30_jRY&a=1&hash=Ad-APlX4d1bhRVEf",
+          "leadGenFormId":null,
+          "igUserId":null,
+          "appInstallObjectiveInvalidationBehavior":null,
+          "destinationContext":"View website on Instagram",
+          "tapAndHoldContext":"Swipe up to view website"
+        }
+      ],
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://www.navy.com/life-in-the-navy/life-as-a-sailor?activity=1238383&fbclid=IwAR2lDOiS4yPvrQF5OhCxmUxUMCgQd0B7y2shBisJM7VapvH3ZOvTOjcb1uw",
+              "androidClass":"",
+              "package":"",
+              "deeplinkUri":"",
+              "callToActionTitle":"",
+              "redirectUri":"https://www.facebook.com/ads/ig_redirect/?d=Ad8ggjk1F2DVt6IZEIuLOS0r06-9egEFi7Rkq-lmJwsFXQBojjIQiHtNDdeMIqV8lop1aPjgVwAV6_2x2kVjWhghUHB3ED6VdYJM-5S8b3eSiyQ_AhGOF6MhTXxSiLh-OGKBk3fQr0IUNo_odEO8gJlcbxSgbc1B3jkfYcAiAyTSnyJ6ujxHhnKxXRP7xF8gcwVLw-TmMOM1ceDyJb5fFcRJSe578ctFI1cz27s1w3wVCAzxHxx6Ts65J7VDFJGeUhoGoMoBzx5THJjjE1Nay4KsH6gttZXgInCUz0qRzVpIJKOTaX2qzvQ9E0BYB8GaWZ1VICPMKvjgQoUJFs30_jRY&a=1&hash=Ad-APlX4d1bhRVEf",
+              "leadGenFormId":null,
+              "igUserId":null,
+              "appInstallObjectiveInvalidationBehavior":null,
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "overlay_text":"Go to Website",
+      "overlay_title":"America's Navy",
+      "overlay_subtitle":"Go to Website",
+      "dominant_color":"#263948",
+      "iab_autofill_optout_info":{
+        "domain":"navy.com",
+        "is_iab_autofill_optout":false
+      },
+      "click_id":"IwAR2lDOiS4yPvrQF5OhCxmUxUMCgQd0B7y2shBisJM7VapvH3ZOvTOjcb1uw",
+      "ad_action":"webclick",
+      "link_text":"Learn More",
+      "ad_metadata":[
+        {
+          "value":"www.navy.com",
+          "type":1
+        }
+      ],
+      "is_reel_media":true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

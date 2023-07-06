@@ -1,0 +1,337 @@
+{
+  "id": "video_ad_with_subtitles_and_end_scene",
+  "latest_reel_media": null,
+  "expiring_at": 9564176036,
+  "seen": null,
+  "can_reply": false,
+  "can_reshare": true,
+  "reel_type": "ads_reel",
+  "user": {
+    "pk": 3964728215,
+    "username": "yi.boutique",
+    "full_name": "Yi-Wei Wu",
+    "is_private": false,
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "1433665741219239328_3964728215",
+    "is_verified": false
+  },
+  "items": [
+    {
+      "taken_at": 1518680877,
+      "pk": 1715141968973233200,
+      "id": "video_ad_with_subtitles_and_end_scene",
+      "device_timestamp": 1518680877,
+      "media_type": 2,
+      "code": "BfNaIiYA3uu",
+      "client_cache_key": "MTcxNTE0MTk2ODk3MzIzMzA3MA==.2",
+      "filter_type": 0,
+      "image_versions2": {
+        "candidates": [
+          {
+            "width": 1280,
+            "height": 720,
+            "url": "https://i.ibb.co/Yb5BdBb/Screen-Shot-2019-08-01-at-2-57-32-PM.png",
+            "estimated_scans_sizes": [
+              11356,
+              22712,
+              34068,
+              45424,
+              56780,
+              102205,
+              102205,
+              102205,
+              102205
+            ]
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "url": "https://i.ibb.co/Yb5BdBb/Screen-Shot-2019-08-01-at-2-57-32-PM.png",
+            "estimated_scans_sizes": [
+              4021,
+              8042,
+              12063,
+              16084,
+              20105,
+              36189,
+              36189,
+              36189,
+              36189
+            ]
+          }
+        ]
+      },
+      "original_width": 1280,
+      "original_height": 720,
+      "video_versions": [
+        {
+          "type": 101,
+          "width": 1280,
+          "height": 720,
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "id": "384251115646185"
+        },
+        {
+          "type": 102,
+          "width": 1280,
+          "height": 720,
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "id": "455845618279994"
+        },
+        {
+          "type": 103,
+          "width": 1280,
+          "height": 720,
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "id": "455845618279994"
+        }
+      ],
+      "has_audio": true,
+      "video_duration": 15,
+      "view_count": 2003,
+      "user": {
+        "pk": 3964728215,
+        "username": "yi.boutique",
+        "full_name": "Yi-Wei Wu",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1433665741219239328_3964728215",
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": null
+      },
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "like_count": 41,
+      "has_liked": false,
+      "photo_of_you": false,
+      "caption": {
+        "pk": 17865126607213082,
+        "user_id": 3964728215,
+        "text": "Lots of fun facts are floating out there about the intelligent and adorable corgi.",
+        "type": 1,
+        "created_at": 1518680878,
+        "created_at_utc": 1518680878,
+        "content_type": "comment",
+        "status": "Active",
+        "bit_flags": 0,
+        "user": {
+          "pk": 3964728215,
+          "username": "yi.boutique",
+          "full_name": "Yi-Wei Wu",
+          "is_private": false,
+          "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+          "profile_pic_id": "1433665741219239328_3964728215",
+          "is_verified": false,
+          "has_anonymous_profile_picture": false,
+          "is_unpublished": false,
+          "is_favorite": false,
+          "latest_reel_media": null
+        },
+        "did_report_as_spam": false,
+        "share_enabled": false,
+        "media_id": 1715141968973233200,
+        "background_color": "#1D2317",
+        "text_color": "#FFFFFF",
+        "text_size": 16,
+        "background_color_alpha": "FF"
+      },
+      "video_subtitles_uri": "https://gist.githubusercontent.com/Gear61/a5fac13ca51db3d451d88cfca238d4a3/raw/af1fa157a9c440f95271ffb5422a4552b5c8b68f/gistfile1.txt",
+      "fb_page_url": "https://www.facebook.com/yi.boutique.instagram/",
+      "collapse_comments": false,
+      "top_followers": [
+        "placeholder"
+      ],
+      "top_followers_count": 1,
+      "can_viewer_save": true,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMGE0NDliNDcyYzdmNDI2OWI1NzllNmZjYjRhNzJjMDcxNzE1MTQxOTY4OTczMjMzMDcwIiwic2VydmVyX3Rva2VuIjoiMTU2NDA4OTYzNjc0MHwxNzE1MTQxOTY4OTczMjMzMDcwfDU0ODU2MTAyMTl8ODFlNDgzNzc2ZDczYmU0YzhiOGIyYTY2ODkyNThjZTA1NzFiMmIxMDA0YWFhZTI2Y2Y5ZGE0MjE1ZjFlNGE3YiJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at": 9564176036,
+      "can_reshare": true,
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQLho1osCkQguvbdLKEXHta1x7aUGIV2ZEYrgJd17r_w6dD5DkQBEUlVweqjmBZhLesVrzEaPzoNiYsqN0114YpA",
+        "show_ad_choices": false,
+        "ad_title": "Wu's Boutique",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 6087950766802,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": "{}",
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "cookies": [
+          "fr=1Q8kmaezzvjxzRxXL.AWUxAoZ-lrDBr_7SiwxuikokynA.BdOh0j..AAA.0.0.BdOh0j.AWUAnebd; expires=Fri, 24 Jul 2020 21:20:35 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links": [
+        {
+          "linkType": 1,
+          "webUri": "https://www.rover.com/blog/surprising-corgi-facts/?fbclid=IwAR0SWCZjtPuLVp7nSeFX9mNogEh52ySu0YtElbPRdcMaS96IB867rKgZpnk",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-YS5GWk5tQAAal2ckBpo2_ZUrt-pSIMVR6Csb5H8CA_EvJfZQy2WwEur2BfblPu4xmvBIfv7VLvK2LzxNlCxAm3ajnY-aj6700eKRq1ISC9OvnmlV5693DrXm8PLGxmsPp0kwdFVuuoAh6fUsq_24EJ2E66vl2sqP8x1jV5GRXmQxs8T91q5yfVzGNuWwPReCmVpweRS6pzB8w03yFLoxqA3UfDc3myqxasJmdlofI-8au5PXT6mXKVZzaL3SJ2ObEhQ4VU1O4j05XynyJZVi36hgCOV4hftpQrs-qGyBhTA&a=1&hash=Ad_DvUMhJSE7NlPA",
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "View website on Instagram",
+          "tapAndHoldContext": "Swipe up to view website"
+        }
+      ],
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 1,
+              "webUri": "https://www.rover.com/blog/surprising-corgi-facts/?fbclid=IwAR0SWCZjtPuLVp7nSeFX9mNogEh52ySu0YtElbPRdcMaS96IB867rKgZpnk",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-YS5GWk5tQAAal2ckBpo2_ZUrt-pSIMVR6Csb5H8CA_EvJfZQy2WwEur2BfblPu4xmvBIfv7VLvK2LzxNlCxAm3ajnY-aj6700eKRq1ISC9OvnmlV5693DrXm8PLGxmsPp0kwdFVuuoAh6fUsq_24EJ2E66vl2sqP8x1jV5GRXmQxs8T91q5yfVzGNuWwPReCmVpweRS6pzB8w03yFLoxqA3UfDc3myqxasJmdlofI-8au5PXT6mXKVZzaL3SJ2ObEhQ4VU1O4j05XynyJZVi36hgCOV4hftpQrs-qGyBhTA&a=1&hash=Ad_DvUMhJSE7NlPA",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "View website on Instagram",
+              "tapAndHoldContext": "Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "overlay_text": "Go to Website",
+      "overlay_title": "Wu's Boutique",
+      "overlay_subtitle": "Go to Website",
+      "dominant_color": "#295F86",
+      "iab_autofill_optout_info": {
+        "domain": "rover.com",
+        "is_iab_autofill_optout": false
+      },
+      "click_id": "IwAR0SWCZjtPuLVp7nSeFX9mNogEh52ySu0YtElbPRdcMaS96IB867rKgZpnk",
+      "ad_action": "webclick",
+      "link_text": "Learn More",
+      "ad_metadata": [
+        {
+          "value": "www.rover.com",
+          "type": 1
+        }
+      ],
+      "reel_media_background": {
+        "top": {
+          "background_color": "#49563A"
+        },
+        "bottom": {
+          "background_color": "#67755B"
+        }
+      },
+      "is_reel_media": true,
+      "story_end_scene": {
+        "icon_url": null,
+        "icon_style": "round",
+        "image_ad_length": null,
+        "end_scene_length": 4,
+        "swipe_area_height": 60,
+        "swipe_area_width": 40,
+        "primary_color": null,
+        "subtitle": "itau.com.br",
+        "is_profile_pic_end_scene": false,
+        "follower_count": null,
+        "join_date_str": null
+      }
+    }
+  ],
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "muted": false,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index": 0,
+  "has_pride_media": false
+}

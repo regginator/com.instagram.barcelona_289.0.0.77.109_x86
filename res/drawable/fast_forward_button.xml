@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="@dimen/abc_dialog_padding_material" android:width="@dimen/abc_dialog_padding_material">
+        <shape android:shape="oval">
+            <solid android:color="@color/igds_secondary_button_on_media" />
+        </shape>
+    </item>
+    <item android:gravity="center" android:height="@dimen/account_section_text_margin_horizontal" android:width="@dimen/account_section_text_margin_horizontal" android:drawable="@drawable/fast_forward_button__app_bitmap_0" />
+</layer-list>

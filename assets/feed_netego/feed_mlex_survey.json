@@ -1,0 +1,13 @@
+{
+  "simple_action": {
+    "action_type": "mlex_survey",
+    "title": "Have anything to share about CHANEL?",
+    "message": "Quickly help others by rating your experience.",
+    "button_text": "Get Started",
+    "has_dismiss": false,
+    "extra_data_token": "mlex_survey",
+    "icon_url": "https://instagram.fewr1-1.fna.fbcdn.net/vp/e71769ddbe01f574a21c12b3de2ceb7e/5CD3AECB/t51.2885-19/11850052_1654448704768135_1464111520_a.jpg?_nc_ht=instagram.fewr1-1.fna.fbcdn.net",
+    "id": "36820858671859",
+    "tracking_token": "eyJ1dWlkIjoiYWZhMmNlNzJlOWY1NDZmMWFlZTU3MzViYWUwYzUwZDUiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MSwiZmJfdXNlcl9pZCI6MTAwMDAwNzU0OTQwMzQ2LCJuZXRfZWdvX3R5cGUiOjMzLCJnbG9iYWxfcG9zaXRpb24iOjEsImVjcG1fcHJpY2UiOjg3OS4wLCJwYWNpbmdfcWVfaW5mbyI6ImlnX25ldGVnb19wcmljZV9mbG9vcl9zY2FsYXJfdjJ8Y29udHJvbCIsInVzZXJfZG9sbGFyX3ZhbHVlIjoxLjk1NDQ2NDEwMSwiaXNfbmV3X2luc2VydGlvbiI6dHJ1ZSwiaXNfZnJvbV9uZWVkeV91c2VyIjpmYWxzZX19"
+  }
+}

@@ -1,0 +1,21 @@
+package p000X;
+/* renamed from: X.2Cg  reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes2.dex */
+public enum EnumC39562Cg implements InterfaceC095009q {
+    /* JADX INFO: Fake field, exist only in values array */
+    SHOP_PREVIEW_ADD_PRODUCTS("shop_preview_add_products"),
+    /* JADX INFO: Fake field, exist only in values array */
+    SHOP_PREVIEW_EMPTY_SHOP("shop_preview_empty_shop"),
+    UNKNOWN("unknown");
+    
+    public final String A00;
+
+    EnumC39562Cg(String str) {
+        this.A00 = str;
+    }
+
+    @Override // p000X.InterfaceC095009q
+    public final /* bridge */ /* synthetic */ Object getValue() {
+        return this.A00;
+    }
+}

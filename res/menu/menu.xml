@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu tools:context="com.instagram.direct.DirectRecipientSearchActivity"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="https://schemas.android.com/tools">
+    <item android:id="@id/search_bar" android:title="@string/APKTOOL_DUMMYVAL_0x7f1100a6" app:actionViewClass="androidx.appcompat.widget.SearchView" app:showAsAction="always" />
+</menu>

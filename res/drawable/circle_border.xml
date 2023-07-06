@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="ring" android:useLevel="false" android:innerRadius="30.0dip" android:thickness="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/audition_audio_item_selected_stroke_border_width" android:color="@color/fundraiser_sticker_consumption_sheet_donation_disclaimer_bold_text_color" />
+</shape>

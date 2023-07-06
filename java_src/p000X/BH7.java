@@ -1,0 +1,58 @@
+package p000X;
+
+import android.view.View;
+import com.facebook.quicklog.reliability.UserFlowLogger;
+import com.instagram.model.shopping.MicroProduct;
+import com.instagram.model.shopping.Product;
+import com.instagram.model.shopping.productfeed.MultiProductComponent;
+import com.instagram.model.shopping.productfeed.ProductFeedItem;
+/* renamed from: X.BH7 */
+/* loaded from: classes4.dex */
+public final class BH7 implements InterfaceC22160Bre {
+    public final InterfaceC21763Bl6 A00;
+    public final long A01;
+    public final UserFlowLogger A02;
+    public final ARO A03;
+
+    @Override // p000X.InterfaceC22160Bre
+    public final void AIG(InterfaceC21975BoY interfaceC21975BoY, int i) {
+    }
+
+    @Override // p000X.InterfaceC22160Bre
+    public final void CD7(MicroProduct microProduct, InterfaceC21975BoY interfaceC21975BoY, InterfaceC21632Bis interfaceC21632Bis, int i, int i2) {
+    }
+
+    @Override // p000X.InterfaceC22160Bre
+    public final void CD9(Product product, InterfaceC21975BoY interfaceC21975BoY, InterfaceC21634Biu interfaceC21634Biu, Integer num, String str, int i, int i2) {
+    }
+
+    @Override // p000X.InterfaceC22160Bre
+    public final void A7G(ProductFeedItem productFeedItem, InterfaceC21975BoY interfaceC21975BoY, AKC akc) {
+        ARO aro = this.A03;
+        aro.A05.A03(interfaceC21975BoY, ((MultiProductComponent) interfaceC21975BoY).A00(), akc.A01);
+    }
+
+    @Override // p000X.InterfaceC21638Biy
+    public final InterfaceC22159Brd B41() {
+        return new C9M6(this);
+    }
+
+    @Override // p000X.InterfaceC22160Bre
+    public final void CD1(C23180ri c23180ri, ProductFeedItem productFeedItem, InterfaceC21975BoY interfaceC21975BoY, String str, String str2, int i, int i2, int i3) {
+        this.A02.flowMarkPoint(this.A01, "visit_pdp");
+        this.A03.A00(productFeedItem, interfaceC21975BoY, "shopping_bag_product_collection", str2, i, i2, i3);
+    }
+
+    @Override // p000X.InterfaceC22160Bre
+    public final void Caj(View view, ProductFeedItem productFeedItem, String str) {
+        this.A03.A05.A00(view, productFeedItem, str);
+    }
+
+    public BH7(UserFlowLogger userFlowLogger, InterfaceC21763Bl6 interfaceC21763Bl6, ARO aro, long j) {
+        C25920wp.A1R(aro, userFlowLogger);
+        this.A03 = aro;
+        this.A02 = userFlowLogger;
+        this.A01 = j;
+        this.A00 = interfaceC21763Bl6;
+    }
+}

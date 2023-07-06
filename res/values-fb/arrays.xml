@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comments_sorting_options">
+        <item>[Top comments#e7c5bfb56d73191c64171a2987a9f4d2:1]</item>
+        <item>[Newest first#8d22c904118cac88594a7a13da364057:1]</item>
+    </string-array>
+    <string-array name="quiz_sticker_answer_row_hint_text">
+        <item>[Option 1#1951d6ab3d6178972da9f5eb9ca1d9ec:1]</item>
+        <item>[Option 2#62db99de239264add9bf0d936f3dcae6:1]</item>
+        <item>[Option 3#12eae3214b8221ca58adfa317f973e2c:1]</item>
+        <item>[Option 4#949f7725adfe9c884080ed6e8cc5c625:1]</item>
+    </string-array>
+    <string-array name="quiz_sticker_answer_row_options">
+        <item>[A#eae4450588312f17c4b64a415c1b709f:1]</item>
+        <item>[B#9e38f50ed9286ee557cb7bad5936c676:1]</item>
+        <item>[C#6ea8e98dd33e4b2d90e6da83b3e1edcf:1]</item>
+        <item>[D#465db9b0241f25dc5438e746b89a712a:1]</item>
+    </string-array>
+</resources>

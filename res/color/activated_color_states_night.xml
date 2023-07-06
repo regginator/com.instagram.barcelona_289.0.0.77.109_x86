@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/blue_5" android:state_activated="true" />
+    <item android:color="@color/feed_sticker_background_top_light" android:state_activated="false" />
+</selector>

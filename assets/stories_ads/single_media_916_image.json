@@ -1,0 +1,224 @@
+{
+  "id": "single_media_916_image",
+  "latest_reel_media": null,
+  "expiring_at": 9564783878,
+  "seen": null,
+  "can_reply": false,
+  "can_reshare": true,
+  "reel_type": "ads_reel",
+  "user": {
+    "pk": 224223453,
+    "username": "spotify",
+    "full_name": "Spotify",
+    "is_private": false,
+    "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id": "1814283376876563268_224223453",
+    "is_verified": true
+  },
+  "items": [
+    {
+      "taken_at": 1561737279,
+      "pk": 2076325246437132500,
+      "id": "single_media_916_image",
+      "device_timestamp": 1561737279,
+      "media_type": 1,
+      "code": "BzQls-QD4k5",
+      "client_cache_key": "MjA3NjMyNTI0NjQzNzEzMjYwMQ==.2",
+      "filter_type": 0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png"
+          }
+        ]
+      },
+      "original_width":900,
+      "original_height":1600,
+      "user": {
+        "pk": 224223453,
+        "username": "spotify",
+        "full_name": "Spotify",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1814283376876563268_224223453",
+        "is_verified": true,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": null
+      },
+      "caption": null,
+      "caption_is_edited": false,
+      "comment_likes_enabled": false,
+      "comment_threading_enabled": false,
+      "has_more_comments": false,
+      "max_num_visible_preview_comments": 2,
+      "preview_comments": [],
+      "can_view_more_preview_comments": false,
+      "comment_count": 0,
+      "like_count": 0,
+      "has_liked": false,
+      "likers": [],
+      "photo_of_you": false,
+      "fb_page_url": "https://www.facebook.com/Spotify/",
+      "collapse_comments": false,
+      "top_followers": [
+        "placeholder"
+      ],
+      "top_followers_count": 1,
+      "can_viewer_save": true,
+      "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMzc0ZWQ4YWY2Y2Q2NDhiMzllZjYwNDZjMmNiZjRiZDkyMDc2MzI1MjQ2NDM3MTMyNjAxIiwic2VydmVyX3Rva2VuIjoiMTU2NDY5NzQ3ODA1NnwyMDc2MzI1MjQ2NDM3MTMyNjAxfDU0ODU2MTAyMTl8OWFjYzI4ZmYyMWVlYzJhOTNkM2NiZmRmOTgyZWI3NDE5MjNlMjM3YjNjM2Q4MWFlNDM0OWI5ZDI0MjFmYTc0ZiJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at": 9564783878,
+      "can_reshare": true,
+      "injected": {
+        "label": "Sponsored",
+        "hide_label": "Hide this",
+        "is_demo": true,
+        "tracking_token": "AI@AQKvHB9UfHXan8PITOVQ6XJwNOVtKdXf0HMrYL5crS0Y5H9G-Ef0VftsuND4N64hRBT6LsrJ79nBP8HPjlJH2cp4",
+        "show_ad_choices": false,
+        "ad_title": "Spotify",
+        "hide_reasons_v2": [
+          {
+            "text": "It's not relevant",
+            "reason": "NOT_RELEVANT"
+          },
+          {
+            "text": "I see it too often",
+            "reason": "KEEP_SEEING_THIS"
+          },
+          {
+            "text": "It's inappropriate",
+            "reason": null
+          },
+          {
+            "text": "[Employee only] Send ad for review",
+            "reason": "EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type": 2,
+        "ad_id": 23843559510380300,
+        "direct_share": true,
+        "ads_debug_info": {
+          "adsBidInfo": {
+            "ecpmBid": 0,
+            "ecpmPrice": 0,
+            "ectr": 0,
+            "ecvr": 0,
+            "postImpEcvr": null,
+            "organicBidInfo": {
+              "organicBidCpm": 0,
+              "userDollarValue": 0,
+              "serializedPacedOrganicBidMap": "{}",
+              "serializedOrganicEventProbMap": "{}",
+              "serializedEventQualityMap": "{}",
+              "serializedImpOrganicBidMap": "{}",
+              "serializedImpOrganicCoeffMap": "{}",
+              "serializedImpOrganicScoreMap": "{}"
+            }
+          },
+          "adsRankingInfo": {
+            "organicRank": 0,
+            "ecpsBidRank": 0,
+            "totalBidRank": 0
+          }
+        },
+        "cookies": [
+          "fr=1U4sCUow4t3GwmD7d.AWX-aZv7TUJKvgTkx2xE1nfi890.BdQ2OF..AAA.0.0.BdQ2OF.AWX-T-he; expires=Fri, 31 Jul 2020 22:11:17 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links": [
+        {
+          "linkType": 2,
+          "webUri": "",
+          "androidClass": "",
+          "package": "com.spotify.music",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": 1,
+          "destinationContext": "Go to App Store",
+          "tapAndHoldContext": "Swipe up to view app details"
+        },
+        {
+          "linkType": 1,
+          "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "View website on Instagram",
+          "tapAndHoldContext": "Swipe up to view website"
+        }
+      ],
+      "story_cta": [
+        {
+          "links": [
+            {
+              "linkType": 2,
+              "webUri": "",
+              "androidClass": "",
+              "package": "com.spotify.music",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": 1,
+              "destinationContext": "Go to App Store",
+              "tapAndHoldContext": "Swipe up to view app details"
+            },
+            {
+              "linkType": 1,
+              "webUri": "http://play.google.com/store/apps/details?id=com.spotify.music&fbclid=IwAR3Lh5-D7tbPLBGeRCH47zMqvOYE2YfvBhF4r6yVNRFmda4WdPlyWiXCIEo",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "View website on Instagram",
+              "tapAndHoldContext": "Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "overlay_text": "View in Play Store",
+      "overlay_title": "Spotify",
+      "overlay_subtitle": "View in Play Store",
+      "dominant_color": "#1B2E58",
+      "ad_action": "appinstall",
+      "link_text": "Install Now",
+      "ad_metadata": [
+        {
+          "value": 5,
+          "type": 2
+        }
+      ],
+      "is_reel_media": true
+    }
+  ],
+  "ranked_position": 1,
+  "seen_ranked_position": 1,
+  "muted": false,
+  "prefetch_count": 0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 0,
+    "reel_gap_to_previous_netego": 0,
+    "consumed_media_gap_to_previous_ad": 0,
+    "consumed_media_gap_to_previous_netego": 0,
+    "max_reel_gap_to_previous_item": 4,
+    "highest_position_rule": 2
+  },
+  "priority_index": 0,
+  "has_pride_media": false
+}

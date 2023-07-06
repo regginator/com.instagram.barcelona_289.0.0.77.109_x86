@@ -1,0 +1,193 @@
+package com.facebookpay.form.cell.address;
+
+import android.os.Parcel;
+import android.os.Parcelable;
+import com.facebook.common.locale.Country;
+import com.facebookpay.common.recyclerview.adapteritems.SelectionShippingAddressItem;
+import com.facebookpay.form.cell.CellParams;
+import com.facebookpay.form.model.AddressFormFieldsConfig;
+import com.fbpay.logging.LoggingContext;
+import com.google.common.collect.ImmutableList;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import p000X.C25920wp;
+import p000X.C25930wq;
+import p000X.C3LH;
+import p000X.C91534uT;
+import p000X.C91544uU;
+import p000X.C97525eQ;
+/* loaded from: classes3.dex */
+public class AddressCellParams extends CellParams {
+    public static final Parcelable.Creator CREATOR = C91534uT.A0W(41);
+    public boolean A00;
+    public boolean A01;
+    public final int A02;
+    public final int A03;
+    public final int A04;
+    public final int A05;
+    public final int A06;
+    public final int A07;
+    public final int A08;
+    public final int A09;
+    public final int A0A;
+    public final int A0B;
+    public final int A0C;
+    public final Country A0D;
+    public final AddressFormFieldsConfig A0E;
+    public final LoggingContext A0F;
+    public final ImmutableList A0G;
+    public final ImmutableList A0H;
+    public final String A0I;
+    public final String A0J;
+    public final String A0K;
+    public final String A0L;
+    public final String A0M;
+    public final String A0N;
+    public final String A0O;
+    public final String A0P;
+    public final List A0Q;
+    public final Map A0R;
+    public final boolean A0S;
+    public final boolean A0T;
+    public final boolean A0U;
+    public final boolean A0V;
+    public final boolean A0W;
+    public final boolean A0X;
+    public final String A0Y;
+
+    @Override // android.os.Parcelable
+    public final int describeContents() {
+        return 0;
+    }
+
+    public AddressCellParams(Parcel parcel) {
+        super(parcel);
+        this.A01 = true;
+        this.A0I = parcel.readString();
+        this.A0J = parcel.readString();
+        this.A0L = parcel.readString();
+        this.A0P = parcel.readString();
+        this.A0K = parcel.readString();
+        this.A0D = (Country) C25930wq.A0B(parcel, Country.class);
+        this.A0M = parcel.readString();
+        this.A0N = parcel.readString();
+        this.A0O = parcel.readString();
+        Parcelable A0B = C25930wq.A0B(parcel, AddressFormFieldsConfig.class);
+        A0B.getClass();
+        this.A0E = (AddressFormFieldsConfig) A0B;
+        this.A0V = C3LH.A00(parcel);
+        this.A05 = parcel.readInt();
+        this.A06 = parcel.readInt();
+        this.A09 = parcel.readInt();
+        this.A0A = parcel.readInt();
+        this.A07 = parcel.readInt();
+        this.A0B = parcel.readInt();
+        this.A03 = parcel.readInt();
+        this.A08 = parcel.readInt();
+        this.A0C = parcel.readInt();
+        this.A04 = parcel.readInt();
+        this.A0X = C3LH.A00(parcel);
+        this.A0U = C3LH.A00(parcel);
+        ArrayList A0w = C25920wp.A0w();
+        C91544uU.A19(parcel, Integer.class, A0w);
+        this.A0H = ImmutableList.copyOf((Collection) A0w);
+        this.A0Y = parcel.readString();
+        this.A0R = parcel.readHashMap(HashMap.class.getClassLoader());
+        this.A0W = C3LH.A00(parcel);
+        this.A0F = (LoggingContext) C25930wq.A0B(parcel, LoggingContext.class);
+        this.A01 = C3LH.A00(parcel);
+        ArrayList A0w2 = C25920wp.A0w();
+        this.A0Q = A0w2;
+        C91544uU.A19(parcel, SelectionShippingAddressItem.class, A0w2);
+        this.A00 = C3LH.A00(parcel);
+        this.A02 = parcel.readInt();
+        this.A0S = C3LH.A00(parcel);
+        ArrayList A0w3 = C25920wp.A0w();
+        C91544uU.A19(parcel, Integer.class, A0w3);
+        this.A0G = ImmutableList.copyOf((Collection) A0w3);
+        this.A0T = C3LH.A00(parcel);
+    }
+
+    @Override // com.facebookpay.form.cell.CellParams, android.os.Parcelable
+    public final void writeToParcel(Parcel parcel, int i) {
+        super.writeToParcel(parcel, i);
+        parcel.writeString(this.A0I);
+        parcel.writeString(this.A0J);
+        parcel.writeString(this.A0L);
+        parcel.writeString(this.A0P);
+        parcel.writeString(this.A0K);
+        parcel.writeParcelable(this.A0D, i);
+        parcel.writeString(this.A0M);
+        parcel.writeString(this.A0N);
+        parcel.writeString(this.A0O);
+        parcel.writeParcelable(this.A0E, i);
+        parcel.writeInt(this.A0V ? 1 : 0);
+        parcel.writeInt(this.A05);
+        parcel.writeInt(this.A06);
+        parcel.writeInt(this.A09);
+        parcel.writeInt(this.A0A);
+        parcel.writeInt(this.A07);
+        parcel.writeInt(this.A0B);
+        parcel.writeInt(this.A03);
+        parcel.writeInt(this.A08);
+        parcel.writeInt(this.A0C);
+        parcel.writeInt(this.A04);
+        parcel.writeInt(this.A0X ? 1 : 0);
+        parcel.writeInt(this.A0U ? 1 : 0);
+        parcel.writeList(this.A0H);
+        parcel.writeString(this.A0Y);
+        parcel.writeMap(this.A0R);
+        parcel.writeInt(this.A0W ? 1 : 0);
+        parcel.writeParcelable(this.A0F, i);
+        parcel.writeInt(this.A01 ? 1 : 0);
+        parcel.writeList(this.A0Q);
+        parcel.writeInt(this.A00 ? 1 : 0);
+        parcel.writeInt(this.A02);
+        parcel.writeInt(this.A0S ? 1 : 0);
+        parcel.writeList(this.A0G);
+        parcel.writeInt(this.A0T ? 1 : 0);
+    }
+
+    public AddressCellParams(C97525eQ c97525eQ) {
+        super(c97525eQ);
+        this.A01 = true;
+        this.A0I = c97525eQ.A0F;
+        this.A0J = c97525eQ.A0G;
+        this.A0L = c97525eQ.A0I;
+        this.A0P = null;
+        this.A0K = c97525eQ.A0H;
+        this.A0D = c97525eQ.A0B;
+        this.A0M = c97525eQ.A0J;
+        this.A0N = c97525eQ.A0K;
+        this.A0O = c97525eQ.A0L;
+        this.A0E = c97525eQ.A0X;
+        this.A0V = c97525eQ.A0T;
+        this.A05 = c97525eQ.A03;
+        this.A06 = c97525eQ.A04;
+        this.A09 = c97525eQ.A07;
+        this.A0A = c97525eQ.A08;
+        this.A07 = c97525eQ.A05;
+        this.A0B = c97525eQ.A09;
+        this.A03 = c97525eQ.A01;
+        this.A08 = c97525eQ.A06;
+        this.A0C = c97525eQ.A0A;
+        this.A04 = c97525eQ.A02;
+        this.A0X = c97525eQ.A0W;
+        this.A0U = c97525eQ.A0S;
+        this.A0H = c97525eQ.A0E;
+        this.A0Y = c97525eQ.A0M;
+        this.A0R = c97525eQ.A0O;
+        this.A0W = c97525eQ.A0U;
+        this.A0F = c97525eQ.A0C;
+        this.A01 = c97525eQ.A0V;
+        this.A0Q = c97525eQ.A0N;
+        this.A00 = c97525eQ.A0Q;
+        this.A02 = c97525eQ.A00;
+        this.A0S = c97525eQ.A0P;
+        this.A0G = c97525eQ.A0D;
+        this.A0T = c97525eQ.A0R;
+    }
+}

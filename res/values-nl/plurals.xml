@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">Kijkers kunnen omhoog vegen om deze link te bezoeken. Je kunt maximaal één link voor omhoog vegen toevoegen.</item>
+        <item quantity="one">Kijkers kunnen omhoog vegen om deze link te bezoeken.</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">\@vermeldingen toegevoegd.</item>
+        <item quantity="one">Vermelding toegevoegd.</item>
+    </plurals>
+    <plurals name="alt_text_popup_description">
+        <item quantity="other">"Beschrijf je foto's voor mensen met visuele beperkingen."</item>
+    </plurals>
+    <plurals name="anonymous_comments_message">
+        <item quantity="other">%1$d opmerkingen bij {original_post} weergeven</item>
+        <item quantity="one">Bekijk één opmerking bij het {original_post}.</item>
+    </plurals>
+    <plurals name="anonymous_likers_message">
+        <item quantity="other">Bekijk %1$d vind-ik-leuks voor het {original_post}.</item>
+        <item quantity="one">1 vind-ik-leuk van {original_post} weergeven</item>
+    </plurals>
+    <plurals name="appended_poll_vote_count_label_on_feed">
+        <item quantity="other">%1$s pollresultaten</item>
+        <item quantity="one">%1$s pollresultaat</item>
+    </plurals>
+    <plurals name="appreciation_funding_a11y_star_balance">
+        <item quantity="other">Je saldo is %1$d sterren</item>
+        <item quantity="one">Je saldo is 1 ster</item>
+    </plurals>
+    <plurals name="appreciation_gifting_a11y_balance">
+        <item quantity="other">Saldo: %1$d Sterren</item>
+        <item quantity="one">Saldo: 1 Ster</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_body">
+        <item quantity="other">Je hebt %1$d opmerkingen geselecteerd. Als je een antwoord goedkeurt, wordt de oorspronkelijke opmerking ook goedgekeurd.</item>
+        <item quantity="one">Je hebt één opmerking geselecteerd. Als je een antwoord goedkeurt, wordt de oorspronkelijke opmerking ook goedgekeurd.</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_primary_button">
+        <item quantity="other">Opmerkingen goedkeuren</item>
+        <item quantity="one">Opmerking goedkeuren</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_title">
+        <item quantity="other">%1$d opmerkingen goedkeuren?</item>
+        <item quantity="one">Eén opmerking goedkeuren?</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">%1$d mensen</item>
+        <item quantity="one">1 persoon</item>
+    </plurals>
+    <plurals name="average_time_spent_hours">
+        <item quantity="other">%1$d uur</item>
+    </plurals>
+    <plurals name="average_time_spent_minutes">
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="one">%1$d minuut</item>
+    </plurals>
+    <plurals name="barcelona_expand_replies">
+        <item quantity="other">%1$s antwoorden</item>
+        <item quantity="one">%1$s antwoord</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_follower_tab_count">
+        <item quantity="other">%1$s volgers</item>
+        <item quantity="one">1 volger</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_following_tab_count">
+        <item quantity="other">%1$s volgend</item>
+        <item quantity="one">1 volgend</item>
+    </plurals>
+    <plurals name="barcelona_following_graph_pending_tab_count">
+        <item quantity="other">%1$s in behandeling · Je start met het volgen van deze accounts zodra zij %2$s gaan gebruiken. %3$s</item>
+        <item quantity="one">1 in behandeling · Je start met het volgen van dit account zodra deze persoon %2$s gaat gebruiken. %3$s</item>
+    </plurals>
+    <plurals name="barcelona_onboarding_following_screen__pending_tab_subtitle">
+        <item quantity="other">Deze %1$s accounts maken nog geen gebruik van %2$s of moeten je volgverzoek goedkeuren.</item>
+        <item quantity="one">Dit account maakt nog geen gebruik van %2$s of moet je volgverzoek goedkeuren.</item>
+    </plurals>
+    <plurals name="barcelona_post_like_count">
+        <item quantity="other">%1$s vind-ik-leuks</item>
+        <item quantity="one">%1$s vind-ik-leuk</item>
+    </plurals>
+    <plurals name="barcelona_profile_follower_count">
+        <item quantity="other">%1$s volgers</item>
+        <item quantity="one">1 volger</item>
+    </plurals>
+    <plurals name="barcelona_search_follower_count">
+        <item quantity="other">%1$s volgers</item>
+        <item quantity="one">1 volger</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">Je volgverzoeken kunnen momenteel niet worden bevestigd. Probeer het later opnieuw.</item>
+        <item quantity="one">Je volgverzoek kan momenteel niet worden bevestigd. Probeer het later opnieuw.</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">Je volgverzoeken kunnen momenteel niet worden verwijderd. Probeer het later opnieuw.</item>
+        <item quantity="one">Je volgverzoek kan momenteel niet worden verwijderd. Probeer het later opnieuw.</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">Je verzoek om deze gebruikers ook te volgen, is mislukt. Probeer het later opnieuw.</item>
+        <item quantity="one">Je verzoek om deze gebruiker ook te volgen, is mislukt. Probeer het later opnieuw.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">Je verzoek om deze volgers te verwijderen, is mislukt. Probeer het later opnieuw.</item>
+        <item quantity="one">Je verzoek om deze volger te verwijderen, is mislukt. Probeer het later opnieuw.</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">%1$s volgers verwijderd</item>
+        <item quantity="one">1 volger verwijderd</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">%1$d verzoeken</item>
+        <item quantity="one">%1$d verzoek</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">%1$s mensen</item>
+        <item quantity="one">1 persoon</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_body">
+        <item quantity="other">Je hebt %1$d accounts geselecteerd. Deze accounts kunnen je profiel, berichten of verhalen op Instagram niet vinden.</item>
+        <item quantity="one">Je hebt 1 account geselecteerd. Dit account kan je profiel, berichten of verhalen op Instagram niet vinden.</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_primary_button">
+        <item quantity="other">Accounts blokkeren</item>
+        <item quantity="one">Account blokkeren</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_title">
+        <item quantity="other">%1$d accounts blokkeren?</item>
+        <item quantity="one">1 account blokkeren?</item>
+    </plurals>
+    <plurals name="blocked_story_photos_delete_button_text">
+        <item quantity="other">"%1$d foto's verwijderen"</item>
+        <item quantity="one">1 foto verwijderen</item>
+    </plurals>
+    <plurals name="blocked_story_videos_delete_button_text">
+        <item quantity="other">"%1$d video's verwijderen"</item>
+        <item quantity="one">1 video verwijderen</item>
+    </plurals>
+    <plurals name="bonuses_tagging_reels_welcome_bonus_reels_left">
+        <item quantity="other">Nog %1$d reels kunnen meetellen voor de bonus</item>
+        <item quantity="one">Nog 1 reel kan meetellen voor de bonus</item>
+    </plurals>
+    <plurals name="bulk_block_confirmation_toast">
+        <item quantity="other">Accounts geblokkeerd</item>
+        <item quantity="one">Account geblokkeerd</item>
+    </plurals>
+    <plurals name="bulk_restrict_confirmation_toast">
+        <item quantity="other">Accounts beperkt</item>
+        <item quantity="one">Account beperkt</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">%1$d jaar geleden…</item>
+        <item quantity="one">1 jaar geleden...</item>
+    </plurals>
+    <plurals name="cart_sold_out_and_unavailable_items_status_message">
+        <item quantity="other">%1$d artikelen in je winkelwagentje zijn niet meer beschikbaar.</item>
+        <item quantity="one">Een artikel in je winkelwagentje is niet meer beschikbaar.</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">%1$s leden</item>
+        <item quantity="one">%1$s lid</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">%1$d antwoorden</item>
+        <item quantity="one">%1$d antwoord</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">%1$d goede vrienden op Facebook</item>
+        <item quantity="one">1 goede vriend op Facebook</item>
+    </plurals>
+    <plurals name="comment_badge">
+        <item quantity="other">%1$d opmerkingen</item>
+        <item quantity="one">1 opmerking</item>
+    </plurals>
+    <plurals name="comment_count_label_on_feed">
+        <item quantity="other">%1$s opmerkingen</item>
+        <item quantity="one">%1$s opmerking</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">%1$s en &lt;b>%2$s anderen&lt;/b> hebben een opmerking geplaatst</item>
+        <item quantity="one">%1$s en &lt;b>1 andere persoon&lt;/b> hebben een opmerking geplaatst</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">%1$s en anderen hebben een opmerking geplaatst</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s en &lt;b>%4$s anderen&lt;/b> hebben een opmerking geplaatst</item>
+        <item quantity="one">%1$s, %2$s, %3$s en &lt;b>1 andere persoon&lt;/b> hebben een opmerking geplaatst</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">%1$s, %2$s, %3$s en anderen hebben een opmerking geplaatst</item>
+    </plurals>
+    <plurals name="comments_from_facebook_title">
+        <item quantity="other">%1$d opmerkingen van Facebook bekijken</item>
+        <item quantity="one">Eén opmerking van Facebook bekijken</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">%1$s volgverzoeken bevestigen?</item>
+        <item quantity="one">1 volgverzoek bevestigen?</item>
+    </plurals>
+    <plurals name="connect_page_num_like">
+        <item quantity="other">%1$d vind-ik-leuks</item>
+        <item quantity="one">%1$d vind-ik-leuk</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">dagen</item>
+        <item quantity="one">dag</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">uur</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">minuten</item>
+        <item quantity="one">minuut</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">maanden</item>
+        <item quantity="one">maand</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">seconden</item>
+        <item quantity="one">seconde</item>
+    </plurals>
+    <plurals name="custom_comment_filter_upsell_toast_message">
+        <item quantity="other">%1$d items zijn toegevoegd aan je lijst met verborgen woorden</item>
+        <item quantity="one">1 item is toegevoegd aan je lijst met verborgen woorden.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_message">
+        <item quantity="other">"Je kunt deze video's niet meer zien."</item>
+        <item quantity="one">Je kunt deze video niet meer zien.</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_title">
+        <item quantity="other">"%1$d video's verwijderen?"</item>
+        <item quantity="one">Deze video verwijderen?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">%1$s volgverzoeken verwijderen?</item>
+        <item quantity="one">1 volgverzoek verwijderen?</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">Deze verzoeken worden niet goedgekeurd als je overschakelt naar een openbaar account.</item>
+        <item quantity="one">Dit verzoek wordt niet goedgekeurd als je overschakelt naar een openbaar account.</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">Volgverzoeken verwijderen?</item>
+        <item quantity="one">Dit volgverzoek verwijderen?</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">Deze gebruikers kunnen alle voorgaande chatberichten in dit gesprek zien.</item>
+        <item quantity="one">%1$s kan alle voorgaande chatberichten in dit gesprek zien.</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message_without_all">
+        <item quantity="other">Ze zien eerdere chatberichten van dit gesprek.</item>
+        <item quantity="one">%1$s ziet eerdere chatberichten van dit gesprek.</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_hours_ago">
+        <item quantity="other">%1$d uur geleden actief</item>
+        <item quantity="one">1 uur geleden actief</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_mins_ago">
+        <item quantity="other">%1$d minuten geleden actief</item>
+        <item quantity="one">1 minuut geleden actief</item>
+    </plurals>
+    <plurals name="direct_faq_import_bottom_button_footer">
+        <item quantity="other">Selecteer maximaal %1$d vragen</item>
+        <item quantity="one">Selecteer maximaal één vraag</item>
+    </plurals>
+    <plurals name="direct_faq_import_max_limit_reached_message">
+        <item quantity="other">Je kunt niet meer dan %1$d vragen importeren</item>
+        <item quantity="one">Je kunt niet meer dan 1 vraag importeren</item>
+    </plurals>
+    <plurals name="direct_max_recipients_in_chat_reached_body">
+        <item quantity="other">Het totale aantal mensen waaruit een chat kan bestaan is %1$s. Beperk het aantal mensen tot %1$s, inclusief jezelf, om het maken van deze chat te voltooien.</item>
+    </plurals>
+    <plurals name="direct_max_recipients_reached_body">
+        <item quantity="other">Het totale aantal mensen waaruit een groep kan bestaan is %1$s. Beperk het aantal mensen tot %1$s, inclusief jezelf, om het maken van deze groep te voltooien.</item>
+    </plurals>
+    <plurals name="direct_media_composer_send_button_description">
+        <item quantity="other">%1$s verzenden</item>
+        <item quantity="one">Verzenden</item>
+    </plurals>
+    <plurals name="direct_welcome_message_edit_character_limit_reached_error">
+        <item quantity="other">Het welkomstbericht mag maximaal %1$d tekens bevatten.</item>
+        <item quantity="one">Het welkomstbericht mag maximaal 1 teken bevatten.</item>
+    </plurals>
+    <plurals name="discard_x_drafts">
+        <item quantity="other">%1$d concepten verwijderen?</item>
+        <item quantity="one">1 concept verwijderen?</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">%1$s gebruikt door &lt;b>%2$s vrienden&lt;/b></item>
+        <item quantity="one">%1$s gebruikt door &lt;b>1 vriend&lt;/b></item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">%1$s gebruikt door &lt;b>%2$s mensen&lt;/b></item>
+        <item quantity="one">%1$s gebruikt door &lt;b>1 persoon&lt;/b></item>
+    </plurals>
+    <plurals name="fan_club_content_preview_settings_detail">
+        <item quantity="other">%1$d berichten</item>
+        <item quantity="one">%1$d bericht</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">%1$d abonnees bekijken</item>
+        <item quantity="one">%1$d abonnee weergeven</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_subtitle">
+        <item quantity="other">De knop Abonneren is nu live op je profiel. Je volgers krijgen binnen %1$d dagen automatisch een melding over je abonnement.</item>
+        <item quantity="one">De knop Abonneren is nu live op je profiel. Je volgers krijgen binnen 1 dag automatisch een melding over je abonnement.</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_title">
+        <item quantity="other">Je volgers ontvangen binnen %1$d een melding</item>
+        <item quantity="one">Je volgers ontvangen binnen 1 dag een melding</item>
+    </plurals>
+    <plurals name="fb_page_num_like_label">
+        <item quantity="other">%1$s vind-ik-leuks</item>
+        <item quantity="one">%1$s vind-ik-leuk</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s bevat %2$d artikelen, is %3$s, %4$s</item>
+        <item quantity="one">%1$s bevat %2$d artikel, is %3$s, %4$s</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">%1$s gebruikers terugvolgen?</item>
+        <item quantity="one">1 gebruiker terugvolgen?</item>
+    </plurals>
+    <plurals name="follow_badge">
+        <item quantity="other">%1$d volgers</item>
+        <item quantity="one">1 volger</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$d volgers</item>
+        <item quantity="one">1 volger</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">Gevolgd door %1$s mensen</item>
+        <item quantity="one">Gevolgd door 1 persoon</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">Gevolgd door %1$s en &lt;font face=sans-serif-medium>%2$s anderen&lt;/font></item>
+        <item quantity="one">Gevolgd door %1$s en &lt;font face=sans-serif-medium>1 andere persoon&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">Gevolgd door %1$s en %2$s anderen</item>
+        <item quantity="one">Gevolgd door %1$s en 1 andere persoon</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">Gevolgd door %1$s, %2$s en &lt;font face=sans-serif-medium>%3$s andere personen&lt;/font></item>
+        <item quantity="one">Gevolgd door %1$s, %2$s en &lt;font face=sans-serif-medium>één andere persoon&lt;/font></item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">Gevolgd door %1$s, %2$s, %3$s en &lt;font face=sans-serif-medium>%4$s andere personen&lt;/font></item>
+        <item quantity="one">Gevolgd door %1$s, %2$s, %3$s en &lt;font face=sans-serif-medium>1 andere persoon&lt;/font></item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">%1$s volgers</item>
+        <item quantity="one">%1$s volger</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos">
+        <item quantity="other">"%1$d foto's"</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos_one_video">
+        <item quantity="other">"%1$d foto's en één video"</item>
+        <item quantity="one">%1$d foto en één video</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_videos">
+        <item quantity="other">"%1$d video's"</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_one_photo_n_videos">
+        <item quantity="other">"Eén foto en %1$d video's"</item>
+        <item quantity="one">Eén foto en %1$d video</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_months_ago">
+        <item quantity="other">%1$d maanden geleden</item>
+        <item quantity="one">Vorige maand</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_weeks_ago">
+        <item quantity="other">%1$d weken geleden</item>
+        <item quantity="one">Vorige week</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_years_ago">
+        <item quantity="other">%1$d jaar geleden</item>
+        <item quantity="one">Vorig jaar</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_day">
+        <item quantity="other">%1$d dagen</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_minute">
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_month">
+        <item quantity="other">%1$d maanden</item>
+        <item quantity="one">1 maand</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_week">
+        <item quantity="other">%1$d weken</item>
+        <item quantity="one">1 week</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_year">
+        <item quantity="other">%1$d jaar</item>
+        <item quantity="one">1 jaar</item>
+    </plurals>
+    <plurals name="granted_extension_time_hours">
+        <item quantity="other">nog %1$d uur</item>
+    </plurals>
+    <plurals name="granted_extension_time_minutes">
+        <item quantity="other">%1$d extra minuten</item>
+        <item quantity="one">%1$d minuut extra</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">"%1$d foto's en 1 video van %2$s in rij %3$d, kolom %4$d"</item>
+        <item quantity="one">%1$d foto en 1 video van %2$s in rij %3$d, kolom %4$d</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">"1 foto en %1$d video's van %2$s in rij %3$d, kolom %4$d"</item>
+        <item quantity="one">1 foto en %1$d video van %2$s in rij %3$d, kolom %4$d</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">%1$d abonnees</item>
+        <item quantity="one">%1$d abonnee</item>
+    </plurals>
+    <plurals name="guide_detail_text_locations">
+        <item quantity="other">%1$s PLAATSEN</item>
+        <item quantity="one">%1$s PLAATS</item>
+    </plurals>
+    <plurals name="guide_detail_text_media">
+        <item quantity="other">%1$s BERICHTEN</item>
+        <item quantity="one">%1$s BERICHT</item>
+    </plurals>
+    <plurals name="guide_detail_text_products">
+        <item quantity="other">%1$s PRODUCTEN</item>
+        <item quantity="one">%1$s PRODUCT</item>
+    </plurals>
+    <plurals name="guide_drafts_count">
+        <item quantity="other">%1$s conceptgidsen</item>
+        <item quantity="one">%1$s conceptgids</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_attempts_left_error">
+        <item quantity="other">Je hebt nog %1$d pogingen om je pincode in te voeren tot deze niet meer werkt.</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_hours_popup_title_text">
+        <item quantity="other">%1$d uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_minutes_popup_title_text">
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_seconds_popup_title_text">
+        <item quantity="other">%1$d seconden</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">Advertenties uit %1$s als gokken en dating worden standaard beperkt. Je kunt maximaal %2$d andere advertentiecategorieën selecteren waarvoor je wilt voorkomen dat ze worden weergegeven in je reels.</item>
+        <item quantity="one">Advertenties uit %1$s als gokken en dating worden standaard beperkt. Je kunt maximaal één andere advertentiecategorie selecteren waarvoor je wilt voorkomen dat deze wordt weergegeven in je reels.</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s en %6$d andere accounts</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s en 1 ander account</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">%1$s, %2$s, %3$s, %4$s, %5$s en %6$d andere categorieën</item>
+        <item quantity="one">%1$s, %2$s, %3$s, %4$s, %5$s en 1 andere categorie</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">Advertenties uit %1$s als gokken en dating worden standaard beperkt. Je kunt maximaal %2$d andere advertentiecategorieën selecteren waarvoor je wilt voorkomen dat ze worden weergegeven in je profieloverzicht.</item>
+        <item quantity="one">Advertenties uit %1$s als gokken en dating worden standaard beperkt. Je kunt maximaal één andere advertentiecategorie selecteren waarvoor je wilt voorkomen dat deze wordt weergegeven in je profieloverzicht.</item>
+    </plurals>
+    <plurals name="iglive_audience_mode_close_friends_edit_option_close_friends_added">
+        <item quantity="other">%1$d personen</item>
+        <item quantity="one">%1$d persoon</item>
+    </plurals>
+    <plurals name="iglive_presence_text">
+        <item quantity="other">%1$d volgers zijn nu actief</item>
+        <item quantity="one">%1$d volger is nu actief</item>
+    </plurals>
+    <plurals name="igtv_series_episode">
+        <item quantity="other">%1$s afleveringen</item>
+        <item quantity="one">1 aflevering</item>
+    </plurals>
+    <plurals name="igtv_video_minute_duration_description">
+        <item quantity="other">%1$s minuten en %2$s seconden</item>
+        <item quantity="one">%1$s minuten en 1 seconde</item>
+    </plurals>
+    <plurals name="igtv_video_seconds_duration_description_one_min">
+        <item quantity="other">1 minuut en %1$s seconden</item>
+        <item quantity="one">1 minuut en 1 seconde</item>
+    </plurals>
+    <plurals name="lead_gen_available_forms_number_of_custom_questions">
+        <item quantity="other">%1$d vragen</item>
+        <item quantity="one">%1$d vraag</item>
+    </plurals>
+    <plurals name="lead_gen_form_num_questions">
+        <item quantity="other">%1$d vragen</item>
+        <item quantity="one">1 vraag</item>
+    </plurals>
+    <plurals name="like_badge">
+        <item quantity="other">%1$d vind-ik-leuks</item>
+        <item quantity="one">1 vind-ik-leuk</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%1$d vind-ik-leuks</item>
+        <item quantity="one">1 vind-ik-leuk</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">%1$s en &lt;font face=sans-serif-medium>%2$s anderen&lt;/font> vinden dit leuk</item>
+        <item quantity="one">%1$s en &lt;font face=sans-serif-medium>1 andere&lt;/font> vinden dit leuk</item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s en &lt;font face=sans-serif-medium>%3$s anderen&lt;/font> vinden dit leuk</item>
+        <item quantity="one">%1$s, %2$s en &lt;font face=sans-serif-medium>1 andere&lt;/font> vinden dit leuk</item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s en &lt;font face=sans-serif-medium>%4$s anderen&lt;/font> vinden dit leuk</item>
+        <item quantity="one">%1$s, %2$s, %3$s en &lt;font face=sans-serif-medium>1 andere&lt;/font> vinden dit leuk</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_day">
+        <item quantity="other">%1$d dagen</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_week">
+        <item quantity="other">%1$d weken</item>
+        <item quantity="one">1 week</item>
+    </plurals>
+    <plurals name="live_question_like_count">
+        <item quantity="other">%1$d vind-ik-leuks</item>
+        <item quantity="one">1 vind-ik-leuk</item>
+    </plurals>
+    <plurals name="live_streak_subtitle_post_live_streak_increased">
+        <item quantity="other">Je bent %1$d weken op rij live gegaan! Ontdek hoeveel weken op rij je live kunt gaan.</item>
+        <item quantity="one">Goed gedaan! Zet een nieuw persoonlijk record neer door te kijken hoeveel weken op rij je live kunt gaan.</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">%1$s en %2$s waren live</item>
+        <item quantity="one">%1$s was live</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">%1$d badges</item>
+        <item quantity="one">1 badge</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">%1$s en %2$d anderen hebben een verzoek ingediend om deel te nemen aan je livevideo.</item>
+        <item quantity="one">%1$s en %2$d andere persoon hebben een verzoek ingediend om deel te nemen aan je livevideo.</item>
+    </plurals>
+    <plurals name="location_list_title">
+        <item quantity="other">%1$d plaatsen</item>
+        <item quantity="one">%1$d plaats</item>
+    </plurals>
+    <plurals name="member_count_text">
+        <item quantity="other">%1$s leden</item>
+        <item quantity="one">%1$s lid</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">%1$d uur resterend</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">%1$d minuten resterend</item>
+    </plurals>
+    <plurals name="msys_ds_4xu0wn">
+        <item quantity="other">"Heeft %1$d foto's gestuurd"</item>
+        <item quantity="one">Heeft een foto gestuurd</item>
+    </plurals>
+    <plurals name="msys_ds_Tey2G">
+        <item quantity="other">"%1$s heeft %2$d foto's gestuurd"</item>
+        <item quantity="one">%1$s heeft een foto gestuurd</item>
+    </plurals>
+    <plurals name="msys_ds_l81ip">
+        <item quantity="other">"Je hebt %1$d foto's gestuurd"</item>
+        <item quantity="one">Je hebt een foto gestuurd</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">Chat met %1$s, %2$s en %3$d anderen rapporteren?</item>
+        <item quantity="one">Chat met %1$s, %2$s en %3$d andere persoon rapporteren?</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">Je hebt %1$s en %2$d anderen aan de groep toegevoegd.</item>
+        <item quantity="one">Je hebt %1$s en %2$d anderen toegevoegd aan de groep.</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">Je hebt %1$s en %2$d anderen verwijderd uit de groep.</item>
+        <item quantity="one">Je hebt %1$s en %2$d andere persoon verwijderd uit de groep.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">%1$d woordeffecten van %2$s zijn toegevoegd %3$s</item>
+        <item quantity="one">%1$d woordeffect van %2$s is toegevoegd %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">Je hebt %1$d woordeffecten gewijzigd.</item>
+        <item quantity="one">Je hebt %1$d woordeffect gewijzigd.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">%1$s heeft %2$d woordeffecten gewijzigd.</item>
+        <item quantity="one">%1$s heeft %2$d woordeffect gewijzigd.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">Je hebt %1$d woordeffecten ingesteld %2$s</item>
+        <item quantity="one">Je hebt %1$d woordeffect ingesteld %2$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">%1$s heeft %2$d woordeffecten ingesteld %3$s</item>
+        <item quantity="one">%1$s heeft %2$d woordeffect ingesteld %3$s</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">Je hebt %1$d woordeffecten verwijderd.</item>
+        <item quantity="one">Je hebt %1$d woordeffect verwijderd.</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">%1$s heeft %2$d woordeffecten verwijderd.</item>
+        <item quantity="one">%1$s heeft %2$d woordeffect verwijderd.</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">%1$d dagen</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">%1$d uur</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="one">%1$d minuut</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">%1$d seconden</item>
+        <item quantity="one">%1$d seconde</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">%1$s heeft jou en %2$d anderen toegevoegd aan de groep.</item>
+        <item quantity="one">%1$s heeft jou en %2$d andere persoon aan de groep toegevoegd.</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">%1$s heeft %2$s en %3$d anderen toegevoegd aan de groep.</item>
+        <item quantity="one">%1$s heeft %2$s en %3$d andere persoon aan de groep toegevoegd.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">%1$s heeft jou en %2$d anderen verwijderd uit de groep.</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">%1$s heeft %2$s en %3$d anderen verwijderd uit de groep.</item>
+        <item quantity="one">%1$s heeft %2$s en %3$d andere persoon verwijderd uit de groep.</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">Deze mensen kunnen de chatgeschiedenis zien</item>
+        <item quantity="one">Deze persoon kan de chatgeschiedenis zien</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">Jij en %1$d anderen zijn toegevoegd aan de groep.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">%1$s en %2$d anderen zijn toegevoegd aan de groep.</item>
+        <item quantity="one">%1$s en %2$d andere persoon zijn toegevoegd aan de groep.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">Jij en %1$d anderen zijn verwijderd uit de groep.</item>
+        <item quantity="one">Jij en %1$d andere persoon zijn uit de groep verwijderd.</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">%1$s en %2$d anderen zijn verwijderd uit de groep.</item>
+        <item quantity="one">%1$s en %2$d andere persoon zijn verwijderd uit de groep.</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">Je hebt %1$d mensen toegevoegd</item>
+        <item quantity="one">Je hebt %1$d persoon toegevoegd</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">Je hebt %1$s, %2$s en nog %3$d andere mensen toegevoegd</item>
+        <item quantity="one">Je hebt %1$s, %2$s en een andere persoon toegevoegd</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">Je hebt %1$d verstuurd.</item>
+        <item quantity="one">Je hebt een foto gestuurd.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">Je foto staat in het verhaal van %1$s en %2$s anderen.</item>
+        <item quantity="one">Je foto staat in het verhaal van %1$s en één andere persoon.</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">Je video staat in het verhaal van %1$s en %2$s anderen.</item>
+        <item quantity="one">Je video staat in het verhaal van %1$s en één andere persoon.</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">Je foto is toegevoegd aan %1$s hashtagverhalen</item>
+        <item quantity="one">Je foto is toegevoegd aan een hashtagverhaal</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">Je foto is toegevoegd aan %1$s Locatieverslagen</item>
+        <item quantity="one">Je foto is toegevoegd aan een locatieverhaal</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">Je video is toegevoegd aan %1$s hashtagverhalen</item>
+        <item quantity="one">Je video is toegevoegd aan een hashtagverhaal</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">Je video is toegevoegd aan %1$s Locatieverslagen</item>
+        <item quantity="one">Je video is toegevoegd aan een locatieverhaal</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">&lt;b>%1$s&lt;/b> van %2$s en %3$s andere effecten</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> van %2$s en %3$s ander effect</item>
+    </plurals>
+    <plurals name="n_additionalDiscounts">
+        <item quantity="other">Nog %1$d promoties</item>
+        <item quantity="one">Nog %1$d promotie</item>
+    </plurals>
+    <plurals name="n_additionalDiscountsOffers">
+        <item quantity="other">Nog %1$d aanbiedingen</item>
+        <item quantity="one">Nog %1$d aanbieding</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">Je hebt %1$d nieuwe leads ontvangen.</item>
+        <item quantity="one">Je hebt 1 nieuwe lead ontvangen.</item>
+    </plurals>
+    <plurals name="new_post_badge">
+        <item quantity="other">Nieuwe berichten</item>
+        <item quantity="one">Eén nieuw bericht</item>
+    </plurals>
+    <plurals name="notification_badge">
+        <item quantity="other">%1$d meldingen</item>
+        <item quantity="one">1 melding</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">%1$d of meer ongelezen berichten</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">%1$d ongelezen berichten</item>
+        <item quantity="one">%1$d ongelezen bericht</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">%1$d productcollecties</item>
+        <item quantity="one">1 productcollectie</item>
+    </plurals>
+    <plurals name="num_pdp_attributes_discounts_formatted">
+        <item quantity="other">%1$s en %2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">%1$d producten</item>
+        <item quantity="one">1 product</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">%1$s opmerkingen</item>
+        <item quantity="one">%1$s opmerking</item>
+    </plurals>
+    <plurals name="number_of_comments_with_specific_emoji">
+        <item quantity="other">%1$s opmerkingen met %2$s</item>
+        <item quantity="one">1 opmerking met %2$s</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">%1$s vind-ik-leuks</item>
+        <item quantity="one">%1$s vindt dit bericht leuk</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">%1$s weergaven</item>
+        <item quantity="one">%1$s weergave</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">%1$s berichten</item>
+        <item quantity="one">%1$s bericht</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">%1$s openbare berichten</item>
+        <item quantity="one">%1$s openbaar bericht</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">%1$s vind-ik-leuks en reacties</item>
+        <item quantity="one">%1$s vind-ik-leuk of reactie</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">%1$s keer gedeeld</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">%1$s kijkers</item>
+        <item quantity="one">1 kijker</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">%1$s weergaven</item>
+        <item quantity="one">%1$s weergave</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">%1$d jaar geleden op deze dag.</item>
+        <item quantity="one">1 jaar geleden op deze dag.</item>
+    </plurals>
+    <plurals name="on_x_countries">
+        <item quantity="other">Aan (%1$d landen)</item>
+        <item quantity="one">Aan (1 land)</item>
+    </plurals>
+    <plurals name="other_badges">
+        <item quantity="other">%1$d andere</item>
+        <item quantity="one">1 andere</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">Je hebt %1$d advertenties die in behandeling zijn.</item>
+        <item quantity="one">Je hebt 1 advertentie die in behandeling is.</item>
+    </plurals>
+    <plurals name="people_tagging_x_people_plurals">
+        <item quantity="other">%2$d mensen</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="plays_user_list_title">
+        <item quantity="other">%1$d afspeelgebeurtenissen</item>
+        <item quantity="one">1 weergave</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">%1$s stemmers via promotie</item>
+        <item quantity="one">1 stemmer via promotie</item>
+    </plurals>
+    <plurals name="post_live_broadcaster_user_pay_summary_info">
+        <item quantity="other">Je hebt een geschatte %1$s verdiend van %2$s badges.</item>
+        <item quantity="one">Je hebt een geschatte %1$s verdiend van één badge.</item>
+    </plurals>
+    <plurals name="post_live_viewer_count">
+        <item quantity="other">%1$s, %2$s, +%3$d anderen hebben je livevideo bekeken.</item>
+        <item quantity="one">%1$s heeft je livevideo bekeken.</item>
+    </plurals>
+    <plurals name="post_live_viewer_user_pay_summary_info">
+        <item quantity="other">Je hebt %2$d badges gekocht. %1$s ziet een lijst van alle mensen die badges hebben gekocht.</item>
+        <item quantity="one">Je hebt een badge gekocht. %1$s ziet een lijst van iedereen die badges heeft gekocht.</item>
+    </plurals>
+    <plurals name="product_guide_shop_row_subtitle">
+        <item quantity="other">%1$d producten</item>
+        <item quantity="one">%1$d product</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">Suggesties beschikbaar</item>
+        <item quantity="one">Suggestie beschikbaar</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_facebook_others">
+        <item quantity="other">%1$s en %2$d andere links</item>
+        <item quantity="one">%1$s en één andere link</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_others">
+        <item quantity="other">%1$s en %2$d anderen</item>
+        <item quantity="one">%1$s en 1 ander persoon</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_admins_with_count">
+        <item quantity="other">%1$s beheerders</item>
+        <item quantity="one">%1$s beheerder</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_blocked_with_count">
+        <item quantity="other">%1$s geblokkeerd</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_members_with_count">
+        <item quantity="other">%1$s leden</item>
+        <item quantity="one">%1$s lid</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">&lt;b>%1$s&lt;/b> en &lt;b>%2$s anderen&lt;/b> hebben iets hieraan toegevoegd</item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> en &lt;b>1 andere persoon&lt;/b> hebben hier iets aan toegevoegd</item>
+    </plurals>
+    <plurals name="quickshare_add_topics_pill_text">
+        <item quantity="other">%1$d onderwerpen</item>
+        <item quantity="one">1 onderwerp</item>
+    </plurals>
+    <plurals name="recipient_picker_close_friends_count">
+        <item quantity="other">%1$s mensen</item>
+        <item quantity="one">1 persoon</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">%1$s anderen hebben dit verhaal bekeken op Facebook. Aangezien het verhaal openbaar is gedeeld op Facebook, kan iedereen met wie je niet bent bevriend het verhaal zien.</item>
+        <item quantity="one">1 andere persoon heeft dit verhaal bekeken op Facebook. Aangezien het verhaal openbaar is gedeeld op Facebook, kan iedereen met wie je niet bent bevriend het verhaal zien.</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">%1$s andere weergaven op Facebook</item>
+        <item quantity="one">1 andere weergave op Facebook</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">stemmen voor %1$s</item>
+        <item quantity="one">stem voor %1$s</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">%1$d mensen hebben antwoord gegeven. Dit is het gemiddelde antwoord.</item>
+        <item quantity="one">1 persoon heeft antwoord gegeven. Dit is het gemiddelde antwoord.</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">Geremixt door &lt;b>%1$s vrienden&lt;/b></item>
+        <item quantity="one">Geremixt door &lt;b>1 vriend&lt;/b></item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">Geremixt door &lt;b>%1$s mensen&lt;/b></item>
+        <item quantity="one">Geremixt door &lt;b>1 persoon&lt;/b></item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_message">
+        <item quantity="other">"Je verwijdert %1$d video's uit je hoogtepunt."</item>
+        <item quantity="one">Je verwijdert één video uit je hoogtepunt.</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_title">
+        <item quantity="other">"%1$d video's verwijderen uit hoogtepunt?"</item>
+        <item quantity="one">Video verwijderen uit hoogtepunt?</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">%1$s volgers verwijderen?</item>
+        <item quantity="one">1 volger verwijderen?</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">%1$d producten verwijderd</item>
+        <item quantity="one">1 product verwijderd</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_body">
+        <item quantity="other">Je hebt %1$d accounts geselecteerd. Alleen jij en de persoon die je blokkeert, zien zijn/haar nieuwe reacties op je berichten.</item>
+        <item quantity="one">Je hebt 1 account geselecteerd. Alleen jij en de persoon die je beperkt, zien zijn/haar nieuwe reacties bij je berichten.</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_primary_button">
+        <item quantity="other">Beperkte accounts</item>
+        <item quantity="one">Account beperken</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_title">
+        <item quantity="other">%1$d accounts beperken?</item>
+        <item quantity="one">1 account beperken?</item>
+    </plurals>
+    <plurals name="rolodex_hour">
+        <item quantity="other">%1$d uur</item>
+    </plurals>
+    <plurals name="rolodex_minute">
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="one">%1$d minuut</item>
+    </plurals>
+    <plurals name="rolodex_second">
+        <item quantity="other">%1$d seconden</item>
+        <item quantity="one">%1$d seconde</item>
+    </plurals>
+    <plurals name="rtc_effects_removed_multipeer_effect_max_participant_exceed">
+        <item quantity="other">Omgeving %1$s ondersteunt maximaal %2$d mensen.</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">%1$s opgeslagen berichten</item>
+        <item quantity="one">%1$s opgeslagen bericht</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">Berichten kunnen niet worden toegevoegd</item>
+        <item quantity="one">Bericht kan niet worden toegevoegd</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">%2$s berichten zijn toegevoegd aan %1$s</item>
+        <item quantity="one">Bericht is toegevoegd aan %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">Berichten kunnen niet worden verplaatst</item>
+        <item quantity="one">Bericht kan niet worden verplaatst</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">%2$s berichten zijn verplaatst naar %1$s</item>
+        <item quantity="one">Bericht is verplaatst naar %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">Hiermee worden berichten uit deze verzameling verwijderd en verplaatst naar %1$s. De berichten blijven wel opgeslagen in Alle opgeslagen berichten.</item>
+        <item quantity="one">Hiermee wordt het bericht uit deze verzameling verwijderd en verplaatst naar %1$s. Het bericht blijft wel opgeslagen in Alle opgeslagen berichten.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">Als je berichten verwijdert, worden deze ook uit collecties verwijderd.</item>
+        <item quantity="one">Als je dit bericht verwijdert, wordt dit ook uit collecties verwijderd.</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">Berichten verwijderen?</item>
+        <item quantity="one">Bericht verwijderen?</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">Berichten verwijderen mislukt</item>
+        <item quantity="one">Bericht verwijderen mislukt</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">%2$s berichten verwijderd uit %1$s</item>
+        <item quantity="one">Bericht verwijderd uit %1$s</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">Opslaan berichten ongedaan maken mislukt</item>
+        <item quantity="one">Opslaan bericht ongedaan maken mislukt</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">Opslaan van %1$s berichten ongedaan gemaakt</item>
+        <item quantity="one">Opslaan bericht ongedaan gemaakt</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">1 geselecteerd</item>
+    </plurals>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">%1$d seconden resterend</item>
+        <item quantity="one">1 seconde resterend</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">Nieuwe berichten</item>
+        <item quantity="one">Nieuw bericht</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">%1$s nieuwe berichten</item>
+        <item quantity="one">1 nieuw bericht</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_subtitle">
+        <item quantity="other">"%1$d video's zijn geblokkeerd in bepaalde landen."</item>
+        <item quantity="one">1 video is geblokkeerd in bepaalde landen.</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_title">
+        <item quantity="other">"Er zijn %1$d video's geblokkeerd in sommige landen"</item>
+        <item quantity="one">1 video is geblokkeerd in sommige landen</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_subtitle">
+        <item quantity="other">"%1$d video's zijn geblokkeerd"</item>
+        <item quantity="one">1 video is geblokkeerd.</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_title">
+        <item quantity="other">"Er zijn %1$d video's geblokkeerd"</item>
+        <item quantity="one">Er is één video geblokkeerd</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_subtitle">
+        <item quantity="other">"%1$d video's zijn alleen beschikbaar in bepaalde landen."</item>
+        <item quantity="one">1 video is alleen beschikbaar in bepaalde landen.</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_title">
+        <item quantity="other">"%1$d video's zijn alleen beschikbaar in sommige landen"</item>
+        <item quantity="one">Eén video is alleen beschikbaar in sommige landen</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">Je kunt slechts %1$d opmerkingen tegelijk kiezen.</item>
+        <item quantity="one">Je kunt slechts 1 opmerking tegelijk kiezen.</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">Alle volgverzoeken die in behandeling zijn, worden automatisch goedgekeurd, tenzij je ze nu verwijdert. Bekijk %1$s volgverzoeken die in behandeling zijn.</item>
+        <item quantity="one">Alle volgverzoeken die in behandeling zijn, worden automatisch goedgekeurd, tenzij je ze nu verwijdert. Bekijk %1$s volgverzoek dat in behandeling is.</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">%1$s producten</item>
+        <item quantity="one">%1$s product</item>
+    </plurals>
+    <plurals name="shopping_cart_count_content_description">
+        <item quantity="other">%1$d artikelen in winkelwagentje</item>
+        <item quantity="one">1 artikel in winkelwagentje</item>
+    </plurals>
+    <plurals name="shopping_cart_num_items">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">1 artikel</item>
+    </plurals>
+    <plurals name="shopping_cart_subtotal_title_text">
+        <item quantity="other">Subtotaal (%1$d artikelen)</item>
+        <item quantity="one">Subtotaal (1 artikel)</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">%1$s en &lt;b>%2$s anderen&lt;/b> zijn lid</item>
+        <item quantity="one">%1$s en &lt;b>1 andere persoon&lt;/b> zijn lid</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s en &lt;b>%3$s anderen&lt;/b> zijn lid</item>
+        <item quantity="one">%1$s, %2$s en &lt;b>1 andere persoon&lt;/b> are members</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">%1$s, %2$s, %3$s en &lt;b>%4$s anderen&lt;/b> zijn lid</item>
+        <item quantity="one">%1$s, %2$s, %3$s en &lt;b>1 andere persoon&lt;/b> zijn lid</item>
+    </plurals>
+    <plurals name="standalone_fundraiser_with_cohost_label">
+        <item quantity="other">&lt;b>%1$s&lt;/b> en &lt;b>%2$s others&lt;/b></item>
+        <item quantity="one">&lt;b>%1$s&lt;/b> en &lt;b>1 other&lt;/b></item>
+    </plurals>
+    <plurals name="sticker_count_limit">
+        <item quantity="other">Je kunt deze sticker niet vaker dan %1$d keer per verhaal toevoegen</item>
+        <item quantity="one">Je kunt deze sticker niet vaker dan één keer per verhaal toevoegen</item>
+    </plurals>
+    <plurals name="story_drafts_confirmation_title">
+        <item quantity="other">Concepten verwijderen?</item>
+        <item quantity="one">Concept verwijderen?</item>
+    </plurals>
+    <plurals name="subscriptions_shoutout_bottom_sheet_title">
+        <item quantity="other">Vermeldt %1$d abonnees</item>
+        <item quantity="one">Vermeldt %1$d abonnee</item>
+    </plurals>
+    <plurals name="suggested_hidden_words_toast_text">
+        <item quantity="other">%1$d woorden zijn toegevoegd aan de lijst met verborgen woorden</item>
+        <item quantity="one">1 woord is toegevoegd aan de lijst met verborgen woorden</item>
+    </plurals>
+    <plurals name="suggested_products_count">
+        <item quantity="other">%1$d voorgestelde producten</item>
+        <item quantity="one">1 voorgesteld product</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos">
+        <item quantity="other">"Groepsfoto's van afgelopen weekend"</item>
+        <item quantity="one">Groepsfoto van afgelopen weekend</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos_with_location">
+        <item quantity="other">"Groepsfoto's van afgelopen weekend in %1$s"</item>
+        <item quantity="one">Groepsfoto van afgelopen weekend in %1$s</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos">
+        <item quantity="other">"Groepsfoto's van vandaag"</item>
+        <item quantity="one">Groepsfoto van vandaag</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos_with_location">
+        <item quantity="other">"Groepsfoto's van vandaag in %1$s"</item>
+        <item quantity="one">Groepsfoto van vandaag in %1$s</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos">
+        <item quantity="other">"Groepsfoto's van gisteren"</item>
+        <item quantity="one">Groepsfoto van gisteren</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos_with_location">
+        <item quantity="other">"Groepsfoto's van gisteren in %1$s"</item>
+        <item quantity="one">Groepsfoto van gisteren in %1$s</item>
+    </plurals>
+    <plurals name="suggestion_your_recent_favorites">
+        <item quantity="other">Favorieten van vorige week</item>
+        <item quantity="one">Favoriet van vorige week</item>
+    </plurals>
+    <plurals name="tagged_accounts_plural">
+        <item quantity="other">getagde accounts:</item>
+        <item quantity="one">getagd account:</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">Sjabloon gebruikt door &lt;b>%1$s vrienden&lt;/b></item>
+        <item quantity="one">Sjabloon gebruikt door &lt;b>1 vriend&lt;/b></item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">Sjabloon gebruikt door &lt;b>%1$smensen&lt;/b></item>
+        <item quantity="one">Sjabloon gebruikt door &lt;b>1 persoon&lt;/b></item>
+    </plurals>
+    <plurals name="thread_title_suffix_n_others">
+        <item quantity="other">… en %1$d anderen</item>
+        <item quantity="one">... en 1 andere persoon</item>
+    </plurals>
+    <plurals name="thread_title_x_and_n_others">
+        <item quantity="other">%1$s en %2$d anderen</item>
+        <item quantity="one">%1$s en 1 ander</item>
+    </plurals>
+    <plurals name="thread_title_x_y_and_n_others">
+        <item quantity="other">%1$s, %2$s en %3$s anderen</item>
+        <item quantity="one">%1$s, %2$s en 1 andere persoon</item>
+    </plurals>
+    <plurals name="unseen_like_notification">
+        <item quantity="other">Je hebt %1$d nieuwe vind-ik-leuks</item>
+        <item quantity="one">Je hebt 1 nieuwe vind-ik-leuk</item>
+    </plurals>
+    <plurals name="upcoming_event_subtitle_template">
+        <item quantity="other">%1$d producten · %2$s</item>
+        <item quantity="one">%2$s</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">%1$d supporters ontvangen een melding in Activiteit</item>
+        <item quantity="one">1 supporter ontvangt een melding in Activiteit</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notified_supporters_number">
+        <item quantity="other">%1$d badgesupporters van je meest recente livevideo ontvangen een melding als je dit verhaal deelt. Bekijken</item>
+        <item quantity="one">1 badgesupporter van je meest recente livevideo ontvangt een melding als je dit verhaal deelt. Bekijken</item>
+    </plurals>
+    <plurals name="user_pay_fanclub_all_subscribers_header">
+        <item quantity="other">Alle abonnees (%1$d)</item>
+        <item quantity="one">Alle abonnees</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d weergaven</item>
+        <item quantity="one">1 weergave</item>
+    </plurals>
+    <plurals name="view_x_more_replies">
+        <item quantity="other">Nog %1$d antwoorden bekijken</item>
+        <item quantity="one">Nog %1$d antwoord bekijken</item>
+    </plurals>
+    <plurals name="view_x_previous_replies">
+        <item quantity="other">%1$d vorige antwoorden bekijken</item>
+        <item quantity="one">%1$d vorig antwoord bekijken</item>
+    </plurals>
+    <plurals name="view_x_replies">
+        <item quantity="other">Nog %1$d antwoorden bekijken</item>
+        <item quantity="one">Nog %1$d antwoord bekijken</item>
+    </plurals>
+    <plurals name="voter_count_on_surfaces">
+        <item quantity="other">Stemmen · %1$s pollresultaten</item>
+        <item quantity="one">Stemmen · %1$s pollresultaat</item>
+    </plurals>
+    <plurals name="voters_count">
+        <item quantity="other">%1$s stemmen</item>
+        <item quantity="one">%1$s stem</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">%1$d opmerkingen zijn verwijderd.</item>
+        <item quantity="one">Opmerking is verwijderd.</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%1$s dagen</item>
+        <item quantity="one">%1$s dag</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">%1$s dagen geleden</item>
+        <item quantity="one">%1$s dag geleden</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%1$s uur</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">%1$s uur geleden</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%1$s minuten</item>
+        <item quantity="one">%1$s minuut</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">%1$s minuten geleden</item>
+        <item quantity="one">%1$s minuut geleden</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">%1$d mensen</item>
+        <item quantity="one">1 persoon</item>
+    </plurals>
+    <plurals name="x_reactions">
+        <item quantity="other">%1$s reacties</item>
+        <item quantity="one">%1$s reactie</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%1$s seconden</item>
+        <item quantity="one">%1$s seconde</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">%1$s seconden geleden</item>
+        <item quantity="one">%1$s seconde geleden</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">1 geselecteerd</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">%1$d personen hebben gereageerd.</item>
+        <item quantity="one">1 persoon heeft gereageerd.</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">%1$s weken</item>
+        <item quantity="one">%1$s week</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">%1$s weken geleden</item>
+        <item quantity="one">%1$s week geleden</item>
+    </plurals>
+</resources>

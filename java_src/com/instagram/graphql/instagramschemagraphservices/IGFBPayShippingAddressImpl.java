@@ -1,0 +1,11 @@
+package com.instagram.graphql.instagramschemagraphservices;
+
+import com.facebook.pando.TreeJNI;
+import p000X.InterfaceC87174mZ;
+/* loaded from: classes3.dex */
+public final class IGFBPayShippingAddressImpl extends TreeJNI implements InterfaceC87174mZ {
+    @Override // com.facebook.pando.TreeJNI
+    public final String[] getScalarFields() {
+        return new String[]{"care_of", "city_name", "id", "is_default", "label", "postal_code", "state_name", "street1", "street2"};
+    }
+}

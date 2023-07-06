@@ -1,0 +1,13 @@
+{
+  "simple_action":{
+    "action_type":"stories_inventory_quality_survey",
+    "title":"[FB-only] Help Improve Your Instagram",
+    "message":"Quickly share your thoughts to help us improve your experience on Instagram.",
+    "button_text":"Get Started",
+    "has_dismiss":false,
+    "extra_data_token":"{\"detailed_survey_type\": [\"stories_inventory_quality_survey\"], \"qp_id\": \"659316491483494\"}",
+    "icon_url":null,
+    "id":"45110478494433",
+    "tracking_token":"eyJ1dWlkIjoiN2E5ZjllOGY0ODM5NDg0YmFhZTYzMmRjODY0MWZjMWEiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6bnVsbCwiZmJfdXNlcl9pZCI6MTAwMDA3MjE0NjUxMjQ3LCJuZXRfZWdvX3R5cGUiOjQxLCJnbG9iYWxfcG9zaXRpb24iOjIsImdhcF9ydWxlX3ZhbHVlIjo1LCJyaWdodF9nYXBfcnVsZV92YWx1ZSI6NSwiaGlnaGVzdF9uZXRlZ29fcG9zaXRpb24iOjIsImVjcG1fcHJpY2UiOjEwMDAwMDAuMCwicGFjaW5nX3FlX2luZm8iOiJpZ19uZXRlZ29fcXBfZGVsaXZlcnlfZG9nZm9vZF92MXxkb2dmb29kIiwidXNlcl9kb2xsYXJfdmFsdWUiOjEuMzM2NzY0MTEwNiwiaXNfbmV3X2luc2VydGlvbiI6dHJ1ZSwiaXNfZnJvbV9uZWVkeV91c2VyIjpmYWxzZSwiYXVjdGlvbl9wcmljZV9vdXRjb21lIjozfX0="
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="fill_horizontal|center">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/close_friends_badge_vertical_padding" />
+            <size android:height="@dimen/card_close_button_padding" />
+            <solid android:color="@color/chat_sticker_button_divider_color" />
+        </shape>
+    </item>
+    <item android:gravity="fill_horizontal|center">
+        <clip>
+            <scale android:scaleWidth="100%">
+                <shape android:shape="rectangle">
+                    <corners android:radius="@dimen/close_friends_badge_vertical_padding" />
+                    <size android:height="@dimen/card_close_button_padding" />
+                    <gradient android:startColor="@color/slider_gradient_start" android:endColor="@color/slider_gradient_end" android:angle="0.0" />
+                </shape>
+            </scale>
+        </clip>
+    </item>
+</layer-list>

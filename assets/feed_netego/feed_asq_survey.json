@@ -1,0 +1,13 @@
+{
+  "simple_action":{
+    "action_type":"asq",
+    "title":"Help Us Improve Instagram",
+    "message":"Take a quick survey about ads you might see.",
+    "button_text":"Start Survey",
+    "has_dismiss":false,
+    "extra_data_token":"{\"detailed_survey_type\": \"asq\"}",
+    "icon_url":null,
+    "id":"58951163840609",
+    "tracking_token":"eyJ1dWlkIjoiM2M1OWE2NzMxMTAwNGU1Mjk4Y2ViYmRkY2Q3ZTU1YWUiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6bnVsbCwiZmJfdXNlcl9pZCI6MTAwMDA3MjE0NjUxMjQ3LCJuZXRfZWdvX3R5cGUiOjQxLCJnbG9iYWxfcG9zaXRpb24iOjEsImdhcF9ydWxlX3ZhbHVlIjo0LCJyaWdodF9nYXBfcnVsZV92YWx1ZSI6NCwiaGlnaGVzdF9uZXRlZ29fcG9zaXRpb24iOjEsImVjcG1fcHJpY2UiOjEwMDAwMDAuMCwicGFjaW5nX3FlX2luZm8iOiJpZ19uZXRlZ29fcXBfZGVsaXZlcnlfZG9nZm9vZF92MXxkb2dmb29kIiwidXNlcl9kb2xsYXJfdmFsdWUiOjIuNDIwMTAwMDA4NywiaXNfbmV3X2luc2VydGlvbiI6dHJ1ZSwiaXNfZnJvbV9uZWVkeV91c2VyIjpmYWxzZSwiYXVjdGlvbl9wcmljZV9vdXRjb21lIjozfX0="
+  }
+}

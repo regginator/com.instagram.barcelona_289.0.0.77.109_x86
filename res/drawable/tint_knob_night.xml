@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/seek_bar_knob_outer_circle">
+        <shape android:shape="ring" android:useLevel="false" android:innerRadius="10.0dip" android:thickness="@dimen/audition_audio_item_selected_stroke_border_width">
+            <solid android:color="@color/feed_sticker_background_top_light" />
+        </shape>
+    </item>
+    <item android:id="@id/seek_bar_knob_inner_circle" android:left="11.0dip" android:top="11.0dip" android:right="11.0dip" android:bottom="11.0dip">
+        <shape android:shape="oval">
+            <solid android:color="@color/feed_sticker_background_top_light" />
+        </shape>
+    </item>
+</layer-list>

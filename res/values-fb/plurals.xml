@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_call_to_action_description">
+        <item quantity="other">[Viewers will be able to swipe up to visit this link. You can only add one swipe up link.#14601fd614d8f68c6cf6f39e2838bd2b:1]</item>
+        <item quantity="one">[Viewers will be able to swipe up to visit this link.#ec04153d1060589db7a65ee7e1c25aeb:1]</item>
+    </plurals>
+    <plurals name="add_mentioned_users_success_message">
+        <item quantity="other">[Added mentions.#dbfefc3ca7e392943a22509cc311a27c:1]</item>
+        <item quantity="one">[Added mention.#7fe6517e2c5954f21f166ee05c7fb040:1]</item>
+    </plurals>
+    <plurals name="alt_text_popup_description">
+        <item quantity="other">[Describe your photos for people with visual impairments.#aec5628ec691db42e2cd5f26d4f915bc:1]</item>
+        <item quantity="one">[Describe your photo for people with visual impairments.#ec3ce37787a16fe57126935e8cfa1a9b:1]</item>
+    </plurals>
+    <plurals name="anonymous_comments_message">
+        <item quantity="other">[See %1$d comments on {original_post}.#f30e0d117ec05c25efee6b56f60c461e:1]</item>
+        <item quantity="one">[See 1 comment on {original_post}.#b7ef04a9a1f3ac494c008a02135ab5e0:1]</item>
+    </plurals>
+    <plurals name="anonymous_likers_message">
+        <item quantity="other">[See %1$d likes on {original_post}.#dbe68156d842645da889f909a6318be5:1]</item>
+        <item quantity="one">[See 1 like on {original_post}.#c594ede4545a03ca1d86d62ac66bf5cd:1]</item>
+    </plurals>
+    <plurals name="appended_poll_vote_count_label_on_feed">
+        <item quantity="other">[%1$s poll results#079f950595fbeca5a9f3cff71cb1317f:1]</item>
+        <item quantity="one">[%1$s poll result#4cba2269ccfc4d329ff69ca012bd9557:1]</item>
+    </plurals>
+    <plurals name="appreciation_funding_a11y_star_balance">
+        <item quantity="other">[Your balance is %1$d stars#f4ee95f3a006fa49cd2182a4681af8a4:1]</item>
+        <item quantity="one">[Your balance is 1 star#b160711cb7b512719ea33235ba37777e:1]</item>
+    </plurals>
+    <plurals name="appreciation_gifting_a11y_balance">
+        <item quantity="other">[Balance: %1$d stars#cf5f06913ea690b7e4863aec2543b33d:1]</item>
+        <item quantity="one">[Balance: 1 star#9e3651b5f52f94586f0e0d3de764a5f4:1]</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_body">
+        <item quantity="other">[You selected %1$d comments. If you approve a reply, the original comment will also be approved.#2641ffa974e1526b0360a73f6c9711b7:1]</item>
+        <item quantity="one">[You selected 1 comment. If you approve a reply, the original comment will also be approved.#6299dd9a81deb3ca45a578f27dc01641:1]</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_primary_button">
+        <item quantity="other">[Approve comments#5c585e55160f8b9fe4baea57fbfac1c0:1]</item>
+        <item quantity="one">[Approve comment#e2432aab594a6821e57ef3066dddc0a6:1]</item>
+    </plurals>
+    <plurals name="approve_x_comments_dialog_title">
+        <item quantity="other">[Approve %1$d comments?#3004f92e57f104716ece6bb82b05acd3:1]</item>
+        <item quantity="one">[Approve 1 comment?#db08ad605d1ad31387c98cd3429d7fb0:1]</item>
+    </plurals>
+    <plurals name="audience_picker_members_section_title">
+        <item quantity="other">[%1$d people#3bda9ac32316c30e18b2872008bc81f8:1]</item>
+        <item quantity="one">[1 person#0b7517543249fc03172f21c457a6d92d:1]</item>
+    </plurals>
+    <plurals name="average_time_spent_hours">
+        <item quantity="other">[%1$d hours#09627c3fbe73e2127641299a855e408b:1]</item>
+        <item quantity="one">[%1$d hour#b186de5d3ea72b9c3d0dac67eec19250:1]</item>
+    </plurals>
+    <plurals name="average_time_spent_minutes">
+        <item quantity="other">[%1$d minutes#5cac3d5e88f2e366bf109f4aa034d9d1:1]</item>
+        <item quantity="one">[%1$d minute#283142ccce987ffa8a9d5db4215c019a:1]</item>
+    </plurals>
+    <plurals name="batch_fr_confirmation_failed">
+        <item quantity="other">[Your follow requests could not be confirmed right now. Try again later.#17686afae6eef1d011043c57a439b317:1]</item>
+        <item quantity="one">[Your follow request could not be confirmed right now. Try again later.#b74918b92f32207c6f240f0d45e99143:1]</item>
+    </plurals>
+    <plurals name="batch_fr_deletion_failed">
+        <item quantity="other">[Your follow requests could not be deleted right now. Try again later.#a25a08c88bac19e40ef74f77b94bb492:1]</item>
+        <item quantity="one">[Your follow request could not be deleted right now. Try again later.#3b1d3cbb7e4751c9a249631f38cfa291:1]</item>
+    </plurals>
+    <plurals name="batch_non_recip_follow_failed">
+        <item quantity="other">[Your request to follow back these users has failed. Try again later.#2c48ec812ba48f8131bb5cdb9b768b8e:1]</item>
+        <item quantity="one">[Your request to follow back this user has failed. Try again later.#b7870b94e8d340dcb012b0220be0ff10:1]</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_failed">
+        <item quantity="other">[Your request to remove these followers has failed. Try again later.#6fc8c20880bb1c5e1ad3b3324bcc7ab2:1]</item>
+        <item quantity="one">[Your request to remove this follower has failed. Try again later.#417d020955d63e459e49832afbf58427:1]</item>
+    </plurals>
+    <plurals name="batch_non_recip_remove_success">
+        <item quantity="other">[Removed %1$s followers#929008df6377ffcc0d89fd5be7900f2c:1]</item>
+        <item quantity="one">[Removed 1 follower#2f762a831c89535adc8948ca3c45c594:1]</item>
+    </plurals>
+    <plurals name="bca_requests">
+        <item quantity="other">[%1$d requests#7de631b430d26940e9c64404e12d3bee:1]</item>
+        <item quantity="one">[%1$d request#add60bd55ee2351ca9bc7428f7f91f47:1]</item>
+    </plurals>
+    <plurals name="birthday_effect_audience_picker_close_friends_count">
+        <item quantity="other">[%1$s people#19939e9ea4df91c8180d4e0b4ff3300a:1]</item>
+        <item quantity="one">[1 person#b9e7f06cdb5096b8643f9d290d4ba507:1]</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_body">
+        <item quantity="other">"[You selected %1$d accounts. They won't be able to find your profile, posts or story on Instagram.#5f763d9254f3e4fd2b799370e9ad6f28:1]"</item>
+        <item quantity="one">"[You selected 1 account. They won't be able to find your profile, posts or story on Instagram.#5be00774a26cd3665e145d390ffa6a1c:1]"</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_primary_button">
+        <item quantity="other">[Block accounts#5a283ef2adceb7ad4e48c6e94413a6cc:1]</item>
+        <item quantity="one">[Block account#fc6b76423a12aecc9f4dda869ce84dc6:1]</item>
+    </plurals>
+    <plurals name="block_x_accounts_dialog_title">
+        <item quantity="other">[Block %1$d accounts?#df6966c49973e05e4e7e5d7acabb65de:1]</item>
+        <item quantity="one">[Block 1 account?#6001c30030c20b7bd6feed7acf692b47:1]</item>
+    </plurals>
+    <plurals name="blocked_story_photos_delete_button_text">
+        <item quantity="other">[Delete %1$d photos#2c9e88d8d0a99a8d7f9e80c6a0e8ff32:1]</item>
+        <item quantity="one">[Delete 1 photo#a46c8ed0f7a532537489751f0c02d979:1]</item>
+    </plurals>
+    <plurals name="blocked_story_videos_delete_button_text">
+        <item quantity="other">[Delete %1$d videos#94e589cb8500328afe9496ba1da93afd:1]</item>
+        <item quantity="one">[Delete 1 video#0916ba4ed49601830e512153c593d06f:1]</item>
+    </plurals>
+    <plurals name="bonuses_tagging_reels_welcome_bonus_reels_left">
+        <item quantity="other">[%1$d more reels can count towards this bonus#e96dcd5ea5d9033f70cb4e555b217759:1]</item>
+        <item quantity="one">[1 more reel can count towards this bonus#e9d27c7ae4e8fd6e3d96560ba9ebbbd9:1]</item>
+    </plurals>
+    <plurals name="bulk_block_confirmation_toast">
+        <item quantity="other">[Accounts blocked#d349b29f2dc0cc32d4ef2550cb382c0f:1]</item>
+        <item quantity="one">[Account blocked#fbc5a7402c1558e4444713506a6e139a:1]</item>
+    </plurals>
+    <plurals name="bulk_restrict_confirmation_toast">
+        <item quantity="other">[Accounts restricted#45db0f340959006b922c4204d1156ed2:1]</item>
+        <item quantity="one">[Account restricted#01e60e1e48801b956ebeca3641570d65:1]</item>
+    </plurals>
+    <plurals name="canvas_memories_sticker_title_text">
+        <item quantity="other">[%1$d Years ago…#f92a4c44226e1b040843a54034c5344a:1]</item>
+        <item quantity="one">[1 year ago…#ffe156ffb449b93821c8da2a26afcfad:1]</item>
+    </plurals>
+    <plurals name="cart_sold_out_and_unavailable_items_status_message">
+        <item quantity="other">[%1$d items in your cart are no longer available.#391ef73cbc0cecbfe4b234749fc55e2c:1]</item>
+        <item quantity="one">[An item in your cart is no longer available.#e53340cc70f6be79055dbc2029a6947b:1]</item>
+    </plurals>
+    <plurals name="chat_badge">
+        <item quantity="other">[%1$d chats#11542f06564b88c1af47296a32d392f9:1]</item>
+        <item quantity="one">[1 chat#a2ed79eb1ed05fe89e467c4228e6d053:1]</item>
+    </plurals>
+    <plurals name="chat_sticker_broadcast_chat_subtitle">
+        <item quantity="other">[%1$s members#d067db4c451f50a8686db1be0c4c7007:1]</item>
+        <item quantity="one">[%1$s member#c294a8164ff696f0d18ed26c4d7fb7e3:1]</item>
+    </plurals>
+    <plurals name="clips_question_sticker_response_count_text">
+        <item quantity="other">[%1$d responses#829011a0675a2f2fe09ea8fdb45c8bc5:1]</item>
+        <item quantity="one">[%1$d response#315b6414636f54a3e615a342be584cdd:1]</item>
+    </plurals>
+    <plurals name="close_friends_facebook_close_friends_text">
+        <item quantity="other">[%1$d Facebook Close Friends#1a1109558c9fd83809b4e0387783c9cd:1]</item>
+        <item quantity="one">[1 Facebook Close Friend#29b0c2692349eea6042292e81652290a:1]</item>
+    </plurals>
+    <plurals name="comment_badge">
+        <item quantity="other">[%1$d comments#e57c8e78af59f92fb0675fed8e44613e:1]</item>
+        <item quantity="one">[1 comment#df26cfe9f5f8a2f0076434521c4423e2:1]</item>
+    </plurals>
+    <plurals name="comment_count_label_on_feed">
+        <item quantity="other">[%1$s comments#dc5984eb6671c8bb14643e9e8919e3d0:1]</item>
+        <item quantity="one">[%1$s comment#46d2fc38aa9c46fe083297781464765c:1]</item>
+    </plurals>
+    <plurals name="commented_by_x_and_n_others">
+        <item quantity="other">[%1$s and &lt;b>%2$s others&lt;/b> commented#f99b41f8fddae3907855742294c36a31:1]</item>
+        <item quantity="one">[%1$s and &lt;b>1 other&lt;/b> commented#a93c924bfdc27865ae17bc50721024df:1]</item>
+    </plurals>
+    <plurals name="commented_by_x_and_others">
+        <item quantity="other">[%1$s and others commented#d9c814793a1b3278c555b720e871fe69:1]</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_n_others">
+        <item quantity="other">[%1$s, %2$s, %3$s and &lt;b>%4$s others&lt;/b> commented#f2d62fd3dc67996971665e1e1662298c:1]</item>
+        <item quantity="one">[%1$s, %2$s, %3$s and &lt;b>1 other&lt;/b> commented#dbc378503e5f6574d5d830617ce4979e:1]</item>
+    </plurals>
+    <plurals name="commented_by_x_y_z_and_others">
+        <item quantity="other">[%1$s, %2$s, %3$s and others commented#a25ea09274d37ee7704290c3ab86bb53:1]</item>
+        <item quantity="one">[%1$s, %2$s, %3$s and others commented#e63d62fb77d60f74a0d7634385f5dd05:1]</item>
+    </plurals>
+    <plurals name="comments_from_facebook_title">
+        <item quantity="other">[See %1$d comments from Facebook#3b40a475968cb8885f2918edcea91bcb:1]</item>
+        <item quantity="one">[See 1 comment from Facebook#d87eef1322cf88ad70b0d1a8274929e9:1]</item>
+    </plurals>
+    <plurals name="confirm_x_follow_requests_confirmation">
+        <item quantity="other">[Confirm %1$s follow requests?#694b151710385ce575b0cb4951e7105d:1]</item>
+        <item quantity="one">[Confirm 1 follow request?#31d3e1adfcf61b65ea1e6523ce1672c7:1]</item>
+    </plurals>
+    <plurals name="connect_page_num_like">
+        <item quantity="other">[%1$d Likes#328045d8b20b07eac739889b1d7255c5:1]</item>
+        <item quantity="one">[%1$d Like#ef854e29c1067ac5290cd7df27e52813:1]</item>
+    </plurals>
+    <plurals name="countdown_sticker_day">
+        <item quantity="other">[days#ef4cba8362cfa03a186a1ff041fa14db:1]</item>
+        <item quantity="one">[day#e40c92dad9f53409c4f9dc48264bf2a3:1]</item>
+    </plurals>
+    <plurals name="countdown_sticker_hour">
+        <item quantity="other">[hours#fafe714a6dd5b6dd2284cb72a8e347af:1]</item>
+        <item quantity="one">[hour#45b1051e26ae7705b5bb2c1f342354bf:1]</item>
+    </plurals>
+    <plurals name="countdown_sticker_minute">
+        <item quantity="other">[minutes#79972535135d934cf4c7831471ded7ce:1]</item>
+        <item quantity="one">[minute#85f0813b1a0a3d9219b3c5491dcbb77b:1]</item>
+    </plurals>
+    <plurals name="countdown_sticker_month">
+        <item quantity="other">[months#bc058df6f51469110dbe814a3c50f998:1]</item>
+        <item quantity="one">[month#1bbe2f3135fe872e5ac74ea1441ae03e:1]</item>
+    </plurals>
+    <plurals name="countdown_sticker_second">
+        <item quantity="other">[seconds#ceb1cd42311778f72f81c1cc40faf737:1]</item>
+        <item quantity="one">[second#513e9a5f3fe57554a873009a327ffe25:1]</item>
+    </plurals>
+    <plurals name="custom_comment_filter_upsell_toast_message">
+        <item quantity="other">[%1$d items added to your Hidden Words list.#4dbfbe88d6b40561c5b38408b8ca7ee1:1]</item>
+        <item quantity="one">[1 item added to your Hidden Words list.#77f4ff8e6189e43d3c05a461307d3991:1]</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_message">
+        <item quantity="other">"[You won't be able to see these videos anymore.#0a751f38cb6f51137620994947791e34:1]"</item>
+        <item quantity="one">"[You won't be able to see this video anymore.#492f4b250749926d0e40c6774b0247aa:1]"</item>
+    </plurals>
+    <plurals name="delete_videos_dialog_title">
+        <item quantity="other">[Delete %1$d videos?#9f717324c409afc9c7d078fb747becbc:1]</item>
+        <item quantity="one">[Delete this video?#02d4761a1c5daa481be50b92d20908df:1]</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation">
+        <item quantity="other">[Delete %1$s follow requests?#5fbb9e63bc619495f8ececf50b92b677:1]</item>
+        <item quantity="one">[Delete 1 follow request?#c72591665924094c36267d7ccdbc2e7c:1]</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_body">
+        <item quantity="other">[These requests will not be approved when you switch to a public account.#8fe63efdb6dd8dee2c8fe107f8210432:1]</item>
+        <item quantity="one">[This request will not be approved when you switch to a public account.#8089d6fb9a4fbd88ea8c1ef986ed08eb:1]</item>
+    </plurals>
+    <plurals name="delete_x_follow_requests_confirmation_v2">
+        <item quantity="other">[Delete follow requests?#2df38c85eabbe7596a5511530ca087ef:1]</item>
+        <item quantity="one">[Delete this follow request?#9f4a20516326be7b37597c525bb2f2f8:1]</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message">
+        <item quantity="other">[They will see all previous messages from this conversation.#b73025adf43b82d1f3fc864ccc8c7bb2:1]</item>
+        <item quantity="one">[%1$s will see all previous messages from this conversation.#a43dfca9c1f5e2f645ebdd987d765aae:1]</item>
+    </plurals>
+    <plurals name="direct_add_member_dialog_message_without_all">
+        <item quantity="other">[They will see previous messages from this conversation.#7c423a267dd5239d5e602e1a288f44db:1]</item>
+        <item quantity="one">[%1$s will see previous messages from this conversation.#f3432927b901ba619b7128949c64c03c:1]</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_hours_ago">
+        <item quantity="other">[Active %1$dh ago#30570390ad17fd9584bf968217af0488:1]</item>
+        <item quantity="one">[Active 1h ago#a84bf9b9d59f675461dc2aa9f108d9f1:1]</item>
+    </plurals>
+    <plurals name="direct_digest_is_active_x_mins_ago">
+        <item quantity="other">[Active %1$dm ago#f70cbb98028c1fbc2d2fe25bb343ea1e:1]</item>
+        <item quantity="one">[Active 1m ago#a5ba814c9093bfdf2bf4fb9b195db5cb:1]</item>
+    </plurals>
+    <plurals name="direct_faq_import_bottom_button_footer">
+        <item quantity="other">[Select up to %1$d questions#85cdc01e664ca5b7286a045680ce6f42:1]</item>
+        <item quantity="one">[Select up to 1 question#b3fa34861a8b3592b84a8ee4e8c2d695:1]</item>
+    </plurals>
+    <plurals name="direct_faq_import_max_limit_reached_message">
+        <item quantity="other">"[You can't import more than %1$d questions#cee3e586cbfc2d59b6de5aae10523daf:1]"</item>
+        <item quantity="one">"[You can't import more than 1 question#f73355dc7dc02d149579cfad2c6688f1:1]"</item>
+    </plurals>
+    <plurals name="direct_max_recipients_in_chat_reached_body">
+        <item quantity="other">[The total number of people who can be in a chat is %1$s. Please limit the number of people to %1$s, including yourself, to finish creating this chat.#516b22335d1d33ef0ef4f53cfe07cf05:1]</item>
+    </plurals>
+    <plurals name="direct_max_recipients_reached_body">
+        <item quantity="other">[The total number of people who can be in a group is %1$s. Please limit the number of people to %1$s, including yourself, to finish creating this group.#4ba936225f325b243bb115b13cd2f6a8:1]</item>
+    </plurals>
+    <plurals name="direct_media_composer_send_button_description">
+        <item quantity="other">[Send %1$s#46dcf3fcdbb9eea1fc58d3f1363ea4d5:1]</item>
+        <item quantity="one">[Send#fba9b3159d16ed78ad829919f4e1dbfe:1]</item>
+    </plurals>
+    <plurals name="direct_welcome_message_edit_character_limit_reached_error">
+        <item quantity="other">[The welcome message is limited to %1$d characters.#e4aef34c46c51f87af6f0292443bcbfa:1]</item>
+        <item quantity="one">[The welcome message is limited to 1 character.#feea68da22fc36287958192fe5949830:1]</item>
+    </plurals>
+    <plurals name="discard_x_drafts">
+        <item quantity="other">[Discard %1$d drafts?#f954613ae38a7aa6626415a43c57147b:1]</item>
+        <item quantity="one">[Discard 1 draft?#beca12ebff856c10928f5ccc1f455440:1]</item>
+    </plurals>
+    <plurals name="effect_used_by_friends">
+        <item quantity="other">[%1$s used by &lt;b>%2$s friends&lt;/b>#d9ce11f5c5aa95782e558126a99a91bf:1]</item>
+        <item quantity="one">[%1$s used by &lt;b>1 friend&lt;/b>#6a6ebbaa9852b8d81436df833e6ad978:1]</item>
+    </plurals>
+    <plurals name="effect_used_by_people">
+        <item quantity="other">[%1$s used by &lt;b>%2$s people&lt;/b>#3684027a5803f0c6c5f52521dbd9f2c2:1]</item>
+        <item quantity="one">[%1$s used by &lt;b>1 person&lt;/b>#71eb8f021ed865a812eaec911432053c:1]</item>
+    </plurals>
+    <plurals name="fan_club_content_preview_settings_detail">
+        <item quantity="other">[%1$d posts#99807f165f92ecc9a9a614a978da77aa:1]</item>
+        <item quantity="one">[%1$d post#c3099a4fa5736399cf37218b9d902ec4:1]</item>
+    </plurals>
+    <plurals name="fan_club_creator_view_members_list">
+        <item quantity="other">[View %1$d subscribers#23c54ebae0a5043a505b7cfb66291555:1]</item>
+        <item quantity="one">[View %1$d subscriber#b77a828d4e85b1839f4656fe8899f671:1]</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_subtitle">
+        <item quantity="other">[The Subscribe button is now live on your profile. Your followers will be automatically notified about your subscription in %1$d days.#5b2bf61823532dc92aa4a0913d4bb112:1]</item>
+        <item quantity="one">[The Subscribe button is now live on your profile. Your followers will be automatically notified about your subscription in 1 day.#1edeae7f2e9124fcf8e8b586053a736a:1]</item>
+    </plurals>
+    <plurals name="fan_club_guided_activation_deferral_confirmation_title">
+        <item quantity="other">[Your followers will be notified in %1$d days#48c0b8963e43d714e86376794d88b1e0:1]</item>
+        <item quantity="one">[Your followers will be notified in 1 day#08aa34861d1c06bdbaf3e619d0e16bd2:1]</item>
+    </plurals>
+    <plurals name="fb_page_num_like_label">
+        <item quantity="other">[%1$s likes#1c42dd61e071dd8a875a6d7d53a85ed3:1]</item>
+        <item quantity="one">[%1$s like#ac2757aa9963733573a9c9fcdbad938b:1]</item>
+    </plurals>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">[%1$s has %2$d items, is %3$s, %4$s#dca6afec9ef7f9441814a09d5b22a6ff:1]</item>
+        <item quantity="one">[%1$s has %2$d item, is %3$s, %4$s#e6a05c3e6d52d6b1fbcbce8a635a408c:1]</item>
+    </plurals>
+    <plurals name="follow_back_x_non_recip_followers_confirmation">
+        <item quantity="other">[Follow back %1$s users?#6b2e358c51e8e6385c9ced566751d654:1]</item>
+        <item quantity="one">[Follow back 1 user?#591c64a6bf54b5522f639faafc169c9b:1]</item>
+    </plurals>
+    <plurals name="follow_badge">
+        <item quantity="other">[%1$d follows#1be58af000e57510e49a62057bcafde0:1]</item>
+        <item quantity="one">[1 follow#ef5db730c5e74a77f85d90dbb943f53d:1]</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">[%1$d follows#412d2d7808cdf4e8f248f34b6e5eb541:1]</item>
+        <item quantity="one">[1 follow#eed6dc286423c12f5a8289da235dc0be:1]</item>
+    </plurals>
+    <plurals name="followed_by_n_people_header">
+        <item quantity="other">[Followed by %1$s people#bd48e1fe35e90b3731575e11b1d1d63f:1]</item>
+        <item quantity="one">[Followed by 1 person#e84701d1efa9956cdc354e2f3658eb87:1]</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others">
+        <item quantity="other">[Followed by %1$s and &lt;font face=sans-serif-medium>%2$s others&lt;/font>#b045402a6e1dfa2d4d65c20568670785:1]</item>
+        <item quantity="one">[Followed by %1$s and &lt;font face=sans-serif-medium>1 other&lt;/font>#3d42d72e9d5f51826432a5261f3d8421:1]</item>
+    </plurals>
+    <plurals name="followed_by_x_and_n_others_header">
+        <item quantity="other">[Followed by %1$s and %2$s others#44e9fa07d4f400763a6db0c97209addb:1]</item>
+        <item quantity="one">[Followed by %1$s and 1 other#8d476e193069b46f8843bf2425afae1d:1]</item>
+    </plurals>
+    <plurals name="followed_by_x_y_and_n_others">
+        <item quantity="other">[Followed by %1$s, %2$s and &lt;font face=sans-serif-medium>%3$s others&lt;/font>#c0148960a0871ed5991ee12939fa3c81:1]</item>
+        <item quantity="one">[Followed by %1$s, %2$s and &lt;font face=sans-serif-medium>1 other&lt;/font>#1c631901168ca0ee45a577208cf08834:1]</item>
+    </plurals>
+    <plurals name="followed_by_x_y_z_and_n_others">
+        <item quantity="other">[Followed by %1$s, %2$s, %3$s and &lt;font face=sans-serif-medium>%4$s others&lt;/font>#f39536dda4f52c0da55e340e2a77adca:1]</item>
+        <item quantity="one">[Followed by %1$s, %2$s, %3$s and &lt;font face=sans-serif-medium>1 other&lt;/font>#c115beb3145f6b451c36ea64503efd47:1]</item>
+    </plurals>
+    <plurals name="followers_with_count">
+        <item quantity="other">[%1$s followers#5b84cceed23d6c113e8e5ac174e643e9:1]</item>
+        <item quantity="one">[%1$s follower#95a2dfc05d95773916482e2beeff6368:1]</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos">
+        <item quantity="other">[%1$d photos#a14444e27bc035953d36800cd9e6e360:1]</item>
+        <item quantity="one">[%1$d photo#a74ad883095cecbb65e75b63021b3560:1]</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_photos_one_video">
+        <item quantity="other">[%1$d photos and 1 video#923790f6717c005165a2130da0c51a4a:1]</item>
+        <item quantity="one">[%1$d photo and 1 video#1ec9e4e47e5544464afe8c21197f0981:1]</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_n_videos">
+        <item quantity="other">[%1$d videos#3ad22e7392ea056dd93dee2aa54aa4cb:1]</item>
+        <item quantity="one">[%1$d video#5cb6458e23e1e154a4aa27e52b0e08e5:1]</item>
+    </plurals>
+    <plurals name="gallery_formats_picker_edit_selection_one_photo_n_videos">
+        <item quantity="other">[1 photo and %1$d videos#445acb4d91e1b20771c2d22528da124e:1]</item>
+        <item quantity="one">[1 photo and %1$d video#bfe1ab69379d390b7921dc40dcf7e0b7:1]</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_months_ago">
+        <item quantity="other">[%1$d Months Ago#dcb5562b2039d1b11fe5c66c7b83a2c0:1]</item>
+        <item quantity="one">[Last Month#4dafc18e6dd184f6faf9d53573c8064d:1]</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_weeks_ago">
+        <item quantity="other">[%1$d Weeks Ago#494e9c18512883b6d906cdede016ae8e:1]</item>
+        <item quantity="one">[Last Week#34e57a2957009a09947360e2fb0ba06b:1]</item>
+    </plurals>
+    <plurals name="gallery_memory_pills_n_years_ago">
+        <item quantity="other">[%1$d Years Ago#3b38c7f870690e14c30239aac174e0d6:1]</item>
+        <item quantity="one">[Last Year#ecf95aa76db89f038663e348e908f909:1]</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_day">
+        <item quantity="other">[%1$d days#92387966c6d6d26e11804433c44ef5f1:1]</item>
+        <item quantity="one">[1 day#f751eb03e4c861f4cb08dacf35e47944:1]</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_minute">
+        <item quantity="other">[%1$d minutes#27eda8893e757e2a58c2a7cf02926752:1]</item>
+        <item quantity="one">[1 minute#e01a352f8183224c979937e448b62b2b:1]</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_month">
+        <item quantity="other">[%1$d months#f34cfc57d490dc331b6d8cf91ee78054:1]</item>
+        <item quantity="one">[1 month#3b23148b800a28f4643b0d52dadddddf:1]</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_week">
+        <item quantity="other">[%1$d weeks#a611bfda27fe9efe7f5908fff4e65a35:1]</item>
+        <item quantity="one">[1 week#2f633507e4aa1e30135c6b9fddd3f802:1]</item>
+    </plurals>
+    <plurals name="gifting_price_duration_in_year">
+        <item quantity="other">[%1$d years#e0a0b311f92b84d1bc02431de4b610a4:1]</item>
+        <item quantity="one">[1 year#94cff5d856e6196c28d243b3fbf12b7f:1]</item>
+    </plurals>
+    <plurals name="granted_extension_time_hours">
+        <item quantity="other">[%1$d more hours#b20131df6aca5e2aa5c5a5667506cac7:1]</item>
+        <item quantity="one">[%1$d more hour#c09326bb664d1535504e3811e176344f:1]</item>
+    </plurals>
+    <plurals name="granted_extension_time_minutes">
+        <item quantity="other">[%1$d more minutes#e5eb56a32252682f74a92d5e51e1b21b:1]</item>
+        <item quantity="one">[%1$d more minute#f15734b069201a373ea24f0c6aa793ea:1]</item>
+    </plurals>
+    <plurals name="grid_carousel_n_photos_one_video">
+        <item quantity="other">[%1$d photos and 1 video by %2$s at row %3$d, column %4$d#a324884265bcdf9194fcf7ae6d18016e:1]</item>
+        <item quantity="one">[%1$d photo and 1 video by %2$s at row %3$d, column %4$d#3c46617065d5a31c76243190e3d9087f:1]</item>
+    </plurals>
+    <plurals name="grid_carousel_one_photo_n_videos">
+        <item quantity="other">[1 photo and %1$d videos by %2$s at row %3$d, column %4$d#92a4c9f4b0bd927b186e8c73bb1294b6:1]</item>
+        <item quantity="one">[1 photo and %1$d video by %2$s at row %3$d, column %4$d#e212882bb46e1b0cd58729ad9c4e96a0:1]</item>
+    </plurals>
+    <plurals name="group_link_preview_subscribers">
+        <item quantity="other">[%1$d subscribers#2806144bcb8b7e088e35f617d7cb30d1:1]</item>
+        <item quantity="one">[%1$d subscriber#6b7899ea79ece2ebc9a5aaf805e9aea3:1]</item>
+    </plurals>
+    <plurals name="guide_detail_text_accounts">
+        <item quantity="other">[%1$s ACCOUNTS#c701ea6f9cda06dcfbd86e03befbc5ad:1]</item>
+        <item quantity="one">[%1$s ACCOUNT#53626ade67c8c086553ee2b06330cdbd:1]</item>
+    </plurals>
+    <plurals name="guide_detail_text_locations">
+        <item quantity="other">[%1$s PLACES#3a306d5c61302a6341dcb458db39863b:1]</item>
+        <item quantity="one">[%1$s PLACE#3b3e5f49e77823b048dc2c627762d431:1]</item>
+    </plurals>
+    <plurals name="guide_detail_text_media">
+        <item quantity="other">[%1$s POSTS#7224d28345fe2d70f28ca084c4086f14:1]</item>
+        <item quantity="one">[%1$s POST#22c19f28fea5455cb0704255cb7f976b:1]</item>
+    </plurals>
+    <plurals name="guide_detail_text_products">
+        <item quantity="other">[%1$s PRODUCTS#9ae9ee7331bf13107c4d10d4bb61e135:1]</item>
+        <item quantity="one">[%1$s PRODUCT#a7e37e2e237e24099c66161fbb4529e5:1]</item>
+    </plurals>
+    <plurals name="guide_drafts_count">
+        <item quantity="other">[%1$s draft guides#6659c5d45d53c033251d3c3ad04197a9:1]</item>
+        <item quantity="one">[%1$s draft guide#83de730b31d381b5360096e76632eeaa:1]</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_attempts_left_error">
+        <item quantity="other">"[You have %1$d more tries to enter your PIN before it won't work anymore.#4a9d447a72bae2d676674a686257cb37:1]"</item>
+        <item quantity="one">"[You have %1$d more try to enter your PIN before it won't work anymore.#754432a5a3495de9203a7425d4636496:1]"</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_hours_popup_title_text">
+        <item quantity="other">[%1$d hours#b241e4348bf7279a9bf393e60822df19:1]</item>
+        <item quantity="one">[1 hour#745c9c54bdb6649bfdf4a0e1d9b5398c:1]</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_minutes_popup_title_text">
+        <item quantity="other">[%1$d minutes#029a315aebe28ed76c12b84f1e12c268:1]</item>
+        <item quantity="one">[1 minute#e6dffcb81ee854a74d5ab7f3d358b619:1]</item>
+    </plurals>
+    <plurals name="hsm_restore_wrong_pin_backoff_error_seconds_popup_title_text">
+        <item quantity="other">[%1$d seconds#da964bbf48d34b8f652227182b176d72:1]</item>
+        <item quantity="one">[1 second#43e2ba06b8b611b9434071c227e34138:1]</item>
+    </plurals>
+    <plurals name="ig_overlay_ads_publisher_control_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">[Ads from %1$s like gambling and dating are restricted by default. You can select up to %2$d additional ad categories that you want to prevent from appearing on your reels.#f0b7c85dcfe76c0bc8f9f2f0d2a6fdf8:1]</item>
+        <item quantity="one">[Ads from %1$s like gambling and dating are restricted by default. You can select up to 1 additional ad category that you want to prevent from appearing on your reels.#2047fa710cd6e41a9df204a5d36fa842:1]</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_accounts_text">
+        <item quantity="other">[%1$s, %2$s, %3$s, %4$s, %5$s and %6$d other accounts#0e091b9be452d8d85a90f846d4bef274:1]</item>
+        <item quantity="one">[%1$s, %2$s, %3$s, %4$s, %5$s and 1 other account#eba19c5142c9edb14e18b5c0a25b5769:1]</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_blocked_categories_text">
+        <item quantity="other">[%1$s, %2$s, %3$s, %4$s, %5$s and %6$d other categories#84d531946e57c628dea114b63622a9fb:1]</item>
+        <item quantity="one">[%1$s, %2$s, %3$s, %4$s, %5$s and 1 other category#076a5873375d87a81710e397eec65d6b:1]</item>
+    </plurals>
+    <plurals name="ig_profile_publisher_control_non_revshare_blocked_categories_screen_description_text">
+        <item quantity="other">[Ads from %1$s like gambling and dating are restricted by default. You can select up to %2$d additional ad categories that you want to prevent from appearing in your profile feed.#e8e0deb4b2baa7560920d6a38e6f041c:1]</item>
+        <item quantity="one">[Ads from %1$s like gambling and dating are restricted by default. You can select up to 1 additional ad category that you want to prevent from appearing in your profile feed.#c8e5c9c2dcf3769e82a9d30480ca5832:1]</item>
+    </plurals>
+    <plurals name="iglive_audience_mode_close_friends_edit_option_close_friends_added">
+        <item quantity="other">[%1$d people#02ca50a9621975c6f2af22f5e1399b4f:1]</item>
+        <item quantity="one">[%1$d person#73063d23b2a7c5454c4c0fa6fadfff8e:1]</item>
+    </plurals>
+    <plurals name="iglive_presence_text">
+        <item quantity="other">[%1$d followers active now#127f81a3503785ffba47eb90362aac84:1]</item>
+        <item quantity="one">[%1$d follower active now#df975fe0c33b274529860c8a02cfb955:1]</item>
+    </plurals>
+    <plurals name="igtv_series_episode">
+        <item quantity="other">[%1$s episodes#d73efac5097130e3f74dd19177e4c019:1]</item>
+        <item quantity="one">[1 episode#b4178f072034c8092b9f5418f6546a10:1]</item>
+    </plurals>
+    <plurals name="igtv_video_minute_duration_description">
+        <item quantity="other">[%1$s minutes and %2$s seconds#bda8de88bf3a1ced6d7ea95319482b1a:1]</item>
+        <item quantity="one">[%1$s minutes and 1 second#5357d6353e506015e3a4d08692e69608:1]</item>
+    </plurals>
+    <plurals name="igtv_video_seconds_duration_description_one_min">
+        <item quantity="other">[1 minute and %1$s seconds#9f443292bf565e6fd0c28b8ddb396fb0:1]</item>
+        <item quantity="one">[1 minute and 1 second#39637229d456edb3dc4a10a87fa787f1:1]</item>
+    </plurals>
+    <plurals name="lead_gen_available_forms_number_of_custom_questions">
+        <item quantity="other">[%1$d questions#ecffb89c1fdf90f9424753c96111754e:1]</item>
+        <item quantity="one">[%1$d question#f29d74ab5fa2cdcd3dd7e3e102655e43:1]</item>
+    </plurals>
+    <plurals name="lead_gen_form_num_questions">
+        <item quantity="other">[%1$d questions#4e9d0aac35da0ad57da744dec907ba0e:1]</item>
+        <item quantity="one">[1 question#c33a4217627c6b1d33f6220f3a8d31d2:1]</item>
+    </plurals>
+    <plurals name="like_badge">
+        <item quantity="other">[%1$d likes#5161d833e5b83e561a3e6d7a6a0ec494:1]</item>
+        <item quantity="one">[1 like#6224368d6cb5a86c2e16b7db2c6cb17a:1]</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">[%1$d likes#5c2b0a378eeb6654a36e849bd1ded741:1]</item>
+        <item quantity="one">[1 like#597ce6cdbce975ece4c73d7a4098b87a:1]</item>
+    </plurals>
+    <plurals name="liked_by_x_and_n_others">
+        <item quantity="other">[Liked by %1$s and &lt;font face=sans-serif-medium>%2$s others&lt;/font>#b57ae3a63dac93d7c6035d0acbb3f5c4:1]</item>
+        <item quantity="one">[Liked by %1$s and &lt;font face=sans-serif-medium>1 other&lt;/font>#fbc4a41b09b6f713a4aad4ac993bb231:1]</item>
+    </plurals>
+    <plurals name="liked_by_x_y_and_n_others">
+        <item quantity="other">[Liked by %1$s, %2$s and &lt;font face=sans-serif-medium>%3$s others&lt;/font>#a7b8b6a0c539a61486e2cc5ef686b6c1:1]</item>
+        <item quantity="one">[Liked by %1$s, %2$s and &lt;font face=sans-serif-medium>1 other&lt;/font>#0ec4dff9ac66f342aad5cf000038785c:1]</item>
+    </plurals>
+    <plurals name="liked_by_x_y_z_and_n_others">
+        <item quantity="other">[Liked by %1$s, %2$s, %3$s and &lt;font face=sans-serif-medium>%4$s others&lt;/font>#cb9f535cd664597a20e028fbc9b46ede:1]</item>
+        <item quantity="one">[Liked by %1$s, %2$s, %3$s and &lt;font face=sans-serif-medium>1 other&lt;/font>#c8f8a951697bd3f3a85cedb97d84f1a9:1]</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_day">
+        <item quantity="other">[%1$d days#08256d430a97038b2dca9253d33e4987:1]</item>
+        <item quantity="one">[1 day#43407c38680bf86f72a061cf2c3a4894:1]</item>
+    </plurals>
+    <plurals name="limited_interactions_reminder_date_week">
+        <item quantity="other">[%1$d weeks#bdf32a5ca9831ae099cc0ad31b20ce24:1]</item>
+        <item quantity="one">[1 week#8fd685e910fcd99f8a75126ea42a537d:1]</item>
+    </plurals>
+    <plurals name="live_question_like_count">
+        <item quantity="other">[%1$d likes#174e72b58d3111379305c03a11daff73:1]</item>
+        <item quantity="one">[1 like#88b101d30fcf732eabf1f0bc056c4ca5:1]</item>
+    </plurals>
+    <plurals name="live_streak_subtitle_post_live_streak_increased">
+        <item quantity="other">[You went live %1$d weeks straight! See how many more weeks in a row you can go live.#70d5847705f51fb77f83758693bdbf94:1]</item>
+        <item quantity="one">[Way to go! Set a new personal record by seeing how many weeks in a row you can go live.#95566b96b2152433286de2214290aa79:1]</item>
+    </plurals>
+    <plurals name="live_summary_broadcaster_count">
+        <item quantity="other">[%1$s and %2$s were live#0819c796c01538923b04f61b6bd5685f:1]</item>
+        <item quantity="one">[%1$s was live#c0f5295c1ab5d69a0ccd484b90f2caca:1]</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_lowercase">
+        <item quantity="other">[%1$d badges#447f4f175eeb48f56d7db700560c88fa:1]</item>
+        <item quantity="one">[1 badge#46847a28e771ac941bb8c62f15869a69:1]</item>
+    </plurals>
+    <plurals name="live_user_pay_badges_uppercase">
+        <item quantity="other">[%1$d Badges#2ac45cd009ceb272524d6b9bc724b4fb:1]</item>
+        <item quantity="one">[1 Badge#3847156b61c7e75a6be33c02e528ae8d:1]</item>
+    </plurals>
+    <plurals name="live_with_multiple_join_requests_received_comment">
+        <item quantity="other">[%1$s and %2$d others sent a request to be in your live video.#32b146deccf849bd90b5c12bd779b298:1]</item>
+        <item quantity="one">[%1$s and %2$d other sent a request to be in your live video.#0599be181cd132916556a0f783ea7112:1]</item>
+    </plurals>
+    <plurals name="location_list_title">
+        <item quantity="other">[%1$d places#2febc3a70ee76261a60c866ed619eb7b:1]</item>
+        <item quantity="one">[%1$d place#ad614bb48c89c58e83421afa47c15146:1]</item>
+    </plurals>
+    <plurals name="member_count_text">
+        <item quantity="other">[%1$s members#549a260e938dfebdc2965132f03dded1:1]</item>
+        <item quantity="one">[%1$s member#84aaf4c47ad1108be389ac99646aab7e:1]</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_hours_left">
+        <item quantity="other">[%1$d hours left#af2772dfc791adb3a030ca22ef882575:1]</item>
+        <item quantity="one">[%1$d hour left#54b78cba08f13ce2cb8986d465e9ea33:1]</item>
+    </plurals>
+    <plurals name="mention_bottom_sheet_mention_card_minutes_left">
+        <item quantity="other">[%1$d minutes left#0a8413d3aecc4d6879ec1a48a793280f:1]</item>
+        <item quantity="one">[%1$d minute left#69a8ed5b1116ede7976968c88a48d93d:1]</item>
+    </plurals>
+    <plurals name="msys_ds_4xu0wn">
+        <item quantity="other">[Sent %1$d photos#e649c05a595f8931b364b2e41e9b66de:1]</item>
+        <item quantity="one">[Sent a photo#0c489d9a55d586d3de70497b575783ec:1]</item>
+    </plurals>
+    <plurals name="msys_ds_Tey2G">
+        <item quantity="other">[%1$s sent %2$d photos#946efe280b276b5f45a6d67f087410d1:1]</item>
+        <item quantity="one">[%1$s sent a photo#083898ee819b6ddbf7185aca8b7f1e1d:1]</item>
+    </plurals>
+    <plurals name="msys_ds_l81ip">
+        <item quantity="other">[You sent %1$d photos#f4d357fc51526a5dc5832988b01c3ec8:1]</item>
+        <item quantity="one">[You sent a photo#f04d4db79c75aebcdfc46122926f29f7:1]</item>
+    </plurals>
+    <plurals name="msys_frx_report_confirmation_title_multiple_participants">
+        <item quantity="other">[Report chat with %1$s, %2$s and %3$d others?#021b9451019ce59484a0f97884522824:1]</item>
+        <item quantity="one">[Report chat with %1$s, %2$s and %3$d other?#aea4fa5cc5557886aa524c1e854827c2:1]</item>
+    </plurals>
+    <plurals name="msys_local_user_added_many_participants_to_group">
+        <item quantity="other">[You added %1$s and %2$d others to the group.#fb364e2f041f681530c96f6d54bc7c57:1]</item>
+        <item quantity="one">[You added %1$s and %2$d other to the group.#9633d3e9454c7f75757eaa1356c65dd1:1]</item>
+    </plurals>
+    <plurals name="msys_local_user_removed_many_patricipants_from_group">
+        <item quantity="other">[You removed %1$s and %2$d others from the group.#bb479b48b6f38976c157da4c1d832334:1]</item>
+        <item quantity="one">[You removed %1$s and %2$d other from the group.#a391af22e9066a3529c139ea96c26c9a:1]</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_by_theme_multiple">
+        <item quantity="other">[%1$d word effects from %2$s were added %3$s#645320748cf566c77917835aa9caf170:1]</item>
+        <item quantity="one">[%1$d word effect from %2$s were added %3$s#ac5c45f7a1eb726cf375bbc646939b46:1]</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_local_user">
+        <item quantity="other">[You changed %1$d word effects.#54ca5ee481891b53c382284ea1f36d48:1]</item>
+        <item quantity="one">[You changed %1$d word effect.#592f0e4347858720be667e1d46ef71a2:1]</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_adding_and_removing_by_other_user">
+        <item quantity="other">[%1$s changed %2$d word effects.#3de56476ff710f7c0f3ff104c5bb515d:1]</item>
+        <item quantity="one">[%1$s changed %2$d word effect.#92602725c3314c4af65b00a63ca07ced:1]</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_local_user">
+        <item quantity="other">[You set %1$d word effects %2$s#0968b6d8c9fe36c3564f55cb806db750:1]</item>
+        <item quantity="one">[You set %1$d word effect %2$s#bce035c0be850268a4abe93c8fea29cd:1]</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_adding_by_other_user">
+        <item quantity="other">[%1$s set %2$d word effects %3$s#9c0a23497be3185d80c56c90362cba16:1]</item>
+        <item quantity="one">[%1$s set %2$d word effect %3$s#8e0befadedf28a8bfbe268ed6e50345e:1]</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_local_user">
+        <item quantity="other">[You removed %1$d word effects.#81e0f50ee3248938a6a50f121c886f31:1]</item>
+        <item quantity="one">[You removed %1$d word effect.#9dccb0caf9e2c7a0fbd1917ee1302131:1]</item>
+    </plurals>
+    <plurals name="msys_magic_word_changed_with_multiple_removing_by_other_user">
+        <item quantity="other">[%1$s removed %2$d word effects.#3e9b22d79eb5ae163ff03669411764a7:1]</item>
+        <item quantity="one">[%1$s removed %2$d word effect.#e3cab1875140829bb759fdfed55da862:1]</item>
+    </plurals>
+    <plurals name="msys_n_days">
+        <item quantity="other">[%1$d days#9cc63e8cd9c403c9d10e072b2edb368b:1]</item>
+        <item quantity="one">[%1$d day#6f5d711f784d5e292e801bf974aec7a7:1]</item>
+    </plurals>
+    <plurals name="msys_n_hours">
+        <item quantity="other">[%1$d hours#78cb16c612faa5c914078bfea87ec61e:1]</item>
+        <item quantity="one">[%1$d hour#fff5d156353c91cb46e2e324241271a3:1]</item>
+    </plurals>
+    <plurals name="msys_n_minutes">
+        <item quantity="other">[%1$d minutes#8327c15e569c0b2716de8abfcf069ff0:1]</item>
+        <item quantity="one">[%1$d minute#327420973158cb325fc7e6b9d5a4c60d:1]</item>
+    </plurals>
+    <plurals name="msys_n_seconds">
+        <item quantity="other">[%1$d seconds#0f72b5e74b72f21464bfe36f4ccfa994:1]</item>
+        <item quantity="one">[%1$d second#f30599705bfb5481f8b88c64dc5af705:1]</item>
+    </plurals>
+    <plurals name="msys_participant_added_local_user_and_many_participants_to_group">
+        <item quantity="other">[%1$s added you and %2$d others to the group.#386fd99a6252b5e739ea265039e4a6a5:1]</item>
+        <item quantity="one">[%1$s added you and %2$d other to the group.#ebc8bea93ddf2e3d5bdd9e8385509502:1]</item>
+    </plurals>
+    <plurals name="msys_participant_added_many_other_participants_to_group">
+        <item quantity="other">[%1$s added %2$s and %3$d others to the group.#4431d213f063e89eef351aa2224d0803:1]</item>
+        <item quantity="one">[%1$s added %2$s and %3$d other to the group.#c7f580412fd78f2b145b93fb371bcae5:1]</item>
+    </plurals>
+    <plurals name="msys_participant_removed_local_user_and_many_users_from_group">
+        <item quantity="other">[%1$s removed you and %2$d others from the group.#347214ec03ce32bdc4dc54257a8d7dab:1]</item>
+        <item quantity="one">[%1$s removed you and %2$d other from the group.#2c3ebeb2aafa30ce6a1f40e10705994d:1]</item>
+    </plurals>
+    <plurals name="msys_participant_removed_many_other_participants_from_group">
+        <item quantity="other">[%1$s removed %2$s and %3$d others from the group.#fa9be85a481540bff0293ad25d4f30d5:1]</item>
+        <item quantity="one">[%1$s removed %2$s and %3$d other from the group.#f42a162e567b4a9d22ce555e7789b87e:1]</item>
+    </plurals>
+    <plurals name="msys_people_will_see_chat_history">
+        <item quantity="other">[These people will be able to see the chat history#0b661e820b5f5a167184bd64eb844a5b:1]</item>
+        <item quantity="one">[This person will be able to see the chat history#63d9ab5e4040c5f15a8481022834e22b:1]</item>
+    </plurals>
+    <plurals name="msys_unknown_user_add_local_user_and_many_participants_to_group">
+        <item quantity="other">[You and %1$d others were added to the group.#315a6b91b471e941c3f205f743e456ad:1]</item>
+        <item quantity="one">[You and %1$d other were added to the group.#cbf759b24fe96693cad2b59879eaeb82:1]</item>
+    </plurals>
+    <plurals name="msys_unknown_user_added_many_participants_to_group">
+        <item quantity="other">[%1$s and %2$d others were added to the group.#8d8fcccd4f81521a8e2bea4ce4d5fc03:1]</item>
+        <item quantity="one">[%1$s and %2$d other were added to the group.#06f3b32ab138077434477b8fe222218c:1]</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_local_user_and_many_participants_from_group">
+        <item quantity="other">[You and %1$d others were removed from the group.#b5fb0f6c61346749ce2634cfafef0b69:1]</item>
+        <item quantity="one">[You and %1$d other were removed from the group.#8ba4a46285c0cf4b15ea556b867e6890:1]</item>
+    </plurals>
+    <plurals name="msys_unknown_user_removed_many_participants_from_group">
+        <item quantity="other">[%1$s and %2$d others were removed from the group.#e77901bac11c04828faad4179c1f9603:1]</item>
+        <item quantity="one">[%1$s and %2$d other were removed from the group.#a39cdfa5fb30de0639a953b87f34d288:1]</item>
+    </plurals>
+    <plurals name="msys_you_added_people">
+        <item quantity="other">[You added %1$d people#69117130451e6a43191fe5352c6a0e94:1]</item>
+        <item quantity="one">[You added %1$d person#cec8c70fecee1a025deac8422394149d:1]</item>
+    </plurals>
+    <plurals name="msys_you_added_people_with_names">
+        <item quantity="other">[You added %1$s, %2$s and %3$d more people#0f8ffbdf79deda9afdaa3382ebb1653c:1]</item>
+        <item quantity="one">[You added %1$s, %2$s and another person#e6907559bb60fd93333520838ba36555:1]</item>
+    </plurals>
+    <plurals name="msys_you_sent_photos">
+        <item quantity="other">[You sent %1$d photos.#ee3ba212be4f00acffbe0494d37c20aa:1]</item>
+        <item quantity="one">[You sent a photo.#12c771e755fb60b41d23abe548a93fa5:1]</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_photo_title_plural">
+        <item quantity="other">[Your photo is in the %1$s story and %2$s others.#633f27f78ab4ce9ffbc0491af256af78:1]</item>
+        <item quantity="one">[Your photo is in the %1$s story and one other.#4dbeef904a795fee28de90f39d629ca0:1]</item>
+    </plurals>
+    <plurals name="multi_author_story_view_count_nux_video_title_plural">
+        <item quantity="other">[Your video is in the %1$s story and %2$s others.#d75106492b365d105c4f0a0e321e796a:1]</item>
+        <item quantity="one">[Your video is in the %1$s story and one other.#beb414e6c44d05191adeb929abe49416:1]</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_hashtag_title">
+        <item quantity="other">[Your Photo Was Added to %1$s Hashtag Stories#f6d5a8d2606587582349b71e9654f44d:1]</item>
+        <item quantity="one">[Your Photo Was Added to a Hashtag Story#1b662da0ba71f0f1f8cc839b20f36ea3:1]</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_photo_location_title">
+        <item quantity="other">[Your Photo Was Added to %1$s Location Stories#d5789148ef0b34fdeff988ad527e6b42:1]</item>
+        <item quantity="one">[Your Photo Was Added to a Location Story#b8c67b8d8a9ba4dd324b0fa715211428:1]</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_hashtag_title">
+        <item quantity="other">[Your Video Was Added to %1$s Hashtag Stories#928c85b045685ca128b2bfeb01425271:1]</item>
+        <item quantity="one">[Your Video Was Added to a Hashtag Story#4e8a519215b253e282521fd232ac2f57:1]</item>
+    </plurals>
+    <plurals name="multi_author_story_viewer_list_megaphone_video_location_title">
+        <item quantity="other">[Your Video Was Added to %1$s Location Stories#5b8ce662eb09a6631985db253cb17cd1:1]</item>
+        <item quantity="one">[Your Video Was Added to a Location Story#57398593996f59add4587fecb27d65cc:1]</item>
+    </plurals>
+    <plurals name="multi_effects_by_format_with_title_styled">
+        <item quantity="other">[&lt;b>%1$s&lt;/b> by %2$s and %3$s other effects#745d02ea7e1dea8efe5c37c9f13370b3:1]</item>
+        <item quantity="one">[&lt;b>%1$s&lt;/b> by %2$s and %3$s other effect#28d21e11d1fcb007304b1e0d99a28787:1]</item>
+    </plurals>
+    <plurals name="n_additionalDiscounts">
+        <item quantity="other">[%1$d more promotions#4663db6ccd205be29364363593babd5b:1]</item>
+        <item quantity="one">[%1$d more promotion#428e36b20a02497b42e3aceebd8b27de:1]</item>
+    </plurals>
+    <plurals name="n_additionalDiscountsOffers">
+        <item quantity="other">[%1$d more offers#ebe1bd0b1e1be8933183a0cd448e6390:1]</item>
+        <item quantity="one">[%1$d more offer#ded577371dc2e6554ea9cf728929d1a1:1]</item>
+    </plurals>
+    <plurals name="new_leads_count">
+        <item quantity="other">[You received %1$d new leads.#230bb5aa001ccecdfbc384964eae5eab:1]</item>
+        <item quantity="one">[You received 1 new lead.#41338ddcbe3e87ee04dcbde0f084506f:1]</item>
+    </plurals>
+    <plurals name="new_post_badge">
+        <item quantity="other">[New posts#4dd9a1c3fd00459b33603b0fed502d83:1]</item>
+        <item quantity="one">[1 new post#32bc96df8287fa76086358879589ba88:1]</item>
+    </plurals>
+    <plurals name="notification_badge">
+        <item quantity="other">[%1$d notifications#85582ca723f0391567e847fc735ab801:1]</item>
+        <item quantity="one">[1 notification#9b599f9e537837761b94d6959cd60cd9:1]</item>
+    </plurals>
+    <plurals name="notification_badge_description_more_than">
+        <item quantity="other">[%1$d or more unread messages#516fb52b02c625068ac83f430e9deb68:1]</item>
+    </plurals>
+    <plurals name="notification_badge_description_plural">
+        <item quantity="other">[%1$d unread messages#9cdb6bf73828912fb38d5b639c9d331b:1]</item>
+        <item quantity="one">[%1$d unread message#04d5a2cb1dbfde227c727b725c346f05:1]</item>
+    </plurals>
+    <plurals name="num_collections_formatted">
+        <item quantity="other">[%1$d product collections#98b78d6813a82cd5b2c48fafc5749de1:1]</item>
+        <item quantity="one">[1 product collection#81521de69e2e8a10ba6d09c41175b5b4:1]</item>
+    </plurals>
+    <plurals name="num_pdp_attributes_discounts_formatted">
+        <item quantity="other">[%1$s and %2$s#e69fa6a7c3a4c92ec2501c2f539e1c17:1]</item>
+        <item quantity="one">[%1$s#5cf805dd03f038f5e46799cd89b6628f:1]</item>
+    </plurals>
+    <plurals name="num_products_formatted">
+        <item quantity="other">[%1$d products#6fdb7cc1f8b8142a3662940feb56bd84:1]</item>
+        <item quantity="one">[1 product#76b0632d53287a993426d0c56cfacb43:1]</item>
+    </plurals>
+    <plurals name="number_of_comments">
+        <item quantity="other">[%1$s comments#c11efe927d37a9460b258f56329d8ab3:1]</item>
+        <item quantity="one">[%1$s comment#2a41dcc344485b1ffeb4ed37fbd86142:1]</item>
+    </plurals>
+    <plurals name="number_of_comments_with_specific_emoji">
+        <item quantity="other">[%1$s comments with %2$s#dbbe76d63f38672dff8c5449bdd70ffc:1]</item>
+        <item quantity="one">[1 comment with %2$s#f2c5ef452c3b8e76705b52720d371ccf:1]</item>
+    </plurals>
+    <plurals name="number_of_likes">
+        <item quantity="other">[%1$s likes#8486e3233c7c54b4df77257bafe4b949:1]</item>
+        <item quantity="one">[%1$s like#001746c24ba7e5bf699af54c0381e466:1]</item>
+    </plurals>
+    <plurals name="number_of_plays">
+        <item quantity="other">[%1$s plays#49bc5cc14eb037917ce8599faf9a37f2:1]</item>
+        <item quantity="one">[%1$s play#ea1d8f1d63dbae28cfab38727133d884:1]</item>
+    </plurals>
+    <plurals name="number_of_posts">
+        <item quantity="other">[%1$s posts#11b5df619d6aa3d6083e326716267b2a:1]</item>
+        <item quantity="one">[%1$s post#d174d41184c96c9e0604422f19ceffc4:1]</item>
+    </plurals>
+    <plurals name="number_of_public_posts">
+        <item quantity="other">[%1$s public posts#a59cd56d1a076a72aa2561be908bb0ff:1]</item>
+        <item quantity="one">[%1$s public post#946c9166194f7a85d198b0bd2249cfd1:1]</item>
+    </plurals>
+    <plurals name="number_of_reactions">
+        <item quantity="other">[%1$s likes and reactions#2a91aaab379ef70e5f4679c891b6b901:1]</item>
+        <item quantity="one">[%1$s like or reaction#9478f18adc53cfa977fe8f923f5ce2c0:1]</item>
+    </plurals>
+    <plurals name="number_of_reels_in_chain">
+        <item quantity="other">[%1$d reels#4ed3855e3d02d43a6ea4edc5d49d7473:1]</item>
+        <item quantity="one">[1 reel#e63e792444aa4beac43cdf8c019f8ff9:1]</item>
+    </plurals>
+    <plurals name="number_of_shares">
+        <item quantity="other">[%1$s shares#046b27dee0393357e6e6f4f8e300c8a2:1]</item>
+        <item quantity="one">[%1$s share#6ff0ebfed187ddc87dc834758c368f76:1]</item>
+    </plurals>
+    <plurals name="number_of_viewers">
+        <item quantity="other">[%1$s viewers#55709e27473a16e09c3f5da0b75bd7c7:1]</item>
+        <item quantity="one">[1 viewer#905387142010029bd17c0996a8097ac1:1]</item>
+    </plurals>
+    <plurals name="number_of_views">
+        <item quantity="other">[%1$s views#a9ba5e4516026f88ce35abdbabe729d7:1]</item>
+        <item quantity="one">[%1$s view#51d43181f3c9624e4897dfa6882c9f1c:1]</item>
+    </plurals>
+    <plurals name="on_this_day_subtitle">
+        <item quantity="other">[%1$d years ago today.#683b02787359dc747f9a750e4d494c4a:1]</item>
+        <item quantity="one">[1 year ago today.#35043208b02cff87d126b972293d5085:1]</item>
+    </plurals>
+    <plurals name="on_x_countries">
+        <item quantity="other">[On (%1$d Countries)#3c3a51f6dc171a1e33d4f079d2f37a45:1]</item>
+        <item quantity="one">[On (1 Country)#de321fd88aebbdd8c28a45bfe1d74928:1]</item>
+    </plurals>
+    <plurals name="other_badges">
+        <item quantity="other">[%1$d others#f14adeac6c6cf4c0fde6bad0f4cb056f:1]</item>
+        <item quantity="one">[1 other#79d2fdc02b8334121bc0e352b66449c0:1]</item>
+    </plurals>
+    <plurals name="pending_promoted_posts">
+        <item quantity="other">[You have %1$d pending ads.#83d268dd49f65d3264757fe5e6929b51:1]</item>
+        <item quantity="one">[You have 1 pending ad.#ac371690dcbaaf7df0126d2fea3ab31e:1]</item>
+    </plurals>
+    <plurals name="people_tagging_x_people_plurals">
+        <item quantity="other">[%2$d People#a158452458baec783a7ace3fe3e4e941:1]</item>
+        <item quantity="one">[%1$s#d9d33f7f2eeebe40d45900e7a847e5da:1]</item>
+    </plurals>
+    <plurals name="plays_user_list_title">
+        <item quantity="other">[%1$d plays#d1b066631b2f0667064624944864f468:1]</item>
+        <item quantity="one">[1 play#5b613c3319bd8a24669b3890ece55531:1]</item>
+    </plurals>
+    <plurals name="polling_promotion_number_of_voters_from_promotion">
+        <item quantity="other">[%1$s voters from promotion#7802b0ac726d9cc589015ae7b0bef35d:1]</item>
+        <item quantity="one">[1 voter from promotion#315e9117d9239c23c091958f652c15a7:1]</item>
+    </plurals>
+    <plurals name="post_live_broadcaster_user_pay_summary_info">
+        <item quantity="other">[You earned an estimated %1$s from %2$s badges.#641ef14b4134d60fc1eff80b146a0146:1]</item>
+        <item quantity="one">[You earned an estimated %1$s from 1 badge.#6d4df8a7f716f53e6a37be2a95a34942:1]</item>
+    </plurals>
+    <plurals name="post_live_viewer_count">
+        <item quantity="other">[%1$s, %2$s, +%3$d others viewed your live video.#dfc13f31f15384e81d25c83e30065ab6:1]</item>
+        <item quantity="one">[%1$s viewed your live video.#040e1d201d78914cbafd89bc82a10cb9:1]</item>
+    </plurals>
+    <plurals name="post_live_viewer_user_pay_summary_info">
+        <item quantity="other">[You bought %2$d badges. %1$s will see a list of everyone who bought badges.#c27b938a0a1293419493904fec3e2109:1]</item>
+        <item quantity="one">[You bought a badge. %1$s will see a list of everyone who bought badges.#d817949a2c5c0cad7c19d84dd1698f9b:1]</item>
+    </plurals>
+    <plurals name="product_guide_shop_row_subtitle">
+        <item quantity="other">[%1$d products#6350aad23bd9e27e2c946aabd817d99d:1]</item>
+        <item quantity="one">[%1$d product#2b4679384a2749c3b9b97f8da41df32d:1]</item>
+    </plurals>
+    <plurals name="product_tagging_suggested_products">
+        <item quantity="other">[Suggestions available#6470da55efa19e296b9effee326d1795:1]</item>
+        <item quantity="one">[Suggestion available#bff9122e5178625887fee10cb154ea2f:1]</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_facebook_others">
+        <item quantity="other">[%1$s and %2$d other links#4aaeaf43fdb5b32ac7834b9553a1f019:1]</item>
+        <item quantity="one">[%1$s and 1 other link#525678b53ac70dc98f9fc4b3b106977a:1]</item>
+    </plurals>
+    <plurals name="profile_multiple_links_bio_others">
+        <item quantity="other">[%1$s and %2$d others#29b8917673ef7f1bb5fa87105be919e1:1]</item>
+        <item quantity="one">[%1$s and 1 other#ec55c9e5c1cf88c5879ff27bc3df29f8:1]</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_admins_with_count">
+        <item quantity="other">[%1$s admins#f58a156723dfad2b8d10948f7d3768fe:1]</item>
+        <item quantity="one">[%1$s admin#11149e50801971a739ab681ffd05a3c3:1]</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_blocked_with_count">
+        <item quantity="other">[%1$s blocked#8ede9fcaa5b6c5dd48ba6965476798f1:1]</item>
+    </plurals>
+    <plurals name="profile_user_list_group_profile_members_with_count">
+        <item quantity="other">[%1$s members#c8ac74d680a77ecccce779b7aab630a3:1]</item>
+        <item quantity="one">[%1$s member#55a471992893fa46da5407cfb8dec391:1]</item>
+    </plurals>
+    <plurals name="prompt_used_by_people">
+        <item quantity="other">[&lt;b>%1$s&lt;/b> and &lt;b>%2$s others&lt;/b> added to this#d05526035c2a5bfe9da69f20df83c6f1:1]</item>
+        <item quantity="one">[&lt;b>%1$s&lt;/b> and &lt;b>1 other&lt;/b> added to this#c7ee91dd089a24b6e1622d1bfdba7388:1]</item>
+    </plurals>
+    <plurals name="quickshare_add_topics_pill_text">
+        <item quantity="other">[%1$d topics#a307440b4e502263c64085668ade1704:1]</item>
+        <item quantity="one">[1 topic#ff9532af5982957e492b648f2421c9db:1]</item>
+    </plurals>
+    <plurals name="recipient_picker_close_friends_count">
+        <item quantity="other">[%1$s people#19939e9ea4df91c8180d4e0b4ff3300a:1]</item>
+        <item quantity="one">[1 person#b9e7f06cdb5096b8643f9d290d4ba507:1]</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_content">
+        <item quantity="other">"[%1$s other people viewed this story on Facebook. Since you are sharing it to Public on Facebook, people you're not friends with saw it.#404d1589ae9defc0cb8f13881a5d9f7d:1]"</item>
+        <item quantity="one">"[1 other person viewed this story on Facebook. Since you are sharing it to Public on Facebook, a person you're not friends with saw it.#03513913b06a279bca39014d4a173514:1]"</item>
+    </plurals>
+    <plurals name="reel_dashboard_anonymous_fb_viewers_header">
+        <item quantity="other">[%1$s other views on Facebook#762dea539bba5d16a80a0e33b695870f:1]</item>
+        <item quantity="one">[1 other view on Facebook#d25fce6564e8f08ffe752594781888ae:1]</item>
+    </plurals>
+    <plurals name="reel_dashboard_poll_result_option_tally_label">
+        <item quantity="other">[votes for %1$s#635469e9cc6f638dfdcc47c4ae9425eb:1]</item>
+        <item quantity="one">[vote for %1$s#bdd2c737f207b923f0a91be0dfed1929:1]</item>
+    </plurals>
+    <plurals name="reel_dashboard_slider_results_summary">
+        <item quantity="other">[%1$d people answered. This is the average answer.#dea4a6a04b0ca4766451719bc51b3949:1]</item>
+        <item quantity="one">[1 person answered. This is the average answer.#49a21d53db84908994b5435dbdadc127:1]</item>
+    </plurals>
+    <plurals name="remixed_by_friends">
+        <item quantity="other">[Remixed by &lt;b>%1$s friends&lt;/b>#c5f036d52cdeffe19b496fcc07cbf6d0:1]</item>
+        <item quantity="one">[Remixed by &lt;b>1 friend&lt;/b>#4e3b4adebc8b8a95576890bf0854c90f:1]</item>
+    </plurals>
+    <plurals name="remixed_by_people">
+        <item quantity="other">[Remixed by &lt;b>%1$s people&lt;/b>#9733d32026e1854d770507c78aedb018:1]</item>
+        <item quantity="one">[Remixed by &lt;b>1 person&lt;/b>#bd5f8b9d99a3ee702bea2f17f8066fd4:1]</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_message">
+        <item quantity="other">"[You're removing %1$d videos from your highlight.#f8639422e37888fed8b879b01430280c:1]"</item>
+        <item quantity="one">"[You're removing 1 video from your highlight.#c376479403db538b94d2bde4299038fd:1]"</item>
+    </plurals>
+    <plurals name="remove_videos_from_highlight_dialog_title">
+        <item quantity="other">[Remove %1$d videos from highlight?#3a31912945fcb5d7c277c5d2d775e730:1]</item>
+        <item quantity="one">[Remove video from highlight?#2b7461b73db95b4ffc8a463656cad194:1]</item>
+    </plurals>
+    <plurals name="remove_x_non_recip_followers_confirmation">
+        <item quantity="other">[Remove %1$s followers?#264ceae02535207268feff9dc7206453:1]</item>
+        <item quantity="one">[Remove 1 follower?#2353b71248cdd1c682a06c39e57bc489:1]</item>
+    </plurals>
+    <plurals name="removed_num_products_formatted">
+        <item quantity="other">[%1$d products removed#53703e974ead1fdfa3aee63ed09db7a9:1]</item>
+        <item quantity="one">[1 product removed#e913854965b53e5f98ac7319f6cfc46f:1]</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_body">
+        <item quantity="other">[You selected %1$d accounts. Only you and the person you restrict will see their new comments on your posts.#edfa6935eb6305bc488ce2192ecd4a8d:1]</item>
+        <item quantity="one">[You selected 1 account. Only you and the person you restrict will see their new comments on your posts.#80e5466a5cd6a21b50827145b246203d:1]</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_primary_button">
+        <item quantity="other">[Restrict accounts#694c7df1c8e9e027d602f30132d06e2e:1]</item>
+        <item quantity="one">[Restrict account#c2321d0d94c19e32a9acb7c34351379c:1]</item>
+    </plurals>
+    <plurals name="restrict_x_accounts_dialog_title">
+        <item quantity="other">[Restrict %1$d Accounts?#7e0c6872cfd1f070be398842705fe49b:1]</item>
+        <item quantity="one">[Restrict 1 account?#d53bf91faebb94bea4a2fa420a93800f:1]</item>
+    </plurals>
+    <plurals name="rolodex_hour">
+        <item quantity="other">[%1$d hours#90f73669ffc6c9ee7f5b5bf3a2914103:1]</item>
+        <item quantity="one">[%1$d hour#37c93537fa0cfd3387fa5bb21fb1c0a7:1]</item>
+    </plurals>
+    <plurals name="rolodex_minute">
+        <item quantity="other">[%1$d minutes#dfd74e26a5f5da920029c22743c1a08e:1]</item>
+        <item quantity="one">[%1$d minute#279e8152c25ae38dc1ae4e0c90f3993b:1]</item>
+    </plurals>
+    <plurals name="rolodex_second">
+        <item quantity="other">[%1$d seconds#c88cf7c7be28e9be64c7ab0b1f094dea:1]</item>
+        <item quantity="one">[%1$d second#5aa9208e241124b726fcea24d7bec25d:1]</item>
+    </plurals>
+    <plurals name="rtc_effects_removed_multipeer_effect_max_participant_exceed">
+        <item quantity="other">[Environment %1$s support a maximum of %2$d people.#696d8c2ce6ab9d6b94a8bb6a9507d8cc:1]</item>
+    </plurals>
+    <plurals name="save_collection_header_saved_posts">
+        <item quantity="other">[%1$s saved posts#4d0aba26f18f333793ae7c94a52466b3:1]</item>
+        <item quantity="one">[%1$s saved post#ae22e456429f67a426727087aa2a5f36:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_failure_notification">
+        <item quantity="other">[Unable to add posts#38d4efdfe821823c7e0fd5bcfc2151d9:1]</item>
+        <item quantity="one">[Unable to add post#3a01b8f9cc2a93a06db927b4cf74e001:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_add_success_notification">
+        <item quantity="other">[%2$s posts added to %1$s#81e2f45675800a3bab465080529c2729:1]</item>
+        <item quantity="one">[Post added to %1$s#47aadf09b37fd550a12d20576cbd1466:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_failure_notification">
+        <item quantity="other">[Unable to move posts#183042ef4e64b09853291f7802cb971d:1]</item>
+        <item quantity="one">[Unable to move post#0c171c0fa9c8fe37fb22e2ec88ac04ba:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_success_notification">
+        <item quantity="other">[%2$s posts moved to %1$s#fefe74f3ad647f3cbbf8c535588b2505:1]</item>
+        <item quantity="one">[Post moved to %1$s#258f201258bdb211928462c4cffaeebf:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_move_to_collection_confirmation_message">
+        <item quantity="other">[This will remove posts from this collection and move them to %1$s. Posts will still be saved in All Saved.#b1c190a5f07ff4e5a2821149cb29b039:1]</item>
+        <item quantity="one">[This will remove post from this collection and move it to %1$s. Post will still be saved in All Saved.#ea8efba114ea4064a871316f08307938:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_message">
+        <item quantity="other">[Unsaving posts will also remove them from any collections.#38deb5bbd532b80e0de425025e1584c3:1]</item>
+        <item quantity="one">[Unsaving this post will also remove it from any collections.#ed39d07b04cf405d827c04586d3cc5fb:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_confirmation_title">
+        <item quantity="other">[Unsave posts?#503ea74aebeae1d5bad3f0c8ddc11386:1]</item>
+        <item quantity="one">[Unsave post?#6314ac498ba5f8d973567cd41fffdc54:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_failure_notification">
+        <item quantity="other">[Unable to remove posts#1746f95155a144b5464251fc617f0eb7:1]</item>
+        <item quantity="one">[Unable to remove post#9414ddea2cbfeb7bc2c899541d7fba4f:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_remove_from_collection_success_notification">
+        <item quantity="other">[%2$s posts removed from %1$s#0c6e6f91570050a1a259a790b840155f:1]</item>
+        <item quantity="one">[Post removed from %1$s#21fb4e7e3cfe8497c0e3f093d9a17b9c:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_failure_notification">
+        <item quantity="other">[Unable to unsave posts#26cae0f99f9d0f0abcdf0b9e6ed559fa:1]</item>
+        <item quantity="one">[Unable to unsave post#5bc9053b9df7410ac172392e3cb66f34:1]</item>
+    </plurals>
+    <plurals name="save_home_bulk_edit_unsave_success_notification">
+        <item quantity="other">[%1$s posts unsaved#8eac563a99a11b35ed6b79ebf787582d:1]</item>
+        <item quantity="one">[Post unsaved#39437612c8e6540696cfcd8b9321c355:1]</item>
+    </plurals>
+    <plurals name="save_home_collection_feed_x_selected">
+        <item quantity="other">[%1$d Selected#c82f7fcd5c774ea51c44cac523f5d8ac:1]</item>
+        <item quantity="one">[1 selected#a3ff1dcf8179a1fbfb0ddfc82a0075f6:1]</item>
+    </plurals>
+    <plurals name="saved_items">
+        <item quantity="other">[%1$d items#7f84a0ca36b226c72ac75b60f3693390:1]</item>
+        <item quantity="one">[1 item#aaf6882985770ab24ab5f4d200bb7a27:1]</item>
+    </plurals>
+    <plurals name="sc_selfie_timer_warning_subtitle">
+        <item quantity="other">[%1$d seconds left\"#048d286627270ea8987d738f9a8b9ed4:1]</item>
+        <item quantity="one">[1 second left\"#32fa124707b934192a9c4174e45d9ef3:1]</item>
+    </plurals>
+    <plurals name="search_social_context_new_post">
+        <item quantity="other">[New posts#c4c28a825f14a30b886f467a4e1fe8fa:1]</item>
+        <item quantity="one">[New post#9b9af51dd14fed3fb17ef48ec65a676b:1]</item>
+    </plurals>
+    <plurals name="search_social_context_x_new_post">
+        <item quantity="other">[%1$s new posts#32a98162ece3635b5a2bcef7f4e7b74c:1]</item>
+        <item quantity="one">[1 new post#654a7b4070c391fa427f7cff63184c8c:1]</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_subtitle">
+        <item quantity="other">[%1$d videos were blocked in some countries.#6105527782cef7603f37abdb6839d2fd:1]</item>
+        <item quantity="one">[1 video was blocked in some countries.#1144d012ce3973af71afd8737bfea48b:1]</item>
+    </plurals>
+    <plurals name="segmented_video_block_blacklist_title">
+        <item quantity="other">[%1$d videos were blocked in some countries#d87ec1562f08cf959da46dd5b26cbf7f:1]</item>
+        <item quantity="one">[1 video was blocked in some countries#a19017615592a70e2b2814b859523a5e:1]</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_subtitle">
+        <item quantity="other">[%1$d videos were blocked#ea462f6a07d4ae2648680e8bf19b3aea:1]</item>
+        <item quantity="one">[1 video was blocked.#dc83c883f523409f342da89b924bbecd:1]</item>
+    </plurals>
+    <plurals name="segmented_video_block_global_title">
+        <item quantity="other">[%1$d videos were blocked#69c347c59f9e7d573ba63807a7ed21af:1]</item>
+        <item quantity="one">[1 video was blocked#cb36e00cf873e58e529f9bf2595a9b4f:1]</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_subtitle">
+        <item quantity="other">[%1$d videos are only available in some countries.#241fdc033cfb25bb1c1eb895c1a9c07d:1]</item>
+        <item quantity="one">[1 video is only available in some countries.#f9d199e0ee4accd795628b2546872998:1]</item>
+    </plurals>
+    <plurals name="segmented_video_block_whitelist_title">
+        <item quantity="other">[%1$d videos are only available in some countries#86c9f21a4ffd67f22670303625cb6095:1]</item>
+        <item quantity="one">[1 video is only available in some countries#c2d29d878fc24c0397b2498a17c4a7e9:1]</item>
+    </plurals>
+    <plurals name="selection_max_reached">
+        <item quantity="other">[You can only choose %1$d comments at a time.#a2e19bb6ab8f111113b1ef8bb7c67b58:1]</item>
+        <item quantity="one">[You can only choose 1 comment at a time.#06f4831827376b45dd49f05cc2518eb2:1]</item>
+    </plurals>
+    <plurals name="settings_panavision_public_bottom_sheet_follow_request_label">
+        <item quantity="other">[All pending follow requests will be automatically approved unless you delete them now. Review %1$s pending follow requests.#343086a134d3700d0ad30a9b260f5d45:1]</item>
+        <item quantity="one">[All pending follow requests will be automatically approved unless you delete them now. Review %1$s pending follow request.#d2ae79644b3e3926d2eae946d16b4893:1]</item>
+    </plurals>
+    <plurals name="shop_selector_product_count_label">
+        <item quantity="other">[%1$s products#241248af57c24d7d8690606b8747ec22:1]</item>
+        <item quantity="one">[%1$s product#eab5d894b4bff0343e91c74bff9f3cfd:1]</item>
+    </plurals>
+    <plurals name="shopping_cart_count_content_description">
+        <item quantity="other">[%1$d items in your cart#a60a400d298e53b4bb66296a76b7c998:1]</item>
+        <item quantity="one">[1 item in your cart#698b1f321f0e73e9841fe002b45ae313:1]</item>
+    </plurals>
+    <plurals name="shopping_cart_num_items">
+        <item quantity="other">[%1$d items#63b5c171248a0aea35deaffa35fc6580:1]</item>
+        <item quantity="one">[1 item#f42e68704d7a17a31b9ff3c91bb5d8e2:1]</item>
+    </plurals>
+    <plurals name="shopping_cart_subtotal_title_text">
+        <item quantity="other">[Subtotal (%1$d items)#dff79ae55f96de3e2f68ef051e3a946e:1]</item>
+        <item quantity="one">[Subtotal (1 item)#92c3571af134d0630168778deb77eb23:1]</item>
+    </plurals>
+    <plurals name="social_context_members_x_and_n_others">
+        <item quantity="other">[%1$s and &lt;b>%2$s others&lt;/b> are members#3d6346a16c394ae24be28e510c8824d4:1]</item>
+        <item quantity="one">[%1$s and &lt;b>1 other&lt;/b> are members#070923195e02124be0bfe3676829d89f:1]</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_and_n_others">
+        <item quantity="other">[%1$s, %2$s and &lt;b>%3$s others&lt;/b> are members#9d76e842b5a72e4bef402f1289fc0062:1]</item>
+        <item quantity="one">[%1$s, %2$s and &lt;b>1 other&lt;/b> are members#05bf172fe9b3c8544e5e0bd3abcf375f:1]</item>
+    </plurals>
+    <plurals name="social_context_members_x_y_z_and_n_others">
+        <item quantity="other">[%1$s, %2$s, %3$s and &lt;b>%4$s others&lt;/b> are members#0228741b9b4ba183e8c68e160105b883:1]</item>
+        <item quantity="one">[%1$s, %2$s, %3$s and &lt;b>1 other&lt;/b> are members#d25ab18796d9a73677f992295f486151:1]</item>
+    </plurals>
+    <plurals name="standalone_fundraiser_with_cohost_label">
+        <item quantity="other">[&lt;b>%1$s&lt;/b> and &lt;b>%2$s others&lt;/b>#1217c9fc0dc67f7397c225ec48e59ccc:1]</item>
+        <item quantity="one">[&lt;b>%1$s&lt;/b> and &lt;b>1 other&lt;/b>#5864a7d229f956ec8d7dc79440d45972:1]</item>
+    </plurals>
+    <plurals name="sticker_count_limit">
+        <item quantity="other">[You cannot add this sticker more than %1$d times per story#23cd9687f2bc1d662c8fcd45b9fbecc0:1]</item>
+        <item quantity="one">[You cannot add this sticker more than once per story#5527992589d1b0910deee7f219cba447:1]</item>
+    </plurals>
+    <plurals name="story_drafts_confirmation_title">
+        <item quantity="other">[Delete drafts?#9c02ed6ead8b8a2f3671aacf4f9e2e56:1]</item>
+        <item quantity="one">[Delete draft?#074287072b237772c4238f6c0649e975:1]</item>
+    </plurals>
+    <plurals name="subscriptions_shoutout_bottom_sheet_title">
+        <item quantity="other">[Mentions %1$d subscribers#ce4ba7ccd0427e610fa1faa2a6b57351:1]</item>
+        <item quantity="one">[Mentions %1$d subscriber#fedfcae83a81a53966a7f315457a2e21:1]</item>
+    </plurals>
+    <plurals name="suggested_hidden_words_toast_text">
+        <item quantity="other">[Added %1$d words to the Hidden Words list#9233cfba42bade578ca9296805c21743:1]</item>
+        <item quantity="one">[Added 1 word to the Hidden Words list#115b29f0da7c7dcb00df2d04b504ed1a:1]</item>
+    </plurals>
+    <plurals name="suggested_products_count">
+        <item quantity="other">[%1$d suggested products#df3ada4edd825d92a0822b4c110067f6:1]</item>
+        <item quantity="one">[1 suggested product#c01588081cd6e6ff1c2e88fca72ee9c1:1]</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos">
+        <item quantity="other">[Group photos from last weekend#4356c1fbfcc2f319dd413da70735dfc5:1]</item>
+        <item quantity="one">[Group photo from last weekend#8dc83d4742391c66a1b844ebca5fc2c8:1]</item>
+    </plurals>
+    <plurals name="suggestion_last_weekend_group_photos_with_location">
+        <item quantity="other">[Group photos from last weekend in %1$s#fe58e383a7f4138775d0c3e9fe7c1bd4:1]</item>
+        <item quantity="one">[Group photo from last weekend in %1$s#fdf3227b36603bef37fe601d4f718173:1]</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos">
+        <item quantity="other">[Group photos from today#40ab950f1a3e7f95dca289c8c07a7010:1]</item>
+        <item quantity="one">[Group photo from today#b3b5046676c66a0805e3c3eefccb00ec:1]</item>
+    </plurals>
+    <plurals name="suggestion_today_group_photos_with_location">
+        <item quantity="other">[Group photos from today in %1$s#3fce397b4bd9c1a6a8f1cba9fafbc1c8:1]</item>
+        <item quantity="one">[Group photo from today in %1$s#192e16dba3c8f1d981c9b6a797d9733d:1]</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos">
+        <item quantity="other">[Group photos from yesterday#c785b35e1de44af67afff7ec3702821b:1]</item>
+        <item quantity="one">[Group photo from yesterday#284076897358b77c3d0068b9cbdbb954:1]</item>
+    </plurals>
+    <plurals name="suggestion_yesterday_group_photos_with_location">
+        <item quantity="other">[Group photos from yesterday in %1$s#da574f65975c535d3c7582d619536692:1]</item>
+        <item quantity="one">[Group photo from yesterday in %1$s#4b73740420221c54c054aadcbe935dd3:1]</item>
+    </plurals>
+    <plurals name="suggestion_your_recent_favorites">
+        <item quantity="other">[Favorites from last week#05dab533456a6af0171098af508c5dd0:1]</item>
+        <item quantity="one">[Favorite from last week#ba09d71ba1aca4f18ba6ecb2a63eb5aa:1]</item>
+    </plurals>
+    <plurals name="tagged_accounts_plural">
+        <item quantity="other">[tagged accounts:#3fb91b0f9d43a463ca02f200fda4e8be:1]</item>
+        <item quantity="one">[tagged account:#ae2ca10db0ecdc2a000dcaccf6f4826b:1]</item>
+    </plurals>
+    <plurals name="template_used_by_friends">
+        <item quantity="other">[Template used by &lt;b>%1$s friends&lt;/b>#59a992a922227675143a1395ee81828e:1]</item>
+        <item quantity="one">[Template used by &lt;b>1 friend&lt;/b>#6315917cd01a98dfeb99a0a67c4ea2f2:1]</item>
+    </plurals>
+    <plurals name="template_used_by_people">
+        <item quantity="other">[Template used by &lt;b>%1$s people&lt;/b>#47309cff6270fea58903f30d7e3a91b3:1]</item>
+        <item quantity="one">[Template used by &lt;b>1 person&lt;/b>#d8318dc9c239747a62f6ce810a4723b5:1]</item>
+    </plurals>
+    <plurals name="thread_title_suffix_n_others">
+        <item quantity="other">[… and %1$d others#2ff9e0757aebd09267a3ce86a49d251e:1]</item>
+        <item quantity="one">[… and 1 other#2d2691e0314ac2cee9f0034f5348a339:1]</item>
+    </plurals>
+    <plurals name="thread_title_x_and_n_others">
+        <item quantity="other">[%1$s and %2$d others#98582663ffa2644fac186096ad8c09da:1]</item>
+        <item quantity="one">[%1$s and 1 other#69d662a683fcd2a3f62f2ec9237edc80:1]</item>
+    </plurals>
+    <plurals name="thread_title_x_y_and_n_others">
+        <item quantity="other">[%1$s, %2$s and %3$s others#ede6a977a01de2adfbca2b11ea3d0d12:1]</item>
+        <item quantity="one">[%1$s, %2$s and 1 other#614508d242f091448b65b44828facb13:1]</item>
+    </plurals>
+    <plurals name="unseen_like_notification">
+        <item quantity="other">[You have %1$d new likes#cfe59af7ffb8d4d4ea1d1398dc1fbb9c:1]</item>
+        <item quantity="one">[You have 1 new like#71d071d515bf6579860eeb7554f6d828:1]</item>
+    </plurals>
+    <plurals name="upcoming_event_subtitle_template">
+        <item quantity="other">[%1$d products · %2$s#6495237d6f896cee23f8ff26d74df708:1]</item>
+        <item quantity="one">[%2$s#56c95e9fc1845c8fac98788598039c0d:1]</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_list_supporters_title">
+        <item quantity="other">[%1$d supporters#a1f258f24871551f568b8c35ab9504b7:1]</item>
+        <item quantity="one">[1 supporter#4a065e0cd6b073637f8ec26995984566:1]</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notification_description">
+        <item quantity="other">[%1$d supporters will receive a notification in Activity#d541f6cf1dd0281b8ff35280abbe43fd:1]</item>
+        <item quantity="one">[1 supporter will receive a notification in Activity#71e771523c4f92beb0769a1124f76112:1]</item>
+    </plurals>
+    <plurals name="user_pay_badges_thanks_sticker_notified_supporters_number">
+        <item quantity="other">[%1$d badges supporters from your most recent live video will be notified when you share this story. View#4b527143378c8fc4278977f0287bc1b8:1]</item>
+        <item quantity="one">[1 badges supporter from your most recent live video will be notified when you share this story. View#8d53a60bc07dda47aaaf2761610054c2:1]</item>
+    </plurals>
+    <plurals name="user_pay_fanclub_all_subscribers_header">
+        <item quantity="other">[All subscribers (%1$d)#9f79dedac9cc84df4a395d0d755a7ea2:1]</item>
+        <item quantity="one">[All subscribers#bd83838c00c2a3337646581df9d49ab1:1]</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">[%1$d views#0b62a50673c8e0f4f307feccb9a626bd:1]</item>
+        <item quantity="one">[1 view#7b90dd5859a4c404218f28c8a6988509:1]</item>
+    </plurals>
+    <plurals name="view_x_more_replies">
+        <item quantity="other">[View %1$d more replies#c2397f5c835bb89e976239ff711f0076:1]</item>
+        <item quantity="one">[View %1$d more reply#c9ef8ce89c0aa47d0e33b64ab8299a16:1]</item>
+    </plurals>
+    <plurals name="view_x_previous_replies">
+        <item quantity="other">[View %1$d previous replies#2b28fac36b3b6f82d7aaa8219e639717:1]</item>
+        <item quantity="one">[View %1$d previous reply#f51b7f5a7f3c651430bad2252f84585c:1]</item>
+    </plurals>
+    <plurals name="view_x_replies">
+        <item quantity="other">[View %1$d more replies#d4fa2bade08d47100180b41576b53168:1]</item>
+        <item quantity="one">[View %1$d more reply#bb1af79b00bcf7904773319f638b159a:1]</item>
+    </plurals>
+    <plurals name="voter_count_on_surfaces">
+        <item quantity="other">[Vote · %1$s poll results#fe26a99aeb799e00f982198df3dc87ea:1]</item>
+        <item quantity="one">[Vote · %1$s poll result#9861437f24e50353b28057e197002e08:1]</item>
+    </plurals>
+    <plurals name="voters_count">
+        <item quantity="other">[%1$s votes#e94871c0435ebf01ad11c2701d75ee31:1]</item>
+        <item quantity="one">[%1$s vote#94b1ed24ba084b79f6b75c0f716f6031:1]</item>
+    </plurals>
+    <plurals name="x_comments_deleted">
+        <item quantity="other">[%1$d comments deleted.#543b4f48caeace04b2acc3954d3e6288:1]</item>
+        <item quantity="one">[Comment deleted.#b95734c8993b220bbdbd3ae77480196d:1]</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">[%1$s days#d55aee970f1b8ba7036f5b4cdb77dab8:1]</item>
+        <item quantity="one">[%1$s day#0141cd9d92d18ddcb020efc6810d6f03:1]</item>
+    </plurals>
+    <plurals name="x_days_ago">
+        <item quantity="other">[%1$s days ago#5fd0188427e01baea7fd0839d0eb3515:1]</item>
+        <item quantity="one">[%1$s day ago#7f08211fc5b8e683df710eee7272eb4f:1]</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">[%1$s hours#91a9a9e9270856e0cd353b05ad1d6098:1]</item>
+        <item quantity="one">[%1$s hour#62811d89fb108cb8528f83d5226a3514:1]</item>
+    </plurals>
+    <plurals name="x_hours_ago">
+        <item quantity="other">[%1$s hours ago#7dad4186244f896bdcc878ab81e92441:1]</item>
+        <item quantity="one">[%1$s hour ago#c7679f4183b95b0e9a0fff4bdb01bb83:1]</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">[%1$s minutes#490571a6bbc38fd4eb436ec39c5e51d6:1]</item>
+        <item quantity="one">[%1$s minute#4c32b7dace52ab84deb2982c3e574d08:1]</item>
+    </plurals>
+    <plurals name="x_minutes_ago">
+        <item quantity="other">[%1$s minutes ago#69786ffef3a8d0613835e5a705d1970f:1]</item>
+        <item quantity="one">[%1$s minute ago#605715b3a220b024c18fc0cde62b6ede:1]</item>
+    </plurals>
+    <plurals name="x_people">
+        <item quantity="other">[%1$d people#a073d26a4e06d3ed41c47b5d178b9f89:1]</item>
+        <item quantity="one">[1 person#03f66a2d25264f460c7868fafacbb33c:1]</item>
+    </plurals>
+    <plurals name="x_reactions">
+        <item quantity="other">[%1$s reactions#cd099f055528d31854556323bc9f6131:1]</item>
+        <item quantity="one">[%1$s reaction#b71ae9abe8718febc5cb4b8463f49da5:1]</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">[%1$s seconds#0e95c0729baffce751512391ddaf6cb3:1]</item>
+        <item quantity="one">[%1$s second#de6f362dd9458d10c1568952a6ba770a:1]</item>
+    </plurals>
+    <plurals name="x_seconds_ago">
+        <item quantity="other">[%1$s seconds ago#2aacece0600aa7bf54cd3d332628dc47:1]</item>
+        <item quantity="one">[%1$s second ago#17f5eedd816804c77fc8d6d91054b5cd:1]</item>
+    </plurals>
+    <plurals name="x_selected">
+        <item quantity="other">[%1$d selected#4d84ec80eea629e5ae799ad5c47c87a5:1]</item>
+        <item quantity="one">[1 selected#6bac17b45b4f60cccd857b043e9de561:1]</item>
+    </plurals>
+    <plurals name="x_survey_question_responders">
+        <item quantity="other">[%1$d people responded.#abaf050587f7df049a00e844c11af337:1]</item>
+        <item quantity="one">[1 person responded.#91743d0868f5f840424d5c77c2a57e23:1]</item>
+    </plurals>
+    <plurals name="x_weeks">
+        <item quantity="other">[%1$s weeks#959748e5ccb39d2f463d0e95d34e1b17:1]</item>
+        <item quantity="one">[%1$s week#7c98cbf625f559cc49101194c0895951:1]</item>
+    </plurals>
+    <plurals name="x_weeks_ago">
+        <item quantity="other">[%1$s weeks ago#acc12030d62e2843fae9bc409c6af1e5:1]</item>
+        <item quantity="one">[%1$s week ago#21790d3c9e42d7f02689064dd5e8173f:1]</item>
+    </plurals>
+</resources>

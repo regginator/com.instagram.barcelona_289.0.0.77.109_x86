@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="@color/splash_screen_background" />
+    </item>
+    <item android:bottom="88.0dip">
+        <bitmap android:gravity="center" android:src="@drawable/barcelona_gradient" />
+    </item>
+    <item android:bottom="80.0dip">
+        <bitmap android:gravity="bottom" android:src="@mipmap/barcelona_from_meta" />
+    </item>
+</layer-list>

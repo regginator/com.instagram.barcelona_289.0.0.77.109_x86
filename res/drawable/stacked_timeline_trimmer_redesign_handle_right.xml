@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="top">
+        <rotate android:fromDegrees="160.0" android:toDegrees="145.0" android:pivotX="50.0%" android:pivotY="50.0%">
+            <shape>
+                <size android:height="13.0dip" android:width="2.5dip" />
+                <solid android:color="@color/stacked_trimmer_handle" />
+                <corners android:radius="3.0dip" />
+            </shape>
+        </rotate>
+    </item>
+    <item android:top="10.0dip">
+        <rotate android:fromDegrees="-160.0" android:toDegrees="-160.0" android:pivotX="50.0%" android:pivotY="50.0%">
+            <shape>
+                <size android:height="13.0dip" android:width="2.5dip" />
+                <solid android:color="@color/stacked_trimmer_handle" />
+                <corners android:radius="3.0dip" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

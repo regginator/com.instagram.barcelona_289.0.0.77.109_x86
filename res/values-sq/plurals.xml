@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fbpay_hub_transaction_row_content_description_with_items">
+        <item quantity="other">%1$s ka %2$d artikuj, është %3$s, %4$s</item>
+        <item quantity="one">%1$s ka %2$d elemente, është %3$s, %4$s</item>
+    </plurals>
+</resources>

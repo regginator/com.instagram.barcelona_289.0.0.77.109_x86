@@ -1,0 +1,265 @@
+{
+  "media_or_ad": {
+    "taken_at": 1596722503,
+    "pk": 2369802580643356700,
+    "id": "single_image_feed_ad_with_branded_content_id",
+    "device_timestamp": 1596722503,
+    "media_type": 1,
+    "code": "CDjOuQvDR8B",
+    "client_cache_key": "MjM2OTgwMjU4MDY0MzM1NjQxNw==.2",
+    "filter_type": 0,
+    "user": {
+      "pk": 90010167773326,
+      "username": "test_bc_creator",
+      "full_name": "realstate",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/CtxdFPS/creator-icon.jpg",
+      "profile_pic_id": "2265197323108137051_90010167773326",
+      "friendship_status": {
+        "following": false,
+        "outgoing_request": false,
+        "is_muting_reel": false,
+        "is_bestie": false,
+        "is_restricted": false
+      },
+      "is_verified": false,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "latest_reel_media": 0,
+      "story_reel_media_ids": [],
+      "account_badges": []
+    },
+    "caption_is_edited": false,
+    "liker_config": {
+      "is_daisy": true,
+      "hide_view_count": false,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 1,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false
+    },
+    "comment_likes_enabled": true,
+    "comment_threading_enabled": true,
+    "has_more_comments": false,
+    "max_num_visible_preview_comments": 2,
+    "preview_comments": [],
+    "can_view_more_preview_comments": false,
+    "comment_count": 0,
+    "image_versions2": {
+      "candidates": [
+        {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://i.ibb.co/jZrLpJh/pusheen-square-media.jpg",
+          "scans_profile": "e15",
+          "estimated_scans_sizes": [
+            9520,
+            19041,
+            28562,
+            38082,
+            47603,
+            85686,
+            85686,
+            85686,
+            85686
+          ]
+        }
+      ]
+    },
+    "original_width": 1080,
+    "original_height": 1080,
+    "like_count": 18,
+    "bucketed_like_count": null,
+    "ads_bucketed_like_count": 1,
+    "has_liked": false,
+    "top_likers": [],
+    "photo_of_you": false,
+    "can_see_insights_as_brand": false,
+    "caption": {
+      "pk": 17868459649921096,
+      "user_id": 90010167773326,
+      "text": "lalalalala",
+      "type": 1,
+      "created_at": 1596722505,
+      "created_at_utc": 1596722505,
+      "content_type": "comment",
+      "status": "Active",
+      "bit_flags": 0,
+      "did_report_as_spam": false,
+      "share_enabled": false,
+      "user": {
+        "pk": 90010167773326,
+        "username": "test_bc_creator",
+        "full_name": "realstate",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/CtxdFPS/creator-icon.jpg",
+        "profile_pic_id": "2265197323108137051_90010167773326",
+        "friendship_status": {
+          "following": false,
+          "outgoing_request": false,
+          "is_muting_reel": false,
+          "is_bestie": false,
+          "is_restricted": false
+        },
+        "is_verified": false,
+        "has_anonymous_profile_picture": false,
+        "is_unpublished": false,
+        "is_favorite": false,
+        "latest_reel_media": 0,
+        "story_reel_media_ids": [],
+        "account_badges": []
+      },
+      "is_covered": false,
+      "media_id": 2369802580643356700,
+      "has_translation": true,
+      "private_reply_status": 0,
+      "hide_username": false
+    },
+    "sponsor_tags": [
+      {
+        "permission": false,
+        "sponsor": {
+          "pk": 90010167773283,
+          "username": "test_bc_sponsor",
+          "full_name": "pop star",
+          "is_private": false,
+          "profile_pic_url": "https://i.ibb.co/1ZnLSSz/sponsor-icon.jpg",
+          "profile_pic_id": "2265196334972066655_90010167773283",
+          "is_verified": false
+        }
+      }
+    ],
+    "organic_post_id": 2369799479066278400,
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQJTfVmASvvFbPm8JQj2bjEHfu4IPlWL0Pw19EhlTOmvPMKnntKT5rwF5QFhTQ_ZTwb8Tdqh0dgD2P3RExmB2Ogk",
+      "show_ad_choices": false,
+      "ad_title": "IG Creator Test Page",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 23846414622400012,
+      "display_viewability_eligible": true,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": null,
+            "serializedImpOrganicScoreMap": null
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "should_show_secondary_cta_on_profile": false,
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=5SfLoncDU70lKe2pW.AWUkfT688iW650DoWn7en4pH7-s.Bf1oKJ..AAA.0.0.Bf1oKJ.AWWss3N-fNU; expires=Sat, 13 Mar 2021 21:07:21 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ],
+      "ctd_ads_info": {
+        "business_responsiveness_time_text": null,
+        "welcome_message_text": null,
+        "business_response_time_in_sec": null
+      }
+    },
+    "collapse_comments": false,
+    "ad_metadata": [
+      {
+        "value": "instagram.com",
+        "type": 1
+      }
+    ],
+    "link": "http://www.instagram.com/?fbclid=PAAaYhD7Y2GawvBkDCz3q-Bu-bLP8Xab86UQyJRs82Sj6Stl8Dh8NfT5Xh0Ns",
+    "link_text": "Learn More",
+    "ad_action": "webclick",
+    "link_hint_text": "Tap Photo to Open Page",
+    "iTunesItem": null,
+    "ad_link_type": 0,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "android_links": [
+      {
+        "linkType": 1,
+        "webUri": "http://www.instagram.com/?fbclid=PAAaYhD7Y2GawvBkDCz3q-Bu-bLP8Xab86UQyJRs82Sj6Stl8Dh8NfT5Xh0Ns",
+        "androidClass": "",
+        "package": "",
+        "deeplinkUri": "",
+        "callToActionTitle": "",
+        "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_mw9mW0VXpdqNSdgLkMOhcoNDWwlOUrOH4tpX1qV53xgPShP-LlnVv0tzZvRvSZ9m9VugI99iQKxZIjNTP1fcGm0FU4s8GRD3E8N5TUHwGO6PHTIRKEWmn4aSQwXDS36VHq3r_nLuvXWhBtIuM_fdTBkIQeXFdhKz7mJ5BbfVLZFj36P2Qw29rcFpF-77vNMys1tdMwVLmPUWLrYXmJKt4urjnQrVeHk-vvDjp44Ze15mBTh3-TEbqrC9qrTT4BzQdGuLKvs1IOdBWmXoTP9J1XmnPHA2GJQSVrYp-7eg6HA&a=1&hash=Ad8zDU_IFzAVgaoU6Dk",
+        "leadGenFormId": null,
+        "igUserId": null,
+        "appInstallObjectiveInvalidationBehavior": null
+      }
+    ],
+    "iab_autofill_optout_info": {
+      "domain": "instagram.com",
+      "is_iab_autofill_optout": true
+    },
+    "click_id": "PAAaYhD7Y2GawvBkDCz3q-Bu-bLP8Xab86UQyJRs82Sj6Stl8Dh8NfT5Xh0Ns",
+    "force_overlay": true,
+    "hide_nux_text": true,
+    "overlay_text": "Go to Website",
+    "overlay_title": "IG Creator Test Page",
+    "overlay_subtitle": "Go to instagram.com",
+    "dominant_color": "#986C48",
+    "follower_count": 1031,
+    "post_count": 57,
+    "fb_page_url": "https://www.facebook.com/IG-Creator-Test-Page-107448777599552/",
+    "can_viewer_save": true,
+    "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNTJiYjcwOTNmNjAxNGRlY2IwNWVlMWI4NjQxZDI2YzAyMzY5ODAyNTgwNjQzMzU2NDE3Iiwic2VydmVyX3Rva2VuIjoiMTYwNzg5MzY0MjExNXwyMzY5ODAyNTgwNjQzMzU2NDE3fDEwMzk1NTQ2fDM4NTg1N2VmYjMzZDMyYzNjZTJlN2EwOTE0NThmMTk2YzM0ZDU3MGVmZTVhY2YyYjhiZjIzMjkxZTMyYzJlNmEifSwic2lnbmF0dXJlIjoiIn0=",
+    "expiring_at": 1607980042,
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "is_in_profile_grid": false,
+    "profile_grid_control_enabled": false,
+    "is_shop_the_look_eligible": false,
+    "deleted_reason": 0,
+    "integrity_review_decision": "pending",
+    "inventory_source": "media_or_ad",
+    "is_seen": false,
+    "is_eof": false
+  }
+}

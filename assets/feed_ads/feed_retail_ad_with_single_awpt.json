@@ -1,0 +1,378 @@
+{
+  "media_or_ad": {
+    "id": "2672864071752025229_25025320",
+    "taken_at": 1632858719,
+    "pk": 2672864071752025000,
+    "media_type": 8,
+    "dynamic_item_id": 3732844750062395,
+    "user": {
+      "pk": 25025320,
+      "username": "instagram",
+      "full_name": "Instagram",
+      "is_private": false,
+      "profile_pic_url": "https://static.xx.fbcdn.net/assets/?set=instagram_web_assets&name=App-Icon-Circular-34&density=1",
+      "profile_pic_id": "2325295706264775311_25025320",
+      "friendship_status": {
+        "following": false,
+        "followed_by": false,
+        "blocking": false,
+        "muting": false,
+        "is_private": false,
+        "incoming_request": false,
+        "outgoing_request": false,
+        "is_bestie": false,
+        "is_restricted": false,
+        "is_feed_favorite": false
+      },
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": false,
+      "is_favorite": false,
+      "account_badges": []
+    },
+    "caption": {
+      "content_type": "comment",
+      "user": {
+        "pk": 25025320,
+        "username": "instagram",
+        "full_name": "Instagram",
+        "is_private": false,
+        "profile_pic_url": "https://static.xx.fbcdn.net/assets/?set=instagram_web_assets&name=App-Icon-Circular-34&density=1",
+        "profile_pic_id": "2325295706264775311_25025320",
+        "is_verified": true,
+        "follow_friction_type": -1
+      },
+      "user_id": 25025320,
+      "pk": "2672864071752025229_caption",
+      "text": "This is an injected test advertisement. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "type": 1,
+      "created_at": 1632858719,
+      "created_at_utc": 1632833519,
+      "media_id": 2672864071752025000,
+      "bit_flags": 0,
+      "status": "Active",
+      "hide_username": false
+    },
+    "can_viewer_save": true,
+    "like_count": 0,
+    "has_liked": false,
+    "has_more_comments": false,
+    "comment_count": 0,
+    "max_num_visible_preview_comments": 2,
+    "comments": [],
+    "caption_is_edited": false,
+    "photo_of_you": false,
+    "liker_config": {
+      "is_daisy": true,
+      "hide_view_count": false,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 1,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false,
+      "is_in_daisy_controls": false
+    },
+    "injected": {
+      "label": "Sponsored (Demo)",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQJgrBKAsPfxH7SaOuzj4EtaDa9_FlAmOpkrtII6HRwNkP9q26UoIZOw5_f00D3TCQSE84bK9I_QoZvULCLdPfx7",
+      "show_ad_choices": false,
+      "ad_title": "Instagram Test",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 23846224061920490,
+      "display_viewability_eligible": true,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": null,
+            "serializedImpOrganicScoreMap": null
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "should_show_secondary_cta_on_profile": false,
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=3ND7Fjg49iXYUp6IX.AWW8KT61Ouiplyj0xJBk5Hk0xco.BhU3Jf..AAA.0.0.BhU3Jf.AWXSLNKWBjY; expires=Mon, 27 Dec 2021 19:51:59 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ],
+      "ctd_ads_info": {
+        "business_responsiveness_time_text": null,
+        "welcome_message_text": null,
+        "business_response_time_in_sec": null
+      },
+      "cop_render_output": null
+    },
+    "is_sensitive_vertical_ad": false,
+    "collapse_comments": false,
+    "carousel_media": [
+      {
+        "dynamic_item_id": 3732844750062395,
+        "media_type": 1,
+        "id": "3732844750062395_25025320_card",
+        "pk": 3732844750062395,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-unisex&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2672864071752025229_25025320",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 25025320,
+            "username": "instagram",
+            "full_name": "Instagram",
+            "is_private": false,
+            "profile_pic_url": "https://static.xx.fbcdn.net/assets/?set=instagram_web_assets&name=App-Icon-Circular-34&density=1",
+            "profile_pic_id": "2325295706264775311_25025320",
+            "is_verified": true,
+            "follow_friction_type": -1
+          },
+          "user_id": 25025320,
+          "pk": "3732844750062395_headline",
+          "text": "Cool Shoes",
+          "type": 1,
+          "created_at": 1632858719,
+          "created_at_utc": 1632833519,
+          "media_id": 2672864071752025000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://instagram.com",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://instagram.com",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://instagram.com",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "Instagram",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#672107",
+        "product_tags": {
+          "in": [
+            {
+              "product": {
+                "name": "Cool Shoes Tag",
+                "price": "C$470.00",
+                "current_price": "C$470.00",
+                "full_price": "C$470.00",
+                "product_id": "3732844750062395",
+                "compound_product_id": "3732844750062395_25025320",
+                "merchant": {
+                  "pk": 25025320,
+                  "username": "instagram",
+                  "disabled_sharing_products_to_guides": false,
+                  "profile_pic_url": "https://static.xx.fbcdn.net/assets/?set=instagram_web_assets&name=App-Icon-Circular-34&density=1"
+                },
+                "description": "These shoes are pretty cool. Lorem ipsum lorem ipsum.",
+                "retailer_id": "25025320",
+                "has_viewer_saved": false,
+                "main_image": {
+                  "image_versions2": {
+                    "candidates": [
+                      {
+                        "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-unisex&density=1",
+                        "width": 800,
+                        "height": 1059
+                      }
+                    ]
+                  },
+                  "preview": "ACAq36KWlxQAlJTsUlAAKXcAcE4qvNzgD61nszq2ST+OaANo0w1XSduhBOO/SpBJntjNIBrRljkHH4A0xoWP8eP+AirFFMCDynH8Q/75/wDr09EK8sdx+mP61JRQB//Z"
+                },
+                "main_image_id": "7339716662706807",
+                "thumbnail_image": {
+                  "image_versions2": {
+                    "candidates": [
+                      {
+                        "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=clothing-accessories-unisex&density=1",
+                        "width": 450,
+                        "height": 450
+                      }
+                    ]
+                  },
+                  "preview": "ACAq36KWlxQAlJTsUlAAKXcAcE4qvNzgD61nszq2ST+OaANo0w1XSduhBOO/SpBJntjNIBrRljkHH4A0xoWP8eP+AirFFMCDynH8Q/75/wDr09EK8sdx+mP61JRQB//Z"
+                },
+                "review_status": "approved",
+                "external_url": "https://instagram.com",
+                "checkout_style": "external_link",
+                "can_share_to_story": true,
+                "full_price_stripped": "C$470",
+                "current_price_stripped": "C$470",
+                "full_price_amount": "470.00",
+                "current_price_amount": "470.00",
+                "is_in_stock": true,
+                "has_variants": false,
+                "uci_invalidation_code": "TAGGABLE",
+                "ig_is_product_editable_on_mobile": false,
+                "commerce_review_statistics": {
+                  "average_rating": 0,
+                  "review_count": 0,
+                  "rating_stars": [
+                    "EMPTY",
+                    "EMPTY",
+                    "EMPTY",
+                    "EMPTY",
+                    "EMPTY"
+                  ]
+                },
+                "is_entered_in_drawing": false,
+                "image_quality_metadata": {
+                  "goodness": [
+                    {
+                      "id": "7339716662706807",
+                      "score": 0.99999976158142
+                    }
+                  ],
+                  "lifestyle_background": []
+                },
+                "size_calibration_score_num_reviews": 0,
+                "checkout_properties": null
+              },
+              "is_removable": false,
+              "position": [
+                0.49685534591195,
+                0.75786163522013
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "dynamic_item_id": 3188219847955588,
+        "media_type": 1,
+        "id": "3188219847955588_25025320_card",
+        "pk": 3188219847955588,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://static.xx.fbcdn.net/assets/?set=instagram_shopping_fire_starter_category_imagery&name=office-supplies&density=1",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2672864071752025229_25025320",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 25025320,
+            "username": "instagram",
+            "full_name": "Instagram",
+            "is_private": false,
+            "profile_pic_url": "https://static.xx.fbcdn.net/assets/?set=instagram_web_assets&name=App-Icon-Circular-34&density=1",
+            "profile_pic_id": "2325295706264775311_25025320",
+            "is_verified": true,
+            "follow_friction_type": -1
+          },
+          "user_id": 25025320,
+          "pk": "3188219847955588_headline",
+          "text": "Awesome Notebooks",
+          "type": 1,
+          "created_at": 1632858719,
+          "created_at_utc": 1632833519,
+          "media_id": 2672864071752025000,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://instagram.com",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Open Page",
+        "android_links": [
+          {
+            "linkType": 1,
+            "webUri": "https://instagram.com",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://instagram.com",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "webclick",
+        "ad_link_type": 0,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "Go to Website",
+        "overlay_title": "Instagram",
+        "overlay_subtitle": "Go to Website",
+        "dominant_color": "#924E2B"
+      }
+    ],
+    "carousel_media_type": 4,
+    "iTunesItem": null,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "iab_autofill_optout_info": {
+      "domain": "instagram.com",
+      "is_iab_autofill_optout": false
+    },
+    "click_id": "PAAaYas7LYLf-DD6mLoMbGa73UMQC3daL3v_Nxj3cRMiMX-2fIiyjqcRohwE0",
+    "follower_count": 343398,
+    "post_count": 1500,
+    "fb_page_url": "https://www.facebook.com/instagram/",
+    "inventory_source": "explore_story",
+    "preview_comments": []
+  }
+}

@@ -1,0 +1,332 @@
+ {
+      "id": "collection_ad_list_template",
+      "latest_reel_media": null,
+      "expiring_at": 1609881236,
+      "seen": null,
+      "can_reply": false,
+      "can_gif_quick_reply": true,
+      "can_reshare": false,
+      "reel_type": "ads_reel",
+      "is_sensitive_vertical_ad": false,
+      "user": {
+        "pk": 8024947348,
+        "username": "keto_personal_diet",
+        "full_name": "Keto Diet",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id": "1898579294407685224_8024947348",
+        "is_verified": true
+      },
+      "items": [
+        {
+          "taken_at": 1606829987,
+          "pk": 2454590302056462300,
+          "id": "2454590302056462296_8024947348",
+          "device_timestamp": 1606829987,
+          "media_type": 10,
+          "code": "CIQdN_vMbfY",
+          "client_cache_key": "MjQ1NDU5MDMwMjA1NjQ2MjI5Ng==.2",
+          "filter_type": 0,
+          "user": {
+            "pk": 8024947348,
+            "username": "keto_personal_diet",
+            "full_name": "Keto Diet",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+            "profile_pic_id": "1898579294407685224_8024947348",
+            "is_verified": true,
+            "has_anonymous_profile_picture": false,
+            "is_unpublished": false,
+            "is_favorite": false,
+            "account_badges": []
+          },
+          "caption_is_edited": false,
+          "comment_likes_enabled": false,
+          "comment_threading_enabled": false,
+          "has_more_comments": false,
+          "max_num_visible_preview_comments": 2,
+          "preview_comments": [],
+          "can_view_more_preview_comments": false,
+          "comment_count": 2,
+          "like_count": 241,
+          "has_liked": false,
+          "like_and_view_counts_disabled": false,
+          "photo_of_you": false,
+          "can_see_insights_as_brand": false,
+          "caption": {
+            "pk": 17945947222376818,
+            "user_id": 8024947348,
+            "text": "Día 1 - Empieza el cambio\nDía 7 - Aumenta la velocidad del metabolismo, \nDia 15 - Las grasas están desapareciendo\nDía 29 - El espejo te devuelve la imagen de la figura que deseas",
+            "type": 1,
+            "created_at": 1606829988,
+            "created_at_utc": 1606829988,
+            "content_type": "comment",
+            "status": "Active",
+            "bit_flags": 0,
+            "did_report_as_spam": false,
+            "share_enabled": false,
+            "user": {
+              "pk": 8024947348,
+              "username": "keto_personal_diet",
+              "full_name": "Keto Diet",
+              "is_private": false,
+              "profile_pic_url": "https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+              "profile_pic_id": "1898579294407685224_8024947348",
+              "is_verified": true,
+              "has_anonymous_profile_picture": false,
+              "is_unpublished": false,
+              "is_favorite": false,
+              "account_badges": []
+            },
+            "is_covered": false,
+            "media_id": 2454590302056462300,
+            "background_color": "#262626",
+            "text_color": "#FFFFFF",
+            "text_size": 16,
+            "background_color_alpha": "FF",
+            "private_reply_status": 0,
+            "hide_username": false
+          },
+          "injected": {
+            "label": "Sponsored",
+            "hide_label": "Hide this",
+            "is_demo": true,
+            "tracking_token": "AI@AQJhhr9p-04DUETUF2S7uIMCsUVt4J7wq7DBxTej-HeDpgtGZoW9d-YNUSuwV6fgYNE1tliz5uBZcjalBne7aFVU",
+            "show_ad_choices": false,
+            "ad_title": "Keto",
+            "hide_reasons_v2": [
+              {
+                "text": "It's not relevant",
+                "reason": "NOT_RELEVANT"
+              },
+              {
+                "text": "I see it too often",
+                "reason": "KEEP_SEEING_THIS"
+              },
+              {
+                "text": "It's inappropriate",
+                "reason": null
+              },
+              {
+                "text": "[Employee only] Send ad for review",
+                "reason": "EMPLOYEE_REPORT"
+              }
+            ],
+            "hide_flow_type": 2,
+            "ad_id": 23846294224990596,
+            "direct_share": true,
+            "ads_debug_info": {
+              "adsBidInfo": {
+                "ecpmBid": 0,
+                "ecpmPrice": 0,
+                "ectr": 0,
+                "ecvr": 0,
+                "postImpEcvr": null,
+                "organicBidInfo": {
+                  "organicBidCpm": 0,
+                  "userDollarValue": 0,
+                  "serializedPacedOrganicBidMap": "{}",
+                  "serializedOrganicEventProbMap": "{}",
+                  "serializedEventQualityMap": "{}",
+                  "serializedImpOrganicBidMap": "{}",
+                  "serializedImpOrganicCoeffMap": null,
+                  "serializedImpOrganicScoreMap": null
+                }
+              },
+              "adsRankingInfo": {
+                "organicRank": 0,
+                "ecpsBidRank": 0,
+                "totalBidRank": 0
+              }
+            },
+            "cookies": [
+              "fr=AY1PWSeIulYLLyvk6.AWUOn_OOHRKCRPEv70VBDrYViYg.Bf84UT..AAA.0.0.Bf84UT.AWWN1QOQ3_E; expires=Sun, 04 Apr 2021 21:13:55 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+            ]
+          },
+          "collapse_comments": false,
+          "ad_metadata": [
+            {
+              "value": "fb.com",
+              "type": 1
+            }
+          ],
+          "link": "https://fb.com/canvas_doc/194295479068013?fbclid=PAAaaK9oo5juukG7tpmaRGqUkTNPuAPlp-VTpIIh1E4JMiuCQ6xRNRhDB0r0Q",
+          "link_text": "Learn More",
+          "ad_action": "canvas",
+          "link_hint_text": "Tap Photo to Open Page",
+          "iTunesItem": null,
+          "ad_link_type": 0,
+          "ad_header_style": 0,
+          "dr_ad_type": 1,
+          "android_links": [
+            {
+              "linkType": 6,
+              "webUri": "https://fb.com/canvas_doc/194295479068013?fbclid=PAAaaK9oo5juukG7tpmaRGqUkTNPuAPlp-VTpIIh1E4JMiuCQ6xRNRhDB0r0Q",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-0Tq6X_wJ7nW4lMwEHgPOZthpv487reGHx2otufPJWHP41zI1t0BaZCfwU8GCI4XyGPFh0DRvMeEcijmNLAfyAZzJVc5X8i23O_MHuTuAECT8DelVf-iA1DikIelaVIUfBiA2vV7hf6O6aaTs3u4T2QyxBUv2bPArOWhtdBky4poaa4VGFTvDF-ZheVKXMxYfiFqE5kEK_iXSuhLOhCR5hrYKP_7ddLD0Kh1mLyWa-R4qxnLPIbr8GfWKr7xk3AobvMcxqcIHsm9sPikAqqBwnqxUQzRDF_cB-GcI7oUJ0v82W1OEHP7WqABcR_eaK6PU&a=1&hash=Ad_KLPYih3FQxNJ7rUU",
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "canvasDocId": "bmF0aXZlZG9jdW1lbnQ6MTk0Mjk1NDc5MDY4MDEzXzIzODQ2Mjk0MjI0OTkwNTk2X18yMzg0NjI1NDYzMzk2MDU5Nl9bXV9fX19fX19RVWxBUVZGS2FHaHlPWEF0TURSRVZVVlVWVVl5VXpkMVNVMURjMVZXZERSS04zZHhOMFJDZUZSbGFpMUlaVVJ3WjNSSFdtOVhPV1F0V1U1VlUzVjNWalptWjFsT1JURjBiR2w2TlhWQ1dtTnFZV3hDYm1VM1lVWldWUT09",
+              "canvasData": "{\"bmF0aXZlZG9jdW1lbnQ6MTk0Mjk1NDc5MDY4MDEzXzIzODQ2Mjk0MjI0OTkwNTk2X18yMzg0NjI1NDYzMzk2MDU5Nl9bXV9fX19fX19RVWxBUVZGS2FHaHlPWEF0TURSRVZVVlVWVVl5VXpkMVNVMURjMVZXZERSS04zZHhOMFJDZUZSbGFpMUlaVVJ3WjNSSFdtOVhPV1F0V1U1VlUzVjNWalptWjFsT1JURjBiR2w2TlhWQ1dtTnFZV3hDYm1VM1lVWldWUT09\":{\"__typename\":\"NativeDocumentNode\",\"id\":\"bmF0aXZlZG9jdW1lbnQ6MTk0Mjk1NDc5MDY4MDEzXzIzODQ2Mjk0MjI0OTkwNTk2X18yMzg0NjI1NDYzMzk2MDU5Nl9bXV9fX19fX18=\",\"document\":{\"title\":null,\"background_color\":\"FFFFFFFF\",\"show_see_more_chrome\":false,\"document_body_elements\":{\"edges\":[{\"node\":{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1200,\"width\":1200,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/128932784_840183496529473_4591748672392006364_o.jpg?_nc_cat=100&ccb=2&_nc_sid=fff6d4&_nc_ohc=B2upJ20IokQAX_pRJf9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=8bf436809f19facef55c58c5929845f1&oe=6018CDE0\"}]},\"logging_token\":\"865881227492632\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT2QX7iasco7A7yX1ODeu6Qz8KrxitCD2dDLdQSNOTdMALjQRoxuJOk1ZaeeTr5HuWP8GZ8tHArStq7sKi4k9dH8Zc-tLHLUwJFCzoS_911Ji2OS5C3AFpIyamzwXNc&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"20\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"M\\u00e1s de 1,6 millones de personas en todo el mundo transformaron sus vidas con YourKeto\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"702206623819758\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"20\",\"left_margin\":\"20\",\"right_margin\":\"20\",\"bottom_margin\":\"4\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"20\",\"text_color\":\"FF262626\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"24\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"Keto se adapta al 100\\u0025 a tu estilo de vida.\\nEs f\\u00e1cil de cocinar con ingredientes simples pero deliciosos.\\nEs s\\u00faper efectivo sin ejercicio.\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"180065473537552\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"20\",\"right_margin\":\"20\",\"bottom_margin\":\"12\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"15\",\"text_color\":\"FF90949C\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentButtonElement\",\"document_element_type\":\"BUTTON\",\"element_text\":{\"text\":\"La dieta Keto f\\u00e1cil de seguir\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"2724388574558340\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT3cSRTvAwQEhUhHA7Q2LeDlBAAv9dwvGpqG1JTNpx6FQwo6_AGAguLtSeIY_i9Ke5Wa4R9QARnSHk3hst-hlteO0t7-dMa4L6tQRqMirfqw3K2pdZaDnHFoX61TpAc&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"color\":\"FF000000\",\"element_descriptor\":{\"top_margin\":\"16\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"28\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":\"exact=48.0pt\",\"text_metrics\":{\"font_size\":\"18\",\"text_color\":\"FF262626\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"21\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"BUTTON_OUTLINE\"],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentSlideshowElement\",\"document_element_type\":\"SLIDESHOW\",\"logging_token\":\"188884826239853\",\"child_elements\":[{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1080,\"width\":1080,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/129052274_840178233196666_5453661060874304899_o.jpg?_nc_cat=109&ccb=2&_nc_sid=fff6d4&_nc_ohc=_OplDzhnYbkAX9wD4Xj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=1786e4b9c0e0b6ce8f7d811b7df45e26&oe=60193C5F\"}]},\"logging_token\":\"378980576656333\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT2kcWD3anLSk7TLiNQSMrCwgPYzv_9KelfA-X0x6AB367waw8JQSNqcgyG-6Jr1aU9mi7kxXtBA8JGI2pLn2ptNAyJVCz-3UjPLNIcBSLl80CSvkt7trfJPN4O82M4&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1080,\"width\":1080,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/128893208_840178426529980_585042948259134054_o.jpg?_nc_cat=100&ccb=2&_nc_sid=fff6d4&_nc_ohc=jIa1Mm78CGEAX8v8X-9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=ff88a8a6a1bb19426527d741355dfd62&oe=60175B5D\"}]},\"logging_token\":\"392282388751372\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT3J1WkWKk0ImQk_VupCueMYtE1z_lRMZIk0suATSQlBe6I_ft519UAPvjc6uZTfXVxmMm1G76xZMXWqaijqAaM_WOA2oafer09PCU_4NnhaWtInSDq5iqvPfK7idjQ&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1080,\"width\":1080,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/128953078_840178619863294_2336315461897708701_o.jpg?_nc_cat=102&ccb=2&_nc_sid=fff6d4&_nc_ohc=-DdbtMhtFOEAX95O_ny&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=630a08700708d407e7806d779ebee27c&oe=601720B9\"}]},\"logging_token\":\"699311854046310\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT3oS2jmSKqDvTFlvjqrSq68PhBPs1yxteObCaf8XFhpVhmNW-NpsA_AApOyEGEYi465nItdV7-mqNzOz_zzpgeh2oDYrNOkDFSE-q7__jWxrDk-Hec66pnbtBuUdog&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1091,\"width\":1080,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/129021511_840178843196605_1032691724432952220_o.jpg?_nc_cat=103&ccb=2&_nc_sid=fff6d4&_nc_ohc=43XvSloJ7pIAX_M9QLi&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=78af769880a10021c6ac797e9360ab4a&oe=601A30F9\"}]},\"logging_token\":\"708178006473571\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT1wIrNK0KIZnV5CFyiq0sXTnGVepdWwtIZmLsjy8iglcMU5nPuuevPD1CRI-tJYMp5KF398LF_D1hjuUoBjEXRpdHp4Y844qH---h0gO6bM5bADsfgxSVlFpfJOqrs&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"SHOW_INTERACTION_HINT\"],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"\\u00a1En Keto, las personas comparten que ven resultados visibles en el espejo! Adem\\u00e1s de la p\\u00e9rdida de peso, Keto tiene muchos beneficios para la salud, como aumentar la inmunidad, aumentar la energ\\u00eda, mejorar la concentraci\\u00f3n y prevenir enfermedades.\\n\\nSabemos que quedarse en casa es un desaf\\u00edo para perder peso, \\u00a1pero Keto lo cubri\\u00f3!\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"897998093938758\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"20\",\"left_margin\":\"20\",\"right_margin\":\"20\",\"bottom_margin\":\"28\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"15\",\"text_color\":\"FF90949C\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentButtonElement\",\"document_element_type\":\"BUTTON\",\"element_text\":{\"text\":\"La dieta Keto f\\u00e1cil de seguir\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"1031076627369592\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT18zb2irePgjG72HA8Tdxd6kcqJ508vQxkjcB2MQOmlIQUZmGDZ5QGCExY0OqtczglCXrHvLqxcNNWj_ZtrCbWz4_noa5GFC7SKrCIoZV60xlJGt2VXjlgsHdpQa1w&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"color\":\"FF000000\",\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"28\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":\"exact=48.0pt\",\"text_metrics\":{\"font_size\":\"18\",\"text_color\":\"FF262626\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"21\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"BUTTON_OUTLINE\"],\"strong_id__\":null}}]},\"third_party_logging_urls\":[],\"style_list\":[\"ENABLE_SWIPE_TO_OPEN\"],\"analytics\":{\"base_url\":\"https:\\/\\/fb.com\\/canvas_doc\\/194295479068013?ix_id=194295479068013&ad_id=23846294224990596&fbclid=IwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo\",\"sources\":\"\\n\\n\\u003C!-- Facebook Pixel Code --> \\u003Cscript> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https:\\/\\/connect.facebook.net\\/en_US\\/fbevents.js'); fbq('init', '548645282181368'); fbq('track', 'PageView'); \\u003C\\/script> \\u003Cnoscript>\\u003Cimg height=\\\"1\\\" width=\\\"1\\\" style=\\\"display:none\\\" src=\\\"https:\\/\\/www.facebook.com\\/tr?ev=PageView&noscript=1&id=548645282181368\\\" \\/>\\u003C\\/noscript> \\u003C!-- End Facebook Pixel Code -->\",\"logging_token\":\"RENDERING_ANALYTIC_PREFIX_194295479068013\"}},\"cache_id\":\"2837056669351075431\",\"strong_id__\":\"2837056669351075431\"}}",
+              "destinationContext": "View Products",
+              "tapAndHoldContext": "Swipe up to view on Instagram"
+            }
+          ],
+          "iab_autofill_optout_info": {
+            "domain": "m.facebook.com",
+            "is_iab_autofill_optout": true
+          },
+          "click_id": "PAAaaK9oo5juukG7tpmaRGqUkTNPuAPlp-VTpIIh1E4JMiuCQ6xRNRhDB0r0Q",
+          "force_overlay": true,
+          "hide_nux_text": true,
+          "overlay_text": "Go to Website",
+          "overlay_title": "Keto",
+          "overlay_subtitle": "Go to Website",
+          "dominant_color": "#515219",
+          "follower_count": 1504956,
+          "post_count": 601,
+          "collection_media_type": 5,
+          "collection_canvas_template": "list_template",
+          "collection_media": [
+            {
+              "original_height": 1080,
+              "original_width": 1080,
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "width": 739,
+                    "height": 1109,
+                    "url": "https://images.unsplash.com/photo-1484980972926-edee96e0960d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80",
+                    "scans_profile": "e15",
+                    "estimated_scans_sizes": [
+                      13537,
+                      27075,
+                      40612,
+                      54150,
+                      67687,
+                      121838,
+                      121838,
+                      121838,
+                      121838
+                    ]
+                  }
+                ]
+              },
+              "media_type": 1,
+              "id": "2454590302056462296_8024947348_main",
+              "pk": 2359866571054243000,
+              "collection_parent_id": "2454590302056462296_8024947348",
+              "collection_media_role": 1
+            },
+            {
+              "collection_parent_id": "2454590302056462296_8024947348",
+              "collection_media_role": 2,
+              "id": "3086296628153790_8024947348",
+              "pk": 3086296628153790,
+              "media_type": 1,
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://images.unsplash.com/photo-1550950158-d0d960dff51b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjZ8fGZvb2R8ZW58MHwyfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                    "width": 800,
+                    "height": 800
+                  }
+                ]
+              }
+            },
+            {
+              "collection_parent_id": "2454590302056462296_8024947348",
+              "collection_media_role": 2,
+              "id": "3434714026559083_8024947348",
+              "pk": 3434714026559083,
+              "media_type": 1,
+              "image_versions2": {
+                "candidates": [
+                  {
+                    "url": "https://images.unsplash.com/photo-1525351326368-efbb5cb6814d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzR8fGZvb2R8ZW58MHwyfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+                    "width": 800,
+                    "height": 800
+                  }
+                ]
+              }
+            }
+          ],
+          "fb_page_url": "https://www.facebook.com/yourketoplan/",
+          "reel_media_background": {
+            "top": {
+              "background_color": "#262626"
+            },
+            "bottom": {
+              "background_color": "#262626"
+            }
+          },
+          "can_viewer_save": false,
+          "organic_tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMmU1OWU2YTM0NmUyNDlhNmIxNGMzMWY2MjIzYTQ4MDcyNDU0NTkwMzAyMDU2NDYyMjk2Iiwic2VydmVyX3Rva2VuIjoiMTYwOTc5NDgzNjQxMHwyNDU0NTkwMzAyMDU2NDYyMjk2fDEyMzE1OTAwMjl8ZTc5OTRlZWViN2NjYTc5YzBhNjU1OTRjNTY4NzY4NWRiZTU4NDY4YzM5MTMwY2RhNzM5OWMxMDU4MTA3NWI2NiJ9LCJzaWduYXR1cmUiOiIifQ==",
+          "expiring_at": 1609881236,
+          "sharing_friction_info": {
+            "should_have_sharing_friction": false,
+            "bloks_app_url": null
+          },
+          "is_in_profile_grid": false,
+          "profile_grid_control_enabled": false,
+          "is_shop_the_look_eligible": false,
+          "deleted_reason": 0,
+          "integrity_review_decision": "pending",
+          "direct_share": false,
+          "can_reshare": false,
+          "can_reply": false,
+          "story_cta": [
+            {
+              "links": [
+                {
+                  "linkType": 6,
+                  "webUri": "https://fb.com/canvas_doc/194295479068013?fbclid=PAAaaK9oo5juukG7tpmaRGqUkTNPuAPlp-VTpIIh1E4JMiuCQ6xRNRhDB0r0Q",
+                  "androidClass": "",
+                  "package": "",
+                  "deeplinkUri": "",
+                  "callToActionTitle": "",
+                  "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-0Tq6X_wJ7nW4lMwEHgPOZthpv487reGHx2otufPJWHP41zI1t0BaZCfwU8GCI4XyGPFh0DRvMeEcijmNLAfyAZzJVc5X8i23O_MHuTuAECT8DelVf-iA1DikIelaVIUfBiA2vV7hf6O6aaTs3u4T2QyxBUv2bPArOWhtdBky4poaa4VGFTvDF-ZheVKXMxYfiFqE5kEK_iXSuhLOhCR5hrYKP_7ddLD0Kh1mLyWa-R4qxnLPIbr8GfWKr7xk3AobvMcxqcIHsm9sPikAqqBwnqxUQzRDF_cB-GcI7oUJ0v82W1OEHP7WqABcR_eaK6PU&a=1&hash=Ad_KLPYih3FQxNJ7rUU",
+                  "leadGenFormId": null,
+                  "igUserId": null,
+                  "appInstallObjectiveInvalidationBehavior": null,
+                  "canvasDocId": "bmF0aXZlZG9jdW1lbnQ6MTk0Mjk1NDc5MDY4MDEzXzIzODQ2Mjk0MjI0OTkwNTk2X18yMzg0NjI1NDYzMzk2MDU5Nl9bXV9fX19fX19RVWxBUVZGS2FHaHlPWEF0TURSRVZVVlVWVVl5VXpkMVNVMURjMVZXZERSS04zZHhOMFJDZUZSbGFpMUlaVVJ3WjNSSFdtOVhPV1F0V1U1VlUzVjNWalptWjFsT1JURjBiR2w2TlhWQ1dtTnFZV3hDYm1VM1lVWldWUT09",
+                  "canvasData": "{\"bmF0aXZlZG9jdW1lbnQ6MTk0Mjk1NDc5MDY4MDEzXzIzODQ2Mjk0MjI0OTkwNTk2X18yMzg0NjI1NDYzMzk2MDU5Nl9bXV9fX19fX19RVWxBUVZGS2FHaHlPWEF0TURSRVZVVlVWVVl5VXpkMVNVMURjMVZXZERSS04zZHhOMFJDZUZSbGFpMUlaVVJ3WjNSSFdtOVhPV1F0V1U1VlUzVjNWalptWjFsT1JURjBiR2w2TlhWQ1dtTnFZV3hDYm1VM1lVWldWUT09\":{\"__typename\":\"NativeDocumentNode\",\"id\":\"bmF0aXZlZG9jdW1lbnQ6MTk0Mjk1NDc5MDY4MDEzXzIzODQ2Mjk0MjI0OTkwNTk2X18yMzg0NjI1NDYzMzk2MDU5Nl9bXV9fX19fX18=\",\"document\":{\"title\":null,\"background_color\":\"FFFFFFFF\",\"show_see_more_chrome\":false,\"document_body_elements\":{\"edges\":[{\"node\":{\"__typename\":\"InstantShoppingDocumentPhotoElement\",\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1200,\"width\":1200,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/128932784_840183496529473_4591748672392006364_o.jpg?_nc_cat=100&ccb=2&_nc_sid=fff6d4&_nc_ohc=B2upJ20IokQAX_pRJf9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=8bf436809f19facef55c58c5929845f1&oe=6018CDE0\"}]},\"logging_token\":\"865881227492632\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT2QX7iasco7A7yX1ODeu6Qz8KrxitCD2dDLdQSNOTdMALjQRoxuJOk1ZaeeTr5HuWP8GZ8tHArStq7sKi4k9dH8Zc-tLHLUwJFCzoS_911Ji2OS5C3AFpIyamzwXNc&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"20\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"M\\u00e1s de 1,6 millones de personas en todo el mundo transformaron sus vidas con YourKeto\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"702206623819758\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"20\",\"left_margin\":\"20\",\"right_margin\":\"20\",\"bottom_margin\":\"4\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"20\",\"text_color\":\"FF262626\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"24\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"Keto se adapta al 100\\u0025 a tu estilo de vida.\\nEs f\\u00e1cil de cocinar con ingredientes simples pero deliciosos.\\nEs s\\u00faper efectivo sin ejercicio.\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"180065473537552\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"20\",\"right_margin\":\"20\",\"bottom_margin\":\"12\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"15\",\"text_color\":\"FF90949C\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentButtonElement\",\"document_element_type\":\"BUTTON\",\"element_text\":{\"text\":\"La dieta Keto f\\u00e1cil de seguir\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"2724388574558340\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT3cSRTvAwQEhUhHA7Q2LeDlBAAv9dwvGpqG1JTNpx6FQwo6_AGAguLtSeIY_i9Ke5Wa4R9QARnSHk3hst-hlteO0t7-dMa4L6tQRqMirfqw3K2pdZaDnHFoX61TpAc&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"color\":\"FF000000\",\"element_descriptor\":{\"top_margin\":\"16\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"28\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":\"exact=48.0pt\",\"text_metrics\":{\"font_size\":\"18\",\"text_color\":\"FF262626\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"21\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"BUTTON_OUTLINE\"],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentSlideshowElement\",\"document_element_type\":\"SLIDESHOW\",\"logging_token\":\"188884826239853\",\"child_elements\":[{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1080,\"width\":1080,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/129052274_840178233196666_5453661060874304899_o.jpg?_nc_cat=109&ccb=2&_nc_sid=fff6d4&_nc_ohc=_OplDzhnYbkAX9wD4Xj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=1786e4b9c0e0b6ce8f7d811b7df45e26&oe=60193C5F\"}]},\"logging_token\":\"378980576656333\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT2kcWD3anLSk7TLiNQSMrCwgPYzv_9KelfA-X0x6AB367waw8JQSNqcgyG-6Jr1aU9mi7kxXtBA8JGI2pLn2ptNAyJVCz-3UjPLNIcBSLl80CSvkt7trfJPN4O82M4&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1080,\"width\":1080,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/128893208_840178426529980_585042948259134054_o.jpg?_nc_cat=100&ccb=2&_nc_sid=fff6d4&_nc_ohc=jIa1Mm78CGEAX8v8X-9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=ff88a8a6a1bb19426527d741355dfd62&oe=60175B5D\"}]},\"logging_token\":\"392282388751372\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT3J1WkWKk0ImQk_VupCueMYtE1z_lRMZIk0suATSQlBe6I_ft519UAPvjc6uZTfXVxmMm1G76xZMXWqaijqAaM_WOA2oafer09PCU_4NnhaWtInSDq5iqvPfK7idjQ&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1080,\"width\":1080,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/128953078_840178619863294_2336315461897708701_o.jpg?_nc_cat=102&ccb=2&_nc_sid=fff6d4&_nc_ohc=-DdbtMhtFOEAX95O_ny&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=630a08700708d407e7806d779ebee27c&oe=601720B9\"}]},\"logging_token\":\"699311854046310\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT3oS2jmSKqDvTFlvjqrSq68PhBPs1yxteObCaf8XFhpVhmNW-NpsA_AApOyEGEYi465nItdV7-mqNzOz_zzpgeh2oDYrNOkDFSE-q7__jWxrDk-Hec66pnbtBuUdog&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]},{\"document_element_type\":\"PHOTO\",\"image_versions2\":{\"candidates\":[{\"height\":1091,\"width\":1080,\"url\":\"https:\\/\\/scontent-sjc3-1.xx.fbcdn.net\\/v\\/t1.0-9\\/fr\\/cp0\\/e15\\/q65\\/129021511_840178843196605_1032691724432952220_o.jpg?_nc_cat=103&ccb=2&_nc_sid=fff6d4&_nc_ohc=43XvSloJ7pIAX_M9QLi&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-sjc3-1.xx&tp=14&_nc_rmd=260&oh=78af769880a10021c6ac797e9360ab4a&oe=601A30F9\"}]},\"logging_token\":\"708178006473571\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT1wIrNK0KIZnV5CFyiq0sXTnGVepdWwtIZmLsjy8iglcMU5nPuuevPD1CRI-tJYMp5KF398LF_D1hjuUoBjEXRpdHp4Y844qH---h0gO6bM5bADsfgxSVlFpfJOqrs&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[]}],\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"0\",\"background_color\":\"FFFFFFFF\",\"alignment\":null,\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":null,\"text_color\":null,\"font_family\":null,\"max_lines\":null,\"line_height\":null,\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"SHOW_INTERACTION_HINT\"],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentTextElement\",\"document_element_type\":\"RICH_TEXT\",\"element_text\":{\"text\":\"\\u00a1En Keto, las personas comparten que ven resultados visibles en el espejo! Adem\\u00e1s de la p\\u00e9rdida de peso, Keto tiene muchos beneficios para la salud, como aumentar la inmunidad, aumentar la energ\\u00eda, mejorar la concentraci\\u00f3n y prevenir enfermedades.\\n\\nSabemos que quedarse en casa es un desaf\\u00edo para perder peso, \\u00a1pero Keto lo cubri\\u00f3!\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"897998093938758\",\"android_links\":[],\"element_descriptor\":{\"top_margin\":\"20\",\"left_margin\":\"20\",\"right_margin\":\"20\",\"bottom_margin\":\"28\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":null,\"text_metrics\":{\"font_size\":\"15\",\"text_color\":\"FF90949C\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"18\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[],\"strong_id__\":null}},{\"node\":{\"__typename\":\"InstantShoppingDocumentButtonElement\",\"document_element_type\":\"BUTTON\",\"element_text\":{\"text\":\"La dieta Keto f\\u00e1cil de seguir\",\"depth\":0,\"block_type\":\"UNSTYLED\",\"inline_style_ranges\":[]},\"logging_token\":\"1031076627369592\",\"android_links\":[{\"linkType\":1,\"webUri\":\"https:\\/\\/lm.facebook.com\\/l.php?u=https\\u00253A\\u00252F\\u00252Fsp.yourketo.diet\\u00252F\\u00253Futm_source\\u00253Dfacebook\\u002526utm_medium\\u00253Dconversions\\u002526utm_campaign\\u00253Dpetar\\u002526fbclid\\u00253DIwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo&h=AT18zb2irePgjG72HA8Tdxd6kcqJ508vQxkjcB2MQOmlIQUZmGDZ5QGCExY0OqtczglCXrHvLqxcNNWj_ZtrCbWz4_noa5GFC7SKrCIoZV60xlJGt2VXjlgsHdpQa1w&s=1\",\"app_package\":null,\"deeplinkUri\":null}],\"color\":\"FF000000\",\"element_descriptor\":{\"top_margin\":\"0\",\"left_margin\":\"0\",\"right_margin\":\"0\",\"bottom_margin\":\"28\",\"background_color\":\"FFFFFFFF\",\"alignment\":\"CENTER\",\"vertical_constraint\":\"exact=48.0pt\",\"text_metrics\":{\"font_size\":\"18\",\"text_color\":\"FF262626\",\"font_family\":\"sans-serif\",\"max_lines\":null,\"line_height\":\"21\",\"word_kerning\":null,\"capitalization_style\":null}},\"style_list\":[\"BUTTON_OUTLINE\"],\"strong_id__\":null}}]},\"third_party_logging_urls\":[],\"style_list\":[\"ENABLE_SWIPE_TO_OPEN\"],\"analytics\":{\"base_url\":\"https:\\/\\/fb.com\\/canvas_doc\\/194295479068013?ix_id=194295479068013&ad_id=23846294224990596&fbclid=IwAR1q9Gikt7szERR77sOHAyXs_AXDXH_ASfta3yxMCcg3ENpMvWgpONnTRTo\",\"sources\":\"\\n\\n\\u003C!-- Facebook Pixel Code --> \\u003Cscript> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https:\\/\\/connect.facebook.net\\/en_US\\/fbevents.js'); fbq('init', '548645282181368'); fbq('track', 'PageView'); \\u003C\\/script> \\u003Cnoscript>\\u003Cimg height=\\\"1\\\" width=\\\"1\\\" style=\\\"display:none\\\" src=\\\"https:\\/\\/www.facebook.com\\/tr?ev=PageView&noscript=1&id=548645282181368\\\" \\/>\\u003C\\/noscript> \\u003C!-- End Facebook Pixel Code -->\",\"logging_token\":\"RENDERING_ANALYTIC_PREFIX_194295479068013\"}},\"cache_id\":\"2837056669351075431\",\"strong_id__\":\"2837056669351075431\"}}",
+                  "destinationContext": "View Products",
+                  "tapAndHoldContext": "Swipe up to view on Instagram"
+                }
+              ]
+            }
+          ],
+          "is_reel_media": true,
+          "story_ad_headline": {
+            "text": "Plan de comidas Keto fácil de seguir",
+            "background_color": "#262626",
+            "text_color": "#FFFFFF",
+            "text_size": 18,
+            "background_color_alpha": "FF"
+          },
+          "supports_reel_reactions": true,
+          "can_send_custom_emojis": false,
+          "show_one_tap_fb_share_tooltip": true
+        }
+      ],
+      "ranked_position": 1,
+      "seen_ranked_position": 1,
+      "muted": false,
+      "prefetch_count": 0,
+      "client_gap_rules": {
+        "reel_gap_to_previous_ad": 0,
+        "reel_gap_to_previous_netego": 0,
+        "consumed_media_gap_to_previous_ad": 0,
+        "consumed_media_gap_to_previous_netego": 0,
+        "max_reel_gap_to_previous_item": 0,
+        "highest_position_rule": 2,
+        "min_media_gap_to_previous_item": 0,
+        "time_gap_to_previous_item_in_sec": 0
+      },
+      "priority_index": 0
+    }

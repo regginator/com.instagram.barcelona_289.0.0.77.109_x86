@@ -1,0 +1,445 @@
+{
+  "id":"caption_card_no_crop_hashtag_and_mention",
+  "latest_reel_media":null,
+  "expiring_at":9564178697,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":false,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk":7404502133,
+    "username":"ourplace",
+    "full_name":"Our Place",
+    "is_private":false,
+    "profile_pic_url":"https://i.ibb.co/2Py95sn/ourplace-profile.jpg",
+    "profile_pic_id":"1429632363511774759_4467696972",
+    "is_verified":false
+  },
+  "cop_render_output": [
+    {
+      "optimization_type": "66",
+      "option_value": "660002"
+    }
+  ],
+  "items":[
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844402,
+      "id":"caption_card_no_crop_hashtag_and_mention_media_1",
+      "device_timestamp":1564042442,
+      "media_type":1,
+      "code":"B0VSdAxDcHl",
+      "client_cache_key":"MjA5NTY2MjM2MDEzNTg0NDMyNQ==.2",
+      "filter_type":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":700,
+            "height":700,
+            "url":"https://i.ibb.co/LRMKmkH/ourplace-no-crop.jpg"
+          }
+        ]
+      },
+      "original_width":700,
+      "original_height":700,
+      "is_sidecar_child":true,
+      "user":{
+        "pk":7404502133,
+        "username":"ourplace",
+        "full_name":"Our Place",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/2Py95sn/ourplace-profile.jpg",
+        "profile_pic_id":"1429632363511774759_4467696972",
+        "is_verified":false,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":false,
+        "is_favorite":false,
+        "latest_reel_media":null
+      },
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":31,
+      "has_liked":false,
+      "photo_of_you":false,
+      "caption":{
+        "content_type":"comment",
+        "user":{
+          "pk":7404502133,
+          "username":"ourplace",
+          "full_name":"Our Place",
+          "is_private":false,
+          "profile_pic_url":"https://i.ibb.co/2Py95sn/ourplace-profile.jpg",
+          "profile_pic_id":"1429632363511774759_4467696972",
+          "is_verified":false
+        },
+        "user_id":1564275614,
+        "pk":"2095662360135844325_headline",
+        "text":"\"An Instagram-ready blush pink that has a non-toxic, non-stick coating (free of Teflon and PFAS) and can be used for everything from sautéing vegetables to making a family serving of pasta to steaming bao buns.\" - @forbes\n\nCode 'FAMILY15' for 15% OFF!\n\n#cook #pan",
+        "type":1,
+        "created_at":1564092297,
+        "created_at_utc":1564067097,
+        "media_id":2095662360135844400,
+        "bit_flags":0,
+        "status":"Active",
+        "background_color":"#DE937D",
+        "text_color":"#FFFFFF",
+        "text_size":18,
+        "background_color_alpha":"FF",
+        "mention_user_list":{
+          "forbes":{
+            "pk":247784713,
+            "username":"forbes",
+            "full_name":"Forbes",
+            "is_private":false,
+            "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+            "profile_pic_id":"1429632363511774759_4467696972",
+            "is_verified":true
+          }
+        }
+      },
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTc0N2E2ZjVkNTVlNDIwOGE4NGY3MjhhODE3Zjg3NjYyMDk1NjYyMzYwMTM1ODQ0MzI1Iiwic2VydmVyX3Rva2VuIjoiMTU2NDA5MjI5NzY4MHwyMDk1NjYyMzYwMTM1ODQ0MzI1fDU0ODU2MTAyMTl8MjMxOTU5MjU3OWY0Zjc1N2ZhNjk1YTg5OGQxOGQ4ZTM2ZmU1MDc2NGZjZWQ2NjZlZTRjMzFmYTVjMzdhYjI1NSJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at":9564178697,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "show_ad_choices":false,
+        "ad_title":"Our Place",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":6143732361688,
+        "direct_share":true,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":"{}",
+              "serializedImpOrganicScoreMap":"{}"
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=1tQUWQk0mRyx3xFM8.AWXz52jINGZ6BlHPZxKkmywTHhk.BdOieJ..AAA.0.0.BdOieJ.AWVwv0ks; expires=Fri, 24 Jul 2020 22:04:57 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "ad_action":"webclick",
+      "link_text":"Shop Now",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://fromourplace.com",
+              "androidClass":"",
+              "package":"",
+              "deeplinkUri":"",
+              "callToActionTitle":"",
+              "redirectUri":"https://www.facebook.com/ads/ig_redirect/?d=Ad-GhW9HsgxlaEe8yAQdUMmef5Vrr1shjRFnOTTg-sovK1QmlwM4U-cpYj3tI7_mJRMH1v33dZMwoERFEBN3_ZhvbpsZEbOT35WbitsoC721p4jkOhM3bTOOnjgHqbNcWxD7w7amm4vqD7pNYDRUAusjHnnbUT0zeMatAZWT7YaHo0S1YyhWnaRGTDQadJxIAT3kTeY_lKoxXTgOqJGi9urghSn8fG1n-gVpsd4-Lt74eCG4K2AEG4sVrNr2mCPYt309KDAjQ0_zBqd7QsLuHuhmWi0zG57d6wehA8wRTU6K6J8_19Qc-aftfwQTLJRbNhE&a=1&hash=Ad8hUJM9UNr3ulZT",
+              "leadGenFormId":null,
+              "igUserId":null,
+              "appInstallObjectiveInvalidationBehavior":null,
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#E1BB9B"
+        },
+        "bottom":{
+          "background_color":"#110B0F"
+        }
+      },
+      "ad_metadata":[
+        {
+          "value":"https://fromourplace.com",
+          "type":1
+        }
+      ],
+      "force_overlay":true,
+      "hide_nux_text":true,
+      "overlay_text":"Go to Website",
+      "overlay_title":"Our Place",
+      "overlay_subtitle":"Go to Website",
+      "is_reel_media":true
+    },
+    {
+      "taken_at":1564042442,
+      "pk":2095662360135844401,
+      "id":"caption_card_no_crop_hashtag_and_mention_media@caption_1",
+      "device_timestamp":1564042442,
+      "media_type":1,
+      "code":"B0VSdAxDcHl",
+      "client_cache_key":"MjA5NTY2MjM2MDEzNTg0NDMyNQ==.2",
+      "filter_type":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":700,
+            "height":700,
+            "url":"https://i.ibb.co/LRMKmkH/ourplace-no-crop.jpg"
+          }
+        ]
+      },
+      "auto_generated_card_type_v2":"CAPTION",
+      "original_width":700,
+      "original_height":700,
+      "is_sidecar_child":true,
+      "user":{
+        "pk":7404502133,
+        "username":"ourplace",
+        "full_name":"Our Place",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/2Py95sn/ourplace-profile.jpg",
+        "profile_pic_id":"1429632363511774759_4467696972",
+        "is_verified":false,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":false,
+        "is_favorite":false,
+        "latest_reel_media":null
+      },
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":31,
+      "has_liked":false,
+      "photo_of_you":false,
+      "caption":{
+        "content_type":"comment",
+        "user":{
+          "pk":7404502133,
+          "username":"ourplace",
+          "full_name":"Our Place",
+          "is_private":false,
+          "profile_pic_url":"https://i.ibb.co/2Py95sn/ourplace-profile.jpg",
+          "profile_pic_id":"1429632363511774759_4467696972",
+          "is_verified":false
+        },
+        "user_id":1564275614,
+        "pk":"2095662360135844325_headline",
+        "text":"\"An Instagram-ready blush pink that has a non-toxic, non-stick coating (free of Teflon and PFAS) and can be used for everything from sautéing vegetables to making a family serving of pasta to steaming bao buns.\" - @forbes\n\nCode 'FAMILY15' for 15% OFF!\n\n#cook #pan",
+        "type":1,
+        "created_at":1564092297,
+        "created_at_utc":1564067097,
+        "media_id":2095662360135844400,
+        "bit_flags":0,
+        "status":"Active",
+        "background_color":"#DE937D",
+        "text_color":"#FFFFFF",
+        "text_size":18,
+        "background_color_alpha":"FF",
+        "mention_user_list":{
+          "forbes":{
+            "pk":247784713,
+            "username":"forbes",
+            "full_name":"Forbes",
+            "is_private":false,
+            "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+            "profile_pic_id":"1429632363511774759_4467696972",
+            "is_verified":true
+          }
+        }
+      },
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTc0N2E2ZjVkNTVlNDIwOGE4NGY3MjhhODE3Zjg3NjYyMDk1NjYyMzYwMTM1ODQ0MzI1Iiwic2VydmVyX3Rva2VuIjoiMTU2NDA5MjI5NzY4MHwyMDk1NjYyMzYwMTM1ODQ0MzI1fDU0ODU2MTAyMTl8MjMxOTU5MjU3OWY0Zjc1N2ZhNjk1YTg5OGQxOGQ4ZTM2ZmU1MDc2NGZjZWQ2NjZlZTRjMzFmYTVjMzdhYjI1NSJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at":9564178697,
+      "can_reshare":false,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQLRXAQOxD_CI-rHtVBhYX474xHFPevvHMrZ0s4wxCV2JEYbj5L-x_GCJPKMNO2NXb1yPzKCmzO9AxLPwsWIO-b9",
+        "show_ad_choices":false,
+        "ad_title":"Our Place",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":6143732361688,
+        "direct_share":true,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":"{}",
+              "serializedImpOrganicScoreMap":"{}"
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=1tQUWQk0mRyx3xFM8.AWXz52jINGZ6BlHPZxKkmywTHhk.BdOieJ..AAA.0.0.BdOieJ.AWVwv0ks; expires=Fri, 24 Jul 2020 22:04:57 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "ad_action":"webclick",
+      "link_text":"Shop Now",
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":1,
+              "webUri":"https://fromourplace.com",
+              "androidClass":"",
+              "package":"",
+              "deeplinkUri":"",
+              "callToActionTitle":"",
+              "redirectUri":"https://www.facebook.com/ads/ig_redirect/?d=Ad-GhW9HsgxlaEe8yAQdUMmef5Vrr1shjRFnOTTg-sovK1QmlwM4U-cpYj3tI7_mJRMH1v33dZMwoERFEBN3_ZhvbpsZEbOT35WbitsoC721p4jkOhM3bTOOnjgHqbNcWxD7w7amm4vqD7pNYDRUAusjHnnbUT0zeMatAZWT7YaHo0S1YyhWnaRGTDQadJxIAT3kTeY_lKoxXTgOqJGi9urghSn8fG1n-gVpsd4-Lt74eCG4K2AEG4sVrNr2mCPYt309KDAjQ0_zBqd7QsLuHuhmWi0zG57d6wehA8wRTU6K6J8_19Qc-aftfwQTLJRbNhE&a=1&hash=Ad8hUJM9UNr3ulZT",
+              "leadGenFormId":null,
+              "igUserId":null,
+              "appInstallObjectiveInvalidationBehavior":null,
+              "destinationContext":"View website on Instagram",
+              "tapAndHoldContext":"Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#E1BB9B"
+        },
+        "bottom":{
+          "background_color":"#110B0F"
+        }
+      },
+      "ad_metadata":[
+        {
+          "value":"https://fromourplace.com",
+          "type":1
+        }
+      ],
+      "force_overlay":true,
+      "hide_nux_text":true,
+      "overlay_text":"Go to Website",
+      "overlay_title":"Our Place",
+      "overlay_subtitle":"Go to Website",
+      "is_reel_media":true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "carousel_rendering_type":"mps",
+  "carousel_transformation_cards_v2":["ORIGINAL", "CAPTION"],
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

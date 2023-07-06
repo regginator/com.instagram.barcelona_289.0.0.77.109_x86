@@ -1,0 +1,900 @@
+{
+  "media_or_ad": {
+    "id": "2263493462764825351_2283517512",
+    "taken_at": 1584049483,
+    "pk": 2263493462764825300,
+    "media_type": 8,
+    "dynamic_item_id": 1481713271896418,
+    "user": {
+      "pk": 2283517512,
+      "username": "amazon.com8836",
+      "full_name": "Amazon.com",
+      "is_private": false,
+      "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+      "profile_pic_id": "1685194983512120179_2283517512",
+      "friendship_status": {},
+      "is_verified": false,
+      "has_anonymous_profile_picture": false,
+      "is_unpublished": true,
+      "is_favorite": false,
+      "latest_reel_media": 0
+    },
+    "caption": {
+      "content_type": "comment",
+      "user": {
+        "pk": 2283517512,
+        "username": "amazon.com8836",
+        "full_name": "Amazon.com",
+        "is_private": false,
+        "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+        "profile_pic_id": "1685194983512120179_2283517512",
+        "is_verified": false
+      },
+      "user_id": 2283517512,
+      "pk": "2263493462764825351_caption",
+      "text": "Intimates that make you feel beautiful from the inside out. Shop Mae exclusively on Amazon.",
+      "type": 1,
+      "created_at": 1584049483,
+      "created_at_utc": 1584024283,
+      "media_id": 2263493462764825300,
+      "bit_flags": 0,
+      "status": "Active"
+    },
+    "can_viewer_save": true,
+    "like_count": 0,
+    "has_liked": false,
+    "has_more_comments": false,
+    "comment_count": 0,
+    "max_num_visible_preview_comments": 2,
+    "comments": [],
+    "caption_is_edited": false,
+    "photo_of_you": false,
+    "liker_config": {
+      "is_daisy": true,
+      "hide_view_count": false,
+      "show_count_in_likers_list": false,
+      "show_view_count_in_likers_list": false,
+      "show_daisy_liker_list_header": false,
+      "show_learn_more": false,
+      "ads_display_mode": 1,
+      "display_mode": 0,
+      "disable_liker_list_navigation": false,
+      "show_author_view_likes_button": false
+    },
+    "injected": {
+      "label": "Sponsored",
+      "show_icon": true,
+      "hide_label": "Hide this",
+      "invalidation": null,
+      "is_demo": true,
+      "view_tags": [],
+      "is_holdout": false,
+      "tracking_token": "AI@AQIrJ1sm2pWA7xaYoI9R7tKSTOt1bPzb3q5eC-J9LyIk-LeYN86FBpcipxUlULTSzw1TKlcb2G404Kn5riv2yVUU",
+      "show_ad_choices": false,
+      "ad_title": "Amazon.com",
+      "about_ad_params": "",
+      "direct_share": true,
+      "ad_id": 6084607255063,
+      "display_viewability_eligible": false,
+      "ads_debug_info": {
+        "adsBidInfo": {
+          "ecpmBid": 0,
+          "ecpmPrice": 0,
+          "ectr": 0,
+          "ecvr": 0,
+          "postImpEcvr": null,
+          "organicBidInfo": {
+            "organicBidCpm": 0,
+            "userDollarValue": 0,
+            "serializedPacedOrganicBidMap": "{}",
+            "serializedOrganicEventProbMap": "{}",
+            "serializedEventQualityMap": "{}",
+            "serializedImpOrganicBidMap": "{}",
+            "serializedImpOrganicCoeffMap": "{}",
+            "serializedImpOrganicScoreMap": "{}"
+          }
+        },
+        "adsRankingInfo": {
+          "organicRank": 0,
+          "ecpsBidRank": 0,
+          "totalBidRank": 0
+        }
+      },
+      "hide_reasons_v2": [
+        {
+          "text": "It's not relevant",
+          "reason": "NOT_RELEVANT"
+        },
+        {
+          "text": "I see it too often",
+          "reason": "KEEP_SEEING_THIS"
+        },
+        {
+          "text": "It's inappropriate",
+          "reason": null
+        },
+        {
+          "text": "[Employee only] Send ad for review",
+          "reason": "EMPLOYEE_REPORT"
+        }
+      ],
+      "hide_flow_type": 2,
+      "cookies": [
+        "fr=1TPSbKkUZv6otmDoA.AWVk_w-kY544Sr55LbqDsYUWSGc.Beaq1L..AAA.0.0.Beaq1L.AWWfrpKX; expires=Wed, 10 Jun 2020 21:44:43 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+      ]
+    },
+    "collapse_comments": false,
+    "carousel_media": [
+      {
+        "dynamic_item_id": 1481713271896418,
+        "media_type": 1,
+        "id": "1481713271896418_2283517512_card",
+        "pk": 1481713271896418,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/cb97JqS/deep-link-2.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1481713271896418_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B06XY611DJ?ref_=pfb_dleh95jkg5be45k4ajb84ihcaeg&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B06XY611DJ?ref_=pfb_dleh95jkg5be45k4ajb84ihcaeg&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B06XY611DJ?ref_=pfb_dleh95jkg5be45k4ajb84ihcaeg&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_hziqSAPWgizqLkoBtZ-yqrxpAgPTtPTmKaeBJlHXNoCu3MfEOWIukm6FqpiRJre8hkfD7h71xi_wbPhJ_cPD5zpxgh5zWx2Xh5uC51TUAmcGkqbv6YeGTNoiDh2I4gaEn6d195Q8QqjXaoW5xz8IJf_O7qaClECWH6m0cpWuPK8ImGrTSJbcXAnN1R0a2Fid2QnT-hSV35YAovhrv5fGvpOgJB7qjsN1BJJBXLl-P8G8qUnPGyBv-yRaPUmYvXQhflGO9lRPfne8kYqyyb8wUSEBSSqapRbDhkK_zLxX2zMHjMgcXtRmGqqMQ_VuGmYk&a=1&hash=Ad_j3NGvxifLgg6q",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#B8846C"
+      },
+      {
+        "dynamic_item_id": 1629178933794690,
+        "media_type": 1,
+        "id": "1629178933794690_2283517512_card",
+        "pk": 1629178933794690,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/k45k90z/deep-link-3.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1629178933794690_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B06XXPGL3N?ref_=pfb_b7cg1m61c3j86mcjb4bedbjg09cf&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B06XXPGL3N?ref_=pfb_b7cg1m61c3j86mcjb4bedbjg09cf&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B06XXPGL3N?ref_=pfb_b7cg1m61c3j86mcjb4bedbjg09cf&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9BsOyLOd9GRI9zco8Oq8-CyV9nDSPjnrK-iABJ-e7-Kn5h0Thf5XBXsn3JCM9332xm9Mq__g8CUDcxzhoi_wxZpOZFGmc_aLcEYt2tLvtDlw-Vns0m88TBsANTBBqqRisr-qxCf5YiCSjAcq3p2zaAystrvei1N8jgNXY-CUiY5nw3xDWzu-DOX1fEwyK9VHSpxlxQWzyfiReaLYK4mHmAQcG_TlnNBdqdLzf4hBirHmze1YgCii98PnyNwLtR_EA0UEncedUbak0VFtjmAetvMsP5JesHGKSqTiV61kQqOUSmkfKbzns2llcsIChLvik&a=1&hash=Ad82R9KvQs7oma-R",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#7596C8"
+      },
+      {
+        "dynamic_item_id": 1423938164370759,
+        "media_type": 1,
+        "id": "1423938164370759_2283517512_card",
+        "pk": 1423938164370759,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/XkhS3gJ/deep-link-4.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1423938164370759_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B01N5ONQWG?ref_=pfb_g5ad47dhn1j8g7n8kl79al6f764h&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B01N5ONQWG?ref_=pfb_g5ad47dhn1j8g7n8kl79al6f764h&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B01N5ONQWG?ref_=pfb_g5ad47dhn1j8g7n8kl79al6f764h&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-eTp1b6sS4A8oVWMM_1dNI7Pi4rC6xIQbN_ofw6eAeD-bFQyxyAcjBPZszpNrPjGetyBdLT7q3oVUGHcT43ZFaYjMIirk-2QJIeKLmQt0Dh9LjFTikENZxTEuOVlE2SmKhx-aLuOYm0T9CihUu-8HmHgpgXH1oelw-fg7SSSGKIz1knuIPp59CtfA11mqglEXE7SVBpJvq3DfRfOPOi89JyIYYAv61pyJSNoyQoxWWmIslQH0B2cWCLP2-3o2lNGPEUxz2k9nMq3SnMM20wH2RUQQx3seD288dYN2ANSjJ20t6DPAF_Q5h-8RKindhiWc&a=1&hash=Ad_sxc7Y-7LgwJM6",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#AF4E6E"
+      },
+      {
+        "dynamic_item_id": 1436106899819862,
+        "media_type": 1,
+        "id": "1436106899819862_2283517512_card",
+        "pk": 1436106899819862,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/RBSq6Ls/deep-link-5.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1436106899819862_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B01MTMVENL?ref_=pfb_e6bmh3b0gbkei4mkbg701if63nhk&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B01MTMVENL?ref_=pfb_e6bmh3b0gbkei4mkbg701if63nhk&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B01MTMVENL?ref_=pfb_e6bmh3b0gbkei4mkbg701if63nhk&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad_3L2G6lX25GKX8slJxD4icgTKrb6CbDd5YnMAVXTEK4YimnnOAerPhUWnQL1d3dtiR5wWmmL6J_d6ZjV1bHXJbELGarE4lv9Q3zHj7kTXekUB8ihqKr2GmbReSBJ2uoSqwDI6-0OfXdrz5iLQC73os0kpsMZX8TGONoBgbglmF83BtJEYo4iloKpB-JkKEzKoEb3yT2_oV9_9cQmZE_MghSs2VTsuUt6VOoJyKg5TPW3-lI0VH1H1F0_Cqxy7aiIYUKgWFUIEzMM3Sk9YdwLb2Ptb5yskUA35Wr2ZFtWMMB-EmrA1FDPyPdOppCuNmM9U&a=1&hash=Ad-R7N9Fur8hp7CZ",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#6F4A1C"
+      },
+      {
+        "dynamic_item_id": 1738706459494275,
+        "media_type": 1,
+        "id": "1738706459494275_2283517512_card",
+        "pk": 1738706459494275,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/JKQJ8mw/deep-link-6.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1738706459494275_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B01N598T5Q?ref_=pfb_19bg45cibkii1bck11c8a7200hc3&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B01N598T5Q?ref_=pfb_19bg45cibkii1bck11c8a7200hc3&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B01N598T5Q?ref_=pfb_19bg45cibkii1bck11c8a7200hc3&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8BF-360k5lRydzynTqY-O3ukhEZQlNgMJ9SlGrpVXg63_JqaO0uHNDPO1cPSmCxrg8wQjnVrMEGxoXbOdXagGtUCgdtf1Gbd-jwcUkw2X4bLDhi95YOG9OPJVFYTnRj_xcM71P3NM2rWUmKuN7Fp_h5xphVrWdy25LUbb4bhRU1dMZe15-jNfZJiEQpDs5fSVMw-ehuzjw7_CXmrMd9ve8lD7xWpjkDmFXvfQGvq1viqWa2mgeBjy9LMTVjhhHCHiDJBg_NbqI900GpzI-6-21IWrwkXp1j5nmFyLxojK5ZH8W3IWP8Uk4Xie13ZWbXcE&a=1&hash=Ad_PgrpdtTBB_19k",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#1E191A"
+      },
+      {
+        "dynamic_item_id": 1246586422109910,
+        "media_type": 1,
+        "id": "1246586422109910_2283517512_card",
+        "pk": 1246586422109910,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/PGyvXGv/deep-link-7.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1246586422109910_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B01N4WHEJW?ref_=pfb_5a0j0mk1dbk827en6e3ccafkglid&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B01N4WHEJW?ref_=pfb_5a0j0mk1dbk827en6e3ccafkglid&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B01N4WHEJW?ref_=pfb_5a0j0mk1dbk827en6e3ccafkglid&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8F1-3Ca9hnASKfLsX004rjIKMFV7OWH0dAqMGhyATZ5uOGGwZ12Z95bKwSr3Hr1XpurMHNofpjCizve6vQnnOsfHk1JIC8elKSqZM_78yb_K0UcWo2x6vSW1KAhnuEg8LNGUYKydaYQAyvB7ijJvJkDelzmV4cd5UT11TuHHbLQAdT16gpmsoopB7_6it9wQ9tIUoAso-HuLlb8Y-rKUUVl31-HvKs4H-80GgH6HCBK7eW9je2sqGGs3iMBbDeJEsoBIDsVhy0TqfhvWBluv9yZSnmBQxU0hsok9FPWB0dTcudydNoZV5DwtGAV4QwsL4&a=1&hash=Ad8Dp_YN-FOZKjmp",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#363561"
+      },
+      {
+        "dynamic_item_id": 1295786710549742,
+        "media_type": 1,
+        "id": "1295786710549742_2283517512_card",
+        "pk": 1295786710549742,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/HF2gQWX/deep-link-8.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1295786710549742_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B01MQIDYTS?ref_=pfb_cfa4m5n0cbn9ahd341jnlmn890ci&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B01MQIDYTS?ref_=pfb_cfa4m5n0cbn9ahd341jnlmn890ci&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B01MQIDYTS?ref_=pfb_cfa4m5n0cbn9ahd341jnlmn890ci&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad8qRN0Nidw-l46NbMVjek37vk0vbrN9KqSzBA3hvRR68_D9uo_lDiVKqi4opntGb75QsS1yFARkEHAusiIf55NEchmHKpPqLZnaZS8lufIPr9xYm5355zy_MxyK7atAj3ulVfLPG1uJx65K_su56r5jlFraVkUpuB04EWpPm07r7ss7Kf0QVGp7iSTRJkdvpqh9sHoY11Qmba-Gc36LrniyqwJigl5NGan4vGN3SeD_GCTshMOMQOD2gBfuaq-2lZpXBdyIMERkN4Rp07fOVWOTqQ1NjXB_5Zv4KSQjD-wkA1R55uMXyuGlOn61wT4NRYE&a=1&hash=Ad9-Iu8ngpJsyuLs",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#28293D"
+      },
+      {
+        "dynamic_item_id": 1373591126042630,
+        "media_type": 1,
+        "id": "1373591126042630_2283517512_card",
+        "pk": 1373591126042630,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/6wm9zBM/deep-link-9.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1373591126042630_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B01MT8DM7B?ref_=pfb_9e5fhdf96a61j51g774i61dm1a5d&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B01MT8DM7B?ref_=pfb_9e5fhdf96a61j51g774i61dm1a5d&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B01MT8DM7B?ref_=pfb_9e5fhdf96a61j51g774i61dm1a5d&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9QXpMhyVIVIWVC3Z_1O8NI3_IEJkA2zZeNFqsPU2CXgqnT6yPRfsyx68ANXzzhwlES_R0Xl1Drpm6Wc_6Lt2SP36T29OFUWPfXH_T_aK1oXibwsASgkvlDm0ZW3FEHANZYgVHPWgydsTFLK9xPximcxVQUlRA-bzCT66hIeeO7dj08cXf37XuKfhztFHrteWldr9DVwGsmsixjDMpqjxqSUMtx_mWvRyRDsHLz54wUjw-4c2yWzuh4h1zl4Ko1G5rU4i_0yXeydEBPRBXHfisV-XdQlbNKzFNeOCDBV3p1EO1h4ZBGo7jVM3BRaY0WiQw&a=1&hash=Ad_24-g1jnZMmWJj",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#163045"
+      },
+      {
+        "dynamic_item_id": 1739820706091034,
+        "media_type": 1,
+        "id": "1739820706091034_2283517512_card",
+        "pk": 1739820706091034,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/0mdG4tY/deep-link-10.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1739820706091034_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B01N409IL7?ref_=pfb_11n7nledk5ejcfmf75jjfl3cnc9n&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B01N409IL7?ref_=pfb_11n7nledk5ejcfmf75jjfl3cnc9n&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B01N409IL7?ref_=pfb_11n7nledk5ejcfmf75jjfl3cnc9n&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad9dtFXIKwI96cLWHWF30AOCUJXFw1hvrLZfvRcfVnw7sXrUxvVWdMiA7_SwRgnA_nvKLlVbQqxr792OMRDlPvkWJ11CMmFIxHn-1mC4af8V--cat7Dkul0cmuG7vi3SjISI3_iiobGFn9aR4wCNYKf7QxkDWLDZyU7oaxV9zvINyI_aHIsaiV_Ou5DtaDiVj16wpBmtZd00eI4o5M2u5-EbbHMwc-K_KqORg4lbL9NA_3DLjupDtKBfo4M3q8wCnUxuKjb5y767BZxxY5m3dtmf0daePj35U39o2lKQa4kP4lalWpOfUm-7sG643YhETDs&a=1&hash=Ad9YPnTiVCZZFsT4",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#2E284A"
+      },
+      {
+        "dynamic_item_id": 1448768695170504,
+        "media_type": 1,
+        "id": "1448768695170504_2283517512_card",
+        "pk": 1448768695170504,
+        "image_versions2": {
+          "candidates": [
+            {
+              "url": "https://i.ibb.co/G97QkC5/deep-link-11.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "original_width": 1080,
+        "original_height": 1080,
+        "carousel_parent_id": "2263493462764825351_2283517512",
+        "headline": {
+          "content_type": "comment",
+          "user": {
+            "pk": 2283517512,
+            "username": "amazon.com8836",
+            "full_name": "Amazon.com",
+            "is_private": false,
+            "profile_pic_url": "https://i.ibb.co/mGtr2Lp/deep-link-1.jpg",
+            "profile_pic_id": "1685194983512120179_2283517512",
+            "is_verified": false
+          },
+          "user_id": 2283517512,
+          "pk": "1448768695170504_headline",
+          "text": "",
+          "type": 1,
+          "created_at": 1584049483,
+          "created_at_utc": 1584024283,
+          "media_id": 2263493462764825300,
+          "bit_flags": 0,
+          "status": "Active"
+        },
+        "link": "https://www.amazon.com/dp/B01N636Z22?ref_=pfb_94l75j40kca5n2al6hf76emnm6cc&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+        "link_text": "Shop Now",
+        "link_hint_text": "Tap Photo to Install",
+        "android_links": [
+          {
+            "linkType": 3,
+            "webUri": "",
+            "androidClass": "",
+            "package": "com.amazon.mShop.android.shopping",
+            "deeplinkUri": "com.amazon.mobile.shopping://www.amazon.com/products/B01N636Z22?ref_=pfb_94l75j40kca5n2al6hf76emnm6cc&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "callToActionTitle": "",
+            "redirectUri": null,
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          },
+          {
+            "linkType": 1,
+            "webUri": "https://www.amazon.com/dp/B01N636Z22?ref_=pfb_94l75j40kca5n2al6hf76emnm6cc&tag=insintus-20&ascsubtag=pig-SPB-1-4-1498594712047gH",
+            "androidClass": "",
+            "package": "",
+            "deeplinkUri": "",
+            "callToActionTitle": "",
+            "redirectUri": "https://www.facebook.com/ads/ig_redirect/?d=Ad-ZGyOWwJMfOcS8Y_C5Ke2kWoN5wn5aeqPbJrHXW2LWlBqWs4E13ceq7vf175qT9_pXoB4zoOjC2MDmvApwFopKpzuQaNzbLu-_A2_nKdkWqNn5FPPcwmxuCnqMrKL9X2Im5Rfu-wvaz9YkT3hJKDCtpuzj6O4GK_PgHK95rg1J-hd36zhSz6aJPwwBxZKlWASJqCYfm3m9LindOlr0DGBf2KeaNmDIXQPPRU2x9f7ysH0Sm19VoWYOvsrYseR_DhUK_7eG_pqtqcgLV1gMPU_7CDUyKlJ7Jk32PsFX2xmLMxOCnGknVsgJ4r0j_YoupJM&a=1&hash=Ad-f3AzrFficYDKh",
+            "leadGenFormId": null,
+            "igUserId": null,
+            "appInstallObjectiveInvalidationBehavior": null
+          }
+        ],
+        "ad_action": "appinstall",
+        "ad_link_type": 1,
+        "force_overlay": true,
+        "hide_nux_text": true,
+        "overlay_text": "View in Play Store",
+        "overlay_title": "Amazon.com",
+        "overlay_subtitle": "View in Play Store",
+        "dominant_color": "#B48757"
+      }
+    ],
+    "carousel_media_type": 4,
+    "iTunesItem": 297606951,
+    "ad_header_style": 0,
+    "dr_ad_type": 1,
+    "follower_count": 0,
+    "post_count": 0,
+    "fb_page_url": "https://www.facebook.com/Amazon/",
+    "inventory_source": "media_or_ad",
+    "is_seen": false,
+    "is_eof": false
+  }
+}

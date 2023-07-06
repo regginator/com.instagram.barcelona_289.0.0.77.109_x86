@@ -1,0 +1,289 @@
+{
+  "id":"click_to_whatsapp_ad",
+  "latest_reel_media":null,
+  "expiring_at":9567884360,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":true,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk":2301699345,
+    "username":"oppoth",
+    "full_name":"OPPOThailand",
+    "is_private":false,
+    "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id":"2040463686593816429_2301699345",
+    "is_verified":true
+  },
+  "items":[
+    {
+      "taken_at":1567442651,
+      "pk":2124185373911092200,
+      "id":"click_to_whatsapp_ad",
+      "device_timestamp":1567442651,
+      "media_type":1,
+      "code":"B16n1fZDQwl",
+      "client_cache_key":"MjEyNDE4NTM3MzkxMTA5MjI2MQ==.2",
+      "filter_type":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":1400,
+            "height":1400,
+            "url":"https://i.ibb.co/jZrLpJh/pusheen-square-media.jpg"
+          }
+        ]
+      },
+      "original_width":1400,
+      "original_height":1400,
+      "user":{
+        "pk":2301699345,
+        "username":"oppoth",
+        "full_name":"OPPOThailand",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id":"2040463686593816429_2301699345",
+        "is_verified":true,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":false,
+        "is_favorite":false
+      },
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":14,
+      "has_liked":false,
+      "photo_of_you":false,
+      "caption":{
+        "pk":17858235538514572,
+        "user_id":2301699345,
+        "text":"This is a cool app that makes your photos beautiful with AI.",
+        "type":1,
+        "created_at":1567442652,
+        "created_at_utc":1567442652,
+        "content_type":"comment",
+        "status":"Active",
+        "bit_flags":0,
+        "user":{
+          "pk":2301699345,
+          "username":"oppoth",
+          "full_name":"OPPOThailand",
+          "is_private":false,
+          "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+          "profile_pic_id":"2040463686593816429_2301699345",
+          "is_verified":true,
+          "has_anonymous_profile_picture":false,
+          "is_unpublished":false,
+          "is_favorite":false
+        },
+        "did_report_as_spam":false,
+        "share_enabled":false,
+        "media_id":2124185373911092200,
+        "background_color":"#000000",
+        "text_color":"#FFFFFF",
+        "text_size":16,
+        "background_color_alpha":"00"
+      },
+      "fb_page_url":"https://www.facebook.com/oppothai/",
+      "collapse_comments":false,
+      "top_followers":[
+        "placeholder"
+      ],
+      "top_followers_count":1,
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMTc1YmU0OGE4ZTAzNDAwNzg4MjNkZjA3YTdjNzQxNmUyMTI0MTg1MzczOTExMDkyMjYxIiwic2VydmVyX3Rva2VuIjoiMTU2Nzc5Nzk2MDA2NnwyMTI0MTg1MzczOTExMDkyMjYxfDU0ODU2MTAyMTl8NjY2MTc0NzM0MTY5YzM5MGJjN2IxNWM4ZjI0OGMzZDEyMmZmNzhhZTQxNGI3MmQyZDJjODM3ZTU5YmY4YjZjZCJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at":9567884360,
+      "can_reshare":true,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQLS0wmCrYrgiRzI3GG-bTWC2zA-35XTbqLTfxlruthBIzU2KWCnOsXhWBoBgqRBrdMZ6he6yDCcaV-ajFRRVygJ",
+        "show_ad_choices":false,
+        "ad_title":"OPPO",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":6164251221326,
+        "direct_share":true,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":"{}",
+              "serializedImpOrganicScoreMap":"{}"
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=1DlveDNtOQyynhPCC.AWU1TYb2_gBMQdGRyeHMYES_Twk.BdcrLH..AAA.0.0.BdcrLH.AWVYFHTl; expires=Sat, 05 Sep 2020 19:25:59 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links":[
+        {
+          "linkType": 3,
+          "webUri": "",
+          "androidClass": "",
+          "package": "com.whatsapp",
+          "deeplinkUri": "whatsapp://send?phone=16692041884&text=Link%3A%0Ahttps%3A%2F%2Fwww.instagram.com%2Fp%2FB_GX34dA09T%2F%0A%0AI%20saw%20this%20on%20Instagram...&data=AbtSD2E37pRnMCSfq6tK9wHUVHm3h-6ybnWwGN94zkgbSWcmybTStfDda1H01rcGDrsnsvKsdz4BKS7KSQdxUezslWkY8sX1yx0040hBp0QIBxsastsa9o1ErkCxEuvgrD0&source=FB_Ads",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "Go to this app",
+          "tapAndHoldContext": "Swipe up to open app"
+        },
+        {
+          "linkType": 2,
+          "webUri": "",
+          "androidClass": "",
+          "package": "com.whatsapp",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": 0,
+          "destinationContext": "Go to App Store",
+          "tapAndHoldContext": "Swipe up to view app details"
+        },
+        {
+          "linkType": 1,
+          "webUri": "https://api.whatsapp.com/send?phone=16505555555&fbclid=IwAR0aT3AqSFxjKrOHW4QbSvkJCHzp9bB51u2v4M1tWwdlkVGs74NDojs9CLE",
+          "androidClass": "",
+          "package": "",
+          "deeplinkUri": "",
+          "callToActionTitle": "",
+          "redirectUri": null,
+          "leadGenFormId": null,
+          "igUserId": null,
+          "appInstallObjectiveInvalidationBehavior": null,
+          "destinationContext": "View website on Instagram",
+          "tapAndHoldContext": "Swipe up to view website"
+        }
+      ],
+      "story_cta":[
+        {
+          "links": [
+            {
+              "linkType": 3,
+              "webUri": "",
+              "androidClass": "",
+              "package": "com.whatsapp",
+              "deeplinkUri": "whatsapp://send?phone=16692041884&text=Link%3A%0Ahttps%3A%2F%2Fwww.instagram.com%2Fp%2FB_GX34dA09T%2F%0A%0AI%20saw%20this%20on%20Instagram...&data=AbtSD2E37pRnMCSfq6tK9wHUVHm3h-6ybnWwGN94zkgbSWcmybTStfDda1H01rcGDrsnsvKsdz4BKS7KSQdxUezslWkY8sX1yx0040hBp0QIBxsastsa9o1ErkCxEuvgrD0&source=FB_Ads",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "Go to this app",
+              "tapAndHoldContext": "Swipe up to open app"
+            },
+            {
+              "linkType": 2,
+              "webUri": "",
+              "androidClass": "",
+              "package": "com.whatsapp",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": 0,
+              "destinationContext": "Go to App Store",
+              "tapAndHoldContext": "Swipe up to view app details"
+            },
+            {
+              "linkType": 1,
+              "webUri": "https://api.whatsapp.com/send?phone=16505555555&fbclid=IwAR0aT3AqSFxjKrOHW4QbSvkJCHzp9bB51u2v4M1tWwdlkVGs74NDojs9CLE",
+              "androidClass": "",
+              "package": "",
+              "deeplinkUri": "",
+              "callToActionTitle": "",
+              "redirectUri": null,
+              "leadGenFormId": null,
+              "igUserId": null,
+              "appInstallObjectiveInvalidationBehavior": null,
+              "destinationContext": "View website on Instagram",
+              "tapAndHoldContext": "Swipe up to view website"
+            }
+          ]
+        }
+      ],
+      "overlay_text":"Open Messenger",
+      "overlay_title":"OPPO",
+      "overlay_subtitle":"Open Messenger",
+      "dominant_color":"#7596C8",
+      "ad_action":"appinstall",
+      "link_text":"Send Message",
+      "ad_metadata":[
+        {
+          "value":"Messenger",
+          "type":4
+        }
+      ],
+      "reel_media_background":{
+        "top":{
+          "background_color":"#4DD0E1"
+        },
+        "bottom":{
+          "background_color":"#FF94C2"
+        }
+      },
+      "is_reel_media":true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "client_gap_rules":{
+    "reel_gap_to_previous_ad":0,
+    "reel_gap_to_previous_netego":0,
+    "consumed_media_gap_to_previous_ad":0,
+    "consumed_media_gap_to_previous_netego":0,
+    "max_reel_gap_to_previous_item":0,
+    "highest_position_rule":2
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

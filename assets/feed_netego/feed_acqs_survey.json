@@ -1,0 +1,13 @@
+{
+  "simple_action": {
+    "id": "1636733144818",
+    "tracking_token": "eyJ1dWlkIjoiZDhjZDU3N2ZmNTBhNDJlYTllZjYxN2VjMjliNjNiMTAiLCJwYXlsb2FkIjp7ImZpbmFsX3BhY2VkX2JpZCI6MTAwMCwibmV0ZWdvX2JpZCI6MTAwMC4wLCJmYl91c2VyX2lkIjoxMDAwMDA0MzMwNTk1NjUsIm5ldF9lZ29fdHlwZSI6NDIsImdsb2JhbF9wb3NpdGlvbiI6MSwiZ2FwX3J1bGVfdmFsdWUiOjMsInJpZ2h0X2dhcF9ydWxlX3ZhbHVlIjozLCJoaWdoZXN0X25ldGVnb19wb3NpdGlvbiI6MSwiZWNwbV9wcmljZSI6NDQ1NC4wLCJwYWNpbmdfcWVfaW5mbyI6ImRlZmF1bHQiLCJ1c2VyX2RvbGxhcl92YWx1ZSI6Mi43MTQ2NDMyMzQsImlzX25ld19pbnNlcnRpb24iOnRydWUsImlzX2Zyb21fbmVlZHlfdXNlciI6ZmFsc2UsImF1Y3Rpb25fcHJpY2Vfb3V0Y29tZSI6MywicXBfaWQiOjYxODE4MjgxOTAzNTQwOX19",
+    "action_type": "acqs",
+    "title": "Help Us Improve Instagram",
+    "message": "Take a quick survey to make story ads better.",
+    "button_text": "Start Survey",
+    "has_dismiss": false,
+    "extra_data_token": "{\"detailed_survey_type\": [\"acqs\"], \"qp_id\": \"618182819035409\"}",
+    "icon_url": null
+  }
+}

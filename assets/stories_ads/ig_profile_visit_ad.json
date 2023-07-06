@@ -1,0 +1,234 @@
+{
+  "id":"ig_profile_visit_ad",
+  "latest_reel_media":null,
+  "expiring_at":9564177633,
+  "seen":null,
+  "can_reply":false,
+  "can_reshare":true,
+  "reel_type":"ads_reel",
+  "user":{
+    "pk":342711792,
+    "username":"paul_hewitt",
+    "full_name":"PAUL HEWITT",
+    "is_private":false,
+    "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+    "profile_pic_id":"1749236580856726875_342711792",
+    "is_verified":true
+  },
+  "items":[
+    {
+      "taken_at":1563977820,
+      "pk":2095120271601993700,
+      "id":"ig_profile_visit_ad",
+      "device_timestamp":1563977820,
+      "media_type":0,
+      "code":"B0TXMlejoe9",
+      "client_cache_key":"MjA5NTEyMDI3MTYwMTk5MzY2MQ==.2",
+      "filter_type":0,
+      "image_versions2":{
+        "candidates":[
+          {
+            "width":900,
+            "height":1600,
+            "url":"https://i.ibb.co/XJKFR8N/Pusheen-wallpaper.png"
+          }
+        ]
+      },
+      "original_width":900,
+      "original_height":1600,
+      "is_dash_eligible":1,
+      "has_audio":true,
+      "view_count":12919,
+      "user":{
+        "pk":342711792,
+        "username":"paul_hewitt",
+        "full_name":"PAUL HEWITT",
+        "is_private":false,
+        "profile_pic_url":"https://i.ibb.co/g4G5vcQ/IG-Logo.png",
+        "profile_pic_id":"1749236580856726875_342711792",
+        "is_verified":true,
+        "has_anonymous_profile_picture":false,
+        "is_unpublished":false,
+        "is_favorite":false,
+        "latest_reel_media":null
+      },
+      "caption":null,
+      "caption_is_edited":false,
+      "comment_likes_enabled":false,
+      "comment_threading_enabled":false,
+      "has_more_comments":false,
+      "max_num_visible_preview_comments":2,
+      "preview_comments":[
+
+      ],
+      "can_view_more_preview_comments":false,
+      "comment_count":0,
+      "like_count":0,
+      "has_liked":false,
+      "likers":[
+
+      ],
+      "photo_of_you":false,
+      "organic_post_id":2095118449428264700,
+      "fb_page_url":"https://www.facebook.com/paul.hewitt.company/",
+      "collapse_comments":false,
+      "top_followers":[
+        "placeholder"
+      ],
+      "top_followers_count":1,
+      "can_viewer_save":true,
+      "organic_tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZDE4MTY2Y2RkNGIzNDRlNTllMTQ0ZDRmODllMjViYWMyMDk1MTIwMjcxNjAxOTkzNjYxIiwic2VydmVyX3Rva2VuIjoiMTU2NDA5MTIzMzA3NHwyMDk1MTIwMjcxNjAxOTkzNjYxfDU0ODU2MTAyMTl8ZmM0NmNiNjE2ZjdlNjZjNzE2NGE3NmIzNDczNzlhYjIwMWJmMTI2NzlhYWIyODNlYzU1Njg3YWUxY2IyYTA2YyJ9LCJzaWduYXR1cmUiOiIifQ==",
+      "expiring_at":9564177633,
+      "can_reshare":true,
+      "injected":{
+        "label":"Sponsored",
+        "hide_label":"Hide this",
+        "is_demo":true,
+        "tracking_token":"AI@AQJD-_sHpVsmywYjF05-wnbI8RXK-2gP0_jMTLuU2VvTCo9xlMmrdehb_YnM3F_ug8ksFu-dZFKB3jd-Gpk4yXYa",
+        "show_ad_choices":false,
+        "ad_title":"PAUL HEWITT",
+        "hide_reasons_v2":[
+          {
+            "text":"It's not relevant",
+            "reason":"NOT_RELEVANT"
+          },
+          {
+            "text":"I see it too often",
+            "reason":"KEEP_SEEING_THIS"
+          },
+          {
+            "text":"It's inappropriate",
+            "reason":null
+          },
+          {
+            "text":"[Employee only] Send ad for review",
+            "reason":"EMPLOYEE_REPORT"
+          }
+        ],
+        "hide_flow_type":2,
+        "ad_id":23843611258450710,
+        "direct_share":true,
+        "ads_debug_info":{
+          "adsBidInfo":{
+            "ecpmBid":0,
+            "ecpmPrice":0,
+            "ectr":0,
+            "ecvr":0,
+            "postImpEcvr":null,
+            "organicBidInfo":{
+              "organicBidCpm":0,
+              "userDollarValue":0,
+              "serializedPacedOrganicBidMap":"{}",
+              "serializedOrganicEventProbMap":"{}",
+              "serializedEventQualityMap":"{}",
+              "serializedImpOrganicBidMap":"{}",
+              "serializedImpOrganicCoeffMap":"{}",
+              "serializedImpOrganicScoreMap":"{}"
+            }
+          },
+          "adsRankingInfo":{
+            "organicRank":0,
+            "ecpsBidRank":0,
+            "totalBidRank":0
+          }
+        },
+        "cookies":[
+          "fr=1wvpopFNXMQNl1Nsr.AWVFeeZF5AxVYoMTjNDs3FGeg0Q.BdOiNg..AAA.0.0.BdOiNg.AWW0NyM2; expires=Fri, 24 Jul 2020 21:47:12 GMT; Max-Age=7776000; path=/; domain=.facebook.com; httponly"
+        ]
+      },
+      "android_links":[
+        {
+          "linkType":8,
+          "webUri":"",
+          "androidClass":"",
+          "package":"",
+          "deeplinkUri":"",
+          "callToActionTitle":"",
+          "redirectUri":null,
+          "leadGenFormId":null,
+          "igUserId":342711792,
+          "appInstallObjectiveInvalidationBehavior":null,
+          "tapAndHoldContext":"Swipe up to visit @paul_hewitt"
+        }
+      ],
+      "story_cta":[
+        {
+          "links":[
+            {
+              "linkType":8,
+              "webUri":"",
+              "androidClass":"",
+              "package":"",
+              "deeplinkUri":"",
+              "callToActionTitle":"",
+              "redirectUri":null,
+              "leadGenFormId":null,
+              "igUserId":342711792,
+              "appInstallObjectiveInvalidationBehavior":null,
+              "tapAndHoldContext":"Swipe up to visit @paul_hewitt"
+            }
+          ]
+        }
+      ],
+      "overlay_text":"Go to Website",
+      "overlay_title":"PAUL HEWITT",
+      "overlay_subtitle":"See More From @paul_hewitt",
+      "dominant_color":"#CF273A",
+      "ad_action":"appinstall",
+      "link_text":"Visit Instagram Profile",
+      "ad_metadata":[
+        {
+          "value":"Go to Website",
+          "type":1
+        }
+      ],
+      "is_reel_media":true
+    }
+  ],
+  "ranked_position":1,
+  "seen_ranked_position":1,
+  "muted":false,
+  "prefetch_count":0,
+  "client_gap_rules": {
+    "reel_gap_to_previous_ad": 1,
+    "reel_gap_to_previous_netego": 1,
+    "consumed_media_gap_to_previous_ad": 4,
+    "consumed_media_gap_to_previous_netego": 4,
+    "max_reel_gap_to_previous_item": 4,
+    "min_media_gap_to_previous_item": 2,
+    "time_gap_to_previous_item_in_sec": 5.0,
+    "highest_position_rule": 2,
+    "dnf": [
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 1
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 4
+          }
+        ]
+      },
+      {
+        "exp": [
+          {
+            "op": 2,
+            "p": 1,
+            "v": 5.0
+          },
+          {
+            "op": 2,
+            "p": 2,
+            "v": 2
+          }
+        ]
+      }
+    ]
+  },
+  "priority_index":0,
+  "has_pride_media":false
+}

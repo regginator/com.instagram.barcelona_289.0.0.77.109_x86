@@ -1,0 +1,35 @@
+.class public final LX/9KX;
+.super LX/B4a;
+.source ""
+
+
+# instance fields
+.field public final A00:LX/AdY;
+
+.field public final A01:LX/ARS;
+
+
+# direct methods
+.method public constructor <init>(LX/GZU;LX/AdY;LX/ARS;)V
+    .locals 0
+
+    .line 0
+    invoke-direct {p0, p1}, LX/B4a;-><init>(LX/GZU;)V
+
+    .line 1
+    .line 2
+    .line 3
+    iput-object p2, p0, LX/9KX;->A00:LX/AdY;
+
+    .line 4
+    .line 5
+    iput-object p3, p0, LX/9KX;->A01:LX/ARS;
+
+    .line 6
+    .line 7
+    return-void
+    .line 8
+    .line 9
+    .line 10
+    .line 11
+.end method

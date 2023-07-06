@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/igds_elevated_background" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/avatar_bottom_badge_facebook_24__app_bitmap_0" android:left="2.0dip" android:top="2.0dip" android:right="2.0dip" android:bottom="2.0dip" />
+</layer-list>

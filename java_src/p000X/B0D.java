@@ -1,0 +1,34 @@
+package p000X;
+
+import com.facebook.kotlin.compilerplugins.dataclassgenerate.superclass.KtCSuperShape0S3100000_I2;
+/* renamed from: X.B0D */
+/* loaded from: classes4.dex */
+public final class B0D implements InterfaceC42580Mhj {
+    public final KtCSuperShape0S3100000_I2 A00;
+    public final AHC A01;
+    public final String A02;
+
+    @Override // p000X.InterfaceC42580Mhj
+    public final /* bridge */ /* synthetic */ Object getKey() {
+        return this.A02;
+    }
+
+    @Override // p000X.InterfaceC42277MaZ
+    public final /* bridge */ /* synthetic */ boolean isContentSame(Object obj) {
+        KtCSuperShape0S3100000_I2 ktCSuperShape0S3100000_I2;
+        B0D b0d = (B0D) obj;
+        KtCSuperShape0S3100000_I2 ktCSuperShape0S3100000_I22 = this.A00;
+        if (b0d != null) {
+            ktCSuperShape0S3100000_I2 = b0d.A00;
+        } else {
+            ktCSuperShape0S3100000_I2 = null;
+        }
+        return C0OR.A0I(ktCSuperShape0S3100000_I22, ktCSuperShape0S3100000_I2);
+    }
+
+    public B0D(KtCSuperShape0S3100000_I2 ktCSuperShape0S3100000_I2, AHC ahc, String str) {
+        this.A02 = str;
+        this.A00 = ktCSuperShape0S3100000_I2;
+        this.A01 = ahc;
+    }
+}

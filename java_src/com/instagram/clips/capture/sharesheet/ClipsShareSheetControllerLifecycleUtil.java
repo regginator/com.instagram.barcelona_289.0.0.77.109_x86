@@ -1,0 +1,62 @@
+package com.instagram.clips.capture.sharesheet;
+/* loaded from: classes5.dex */
+public final class ClipsShareSheetControllerLifecycleUtil {
+    public static void cleanupReferences(ClipsShareSheetController clipsShareSheetController) {
+        clipsShareSheetController.mConstraintLayout = null;
+        clipsShareSheetController.mScrollView = null;
+        clipsShareSheetController.mShareButton = null;
+        clipsShareSheetController.mSaveDraftButton = null;
+        clipsShareSheetController.mShareToChannelButton = null;
+        clipsShareSheetController.mPostOverlayView = null;
+        clipsShareSheetController.mCaptionInputTextView = null;
+        clipsShareSheetController.mCoverPhotoContainer = null;
+        clipsShareSheetController.mShareToReelsTitle = null;
+        clipsShareSheetController.mShareToReelsSubtext = null;
+        clipsShareSheetController.mWelcomeVideoSubtext = null;
+        clipsShareSheetController.mShareToFeedDivider = null;
+        clipsShareSheetController.mShareToFeedToggleContainer = null;
+        clipsShareSheetController.mShareToFeedSwitch = null;
+        clipsShareSheetController.mOptionsContainerView = null;
+        clipsShareSheetController.mQuickShareMoreOptionsRow = null;
+        clipsShareSheetController.mQuickShareChevronView = null;
+        clipsShareSheetController.mPeopleTagPill = null;
+        clipsShareSheetController.mWelcomeVideoOptionsContainerView = null;
+        clipsShareSheetController.mContentView = null;
+        clipsShareSheetController.mWelcomeVideoContentView = null;
+        clipsShareSheetController.mCaptionBoxDividerView = null;
+        clipsShareSheetController.mFooterContentView = null;
+        clipsShareSheetController.mThumbnailImage = null;
+        clipsShareSheetController.mCommentPollsOption = null;
+        clipsShareSheetController.mPeopleTagOption = null;
+        clipsShareSheetController.mRenameOriginalAudioOption = null;
+        clipsShareSheetController.mProductTagDividerView = null;
+        clipsShareSheetController.mProductTagOption = null;
+        clipsShareSheetController.mLocationTagOption = null;
+        clipsShareSheetController.mLocationTagPill = null;
+        clipsShareSheetController.mFundraiserTagOption = null;
+        clipsShareSheetController.mUpcomingEventRowController = null;
+        clipsShareSheetController.mTopicsOption = null;
+        clipsShareSheetController.mTopicsTagPill = null;
+        clipsShareSheetController.mCrossPostingContainer = null;
+        clipsShareSheetController.mCrossPostingAccountViews = null;
+        clipsShareSheetController.mExclusiveReelsOption = null;
+        clipsShareSheetController.mRecommendOnFbContainer = null;
+        clipsShareSheetController.mRecommendOnFbToggle = null;
+        clipsShareSheetController.mRecommendOnFbToggleArrowImage = null;
+        clipsShareSheetController.mRecommendOnFbToggleIconImage = null;
+        clipsShareSheetController.mRecommendOnFbTitle = null;
+        clipsShareSheetController.mRecommendOnFbSubtitle = null;
+        clipsShareSheetController.mDealSelectorOption = null;
+        clipsShareSheetController.mBusinessToolsOption = null;
+        clipsShareSheetController.mBonusesDealSelectorOption = null;
+        clipsShareSheetController.mReelsShareToFbContainer = null;
+        clipsShareSheetController.mCrossPostingSubtitle = null;
+        clipsShareSheetController.mBrandedContentMenuEntrypoint = null;
+        clipsShareSheetController.mAdvancedSettingsView = null;
+        clipsShareSheetController.mFooterButtonContainer = null;
+        clipsShareSheetController.mWelcomeVideoFooterButtonContainer = null;
+        clipsShareSheetController.mPostToProfilePickerViewController = null;
+        clipsShareSheetController.mWelcomeVideoMetadata = null;
+        clipsShareSheetController.mPreviewButton = null;
+    }
+}
